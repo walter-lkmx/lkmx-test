@@ -85,7 +85,8 @@ export default function Footer() {
           </div>
         </Block>
         <Block className={styles.footer__top__privacy}>
-          <Link href={"/privacy-policy"} className={styles.footer__top__privacy__anchor}>{$t.footer.privacy}</Link>
+          <Link href={"/privacy-policy"} className={styles.footer__top__privacy__anchor}>{$t.footer.privacy}</Link>  
+          <Link href={"/terms-conditions"} className={styles.footer__top__privacy__anchor}>{$t.footer.terms_conditions}</Link>
         </Block>
       </Column>
     </footer>

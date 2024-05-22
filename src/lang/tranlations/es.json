@@ -10,19 +10,19 @@
       "innovadoras con nuestra metodología única",
       "y la tecnología más sólida."
     ],
-		"servicesTitle": "SERVICIOS",
+    "servicesTitle": "SERVICIOS",
     "services": [
       "Somos una",
       "ALTERNATIVA REAL",
       "al",
       "STAFF-AUGMENTATION",
-			",",
+      ",",
       "diseñamos servicios ideales para construir",
-			"soluciones a la medida de cualquier grado",
-			"de complejidad y líneas de tiempo con",
-			"cualquier demanda."
+      "soluciones a la medida de cualquier grado",
+      "de complejidad y líneas de tiempo con",
+      "cualquier demanda."
     ],
-		"technologiesTitle": "TECNOLOGÍAS",
+    "technologiesTitle": "TECNOLOGÍAS",
     "technologies": [
       "Aplicamos tres principios al elegir nuestra tecnología: Agile, Cloud y Open Source.",
       "Nuestro stack de tecnologías se mantiene organizado y actualizado por arquitectos de software con décadas de experiencia combinada."
@@ -30,10 +30,11 @@
     "team": [
       "Somos una mezcla entre",
       "creativos",
-			"y",
-			"expertos",
-			"en",
-			"tecnología. Conectamos nuestras habilidades para construir soluciones de software robustas,", "flexibles, escalables y seguras."
+      "y",
+      "expertos",
+      "en",
+      "tecnología. Conectamos nuestras habilidades para construir soluciones de software robustas,",
+      "flexibles, escalables y seguras."
     ],
     "work": [
       "Somos",
@@ -194,11 +195,14 @@
             "ref": "/industries/biometricSensors"
           },
           {
-            "name": ["Desarrollo de aplicaciones","móviles para usuarios finales"],
+            "name": [
+              "Desarrollo de aplicaciones",
+              "móviles para usuarios finales"
+            ],
             "ref": "/industries/mobileApps"
           },
           {
-            "name": ["Integración con AI/ML",""],
+            "name": ["Integración con AI/ML", ""],
             "ref": "/industries/artificialIntelligence"
           }
         ]
@@ -216,7 +220,7 @@
           {
             "name": ["Integración del", "internet de las cosas"],
             "ref": ""
-          }          
+          }
         ]
       },
       {
@@ -233,7 +237,7 @@
           {
             "name": ["Sentiment analysis", ""],
             "ref": ""
-          }          
+          }
         ]
       },
       {
@@ -247,15 +251,15 @@
             "ref": ""
           },
           {
-            "name": ["Desarrollo de","aplicaciones móviles"],
+            "name": ["Desarrollo de", "aplicaciones móviles"],
             "ref": ""
           },
           {
             "name": ["Integración del", "internet de las cosas"],
             "ref": ""
-          }  ,
+          },
           {
-            "name": ["Integración con","Api de EasyBroker"],
+            "name": ["Integración con", "Api de EasyBroker"],
             "ref": ""
           }
         ]
@@ -289,7 +293,7 @@
           {
             "name": ["Integracion con Apis de terceros", ""],
             "ref": ""
-          }          
+          }
         ]
       },
       {
@@ -338,8 +342,9 @@
   "footer": {
     "paragraph": [
       "Prestamos servicios de ingeniería de software",
-      "con nuestra sede en Ensenada, Baja California,", 
-      "México desde enero de 2014."],
+      "con nuestra sede en Ensenada, Baja California,",
+      "México desde enero de 2014."
+    ],
     "pages": {
       "services": {
         "title": "SERVICIOS",
@@ -358,16 +363,22 @@
       },
       "technology": {
         "title": "TECNOLOGÍA",
-        "items": ["Nuestras Tecnologías", "Frameworks", "Plataformas", "Herramientas"]
+        "items": [
+          "Nuestras Tecnologías",
+          "Frameworks",
+          "Plataformas",
+          "Herramientas"
+        ]
       }
     },
-    "privacy": "Política de Privacidad"
+    "privacy": "Política de Privacidad",
+    "terms_conditions": "Términos y Condiciones"
   },
   "project": {
     "services": "Servicios",
     "methodologies": "Metodologías",
     "years": "Duración",
-    "back" : "Regresar",
+    "back": "Regresar",
     "techs": "Tecnologías"
   },
   "goBack": "Regresar",
@@ -395,7 +406,7 @@
     "methodologies": {
       "title": "Metodologías especializadas",
       "content": "Utilizamos metodologías especializadas para desarrollar prototipos iniciales del software en forma de una colección de artefactos. Esto nos permite tomar decisiones informadas sobre el camino a seguir para obtener nuevas capacidades de negocio u optimizar procesos, todo esto con un proyecto ágil de tecnología listo para ser ejecutado."
-    },    
+    },
     "wireframe": {
       "par1": "En un periodo de 2 a 4 semanas, nuestros equipos multidisciplinarios pueden realizar wireframes o prototipos, un mapa de la funcionalidad, una arquitectura lógica de la solución y un release plan para la construcción de la misma.",
       "par2": "Con esta metodología, podemos identificar y definir problemas, desarrollar prototipos, y planificar el desarrollo del software con un enfoque en el negocio y la funcionalidad."
@@ -409,9 +420,9 @@
     "title": "Agile development",
     "ogDescription": "Nuestro principal servicio ofrece iteraciones de trabajo de un equipo multidisciplinario de ingeniería a cargo de diseñar la arquitectura y construir la solución de software de principio a fin.",
     "hero": [
-        "El servicio ofrece iteraciones de trabajo de un equipo",
-        "multidisciplinario a cargo de diseñar la arquitectura y construir",
-        "la solución de software de principio a fin."
+      "El servicio ofrece iteraciones de trabajo de un equipo",
+      "multidisciplinario a cargo de diseñar la arquitectura y construir",
+      "la solución de software de principio a fin."
     ],
     "intro": [
       "Los proyectos utilizan iteraciones como unidad de medida, que contemplan los procesos de",
@@ -438,7 +449,7 @@
         "par1": "Como framework, nos permite abordar problemas complejos mientras se realizan entregas de valor, continuas y constantes, de forma creativa y enfocadas en aumentar la productividad de los equipos. Con base al modelo CMMI, implementamos buenas prácticas que nos permiten incrementar y optimizar el rendimiento de los procesos involucrados directa e indirectamente en el desarrollo de software, maximizando las oportunidades y mitigando los riesgos.",
         "image": "agileDev/agile-dev_scrum.svg"
       },
-      { 
+      {
         "title": "agile flow",
         "par1": "Diseñamos mecanismos de versionamiento propios, robustos, flexibles y compatibles con estándares en la industria. Estos procesos, combinados con nuestro mecanismos de integración continua nos permiten alcanzar máximas velocidades de desarrollo, manteniendo control total sobre la calidad de cada uno de los componentes involucrados y sus integraciones",
         "image": "agileDev/agile-dev_flow.svg"
@@ -451,7 +462,7 @@
       }
     ],
     "span": {
-      "back":"DISCOVERY",
+      "back": "DISCOVERY",
       "forward": "AGILE MAINTENANCE, SCOPE DEV. & CONTINUOUS SUPPORT"
     }
   },
@@ -460,19 +471,16 @@
     "title": "Scope development",
     "ogDescription": "Una vez finalizado el desarrollo, ofrecemos servicios de mantenimiento y soporte para garantizar la estabilidad y transferencia exitosa de la plataforma a tu negocio.",
     "hero": [
-        "Una vez finalizado el desarrollo, ofrecemos servicios de",
-        "mantenimiento y soporte para garantizar la estabilidad y",
-        "transferencia exitosa de la plataforma a tu negocio."
+      "Una vez finalizado el desarrollo, ofrecemos servicios de",
+      "mantenimiento y soporte para garantizar la estabilidad y",
+      "transferencia exitosa de la plataforma a tu negocio."
     ],
     "intro": [
       "Estos tipos de proyecto siguen los mismos procesos internos de desarrollo con variantes",
       "administrativas y operativas en favor de la eficiencia en la utilización de recursos."
     ],
     "kanban": {
-      "title": [
-        "UTILIZAMOS KANBAN",
-        "COMO MARCO DE TRABAJO ÁGIL"
-      ],
+      "title": ["UTILIZAMOS KANBAN", "COMO MARCO DE TRABAJO ÁGIL"],
       "content": [
         "Nos ayuda a priorizar y organizar el trabajo planeado o a demanda, lo que nos permite mantener un flujo constante de entregables, a través de la implementación de soluciones que aportan valor de forma inmediata al cliente."
       ]
@@ -492,19 +500,16 @@
     "title": "AGILE MAINTENANCE",
     "ogDescription": "Una vez finalizado el desarrollo, ofrecemos servicios de mantenimiento y soporte para garantizar la estabilidad y transferencia exitosa de la plataforma a tu negocio.",
     "hero": [
-        "Una vez finalizado el desarrollo, ofrecemos servicios de",
-        "mantenimiento y soporte para garantizar la estabilidad y",
-        "transferencia exitosa de la plataforma a tu negocio."
+      "Una vez finalizado el desarrollo, ofrecemos servicios de",
+      "mantenimiento y soporte para garantizar la estabilidad y",
+      "transferencia exitosa de la plataforma a tu negocio."
     ],
     "intro": [
       "Estos tipos de proyecto siguen los mismos procesos internos de desarrollo con variantes",
       "administrativas y operativas en favor de la eficiencia en la utilización de recursos."
     ],
     "kanban": {
-      "title": [
-        "UTILIZAMOS KANBAN",
-        "COMO MARCO DE TRABAJO ÁGIL"
-      ],
+      "title": ["UTILIZAMOS KANBAN", "COMO MARCO DE TRABAJO ÁGIL"],
       "content": [
         "Nos ayuda a priorizar y organizar el trabajo planeado o a demanda, lo que nos permite mantener un flujo constante de entregables, a través de la implementación de soluciones que aportan valor de forma inmediata al cliente."
       ]
@@ -525,19 +530,16 @@
     "title": "Continuous support",
     "ogDescription": "Una vez finalizado el desarrollo, ofrecemos servicios de mantenimiento y soporte para garantizar la estabilidad y transferencia exitosa de la plataforma a tu negocio.",
     "hero": [
-        "Una vez finalizado el desarrollo, ofrecemos servicios de",
-        "mantenimiento y soporte para garantizar la estabilidad y",
-        "transferencia exitosa de la plataforma a tu negocio."
+      "Una vez finalizado el desarrollo, ofrecemos servicios de",
+      "mantenimiento y soporte para garantizar la estabilidad y",
+      "transferencia exitosa de la plataforma a tu negocio."
     ],
     "intro": [
       "Estos tipos de proyecto siguen los mismos procesos internos de desarrollo con variantes",
       "administrativas y operativas en favor de la eficiencia en la utilización de recursos."
     ],
     "kanban": {
-      "title": [
-        "UTILIZAMOS KANBAN",
-        "COMO MARCO DE TRABAJO ÁGIL"
-      ],
+      "title": ["UTILIZAMOS KANBAN", "COMO MARCO DE TRABAJO ÁGIL"],
       "content": [
         "Nos ayuda a priorizar y organizar el trabajo planeado o a demanda, lo que nos permite mantener un flujo constante de entregables, a través de la implementación de soluciones que aportan valor de forma inmediata al cliente."
       ]
@@ -590,7 +592,6 @@
       "services": ["Discovery", "Agile Development"],
       "img": "legal-thumbnail"
     }
-
   },
   "story": {
     "services": "Servicios",
@@ -611,17 +612,17 @@
     "ogDescription": "Lee nuestra política de privacidad para conocer cómo manejamos tus datos personales.",
     "intro": "LKMX SOFTWARE DEVELOPMENT mejor conocido como LKMX, con domicilio en Av. Adolfo López Mateos 2030-15, Granados, 22840, Ensenada, B.C., México y portal de internet https://www.lkmx.io/, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:",
     "section1": {
-      "title" : "¿PARA QUÉ FINES UTILIZAREMOS SUS DATOS PERSONALES?",
+      "title": "¿PARA QUÉ FINES UTILIZAREMOS SUS DATOS PERSONALES?",
       "paragraph": "Los datos personales que recabamos de usted, los utilizaremos para las siguientes finalidades que son necesarias para el servicio que solicita:",
       "li": ["Prestación de cualquier servicio solicitado"]
     },
     "section2": {
-      "title" : "¿QUÉ DATOS PERSONALES UTILIZAREMOS PARA ESTOS FINES?",
+      "title": "¿QUÉ DATOS PERSONALES UTILIZAREMOS PARA ESTOS FINES?",
       "paragraph": "Para llevar a cabo las finalidades descritas en el presente aviso de privacidad, utilizaremos los siguientes datos personales:",
       "li": ["Datos de contacto"]
     },
     "section3": {
-      "title" : "¿CÓMO PUEDE ACCEDER, RECTIFICAR O CANCELAR SUS DATOS PERSONALES, U OPONERSE A SU USO O EJERCER LA REVOCACIÓN DE CONSENTIMIENTO?",
+      "title": "¿CÓMO PUEDE ACCEDER, RECTIFICAR O CANCELAR SUS DATOS PERSONALES, U OPONERSE A SU USO O EJERCER LA REVOCACIÓN DE CONSENTIMIENTO?",
       "paragraph": [
         "Usted tiene derecho a conocer qué datos personales tenemos de usted, para qué los utilizamos y las condiciones del uso que les damos (",
         "Acceso",
@@ -633,35 +634,35 @@
         "Oposición",
         "). Estos derechos se conocen como",
         "derechos ARCO."
-    ],
+      ],
       "paragraph2": [
         "Para el ejercicio de cualquiera de los",
-        "derechos ARCO,", 
+        "derechos ARCO,",
         "debe enviar una petición vía correo electrónico a",
         "privacy@lkmx.io",
         "y deberá contener:"
       ],
       "li": [
-        "Nombre completo del titular.", 
-        "Domicilio.", 
-        "Teléfono.", 
-        "Copia de una identificación oficial adjunta.", 
-        "Asunto «Derechos ARCO»", 
-        "Descripción el objeto del escrito, los cuales pueden ser de manera enunciativa más no limitativa los siguientes: Revocación del consentimiento para tratar sus datos personales; y/o Notificación del uso indebido del tratamiento de sus datos personales; y/o Ejercitar sus Derechos ARCO, con una descripción clara y precisa de los datos a Acceder, Rectificar, Cancelar o bien, Oponerse. En caso de Rectificación de datos personales, deberá indicar la modificación exacta y anexar la documentación soporte; es importante en caso de revocación del consentimiento, que tenga en cuenta que no en todos los casos podremos atender su solicitud o concluir el uso de forma inmediata, ya que es posible que por alguna obligación legal requiramos seguir tratando sus datos personales. Asimismo, usted deberá considerar que para ciertos fines, la revocación de su consentimiento implicará que no le podamos seguir prestando el servicio que nos solicitó, o la conclusión de su relación con nosotros." 
+        "Nombre completo del titular.",
+        "Domicilio.",
+        "Teléfono.",
+        "Copia de una identificación oficial adjunta.",
+        "Asunto «Derechos ARCO»",
+        "Descripción el objeto del escrito, los cuales pueden ser de manera enunciativa más no limitativa los siguientes: Revocación del consentimiento para tratar sus datos personales; y/o Notificación del uso indebido del tratamiento de sus datos personales; y/o Ejercitar sus Derechos ARCO, con una descripción clara y precisa de los datos a Acceder, Rectificar, Cancelar o bien, Oponerse. En caso de Rectificación de datos personales, deberá indicar la modificación exacta y anexar la documentación soporte; es importante en caso de revocación del consentimiento, que tenga en cuenta que no en todos los casos podremos atender su solicitud o concluir el uso de forma inmediata, ya que es posible que por alguna obligación legal requiramos seguir tratando sus datos personales. Asimismo, usted deberá considerar que para ciertos fines, la revocación de su consentimiento implicará que no le podamos seguir prestando el servicio que nos solicitó, o la conclusión de su relación con nosotros."
       ]
     },
     "section4": {
-      "title" : "¿EN CUÁNTOS DÍAS LE DAREMOS RESPUESTA A SU SOLICITUD?",
+      "title": "¿EN CUÁNTOS DÍAS LE DAREMOS RESPUESTA A SU SOLICITUD?",
       "paragraph": "20 días.",
       "li": []
     },
     "section5": {
-      "title" : "¿POR QUÉ MEDIO LE COMUNICAREMOS LA RESPUESTA A SU SOLICITUD?",
+      "title": "¿POR QUÉ MEDIO LE COMUNICAREMOS LA RESPUESTA A SU SOLICITUD?",
       "paragraph": "Al mismo correo electrónico de donde se envío la petición.",
       "li": []
     },
     "section6": {
-      "title" : "EL USO DE TECNOLOGÍAS DE RASTREO EN NUESTRO PORTAL DE INTERNET",
+      "title": "EL USO DE TECNOLOGÍAS DE RASTREO EN NUESTRO PORTAL DE INTERNET",
       "paragraph": "Le informamos que en nuestra página de internet utilizamos cookies, web beacons u otras tecnologías, a través de las cuales es posible monitorear su comportamiento como usuario de internet, así como brindarle un mejor servicio y experiencia al navegar en nuestra página. Algunos de los datos personales que obtenemos de estas tecnologías de rastreo son los siguientes:",
       "li": [
         "Región en la que se encuentra el usuario",
@@ -671,9 +672,79 @@
       "paragraph2": "Estas cookies, web beacons y otras tecnologías pueden ser deshabilitadas. Para conocer cómo hacerlo, consulte el menú de ayuda de su navegador. Tenga en cuenta que, en caso de desactivar las cookies, es posible que no pueda acceder a ciertas funciones personalizadas en nuestros sitio web."
     },
     "section7": {
-      "title" : "¿CÓMO PUEDE CONOCER LOS CAMBIOS EN ESTE AVISO DE PRIVACIDAD?",
+      "title": "¿CÓMO PUEDE CONOCER LOS CAMBIOS EN ESTE AVISO DE PRIVACIDAD?",
       "paragraph": "El presente aviso de privacidad puede sufrir modificaciones, cambios o actualizaciones derivadas de nuevos requerimientos legales; de nuestras propias necesidades por los productos o servicios que ofrecemos; de nuestras prácticas de privacidad; de cambios en nuestro modelo de negocio, o por otras causas. Nos comprometemos a mantener actualizado este aviso de privacidad sobre los cambios que pueda sufrir y siempre podrá consultar las actualizaciones que existan en el sitio web",
       "link": "www.lkmx.io/privacy-policy."
+    }
+  },
+  "termsConditions": {
+    "title": "Términos y Condiciones",
+    "ogDescription": "Lee nuestros términos y condiciones",
+    "intro": "LKMX SOFTWARE DEVELOPMENT mejor conocido como LKMX, con domicilio en Av. Adolfo López Mateos 2030-15, Granados, 22840, Ensenada, B.C., México y portal de internet https://www.lkmx.io/, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:",
+    "section1": {
+      "title": "Términos y Condiciones",
+      "p1": "¡Bienvenido a LKMX!",
+      "p2": "Estos términos y condiciones describen las reglas y regulaciones para el uso del sitio web de LKMX, ubicado en www.lkmx.io.",
+      "paragraph3": "Al acceder a este sitio web, asumimos que aceptas estos términos y condiciones. No continúes usando LKMX si no aceptas todos los términos y condiciones establecidos en esta página.",
+      "p4": "La siguiente terminología se aplica a estos Términos y Condiciones, Declaración de Privacidad y Aviso Legal y todos los Acuerdos:",
+      "p5": "'Cliente', 'Tú' y 'Tu' se refieren a ti, la persona que inicia sesión en este sitio web y cumple con los términos y condiciones de la Empresa. 'La Empresa', 'Nosotros', 'Nuestro' y 'Nos', se refieren a nuestra Empresa. 'Parte', 'Partes' o 'Nosotros', se refiere tanto al Cliente como a nosotros mismos. Todos los términos se refieren a la oferta, aceptación y consideración del pago necesario para llevar a cabo el proceso de nuestra asistencia al Cliente de la manera más apropiada para el propósito expreso de satisfacer las necesidades del Cliente con respecto a la prestación de los servicios indicados por la Empresa, de acuerdo con y sujeto a la ley vigente de los Países Bajos. Cualquier uso de la terminología anterior u otras palabras en singular, plural, mayúsculas y/o él/ella o ellos, se toma como intercambiable y, por lo tanto, se refiere a lo mismo."
+    },
+    "section2": {
+      "title": "Cookies",
+      "p1": "Utilizamos el uso de cookies. Al acceder a LKMX, aceptaste usar cookies de acuerdo con la Política de Privacidad de LKMX.",
+      "p2": "La mayoría de los sitios web interactivos utilizan cookies para permitirnos recuperar los detalles del usuario para cada visita. Las cookies son utilizadas por nuestro sitio web para habilitar la funcionalidad de ciertas áreas y así hacer más fácil la visita de las personas a nuestro sitio web. Algunos de nuestros socios afiliados/anunciantes también pueden usar cookies."
+    },
+    "section3": {
+      "title": "Licencia",
+      "p1": "A menos que se indique lo contrario, LKMX y/o sus licenciantes poseen los derechos de propiedad intelectual de todo el material en LKMX. Todos los derechos de propiedad intelectual están reservados. Puedes acceder a esto desde LKMX para tu uso personal sujeto a las restricciones establecidas en estos términos y condiciones.",
+      "p2": "No debes:",
+      "li": [
+        "Republicar material de LKMX",
+        "Vender, alquilar o sublicenciar material de LKMX",
+        "Reproducir, duplicar o copiar material de LKMX",
+        "Redistribuir contenido de LKMX"
+      ],
+      "p3": "Este Acuerdo comenzará en la fecha del presente."
+    },
+    "section4": {
+      "title": "Hipervínculos a nuestro contenido",
+      "p1": "Las siguientes organizaciones pueden enlazar a nuestro sitio web sin previa aprobación por escrito:",
+      "li": [
+        "Agencias gubernamentales;",
+        "Motores de búsqueda;",
+        "Organizaciones de noticias;",
+        "Los distribuidores de directorios en línea pueden enlazar a nuestro sitio web de la misma manera que hiper-vinculan a los sitios web de otras empresas listadas; y",
+        "Empresas acreditadas en todo el sistema, excepto organizaciones sin fines de lucro que solicitan, centros comerciales de caridad y grupos de recaudación de fondos para caridad que no pueden enlazar a nuestro sitio web."
+      ],
+      "p2": "Estas organizaciones pueden enlazar a nuestra página de inicio, a publicaciones o a otra información del sitio web siempre y cuando el enlace: (a) no sea engañoso de ninguna manera; (b) no implique falsamente patrocinio, respaldo o aprobación del enlace y sus productos y/o servicios; y (c) encaje dentro del contexto del sitio del enlace.",
+      "p3": "Podemos considerar y aprobar otras solicitudes de enlace de los siguientes tipos de organizaciones:",
+      "li2": [
+        "Fuentes de información de consumidores y/o negocios comúnmente conocidos;",
+        "Sitios de la comunidad dot.com;",
+        "Asociaciones u otros grupos que representen a organizaciones benéficas;",
+        "Distribuidores de directorios en línea;",
+        "Portales de internet;",
+        "Firmas de contabilidad, derecho y consultoría; y",
+        "Instituciones educativas y asociaciones comerciales."
+      ],
+      "p4": "Aprobaremos las solicitudes de enlace de estas organizaciones si decidimos que: (a) el enlace no nos haría ver desfavorablemente a nosotros mismos o a nuestros negocios acreditados; (b) la organización no tiene registros negativos con nosotros; (c) el beneficio para nosotros de la visibilidad del hipervínculo compensa la ausencia de LKMX; y (d) el enlace está en el contexto de información general sobre recursos.",
+      "p5": "Estas organizaciones pueden enlazar a nuestra página de inicio siempre y cuando el enlace: (a) no sea engañoso de ninguna manera; (b) no implique falsamente patrocinio, respaldo o aprobación del enlace y sus productos o servicios; y (c) encaje dentro del contexto del sitio del enlace.",
+      "p6": "Si eres una de las organizaciones enumeradas en el párrafo 2 anterior y estás interesado en enlazar a nuestro sitio web, debes informarnos enviando un correo electrónico a LKMX. Por favor, incluye tu nombre, el nombre de tu organización, información de contacto así como el URL de tu sitio, una lista de cualquier URL desde los cuales tienes la intención de enlazar a nuestro sitio web, y una lista de los URL en nuestro sitio a los cuales te gustaría enlazar. Espera 2-3 semanas para una respuesta.",
+      "p7": "Las organizaciones aprobadas pueden enlazar a nuestro sitio web de la siguiente manera:",
+      "li3": [
+        "Mediante el uso de nuestro nombre corporativo; o",
+        "Mediante el uso del localizador uniforme de recursos (URL) enlazado; o",
+        "Mediante el uso de cualquier otra descripción de nuestro sitio web enlazado que tenga sentido dentro del contexto y formato del contenido en el sitio del enlace."
+      ],
+      "p8": "No se permitirá el uso del logotipo de LKMX ni de otras obras de arte para vincular sin un acuerdo de licencia de marca registrada."
+    },
+    "section5": {
+      "title": "iFrames",
+      "p1": "Sin aprobación previa y permiso por escrito, no puedes crear marcos alrededor de nuestras páginas web que alteren de alguna manera la presentación visual o apariencia de nuestro sitio web."
+    },
+    "section6": {
+      "title": "Responsabilidad del contenido",
+      "p1": "No seremos responsables de ningún contenido que aparezca en tu sitio web. Aceptas proteger y defendernos contra todas las reclamaciones que surjan en tu sitio web. No deben aparecer enlaces en ningún sitio web que puedan interpretarse como difamatorios, obscenos o criminales, o que infrinjan, de otro modo violen o promuevan la infracción u otra violación de, cualquier derecho de terceros."
     }
   },
   "ourWork": {
@@ -727,7 +798,7 @@
         "title": "Procesamiento masivo",
         "par1": "Nuestra capacidad de desarrollar aplicaciones personalizadas nos permite procesar grandes volúmenes de datos generados por dispositivos biométricos y transformarlos en información valiosa para identificar patrones en los datos biométricos, lo que puede ser utilizado para crear soluciones en una amplia variedad de campos.",
         "img": {
-          "src": "/industries/biometricSensors/mass-processing.svg",          
+          "src": "/industries/biometricSensors/mass-processing.svg",
           "large": {
             "width": 457.05,
             "height": 200
@@ -736,8 +807,8 @@
             "width": 343,
             "height": 150.09
           }
-        },     
-        "alt": "Representacion del Procesamiento Masivo",  
+        },
+        "alt": "Representacion del Procesamiento Masivo",
         "caption": "El procesamiento masivo de datos implica analizar grandes conjuntos de datos para descubrir patrones, tendencias y correlaciones, utilizando software avanzado para realizar esta tarea en un tiempo eficiente."
       }
     ]
@@ -878,6 +949,6 @@
       "evolución que impactan en los cambios digitales y que",
       "ofrecen oportunidades según el tipo de empresa."
     ],
-    "btn":"Ir a Industrias"
+    "btn": "Ir a Industrias"
   }
 }

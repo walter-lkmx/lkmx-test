@@ -158,6 +158,8 @@
     }
     &__privacy {
       padding-bottom: 42px;
+      display: grid;
+      gap: 16px;
       > div {
         padding-left: 0;
         padding-right: 0;
@@ -183,6 +185,7 @@
         height: auto;
         text-decoration: none;        
         text-align: start;
+        margin-right: 16px;
         &:hover{
           color: #CCF7FF !important;
         }
