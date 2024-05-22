@@ -15,8 +15,8 @@ export default function PrivacyPage() {
     return(
         <BaseLayout>
             <HeadSeo
-                title={$t.privacy.title + ' - ' + siteMetadata.companyName}
-                description={$t.privacy.ogDescription}
+                title={$t.termsConditions.title + ' - ' + siteMetadata.companyName}
+                description={$t.termsConditions.ogDescription}
                 ogImageUrl={$t.home.ogImage ? $t.home.ogImage : locale === 'es' ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn}
                 ogTwitterImage={$t.home.ogImage ? $t.home.ogImage : locale === 'es' ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn}
             />
