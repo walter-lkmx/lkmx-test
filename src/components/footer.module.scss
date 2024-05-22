@@ -185,7 +185,9 @@
         height: auto;
         text-decoration: none;        
         text-align: start;
-        margin-right: 16px;
+        &:first-child {
+          margin-right: 16px;
+        }
         &:hover{
           color: #CCF7FF !important;
         }
