@@ -76,48 +76,71 @@ export default function SuccessStory({storyData}) {
         
     })
 
-    return(
-        <BaseLayout>
-            <HeadSeo
-                title={storyData.title[0] + ' ' + storyData.title[1] + ' - ' + siteMetadata.companyName}
-                description={storyData.headline[0] + ' ' + storyData.headline[1]}
-                ogImageUrl={$t.home.ogImage ? $t.home.ogImage : locale === 'es' ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn}
-                ogTwitterImage={$t.home.ogImage ? $t.home.ogImage : locale === 'es' ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn}
-            />
-            <Page className={styles.story}>              
-                <GoBackBar destiny={"/work"} />
-                <Column>
-                    <Block className={styles.story__heroHeading}>
-                        <span>{storyData.storyType}</span>
-                        <h1>{storyData.title[0]}</h1>
-                        <h1>{storyData.title[1]}</h1>
-                        <span>{storyData.headline[0]}<br/> {storyData.headline[1]}</span>
-                    </Block>
-                </Column>
-                <Column>
-                    <Block className={styles.story__heroImgBlock}>
-                        <div className={styles.story__heroImg}>
-                            <Image
-                            fill
-                            src={`/work/${storyData.hero}.jpg`}
-                            alt="Heading Image"
-                            priority
-                            />
-                        </div>
-                    </Block>
-                </Column>
-                <Column mode="normal" className={styles.story__introduction} weight="left">
-                    <Block className={styles.story__introduction__block}>
-                        <div className={styles.story__wrapper}>
-                            <div id="aside" className={styles.story__asideContainer}>
-                                <div className={styles.story__aside}>
-                                    <div className={styles.story__aside__item}>
+    return (
+      <BaseLayout>
+        <HeadSeo
+          title={
+            storyData.title[0] +
+            " " +
+            storyData.title[1] +
+            " - " +
+            siteMetadata.companyName
+          }
+          description={storyData.headline[0] + " " + storyData.headline[1]}
+          ogImageUrl={
+            $t.home.ogImage
+              ? $t.home.ogImage
+              : locale === "es"
+              ? siteMetadata.ogDefaultImageEs
+              : siteMetadata.ogDefaultImageEn
+          }
+          ogTwitterImage={
+            $t.home.ogImage
+              ? $t.home.ogImage
+              : locale === "es"
+              ? siteMetadata.ogDefaultImageEs
+              : siteMetadata.ogDefaultImageEn
+          }
+        />
+        <Page className={styles.story}>
+          <GoBackBar destiny={"/work"} />
+          <Column>
+            <Block className={styles.story__heroHeading}>
+              <span>{storyData.storyType}</span>
+              <h1>{storyData.title[0]}</h1>
+              <h1>{storyData.title[1]}</h1>
+              <span>{storyData.solutions}</span>
+              {/* <span>{storyData.headline[0]}<br/> {storyData.headline[1]}</span> */}
+            </Block>
+          </Column>
+          <Column>
+            <Block className={styles.story__heroImgBlock}>
+              <div className={styles.story__heroImg}>
+                <Image
+                  fill
+                  src={`/work/${storyData.hero}.jpg`}
+                  alt="Heading Image"
+                  priority
+                />
+              </div>
+            </Block>
+          </Column>
+          <Column
+            mode="normal"
+            className={styles.story__introduction}
+            weight="left"
+          >
+            <Block className={styles.story__introduction__block}>
+              <div className={styles.story__wrapper}>
+                <div id="aside" className={styles.story__asideContainer}>
+                  <div className={styles.story__aside}>
+                    {/* <div className={styles.story__aside__item}>
                                         <span>{$t.story.services}</span>
                                         <ul>
                                             {storyData.services.map((item, key) => <li key={key}>{item}</li>)}
                                     </ul>
-                                    </div>
-                                    <div className={styles.story__aside__item}>
+                                    </div> */}
+                    {/* <div className={styles.story__aside__item}>
                                         <span>{$t.story.methodology}</span>
                                         <ul>
                                             {storyData.methodologies.map((item, key) => <li key={key}>{item}</li>)}
@@ -128,28 +151,36 @@ export default function SuccessStory({storyData}) {
                                         <ul>
                                             {storyData.period.map((item, key) => <li key={key}>{item}</li>)}
                                         </ul>
-                                    </div>
-                                </div>
-                            </div>                            
-                            <div>
-                                <h2>{storyData.introduction.title}</h2>
-                                <p>{storyData.introduction.content}</p>
-                                {storyData.introduction.content2 != null ? 
-                                        <p>{storyData.introduction.content2}</p>
-                                        : ''
-                                }
-                            </div>
-                        </div>
-                    </Block>
-                
-                </Column>
-                <Column mode="normal" modeL="slim" className={styles.story__mainContentContainer}>
-                    <Block className={styles.story__mainContentContainer__block}>
-                        <div ref={targetRef} className={styles.story__mainContent} dangerouslySetInnerHTML={{ __html: storyData.contentHtml }}></div>                        
-                    </Block>
-                </Column>
-                <Services/>
-            </Page>
-        </BaseLayout>
-    )
+                                    </div> */}
+                  </div>
+                </div>
+                <div>
+                  <h2>{storyData.introduction.title}</h2>
+                  <p>{storyData.introduction.content}</p>
+                  {storyData.introduction.content2 != null ? (
+                    <p>{storyData.introduction.content2}</p>
+                  ) : (
+                    ""
+                  )}
+                </div>
+              </div>
+            </Block>
+          </Column>
+          <Column
+            mode="normal"
+            modeL="slim"
+            className={styles.story__mainContentContainer}
+          >
+            <Block className={styles.story__mainContentContainer__block}>
+              <div
+                ref={targetRef}
+                className={styles.story__mainContent}
+                dangerouslySetInnerHTML={{ __html: storyData.contentHtml }}
+              ></div>
+            </Block>
+          </Column>
+          <Services />
+        </Page>
+      </BaseLayout>
+    );
 }
