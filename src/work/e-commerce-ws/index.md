@@ -2,6 +2,7 @@
 number: 2
 title: ['Bel-Air Athletics']
 headline: []
+solutions: ['E-commerce']
 services: []
 methodologies: []
 period: []

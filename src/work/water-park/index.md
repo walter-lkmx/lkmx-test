@@ -2,6 +2,7 @@
 number: 5
 title: ['Las Cañadas', '']
 headline: []
+solutions: ['HR System, Engineering Team, Booking System']
 services: []
 methodologies: []
 period: []

@@ -2,6 +2,7 @@
 number: 0
 title: ['Only Golfers']
 headline: []
+solutions: ['Mobile App, Social Network, SaaS']
 services: []
 methodologies: []
 period: []

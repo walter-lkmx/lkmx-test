@@ -2,6 +2,7 @@
 number: 7
 title: ['SKYOU']
 headline: ['']
+solutions: ['E-commerce']
 services: []
 methodologies: []
 period: []

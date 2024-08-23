@@ -2,6 +2,7 @@
 number: 4
 title: ['Avittat', '']
 headline: ['']
+solutions: ['CRM']
 services: []
 methodologies: []
 period: []

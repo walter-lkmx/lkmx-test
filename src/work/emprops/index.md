@@ -2,6 +2,7 @@
 number: 10
 title: ['Emprops IA', '']
 headline: []
+solutions: ['Art Marketplace, Web3 Project']
 services: []
 methodologies: []
 period: []

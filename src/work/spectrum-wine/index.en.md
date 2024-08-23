@@ -2,6 +2,7 @@
 number: 1
 title: ['Spectrum Winene']
 headline: []
+solutions: ['Mobile App']
 services: []
 methodologies: []
 period: []

@@ -2,6 +2,7 @@
 number: 8
 title: ['Maypo Insights Logistics', '']
 headline: ['']
+solutions: ['Cloud Infrastructure']
 services: []
 methodologies: []
 period: []

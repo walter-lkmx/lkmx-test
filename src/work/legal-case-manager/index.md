@@ -2,6 +2,7 @@
 number: 3
 title: ['LegalStream', '']
 headline: ['']
+solutions: ['SaaS, Document Manager']
 services: []
 methodologies: []
 period: []

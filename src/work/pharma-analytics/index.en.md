@@ -2,6 +2,7 @@
 number: 9
 title: ['Pharma Data Analytics']
 headline: []
+solutions: []
 services: []
 methodologies: []
 period: []

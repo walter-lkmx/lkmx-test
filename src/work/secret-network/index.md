@@ -2,6 +2,7 @@
 number: 6
 title: ['Secret Network']
 headline: ['']
+solutions: ['Web3 Project, Digital Brand']
 services: []
 methodologies: []
 period: []
