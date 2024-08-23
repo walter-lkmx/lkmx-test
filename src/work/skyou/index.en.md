@@ -1,27 +1,31 @@
 ---
 number: 7
-title: ['innovative platform for', 'the production of unique garments']
-headline: ['The freedom to choose, the ease of printing, personalized fashion at your fingertips.']
-services: ['discovery', 'agile Development', 'agile Maintenance']
-methodologies: ['Scrum']
-period: ['2021 - 2022']
+title: ['SKYOU']
+headline: ['']
+services: []
+methodologies: []
+period: []
 portrait: 'skyou-thumbnail'
 hero: 'skyou-hero'
 storyType: 'Work'
 introduction: {
-    title: "Introduction",
-    content: "SKYOU is a leading on-demand clothing printing platform that provides artists, brands, and entrepreneurs with the opportunity to materialize their creations. With its advanced 3D design tool and factories in various locations around the world, SKYOU eliminates the obstacles of minimum order requirements and offers solutions through its expertise in digital printing techniques, laser cutting, sewing, and direct shipping to anywhere in the world.",
+    title: "Background",
+    content: "In the intersection of fashion and technology, SKYOU emerged as a beacon for creative minds. By offering an advanced on-demand clothing production platform, it empowered artists, brands, and entrepreneurs to effortlessly bring their unique apparel ideas to life. With its innovative 3D design tool and a network of international factories, SKYOU made custom fashion accessible, bypassing the traditional hurdles of bulk orders and simplifying the journey from concept to consumer.",
 }
 ---
 
 <div>
-    <h2>Challenges</h2>
-    <p>Despite its focus on providing solutions to artists, brands, and entrepreneurs, the SKYOU platform faced challenges due to a deficient implementation by another development team. This put the desired efficiency and productivity at risk. The platform, although well-intentioned, had problems with its primary flows, which generated friction between users and the platform. This, in turn, made it difficult for the SKYOU team to provide good customer support, generating an extra workload for them.</p>
+    <h2>Challenge</h2>
+    <p>However, SKYOU's journey wasn't without obstacles. The platform's initial setup, crafted by a prior development team, struggled to meet the demands of its users, resulting in inefficiencies that affected the overall creative process. These technical challenges created a gap between the platform's potential and its operational reality, putting a strain on the team's ability to offer optimal customer support and manage workflows effectively.</p>
 </div>
 <div>
     <h2>Solution</h2>
-    <p>Despite the initial challenges, thanks to a continuous effort to optimize the platform and close collaboration with our client, we have managed to transform it into an efficient and easy-to-use tool.</p>
-    <p>Our team has achieved one of the most significant improvements in the SKYOU platform with the integration of a color detection system that allows the user to relate them to specific Pantones. This feature not only guarantees the quality of the final printed product, but it also increases the accuracy and consistency of the colors used in the designs, which is essential to achieve a professional and attractive presentation of the products. Furthermore, this improvement has allowed users to have greater control over the final appearance of their products, which contributes to their success and satisfaction in using the platform.</p>
+    <p>In response, we took a holistic approach to enhance the platform's functionality. A key move was the introduction of an intuitive color detection system, enabling designers to precisely match their creations with specific Pantones. This innovation assured the accuracy and vibrancy of the final products. Additionally, we revamped the image upload and catalog management system, streamlining the process to ensure a smoother user experience. Our introduction of customizable "white label" options further enabled brands to tailor the platform to their identity, offering a bespoke branding solution that enriched the user experience.</p>
+</div>
+
+<div>
+    <h2>Impact</h2>
+    <p>The enhancements to the SKYOU platform have significantly uplifted its performance and user satisfaction. By refining the creative process and offering bespoke branding solutions, we've not only elevated the platform's appeal but also reinforced its position as an indispensable tool in the global market for custom apparel. These strategic improvements have streamlined the design-to-delivery process, making SKYOU a preferred choice for creative professionals around the world.</p>
 </div>
 <div>
     <figure>
@@ -29,17 +33,12 @@ introduction: {
         <figcaption class="story_story__mainContent__caption__IQRnS">The integration of a color detection system allows users to match colors in their designs to specific Pantones, improving the quality and accuracy of printed products.</figcaption>
     </figure>    
 </div>
-<div>
-    <p>We optimized the image upload and catalog management flows, allowing for more efficient organization and a more comfortable user experience. Previously, users faced difficulties organizing their files and maintaining a clear connection between them. Now, there is a dedicated space for each of them, and SKYOU staff can access the same files that the customer sees, ensuring clear direction and organization.</p>
-</div>
+
 <div>
     <figure>
         <img loading="lazy" src="/work/skyou-figure2.jpg" alt="UI Design"/>
         <figcaption class="story_story__mainContent__caption__IQRnS">Streamlined image catalog management and upload flows offer a more convenient user experience.</figcaption>
     </figure>    
-</div>
-<div>
-    <p>As part of our effort, we have made SKYOU a highly versatile system, even visually. The "skin change" or "white label" feature is a demonstration of the adaptability we offer, allowing brands to integrate their image into the platform and use it under their own name. This development reflects our commitment to offering a unique and innovative experience to all of our customers.</p>
 </div>
 <div>
     <figure>
@@ -88,7 +87,8 @@ introduction: {
         </div>
     </div>     
 </div>
+
 <div>
     <h2>Conclusion</h2>
-    <p>Our commitment to improving the SKYOU platform has resulted in a more efficient and personalized experience for its users. The integration of color detection, optimization of load flows, and the ability to "change skin" are just a few examples of the innovative vision that we have implemented in SKYOU. These improvements not only reflect our commitment to the success of our customers, but they also position SKYOU as a globally competitive tool capable of meeting the needs of any type of brand or user.</p>
+    <p>Revitalizing the SKYOU platform showcases our unwavering commitment to blending innovative technology with deep user insights to solve complex challenges. This project is a clear demonstration of our capability to transform ambitious visions into reality, providing tangible value to our clients and their communities. As a result, SKYOU stands as a vibrant ecosystem for creative expression, reflecting our dedication to driving the future of custom fashion technology.</p>
 </div>

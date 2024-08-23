@@ -1,40 +1,40 @@
 ---
 number: 8
-title: ['Sistema nacional de hospitales', '']
-headline: ['La tecnología al servicio de la salud: optimizando la cadena de', 'suministro de medicamentos a nivel nacional.']
-services: ['discovery', 'agile Development', 'agile Maintenance']
-methodologies: ['Scrum']
-period: ['2020 - 2022']
+title: ['Maypo Insights Logistics', '']
+headline: ['']
+services: []
+methodologies: []
+period: []
 portrait: 'hospitals-thumbnail'
 hero: 'hospitals-hero'
 storyType: 'Trabajo'
 introduction: {
-    title: "Introducción",
-    content: "Nos enfrentamos a un nuevo desafío cuando una importante empresa de logística especializada, reconocida como la tercera más grande en su ramo en México nos contrató para realizar un proyecto, para apoyarlos en el análisis y implementación de un sistema destinado a recolectar los pedidos de más de 900 hospitales que conforman la segunda red gubernamental de salud más grande del país.",
-    content2: "Trabajamos en conjunto con nuestro cliente durante 4 meses, realizando un exhaustivo análisis y desarrollo de una solución que pudiera ser implementada de forma inmediata y mantenida de manera ágil, permitiendo la satisfacción de las necesidades tanto de la operación como del cliente."
+    title: "Antecedentes",
+    content: "En respuesta a los complejos desafíos de logística y distribución enfrentados por el sector salud en México, Maypo, la tercera empresa de logística más grande del país, buscó una transformación digital. Encargado de distribuir suministros médicos a más de 900 hospitales para la segunda red de salud gubernamental más grande, Maypo necesitaba una solución robusta y escalable para optimizar sus operaciones y garantizar la entrega puntual de suministros médicos críticos."
 }
 ---
 
 <div>
-    <h2>Los Retos</h2>
-    <p>En la implementación de esta solución, nos enfrentamos a varios retos significativos. Uno de los mayores desafíos es que era necesario integrar la plataforma con los sistemas de información existentes de nuestro cliente. La complejidad de la integración requería de un enfoque cuidadoso y metódico para garantizar la correcta transferencia de datos y la interacción entre los sistemas.</p>
-    <p>Desarrollar un sistema que impacte el sistema de salud de un país es una tarea de gran responsabilidad. Por esta razón, era fundamental que la solución implementada fuera altamente resiliente y segura, garantizando así el correcto funcionamiento y la trazabilidad de los medicamentos enviados a hospitales en todo el país. Este reto fue abordado con la máxima diligencia y atención, asegurando una implementación exitosa.</p>
+    <h2>Desafío</h2>
+    <p>El desafío principal fue integrar una amplia gama de fuentes de datos, incluidas plataformas reconocidas como SAP, en un sistema cohesivo que pudiera manejar la logística de la entrega de millones de medicamentos. Las operaciones de Maypo exigían procesamiento de pedidos en tiempo real, validación de inventarios y trazabilidad integral de cada artículo distribuido, asegurando precisión y confiabilidad en un sector donde los retrasos pueden tener consecuencias graves.</p>
 </div>
 <div>
     <h2>Solución</h2>
-    <p>La solución que implementamos para el cliente fue una aplicación con una arquitectura basada en microservicios, que combina patrones y tecnología en la nube para garantizar alta resiliencia y seguridad. Para lograr esto, utilizamos tecnologías robustas, como Java, Elasticsearch y Spring Boot, que permitieron al cliente adaptar la plataforma a sus necesidades específicas sin comprometer la calidad y seguridad.</p>
-    <p>Orquestamos con precisión los diferentes procesos clave que eran cruciales para el éxito de la misión, como la toma y aprobación de pedidos, la validación de inventarios y la notificación a los actores adecuados en la cadena de suministro. Todo ello, sin olvidar la importancia de la trazabilidad de los cientos y miles de medicamentos que son enviados a todo el país cada mes.</p>
-    <p>Nos enfrentamos al desafío de asegurarnos de que todas las etapas del proceso, desde la toma del pedido hasta la entrega final, estuvieran registradas y controladas. Para lograrlo, desarrollamos aplicaciones específicas para diferentes actores en la cadena de suministro, como supervisores, transportistas, agentes y empleados de farmacia. </p>
+    <p>Diseñamos una plataforma basada en la nube y de última generación, utilizando una arquitectura de microservicios. Este sistema se conecta perfectamente con las bases de datos existentes de Maypo a través de APIs REST, orquestando procesos logísticos complejos desde la recepción de pedidos hasta la validación de inventarios. La plataforma cuenta con una suite de aplicaciones diseñadas para diversos roles en la cadena de suministro, mejorando la trazabilidad y la responsabilidad de los suministros médicos. Al aprovechar tecnologías robustas, proporcionamos a Maypo una solución flexible y segura, adaptable a las necesidades cambiantes de la logística en el sector salud.</p>
 </div>
+
+<div>
+    <h2>Impacto</h2>
+    <p>El despliegue de esta plataforma integral de análisis de datos y logística revolucionó las capacidades operativas de Maypo. Al facilitar una vista unificada y en tiempo real de la cadena de suministro, la solución mejoró significativamente la eficiencia de la distribución de medicamentos, optimizando la prestación de servicios de salud en todo México. La agilidad y precisión de la plataforma en la gestión de flujos de trabajo logísticos han reforzado la reputación de Maypo como líder en logística de salud, estableciendo nuevos estándares de excelencia operativa en el sector.</p>
+</div>
+
 <div>
     <figure>
         <img loading="lazy" src="/work/hospitals-figure1.jpg" alt="UI Design"/>
         <figcaption class="story_story__mainContent__caption__IQRnS">El sistema proporciona un constante monitoreo en la existencia de medicamentos permitiendo la aprobación oportuna de la solicitud y envío de pedidos.</figcaption>
     </figure>    
 </div>
-<div>
-    <p>La combinación de estos esfuerzos permitió a nuestro cliente tener una visibilidad completa y en tiempo real de la cadena de suministro de medicamentos, lo que no solo mejoró su eficiencia, sino que también les permitió optimizar el seguimiento y control de sus envíos, garantizando así la entrega oportuna y precisa de los medicamentos a los destinatarios a nivel nacional.</p>
-</div>
+
 <div>
     <figure>
         <img loading="lazy" src="/work/hospitals-figure2.jpg" alt="UI Design"/>
@@ -68,5 +68,5 @@ introduction: {
 </div>
 <div>
 <h2>Conclusión</h2>
-<p>La plataforma desarrollada para nuestro cliente es un ejemplo de cómo la combinación de tecnología y enfoque en la resolución de problemas puede tener un impacto significativo en un sistema crítico como el de la salud. La implementación de la solución ha permitido a nuestro cliente superar los desafíos en la logística de medicamentos. Todo el esfuerzo combinado, un análisis minucioso del negocio,  un enfoque en la experiencia de usuario, la avanzada arquitectura de software y las pruebas exhaustivas a la calidad del producto, ha resultado en una plataforma altamente eficiente, segura y resiliente. Estamos orgullosos de haber contribuido a mejorar la atención médica en el país y estamos ansiosos de seguir trabajando en soluciones que hagan una diferencia real en la vida de las personas.</p>
+<p>Este proyecto refleja nuestra dedicación a aplicar tecnologías innovadoras para resolver desafíos del mundo real. Ilustra nuestra experiencia en la ingeniería de soluciones complejas y escalables, adaptadas a las demandas únicas de la logística en el sector salud. Al transformar el marco operativo de Maypo, hemos desempeñado un papel fundamental en la mejora de la eficiencia de la distribución de suministros médicos en México, contribuyendo al objetivo más amplio de mejorar la prestación de servicios de salud. Nuestra colaboración con Maypo demuestra nuestra capacidad para ofrecer avances tecnológicos impactantes, afirmando nuestra posición como un socio clave en la búsqueda de la excelencia operativa y mejores resultados en salud.</p>
 </div>

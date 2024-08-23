@@ -1,40 +1,41 @@
 ---
 number: 6
-title: ['Nueva experiencia de', 'privacidad en blockchain']
-headline: ['Asegura tu privacidad con Secret Network:  rediseño de sitio web con', 'tecnología Jamstack y el debut de nuestro sistema de diseño Flare.']
-services: ['discovery', 'agile Development', 'agile Maintenance']
-methodologies: ['Scrum']
-period: ['2020 - 2022']
+title: ['Secret Network']
+headline: ['']
+services: []
+methodologies: []
+period: []
 portrait: 'secret-thumbnail'
 hero: 'secret-hero'
 storyType: 'Trabajo'
 introduction: {
-    title: "Introducción",
-    content: "Secret Network es una blockchain que se centra en la privacidad, brindando a sus usuarios la capacidad de mantener sus datos bajo control.",
-    content2: "En colaboración con la comunidad de Secret Network, nos enfrentamos al desafío de crear una nueva marca y un sitio web que refleje los valores y principios que la organización defiende, dándoles a los usuarios el control completo sobre la experiencia que desean tener al utilizar Secret Network."
+    title: "Antecedentes",
+    content: "Secret Network, una plataforma de blockchain pionera, está dedicada a mejorar la privacidad en la era digital. Empodera a los usuarios proporcionándoles control sobre sus datos, estableciendo un nuevo estándar en la comunidad blockchain para la privacidad y la autonomía del usuario. Reconociendo la necesidad de alinear su presencia digital con sus valores fundamentales, Secret Network se embarcó en una misión para renovar su marca y sitio web. Esta iniciativa ayudó a reflejar el compromiso de la organización con la privacidad y ofrecer a los usuarios una experiencia personalizada."
 }
 ---
 
 <div>
-    <h2>Los Retos</h2>
-    <p>Uno de los principales desafíos que enfrentaba la blockchain de Secret Network era la falta de un lugar centralizado donde se pudiera acceder a toda la información y contenido valioso generado por la comunidad. La documentación, artículos de blog y otros tipos de contenido se encontraban dispersos en diferentes sitios, lo que dificultaba la consulta y el acceso a la información por parte de los usuarios.</p>
-    <br/>
-    <p>Además, nuestro cliente requería una plataforma en la que se pudieran gestionar y publicar de manera eficiente todos los artículos y contenido generados por la comunidad. Es por eso que se hizo necesario desarrollar un nuevo website que cumpliera con estos requisitos y brindara una experiencia unificada a los usuarios.</p>
+    <h2>Desafío</h2>
+    <p>Un obstáculo clave para Secret Network era la naturaleza descentralizada de su valioso contenido generado por la comunidad, incluyendo documentación y artículos de blog. Esta fragmentación a través de varias plataformas dificultaba que los usuarios encontraran y accedieran a la información de manera eficiente. Además, el cliente necesitaba una plataforma sofisticada para gestionar y publicar contenido comunitario sin problemas, lo que requería el desarrollo de un sitio web cohesivo y fácil de usar.</p>
 </div>
 <div>
     <h2>Solución</h2>
-    <p>Para abordar estos retos, la solución que se implementó para el blockchain de Secret Network consistió en la creación de un nuevo sitio web con una experiencia integrada para la comunidad. Con el objetivo de unificar la información dispersa en diferentes sitios, se utilizó Vue.js y Gridsome como framework de Jamstack para construir el sitio web.</p>
+    <p>Para superar estos desafíos, desarrollamos un nuevo sitio web que sirve como un centro centralizado para toda la información y el contenido comunitario de Secret Network. Utilizando Vue.js y Gridsome dentro del marco Jamstack, creamos una experiencia web moderna que prioriza la velocidad, la seguridad y la escalabilidad. El enfoque de Jamstack, que aprovecha JavaScript, APIs y Markup, nos permitió crear una plataforma dinámica pero estable entregada a través de servidores CDN.</p>
+    <p>Un componente crucial de esta solución fue la integración de Strapi, un CMS sin cabeza, que permite al equipo de Secret Network tener control total sobre la gestión de contenido y la optimización SEO. Este proyecto también marcó el debut de nuestro sistema de diseño Flare, que agilizó el proceso de desarrollo de la interfaz de usuario, asegurando un diseño receptivo y visualmente atractivo en todos los dispositivos.</p>
 </div>
+
+<div>
+    <h2>Impacto</h2>
+    <p>El lanzamiento del sitio web rediseñado de Secret Network ha mejorado significativamente la experiencia del usuario, facilitando que la comunidad blockchain se involucre y acceda al contenido. Al consolidar recursos dispersos en una sola plataforma intuitiva, hemos mejorado la accesibilidad de la información, fomentando una comunidad más fuerte y conectada. La implementación del sistema de diseño Flare y la tecnología Jamstack no solo ha elevado la estética del sitio, sino también su rendimiento, estableciendo un nuevo punto de referencia para el desarrollo web en el sector blockchain.</p>
+</div>
+
 <div>
     <figure>
         <img loading="lazy" src="/work/secret-figure1.jpg" alt="UI Design"/>
         <figcaption class="story_story__mainContent__caption__IQRnS">Utilizamos nuestro sistema de diseño Flare, lo que nos permitió una mayor eficiencia en el desarrollo, redujo la cantidad de tiempo y recursos necesarios para construir la UI, y proporcionó dinamismo para cualquier dispositivo.</figcaption>
     </figure>    
 </div>
-<div>
-    <p>El paradigma Jamstack es una manera de construir aplicaciones web modernas que combinan el uso de JavaScript, APIs y Markup. En vez de contar con un backend tradicional que sirve páginas dinámicas, las aplicaciones Jamstack se componen de componentes estáticos que son servidos directamente desde un servidor CDN, y dinámicos que son manejados por APIs, con esto conseguimos mejorar la seguridad, velocidad y escalabilidad de la plataforma.</p>
-    <p>Bajo este paradigma integramos un headless CMS, Strapi, que permitió al equipo de Secret Network tener el control total del contenido del sitio, incluyendo configuraciones detalladas para optimización de SEO. Este proyecto también fue un hito para nosotros, ya que implementamos por primera vez nuestro sistema de diseño llamado Flare. Este sistema nos permitió construir el UI del sitio web de manera más rápida y eficiente, logrando resultados perfectos para cualquier tipo de dispositivo.</p>
-</div>
+
 <div class="story_story__mainContent__gantt__TErEp">
     <figure>
         <img loading="lazy" src="/work/project-chart-es--double.svg" alt="Gantt chart"/>
@@ -75,5 +76,5 @@ introduction: {
 </div>
 <div>
     <h2>Conclusión</h2>
-    <p>En una época en la que la privacidad de los datos es cada vez más importante, nuestro equipo se enorgullece de haber contribuido al éxito de Secret Network. Junto a su comunidad, logramos crear un website atractivo y fácil de usar que refleja los valores y la misión de proteger la privacidad mediante su blockchain. Gracias a la adopción de tecnologías innovadora, hemos logrado unificar y optimizar la presencia en línea de Secret Network, permitiéndoles centrarse en lo que realmente importa: proteger la privacidad de los datos.</p>
+    <p>La revitalización de la presencia digital de Secret Network es un testimonio de nuestro compromiso de aprovechar soluciones web innovadoras que se alinean con los principios de privacidad digital y empoderamiento del usuario. A través de este proyecto, hemos demostrado nuestra experiencia en la creación de plataformas que no solo satisfacen las necesidades técnicas y estéticas del panorama digital actual, sino que también encarnan los valores fundamentales de nuestros clientes. Esta iniciativa refleja nuestra dedicación a avanzar en la tecnología blockchain centrada en la privacidad y muestra nuestra capacidad para transformar desafíos en soluciones impactantes y centradas en el usuario.</p>
 </div>

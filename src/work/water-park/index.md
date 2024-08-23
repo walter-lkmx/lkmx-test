@@ -1,32 +1,31 @@
 ---
 number: 5
-title: ['Campamento y Parque Acuático', '']
-headline: ['Descubre la mejor experiencia en parques acuáticos con una', 'gestión optimizada']
-services: ['discovery', 'agile Development']
-methodologies: ['Scrum']
-period: ['2019 - en curso']
+title: ['Las Cañadas', '']
+headline: []
+services: []
+methodologies: []
+period: []
 portrait: 'canadas-thumbnail'
 hero: 'canadas-hero'
 storyType: 'Trabajo'
 introduction: {
-    title: "Introducción",
-    content: "El éxito de un parque de atracciones y campamento como Las Cañadas depende en gran medida de su capacidad para atraer y gestionar a los visitantes de manera eficiente. Por esta razón, era necesario desarrollar un sistema de e-commerce fácil de usar, que presentara de manera atractiva y accesible la amplia oferta de actividades y servicios que ofrece el parque."
+    title: "Antecedentes",
+    content: "Las Cañadas Campamento y Parque Acuático se extiende por 200 hectáreas de belleza natural, ubicado en el corazón de Baja California, México. Aquí, la aventura se encuentra con la tranquilidad, y los visitantes buscan tanto emociones fuertes como momentos de serenidad. Gestionar este vasto oasis planteaba desafíos que requerían soluciones innovadoras."
 }
 ---
 
 <div>
-    <h2>Los Retos</h2>
-    <p>Habían una serie de retos que debían ser abordados para lograr una experiencia satisfactoria. El principal desafío era encontrar una manera de gestionar la adquisición de visitas y otras actividades en el parque de manera eficiente. Para lograrlo era necesario un buen diseño de experiencia de usuario en el e-commerce, ya que los productos ofrecidos tenían diferentes configuraciones en función del calendario. La capacidad de comunicar de manera clara y eficiente al usuario las implicaciones y condiciones de su compra era esencial.</p>   
-    <p>Otro reto era la integración de los ingresos registrados en el e-commerce con los flujos de acceso convencionales al parque, donde los clientes pueden comprar entradas directamente en la entrada de las instalaciones. Para abordar esta complejidad, se requería un sistema de admisiones integral que combinara ambas fuentes de ingresos y, además, una herramienta de control y análisis que permitiera a la organización monitorear y optimizar la operación del parque en su totalidad.</p>
+    <h2>Desafíos</h2>
+    <p>Gestionar eficientemente a miles de visitantes mientras se comunicaban los precios dinámicos e integraban los ingresos del comercio electrónico y las ventas en taquilla planteaba obstáculos complejos. Miles de visitantes significaban miles de interacciones. La peculiaridad: nuestras ofertas variaban según el calendario—eventos estacionales, promociones especiales y precios dinámicos. Comunicar estas implicaciones a los usuarios era crucial. Los ingresos provenían de dos fuentes: ventas en línea y compras de boletos en la entrada del parque. Conectar estos mundos—boletos adquiridos digitalmente y visitantes en taquilla—era como conectar universos paralelos. Necesitábamos un sistema unificado para rastrearlo todo. Más allá de la emoción de los toboganes y las tirolesas, Las Cañadas necesitaba datos. ¿Cuántos visitantes había en el lugar? ¿De dónde venían? ¿Cuáles eran las tendencias de ingresos? Las decisiones estratégicas dependían de conocimientos en tiempo real.</p>
 </div>
 <div>
     <h2>Solución</h2>
-    <p>Para resolver los retos anteriormente mencionados, se desarrollaron tres sistemas complementarios que trabajaban en conjunto para brindar una experiencia de usuario satisfactoria y una eficiente gestión del parque:</p>   
+    <p>No solo construimos software; creamos un ecosistema.</p>   
 </div>
 <ul class="story_story__mainContent__fullList__ClxE5">
-    <li>Ecommerce
+    <li>Plataforma de Comercio Electrónico.
         <ul>
-            <span>Se diseñó un sistema de ecommerce intuitivo y fácil de usar, con la capacidad de mostrar la oferta del parque de manera clara y eficiente al usuario. Además, se integraron las diferentes configuraciones de productos en función del calendario y se permitió la comunicación clara y eficiente de las implicaciones y condiciones de compra.</span>
+            <span>Nuestro sitio de comercio electrónico se convirtió en una puerta de entrada a la aventura. Los visitantes exploraban sin esfuerzo los toboganes, las piscinas de olas y las tirolesas. La comunicación clara sobre precios dinámicos—ya sean eventos estacionales o promociones especiales—garantizaba transparencia.</span>
         </ul>
     </li>
 </ul>
@@ -39,7 +38,7 @@ introduction: {
 <ul class="story_story__mainContent__fullList__ClxE5">
     <li>Sistema de admisiones
         <ul>
-            <span>Se implementó un sistema de admisiones que integraba los ingresos registrados a través del ecommerce con los flujos convencionales de acceso al parque, permitiendo una gestión unificada de las visitas.</span>
+            <span>Integrando perfectamente el comercio electrónico y las ventas de boletos, este sistema conectaba los mundos digital y presencial. No más brechas de ingresos. Ya sea que los visitantes reservaran en línea o llegaran a la puerta, nuestro sistema rastreaba su recorrido. No más puntos ciegos operativos.</span>
         </ul>
     </li>
 </ul>
@@ -52,7 +51,7 @@ introduction: {
 <ul class="story_story__mainContent__fullList__ClxE5">
     <li>Consola de administración
         <ul>
-            <span>Se desarrolló una consola de administración que permite la orquestación y análisis de la operación del parque en general, generando reportes de todo tipo y brindando una visibilidad completa de los indicadores de ingresos y procedencia de los visitantes. Con ella, se logró una gestión eficiente de la operación diaria del campamento.</span>
+            <span>Los paneles en tiempo real revelaban tendencias de ingresos, conteo de visitantes y origen de los mismos. Las decisiones estratégicas se volvieron basadas en datos. Las comparaciones año tras año empoderaban la gestión general. Los conocimientos históricos guiaban la planificación futura.</span>
         </ul>
     </li>
 </ul>
@@ -100,7 +99,16 @@ introduction: {
         </div>
     </div>     
 </div>
+
+<div>
+    <h2>Impacto</h2>
+    <p>Los resultados de nuestra solución fueron notables. Los visitantes ahora disfrutan de una experiencia de navegación sin problemas, con cada detalle de su compra claro y accesible, haciendo de la claridad y la conveniencia un estándar. La fusión del comercio electrónico y las ventas de boletos en un sistema cohesivo de gestión de ingresos eliminó los silos financieros, mejorando la precisión y eficiencia del seguimiento financiero. Además, la introducción de paneles en tiempo real proporcionó información crítica sobre tendencias de ingresos, número de visitantes y demografía, permitiendo decisiones basadas en datos que han moldeado la dirección estratégica y la planificación futura del parque.</p>
+</div>
+
 <div>
     <h2>Conclusión</h2>
-    <p>El desarrollo de estos sistemas permitió a Las Cañadas abordar eficazmente los retos que enfrentaba en la gestión de su parque. Esta solución brinda a los visitantes una experiencia de compra sencilla y segura. Con un control completo y una visibilidad en tiempo real de los ingresos y los procedimientos internos, Las Cañadas está en una posición sólida para mantener las operaciones del parque y brindar una experiencia de primer nivel a sus visitantes. Sin duda, una solución necesaria para satisfacer la creciente demanda de sus servicios.</p>
+    <p>Destreza para Resolver Problemas. Enfrentamos desafíos multifacéticos de frente. Desde precios dinámicos hasta la integración de ingresos, demostramos nuestra capacidad para desentrañar problemas complejos y proporcionar soluciones elegantes.
+    </p>
+    <p>Transformación Empresarial. Nuestro ecosistema de aplicaciones transformó las operaciones. Los visitantes experimentaron interacciones sin problemas y los flujos de ingresos del parque se fusionaron perfectamente. No solo optimizamos; revolucionamos.</p>
+    <p>Visión Estratégica. Los conocimientos en tiempo real empoderaron la toma de decisiones. Ya sea rastreando tendencias de ingresos o analizando la demografía de los visitantes, nuestros paneles hablaban el lenguaje del éxito.p>
 </div>

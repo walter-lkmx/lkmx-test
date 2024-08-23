@@ -1,32 +1,31 @@
 ---
 number: 5
-title: ['Campsite and Water Park', '']
-headline: ['Discover the ultimate water park experience with streamlined', 'management']
-services: ['discovery', 'agile Development']
-methodologies: ['Scrum']
-period: ['2019 - current']
+title: ['Las Cañadas', '']
+headline: []
+services: []
+methodologies: []
+period: []
 portrait: 'canadas-thumbnail'
 hero: 'canadas-hero'
 storyType: 'Work'
 introduction: {
-    title: "Introduction",
-    content: "The success of an amusement park and campsite like Las Cañadas largely depends on its ability to attract and manage visitors efficiently. For this reason, it was necessary to develop an easy-to-use e-commerce system that presents the park's wide range of activities and services in an attractive and accessible manner."
+    title: "Background",
+    content: "Las Cañadas Campsite and Aquatic Park sprawls across 200 hectares of natural beauty, nestled in the heart of Baja California, Mexico. Here, adventure meets tranquility, and visitors seek both adrenaline rushes and serene moments. But managing this vast oasis posed challenges that demanded innovative solutions."
 }
 ---
 
 <div>
-    <h2>Challenges</h2>
-    <p>There were a number of challenges that needed to be addressed to achieve a satisfactory experience. The main challenge was finding a way to efficiently manage the acquisition of visits and other activities in the park. To achieve this, a good user experience design was needed in the e-commerce, as the products offered had different configurations based on the calendar. The ability to clearly and efficiently communicate to the user the implications and conditions of their purchase was essential.</p>   
-    <p>Another challenge was the integration of the revenue recorded in the e-commerce with the conventional park access flows, where customers can purchase tickets directly at the entrance to the facilities. To address this complexity, a comprehensive admission system was required that combined both sources of income, and also a control and analysis tool that allowed the organization to monitor and optimize the operation of the park in its entirety.</p>
+    <h2>Challenge</h2>
+    <p>Efficiently managing thousands of visitors while communicating dynamic pricing and integrating revenue from e-commerce and walk-in sales posed complex hurdles. Thousands of visitors meant thousands of interactions. The twist? Our offerings varied based on the calendar—seasonal events, special promotions, and dynamic pricing. Communicating these implications to users was crucial. Revenue streams flowed from two sources: online e-commerce sales and conventional ticket purchases at the park entrance. Bridging these worlds—digitally acquired tickets and walk-in visitors—was like connecting parallel universes. We needed a unified system to track it all. Beyond the thrill of water slides and ziplines, Las Cañadas craved data. How many visitors were on-site? Where did they come from? What were the revenue trends? Strategic decisions hinged on real-time insights. </p>
 </div>
 <div>
     <h2>Solution</h2>
-    <p>To address the aforementioned challenges, three complementary systems were developed that worked together to provide a satisfactory user experience and an efficient park management:</p>   
+    <p>We didn’t just build software; we crafted an ecosystem. </p>   
 </div>
 <ul class="story_story__mainContent__fullList__ClxE5">
-    <li>Ecommerce
+    <li>E-Commerce Platform.
         <ul>
-            <span>An intuitive and easy-to-use e-commerce system was designed, with the ability to show the park's offerings in a clear and efficient manner to the user. Additionally, the different product configurations based on the calendar were integrated, and clear and efficient communication of the implications and conditions of purchase was allowed.</span>
+            <span>Our e-commerce site became a gateway to adventure. Visitors effortlessly explored water slides, wave pools, and ziplines. Clear communication about dynamic pricing—whether it’s seasonal events or special promotions—ensured transparency.</span>
         </ul>
     </li>
 </ul>
@@ -39,7 +38,7 @@ introduction: {
 <ul class="story_story__mainContent__fullList__ClxE5">
     <li>Admissions System
         <ul>
-            <span>An admissions system was implemented that integrated the revenue recorded through the e-commerce with the conventional park access flows, allowing for a unified management of visits.</span>
+            <span>Seamlessly integrating e-commerce and ticket sales, this system bridged the digital and walk-in worlds. No more revenue gaps. Whether visitors booked online or arrived at the gate, our system tracked their journey. No more operational blind spots.</span>
         </ul>
     </li>
 </ul>
@@ -52,7 +51,7 @@ introduction: {
 <ul class="story_story__mainContent__fullList__ClxE5">
     <li>Administration Console
         <ul>
-            <span>An administration console was developed that allows orchestration and analysis of the park's operation in general, generating reports of all types and providing complete visibility of the income indicators and origin of visitors. With it, an efficient management of the campsite's daily operation was achieved.</span>
+            <span>Real-time dashboards revealed revenue trends, headcount, and visitor origin. Strategic decisions became data-driven. Year-on-year comparisons empowered general management. Historical insights guided future planning.</span>
         </ul>
     </li>
 </ul>
@@ -100,7 +99,16 @@ introduction: {
         </div>
     </div>     
 </div>
+
+<div>
+    <h2>Impact</h2>
+    <p>The results of our solution were remarkable. Visitors now enjoy a seamless navigation experience, with every detail of their purchase clear and accessible, making clarity and convenience standard. The merging of e-commerce and ticket sales into a cohesive revenue management system eliminated financial silos, enhancing the accuracy and efficiency of financial tracking. Moreover, the introduction of real-time dashboards provided critical insights into revenue trends, visitor numbers, and demographics, enabling data-driven decisions that have shaped the park's strategic direction and future planning.</p>
+</div>
+
 <div>
     <h2>Conclusion</h2>
-    <p>The development of these systems allowed Las Cañadas to effectively tackle the challenges it faced in managing its park. This solution provides visitors with a simple and secure shopping experience. With complete control and real-time visibility of income and internal procedures, Las Cañadas is in a solid position to maintain the park's operations and provide a top-notch experience to its visitors. Undoubtedly, a necessary solution to meet the growing demand for its services.</p>
+    <p>Problem-Solving Prowess. We tackled multifaceted challenges head-on. From dynamic pricing to revenue integration, we proved our ability to dissect complex problems and provide elegant solutions.
+    </p>
+    <p>Business Transformation.  Our ecosystem of applications transformed operations. Visitors experienced seamless interactions, and the park’s revenue streams merged seamlessly. We didn’t just optimize; we revolutionized.</p>
+    <p>Strategic Vision. Real-time insights empowered decision-making. Whether tracking revenue trends or analyzing visitor demographics, our dashboards spoke the language of success.</p>
 </div>
