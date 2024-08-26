@@ -14,31 +14,30 @@ introduction: {
     content: "El origen de este proyecto fue inspirado por un grupo único de individuos profundamente arraigados en los sectores del deporte, la aeronáutica y la tecnología. Identificaron una brecha en el mundo digital para los entusiastas del golf: un espacio donde pudieran converger, interactuar y compartir su pasión por el golf, especialmente cuando las reuniones físicas no eran factibles. Esta visión llevó al desarrollo de la aplicación OnlyGolfers, un clubhouse virtual diseñado para conectar a golfistas de todo el mundo, permitiéndoles competir, interactuar y celebrar juntos su amor por este deporte."
 }
 ---
-<div>
-    <h2>Desafío</h2>
-    <p>La tarea era encapsular digitalmente la esencia y el espíritu del golf, traduciendo la cultura y la terminología del deporte en una experiencia en línea atractiva. El desafío era significativo: crear una plataforma que se sintiera tan genuina y rica en tradición como el mismo juego, todo mientras se aseguraba una experiencia de usuario fluida y agradable. Necesitábamos abordar y resolver cualquier problema que surgiera de manera rápida, mejorando continuamente la funcionalidad y el compromiso del usuario con la plataforma.</p>
-</div>
 
-<div >
-    <h2>Solución</h2>
-    <p>La aplicación OnlyGolfers surgió de un riguroso proceso de Desarrollo Ágil. Comenzamos con una fase de Descubrimiento, enfocándonos intensamente en las necesidades y objetivos específicos de la comunidad. Esta base nos permitió construir una aplicación móvil tanto intuitiva como inmersiva, proporcionando funciones que resuenan con la comunidad golfista. La aplicación facilita interacciones en tiempo real entre los usuarios, los mantiene actualizados sobre eventos y torneos de golf, y cuenta con un marcador en vivo para añadir un borde competitivo. Se implementaron integraciones como notificaciones push y Firebase para una gestión efectiva de datos y el compromiso de los usuarios.</p>
 
-</div>
+## Contexto
 
-<div >
-    <h2>Impacto</h2>
-    <p>La aplicación OnlyGolfers ha influido profundamente en la comunidad golfista al ofrecer una plataforma digital para conexiones significativas y juegos competitivos. Los usuarios pueden crear perfiles completos, compartir contenido, participar en discusiones y participar en torneos virtuales. La aplicación ha elevado la experiencia del golf, permitiendo a los entusiastas mantenerse conectados con el deporte y entre sí, independientemente de las distancias físicas.</p>
+El origen de este proyecto fue inspirado por un grupo único de individuos profundamente arraigados en los sectores del deporte, la aeronáutica y la tecnología. Identificaron una brecha en el mundo digital para los entusiastas del golf: un espacio donde pudieran converger, interactuar y compartir su pasión por el golf, especialmente cuando las reuniones físicas no eran factibles. Esta visión llevó al desarrollo de la aplicación OnlyGolfers, un clubhouse virtual diseñado para conectar a golfistas de todo el mundo, permitiéndoles competir, interactuar y celebrar juntos su amor por este deporte.
 
-</div>
+## Desafío
 
-<div class="story_story__mainContent__gantt__TErEp">
-    <figure>
-        <img src="/work/project-chart-es.svg" alt="Gantt chart" loading="lazy"/>
-        <figcaption class="story_story__mainContent__caption__IQRnS">El diagrama de Gantt para este proyecto ilustra nuestro servicio de Desarrollo Ágil, con cada sprint dividido en tres fases distintas: definición, implementación y aceptación.</figcaption>
-    </figure>
-</div>
+La tarea era encapsular digitalmente la esencia y el espíritu del golf, traduciendo la cultura y la terminología del deporte en una experiencia en línea atractiva. El desafío era significativo: crear una plataforma que se sintiera tan genuina y rica en tradición como el mismo juego, todo mientras se aseguraba una experiencia de usuario fluida y agradable. Necesitábamos abordar y resolver cualquier problema que surgiera de manera rápida, mejorando continuamente la funcionalidad y el compromiso del usuario con la plataforma.
 
-<div>
-    <h2>Conclusión</h2>
-    <p>El lanzamiento de la aplicación OnlyGolfers es un testimonio de lo que se puede lograr cuando la tecnología se encuentra con la pasión. Esta plataforma es más que un éxito tecnológico; es una comunidad vibrante que encarna el amor por el golf. Al combinar el deporte con la innovación digital, hemos creado un espacio que no solo mejora la experiencia del golf, sino que también establece un punto de referencia para futuras plataformas comunitarias deportivas. El éxito de este proyecto muestra nuestro compromiso de entregar soluciones digitales significativas e impactantes.</p>
-</div>
+## Solución
+
+La aplicación OnlyGolfers surgió de un riguroso proceso de Desarrollo Ágil. Comenzamos con una fase de Descubrimiento, enfocándonos intensamente en las necesidades y objetivos específicos de la comunidad. Esta base nos permitió construir una aplicación móvil tanto intuitiva como inmersiva, proporcionando funciones que resuenan con la comunidad golfista. La aplicación facilita interacciones en tiempo real entre los usuarios, los mantiene actualizados sobre eventos y torneos de golf, y cuenta con un marcador en vivo para añadir un borde competitivo. Se implementaron integraciones como notificaciones push y Firebase para una gestión efectiva de datos y el compromiso de los usuarios.
+
+![](/work/onlygolfers-figure-1.jpg)
+
+![](/work/onlygolfers-figure-2.jpg)
+
+![](/work/onlygolfers-figure-3.jpg)
+
+## Impacto
+
+La aplicación OnlyGolfers ha influido profundamente en la comunidad golfista al ofrecer una plataforma digital para conexiones significativas y juegos competitivos. Los usuarios pueden crear perfiles completos, compartir contenido, participar en discusiones y participar en torneos virtuales. La aplicación ha elevado la experiencia del golf, permitiendo a los entusiastas mantenerse conectados con el deporte y entre sí, independientemente de las distancias físicas.
+
+## Conclusión
+
+El lanzamiento de la aplicación OnlyGolfers es un testimonio de lo que se puede lograr cuando la tecnología se encuentra con la pasión. Esta plataforma es más que un éxito tecnológico; es una comunidad vibrante que encarna el amor por el golf. Al combinar el deporte con la innovación digital, hemos creado un espacio que no solo mejora la experiencia del golf, sino que también establece un punto de referencia para futuras plataformas comunitarias deportivas. El éxito de este proyecto muestra nuestro compromiso de entregar soluciones digitales significativas e impactantes.

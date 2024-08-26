@@ -109,7 +109,7 @@ export default function SuccessStory({storyData}) {
               <span>{storyData.storyType}</span>
               <h1>{storyData.title[0]}</h1>
               <h1>{storyData.title[1]}</h1>
-              <span>{storyData.solutions}</span>
+              <span> {storyData.solutions}</span>
               {/* <span>{storyData.headline[0]}<br/> {storyData.headline[1]}</span> */}
             </Block>
           </Column>
@@ -127,7 +127,7 @@ export default function SuccessStory({storyData}) {
           </Column>
           <Column
             mode="normal"
-            className={styles.story__introduction}
+            className={(styles.story__introduction)}
             weight="left"
           >
             <Block className={styles.story__introduction__block}>
