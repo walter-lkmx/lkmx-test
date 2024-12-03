@@ -2,7 +2,7 @@
 number: 6
 title: ['Secret Network']
 headline: ['']
-solutions: ['Web3 Project, Digital Brand']
+solutions: ['Proyecto Web3, Marca Digital']
 services: []
 methodologies: []
 period: []
@@ -14,7 +14,6 @@ introduction: {
     content: ""
 }
 ---
-
 
 ## Contexto
 

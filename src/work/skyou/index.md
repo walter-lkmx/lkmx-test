@@ -10,12 +10,10 @@ portrait: 'skyou-thumbnail'
 hero: 'skyou-hero'
 storyType: 'Trabajo'
 introduction: {
-    title: "Antecedentes",
-    content: "En la intersección de la moda y la tecnología, SKYOU surgió como un faro para las mentes creativas. Al ofrecer una avanzada plataforma de producción de ropa bajo demanda, empoderó a artistas, marcas y emprendedores para materializar sus ideas únicas de ropa sin esfuerzo. Con su innovadora herramienta de diseño 3D y una red de fábricas internacionales, SKYOU hizo que la moda personalizada fuera accesible, superando los obstáculos tradicionales de los pedidos al por mayor y simplificando el viaje desde el concepto hasta el consumidor.",
+    title: "",
+    content: ""
 }
 ---
-
-
 
 ## Contexto
 

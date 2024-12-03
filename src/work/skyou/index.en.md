@@ -10,11 +10,10 @@ portrait: 'skyou-thumbnail'
 hero: 'skyou-hero'
 storyType: 'Work'
 introduction: {
-    title: "Background",
-    content: "In the intersection of fashion and technology, SKYOU emerged as a beacon for creative minds. By offering an advanced on-demand clothing production platform, it empowered artists, brands, and entrepreneurs to effortlessly bring their unique apparel ideas to life. With its innovative 3D design tool and a network of international factories, SKYOU made custom fashion accessible, bypassing the traditional hurdles of bulk orders and simplifying the journey from concept to consumer.",
+    title: "",
+    content: ""
 }
 ---
-
 
 ## Background
 

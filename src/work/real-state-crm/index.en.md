@@ -10,8 +10,8 @@ portrait: 'avittat-thumbnail'
 hero: 'avittat-hero'
 storyType: 'Work'
 introduction: {
-    title: "Background",
-    content: "In the competitive landscape of the real estate market, a company embarked on a journey to redefine its sales and customer management strategy. Identifying key inefficiencies in tracking prospects and a reliance on outdated methods, the company envisioned harnessing technology to foster growth and enhance operational effectiveness. The project at the heart of this transformation was the development of a specialized CRM system, designed specifically to streamline the sales process and improve communication. This marked the company's first step towards digital modernization and achieving operational excellence."
+    title: "",
+    content: ""
 }
 ---
 

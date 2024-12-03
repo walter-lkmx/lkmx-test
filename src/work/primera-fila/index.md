@@ -2,7 +2,7 @@
 number: 47
 title: ['Primera Fila']
 headline: ['']
-solutions: ['Booking System']
+solutions: ['Sistema de Reservas']
 services: []
 methodologies: []
 period: []
@@ -14,7 +14,6 @@ introduction: {
     content: ""
 }
 ---
-
 
 ## Contexto
 
