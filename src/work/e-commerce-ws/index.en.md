@@ -6,16 +6,18 @@ solutions: ['E-commerce']
 services: []
 methodologies: []
 period: []
-portrait: 'ws-cover'
-hero: 'ws-hero'
+portrait: 'belair-thumbnail'
+hero: 'belair-cover'
 storyType: 'work'
 introduction: {
-    title: "Background",
-    content: "Following the triumphant launch of [The Fresh Prince](/doc/the-fresh-prince-RM9oc7rCyH) e-commerce platform for Will Smith, our team was approached once again for an equally ambitious project: Bel-Air Athletics. With the success of the previous project setting a high bar, we were tasked with managing and enhancing the e-commerce operations for Bel-Air Athletics over two years. This new venture focused to not only sustain the brand's online presence but also to streamline operational processes and merchandise shipping."
+    title: ,
+    content: 
 }
 ---
 
+## Background
 
+Following the triumphant launch of The Fresh Prince e-commerce platform for Will Smith, our team was approached once again for an equally ambitious project: Bel-Air Athletics. With the success of the previous project setting a high bar, we were tasked with managing and enhancing the e-commerce operations for Bel-Air Athletics over two years. This new venture focused to not only sustain the brand's online presence but also to streamline operational processes and merchandise shipping.
 
 ## Challenge
 

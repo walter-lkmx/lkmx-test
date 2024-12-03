@@ -7,11 +7,11 @@ services: []
 methodologies: []
 period: []
 portrait: 'emprops-thumbnail'
-hero: 'emprops-hero'
+hero: 'emprops-cover'
 storyType: 'Work'
 introduction: {
-    title: "Background",
-    content: "EmProps, short for 'Emergent Properties,' crafted by LKMX, marks the confluence of generative art with AI in the digital realm. As a pioneering decentralized Generative AI platform, it capitalizes on the novel concept of NFTs to redefine digital ownership and artistry. Born from three years of specialized web3 development, EmProps offers creators a robust suite to scale their digital endeavors, embodying the transformative journey of art in the age of blockchain technology."
+    title: "",
+    content: ""
 }
 ---
 

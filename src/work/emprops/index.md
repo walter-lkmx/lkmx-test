@@ -7,7 +7,7 @@ services: []
 methodologies: []
 period: []
 portrait: 'emprops-thumbnail'
-hero: 'emprops-hero'
+hero: 'emprops-cover'
 storyType: 'Trabajo'
 introduction: {
     title: "Antecedentes",

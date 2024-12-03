@@ -6,12 +6,12 @@ solutions: ['E-commerce']
 services: []
 methodologies: []
 period: []
-portrait: 'ws-cover'
-hero: 'ws-hero'
+portrait: 'belair-thumbnail'
+hero: 'belair-cover'
 storyType: 'Trabajo'
 introduction: {
-    title: "Antecedentes",
-    content: "Tras el exitoso lanzamiento de la plataforma de comercio electrónico The Fresh Prince para Will Smith, nuestro equipo fue nuevamente solicitado para un proyecto igualmente ambicioso: Bel-Air Athletics. Con el éxito del proyecto anterior estableciendo un alto estándar, se nos encargó gestionar y mejorar las operaciones de comercio electrónico de Bel-Air Athletics durante dos años. Este nuevo emprendimiento se centró no solo en mantener la presencia en línea de la marca, sino también en optimizar los procesos operativos y el envío de mercancías."
+    title: ,
+    content: 
 }
 ---
 

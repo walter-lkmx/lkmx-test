@@ -6,12 +6,12 @@ solutions: ['Mobile App']
 services: []
 methodologies: []
 period: []
-portrait: 'spectrum-cover'
-hero: 'spectrum-hero'
+portrait: 'spectrum-thumbnail'
+hero: 'spectrum-cover'
 storyType: 'Work'
 introduction: {
-    title: "Background",
-    content: "A renowned auction wine house sought to enhance its digital footprint by transitioning from its traditional online auction platform to a more engaging and user-friendly mobile app. Despite having a successful history of online wine auctions, the house's existing mobile app was underperforming—characterized by poor design, slow response times, and a generally unsatisfactory user experience, which all contributed to low adoption rates. The goal was clear: to develop a new app that would not only facilitate easy browsing and bidding on wine auctions but also elevate the overall user experience to meet the expectations of today's mobile users."
+    title: ,
+    content: 
 }
 ---
 

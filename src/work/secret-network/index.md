@@ -6,12 +6,12 @@ solutions: ['Web3 Project, Digital Brand']
 services: []
 methodologies: []
 period: []
-portrait: 'secret-thumbnail'
-hero: 'secret-hero'
+portrait: 'scrt-thumbnail'
+hero: 'scrt-cover'
 storyType: 'Trabajo'
 introduction: {
-    title: "Antecedentes",
-    content: "Secret Network, una plataforma de blockchain pionera, está dedicada a mejorar la privacidad en la era digital. Empodera a los usuarios proporcionándoles control sobre sus datos, estableciendo un nuevo estándar en la comunidad blockchain para la privacidad y la autonomía del usuario. Reconociendo la necesidad de alinear su presencia digital con sus valores fundamentales, Secret Network se embarcó en una misión para renovar su marca y sitio web. Esta iniciativa ayudó a reflejar el compromiso de la organización con la privacidad y ofrecer a los usuarios una experiencia personalizada."
+    title: "",
+    content: ""
 }
 ---
 

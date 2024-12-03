@@ -1,20 +1,19 @@
 ---
 number: 5
-title: ['Las Cañadas', '']
+title: ['Las Cañadas']
 headline: []
 solutions: ['HR System, Engineering Team, Booking System']
 services: []
 methodologies: []
 period: []
-portrait: 'canadas-thumbnail'
-hero: 'canadas-hero'
+portrait: 'cañadas-thumbnail'
+hero: 'cañadas-cover'
 storyType: 'Trabajo'
 introduction: {
-    title: "Antecedentes",
-    content: "Las Cañadas Campamento y Parque Acuático se extiende por 200 hectáreas de belleza natural, ubicado en el corazón de Baja California, México. Aquí, la aventura se encuentra con la tranquilidad, y los visitantes buscan tanto emociones fuertes como momentos de serenidad. Gestionar este vasto oasis planteaba desafíos que requerían soluciones innovadoras."
+    title: ,
+    content: 
 }
 ---
-
 
 ## Antecedentes
 

@@ -75,7 +75,7 @@ export default function StoriesPage() {
                                                     />
                                                 </div>                                    
                                                 <h2>{project.title[0]}<br/> {project.title[1]}</h2>
-                                                <span>{project.services[0]}, {project.services[1]}<br/>{project.services[2]}</span>
+                                                <span>{project.services[0]} {project.services[1]}<br/>{project.services[2]}</span>
                                             </div>
                                         </Link>                                    
                                     </div> 

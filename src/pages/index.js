@@ -48,19 +48,19 @@ export default function Index() {
   return (
     <BaseLayout>
       <HeadSeo
-        title={$t.home.title + ' - ' + siteMetadata.companyName}
+        title={$t.home.title + " - " + siteMetadata.companyName}
         description={$t.home.ogDescription}
         ogImageUrl={
           $t.home.ogImage
             ? $t.home.ogImage
-            : locale === 'es'
+            : locale === "es"
             ? siteMetadata.ogDefaultImageEs
             : siteMetadata.ogDefaultImageEn
         }
         ogTwitterImage={
           $t.home.ogImage
             ? $t.home.ogImage
-            : locale === 'es'
+            : locale === "es"
             ? siteMetadata.ogDefaultImageEs
             : siteMetadata.ogDefaultImageEn
         }
@@ -89,13 +89,18 @@ export default function Index() {
                     styles.index__hero__block__content__right__imgContainer
                   }
                 >
-                  <Image fill src="/dragon-home.svg" alt="LKMX - Dragon" priority />
+                  <Image
+                    fill
+                    src="/dragon-home.svg"
+                    alt="LKMX - Dragon"
+                    priority
+                  />
                 </div>
               </div>
             </div>
           </Block>
         </Column>
-        
+
         <Column mode="normal" modeM="full" className={styles.index__services}>
           <Block className={styles.index__services__block}>
             <div className={styles.index__services__block__content}>
@@ -103,9 +108,9 @@ export default function Index() {
                 <div>
                   <h2>{$t.home.servicesTitle}</h2>
                   <p>
-                    {$t.home.services[0]} <strong>{$t.home.services[1]}</strong>{' '}
+                    {$t.home.services[0]} <strong>{$t.home.services[1]}</strong>{" "}
                     <br />
-                    {$t.home.services[2]}{' '}
+                    {$t.home.services[2]}{" "}
                     <strong
                       className={
                         styles.index__services__block__content__left__cyan
@@ -202,8 +207,28 @@ export default function Index() {
             </div>
           </Block>
         </Column>
-        <OurWork/>
-        <Industries/>
+
+        <OurWork />
+
+        <Column  mode="normal">
+          <Block >
+            <div >
+              <h2>{$t.home.gcloudTitle}</h2>
+              <p>{$t.home.gcloudParagraph}</p>
+              
+            </div>
+          </Block>
+          <Block >
+            <div >
+              <h2>{$t.home.gcloudTitle}</h2>
+              <p>{$t.home.gcloudParagraph}</p>
+              
+            </div>
+          </Block>
+          
+        </Column>
+
+        <Industries />
         <Column className={styles.index__team} mode="full">
           <Block className={styles.index__team__block}>
             <div className={styles.index__team__block__content}>
@@ -220,14 +245,14 @@ export default function Index() {
                   {$t.home.team[0]}
                   <br
                     className={styles.index__team__block__content__text__sbr}
-                  />{' '}
-                  <strong>{$t.home.team[1]}</strong> {$t.home.team[2]}{' '}
+                  />{" "}
+                  <strong>{$t.home.team[1]}</strong> {$t.home.team[2]}{" "}
                   <strong
                     className={styles.index__team__block__content__text__pink}
                   >
-                    {' '}
+                    {" "}
                     {$t.home.team[3]}
-                  </strong>{' '}
+                  </strong>{" "}
                   {$t.home.team[4]} <br />
                   {$t.home.team[5]} <br />
                   {$t.home.team[6]}
@@ -246,12 +271,12 @@ export default function Index() {
                       className={`${
                         picture.fileName
                           ? styles.index__team__block__content__collabs__collabItem
-                          : styles['index__team__block__content__card-empty']
+                          : styles["index__team__block__content__card-empty"]
                       }`}
                     >
                       {picture.fileName ? (
                         <ImageLegacy
-                          layout={'fill'}
+                          layout={"fill"}
                           placeholder="blur"
                           blurDataURL={fallbackBlurImage}
                           src={`/images/${picture.fileName}`}

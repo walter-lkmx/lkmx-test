@@ -1,17 +1,17 @@
 ---
-number: 0
+number: 41
 title: ['Only Golfers']
 headline: []
 solutions: ['Mobile App, Social Network, SaaS']
 services: []
 methodologies: []
 period: []
-portrait: 'og-cover'
+portrait: 'og-thumbnail' 
 hero: 'og-hero'
 storyType: 'work'
 introduction: {
-    title: "Background",
-    content: "The genesis of this project was inspired by a unique group of individuals deeply rooted in the sports, aerospace, and technology sectors. They identified a gap in the digital world for golf enthusiasts—a space where they could converge, interact, and share their passion for golf, especially when physical meetings were not feasible. This vision led to the development of the OnlyGolfers App, a virtual clubhouse designed to connect golfers worldwide, enabling them to compete, interact, and celebrate their love for the sport together."
+    title: "",
+    content: 
 }
 ---
 

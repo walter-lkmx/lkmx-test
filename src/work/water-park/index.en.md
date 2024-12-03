@@ -1,17 +1,17 @@
 ---
 number: 5
-title: ['Las Cañadas', '']
+title: ['Las Cañadas']
 headline: []
 solutions: ['HR System, Engineering Team, Booking System']
 services: []
 methodologies: []
 period: []
-portrait: 'canadas-thumbnail'
-hero: 'canadas-hero'
+portrait: 'cañadas-thumbnail'
+hero: 'cañadas-cover'
 storyType: 'Work'
 introduction: {
-    title: "Background",
-    content: "Las Cañadas Campsite and Aquatic Park sprawls across 200 hectares of natural beauty, nestled in the heart of Baja California, Mexico. Here, adventure meets tranquility, and visitors seek both adrenaline rushes and serene moments. But managing this vast oasis posed challenges that demanded innovative solutions."
+    title: ,
+    content: 
 }
 ---
 
