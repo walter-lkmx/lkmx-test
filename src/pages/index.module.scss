@@ -1,579 +1,611 @@
 .index {
-	overflow: hidden;
-	&__hero {
-		min-height: 810px;
-		z-index: 1;
-		&__block{
-			> div {
-				@include respond-to("xxxl") {
-					display: grid;
-					justify-content: center;
-					> div {
-						width: 1200px !important;
-					}
-				}
-			}
-			&__content {
-				display: grid;
-				grid-template-columns: 1fr 1fr;
-				@include respond-to("<=m") {
-					grid-template-columns: 1fr;
-					grid-template-rows: 1fr 1fr;
-				}
-				&__left {
-					padding-top: 130px;
-					@include respond-to("<=s") {
-						display: grid;
-    					justify-content: center;
-					}
-					h1 {
-						font-weight: 700;
-						font-size: 60px;
-						line-height: 70px;
-						text-transform: uppercase;
-						width: max-content;
-						max-width: 90vw;
-						@include respond-to("<=m") {
-							font-size: 40px;
-							line-height: 52px;
-						}
-					}
-					p {
-						font-weight: 400;
-						font-size: 20px;
-						line-height: 30px;
-						max-width: 90vw;
-						@include respond-to("<=xs") {
-							br {
-								display: none;
-							}
-						}
-					}
-				}
-				&__right {
-					overflow: visible;
-					position: relative;
-					width: 50vw;
-					max-height: 570px;
-					display: grid;
-					justify-content: center;
-					@include respond-to("<=m") {
-						width: 100%;
-						height: 425px;
-					}
-					@include respond-to("<=s") {
-						width: 90vw;
-					}
-					&__imgContainer{
-						position: relative;
-						width: 1038px;
-						height: 1171px;						
-						@include respond-to(">xl") {
-							transform: translate(-7%, 219px);				
-						}
-						@include respond-to(">=xl") {
-							transform: translate(-8%, 219px);				
-						}
-						@include respond-to("<=l") {
-							width: 768px;
-							height: 866px;
-							transform: translate(-18%, 369px);	
-						}
-						@include respond-to("<=m") {
-							width: 768px;
-							transform: translate(-2.2%, 15px);
-						}
+  overflow: hidden;
+  &__hero {
+    min-height: 810px;
+    z-index: 1;
+    &__block {
+      > div {
+        @include respond-to("xxxl") {
+          display: grid;
+          justify-content: center;
+          > div {
+            width: 1200px !important;
+          }
+        }
+      }
+      &__content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        @include respond-to("<=m") {
+          grid-template-columns: 1fr;
+          grid-template-rows: 1fr 1fr;
+        }
+        &__left {
+          padding-top: 130px;
+          @include respond-to("<=s") {
+            display: grid;
+            justify-content: center;
+          }
+          h1 {
+            font-weight: 700;
+            font-size: 60px;
+            line-height: 70px;
+            text-transform: uppercase;
+            width: max-content;
+            max-width: 90vw;
+            @include respond-to("<=m") {
+              font-size: 40px;
+              line-height: 52px;
+            }
+          }
+          p {
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 30px;
+            max-width: 90vw;
+            @include respond-to("<=xs") {
+              br {
+                display: none;
+              }
+            }
+          }
+        }
+        &__right {
+          overflow: visible;
+          position: relative;
+          width: 50vw;
+          max-height: 570px;
+          display: grid;
+          justify-content: center;
+          @include respond-to("<=m") {
+            width: 100%;
+            height: 425px;
+          }
+          @include respond-to("<=s") {
+            width: 90vw;
+          }
+          &__imgContainer {
+            position: relative;
+            width: 1038px;
+            height: 1171px;
+            @include respond-to(">xl") {
+              transform: translate(-7%, 219px);
+            }
+            @include respond-to(">=xl") {
+              transform: translate(-8%, 219px);
+            }
+            @include respond-to("<=l") {
+              width: 768px;
+              height: 866px;
+              transform: translate(-18%, 369px);
+            }
+            @include respond-to("<=m") {
+              width: 768px;
+              transform: translate(-2.2%, 15px);
+            }
 
-						@include respond-to("<=s") {
-							width: 709px;
-							transform: translate(2.8%, 15px);
-						}
-						@include respond-to("xxxl") {
-							transform: translate(-12%, 219px);
-						}
+            @include respond-to("<=s") {
+              width: 709px;
+              transform: translate(2.8%, 15px);
+            }
+            @include respond-to("xxxl") {
+              transform: translate(-12%, 219px);
+            }
 
-						img {
-							object-fit: fill;
-						}
-						// @include respond-to("<=m") {
-						// 	width: 768.53px;
-						// 	height: 867px;
-						// 	transform: translate(0px, -18px);
-							
-						// }
-						// @include respond-to("<=xs") {
-						// 	transform: translate(0px, 14px);
-						// 	width: 709.14px;
-						// 	height: 800px;
-						// }
-					}	
-				}
-			}
-		}
-	}
-	&__services {
-		position: relative;
-		background: linear-gradient(90deg, $color-neutral-black 51%, $color-bright-gray 49%);
-		@include respond-to("<=m") {
-			background: $color-neutral-black;
-		}
-		&__block{
-			> div {
-				@include respond-to("xxxl") {
-					display: grid;
-					justify-content: center;
-					> div {
-						width: 1200px !important;
-					}
-				}
-				> div {
-					padding: 0px !important;
-				}
-			}
-			&__content {
-				display: grid;
-				grid-template-columns: 1fr 1fr;
-				 
-				@include respond-to("<=m") {
-					grid-template-columns: auto;
-				}
-				&__left {
-					> div {
-						max-width: 80vw;
-					}
-					@include respond-to("<=m") {
-						display: grid;
-						place-items: center;
-						order: 1;
-					}
-					@include respond-to("<=xs") {
-						justify-items: start;
-						padding-left: 16px;
-						br {
-							display: none;
-						}
-					}
-					padding: 226px 16px;
-					h2, p {
-						color: white;
-					}
-					p {
-						font-weight: 400;
-						font-size: 20px;
-						line-height: 30px;
+            img {
+              object-fit: fill;
+            }
+            // @include respond-to("<=m") {
+            // 	width: 768.53px;
+            // 	height: 867px;
+            // 	transform: translate(0px, -18px);
 
-	
-						strong {
-							font-size: 1.5rem;
-							line-height: 2rem;
-							color: $color-pink;
-						}
-					}
-					&__cyan {
-						color: $color-cyan !important;
-					}
-					&__btn {
-						gap: 4px;
-						width: 175px;
-						height: 40px;
-						background: $color-btn-default;
-						font-weight: 400;
-						font-size: 14px;
-						line-height: 24px;
-						color: white;
-						padding: 8px 15px;
-						cursor: pointer;
-						text-align: center;
-						&:hover {
-							background-color: $color-btn-hover;
-						}
-						@include respond-to("<=m") {
-							width: 100%;
-						}
-					}
-				}
-				&__right {
-					background-color: $color-bright-gray;
-					// position: relative;
-					min-height: 560px;
-					display: grid;
-					@include respond-to("<=xs") {
-						max-height: 560px;
-					}
-					@include respond-to("<=m") {
-						position: relative;
-						order: -1;
-						max-height: 560px;
-					}
-					img {
-						@include respond-to("<=xs") {
-							height: 80%;
-						}
-					}
-					&__imgWrapper {
-						position: relative;
-						position: absolute;
-						height: 100%;
-						width: 212px;						
-						&:nth-child(2) {
-							top: 0;							
-								right: 0;							
-							// @include respond-to("<=s") {
-							// 	width: 100vw;
-							// }
-						}
-					}
-					&__triangleLeft {
-						object-position: left;
-    				object-fit: contain;
-					}
-					&__triangleRight {
-						object-position: right;
-    				object-fit: contain;
-					}
-				}
-			}
-		}
-		
-	}
-	&__technologies {
-		&__block {
-			padding: 120px 0px 0px;
-			> div {
-				@include respond-to("xxxl") {
-					display: grid;
-					justify-content: center;
-					> div {
-						width: 1200px !important;
-					}
-				}
-			}
-			&__title {
-				display: grid;
-				place-items: start;
-				gap: rem(26px);
-				h2, p {
-					margin: 0px;
-				}
-				p {
-					width: rem(480px);
-					font-size: 20px;
-					line-height: 30px;
-					max-width: 90vw;
-				}
-			}
-			&__logos {
-				display: grid;
-				justify-items: center;
-				grid-row-gap: .5rem;
-				padding: rem(50px) 0;
-				max-width: rem(924px);
-				margin: auto;
-				width: 100%;
-				@include respond-to(">=xl") {
-					transform: translate(39px, -104px);
-				}
-				@include respond-to("xxxl") {
-					transform: translate(135px, -136px);
-				}
-				
-				@include respond-to("<=l") {
-						max-width: 54rem;
-						justify-items: center;
-						margin: auto;
-						grid-row-gap: 0;
-				}
+            // }
+            // @include respond-to("<=xs") {
+            // 	transform: translate(0px, 14px);
+            // 	width: 709.14px;
+            // 	height: 800px;
+            // }
+          }
+        }
+      }
+    }
+  }
+  &__services {
+    position: relative;
+    background: linear-gradient(
+      90deg,
+      $color-neutral-black 51%,
+      $color-bright-gray 49%
+    );
+    @include respond-to("<=m") {
+      background: $color-neutral-black;
+    }
+    &__block {
+      > div {
+        @include respond-to("xxxl") {
+          display: grid;
+          justify-content: center;
+          > div {
+            width: 1200px !important;
+          }
+        }
+        > div {
+          padding: 0px !important;
+        }
+      }
+      &__content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
 
-				&__row {
-					width: 100%;
-					display: grid;
-					grid-template-columns: repeat(14, 1fr);
-					grid-template-areas: "a0 a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11 a12 a13";
-					align-items: center;
-					justify-items: center;
-					.logoContainer {
-						position: relative;
-						width: 100%;
-						object-fit: fill;
-						min-height: auto;
-						span {
-							img {
-								width: auto !important;
-								min-width: auto !important;
-								padding: 4px !important;
-							}
-						}
-					}
-					&.row-0 {
-						grid-template-areas: ". . . . . . a0 a1 a2 . a3 a4 a5 a6 "
-					}
+        @include respond-to("<=m") {
+          grid-template-columns: auto;
+        }
+        &__left {
+          > div {
+            max-width: 80vw;
+          }
+          @include respond-to("<=m") {
+            display: grid;
+            place-items: center;
+            order: 1;
+          }
+          @include respond-to("<=xs") {
+            justify-items: start;
+            padding-left: 16px;
+            br {
+              display: none;
+            }
+          }
+          padding: 226px 16px;
+          h2,
+          p {
+            color: white;
+          }
+          p {
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 30px;
 
-					&.row-1 {
-						grid-template-areas: ". . . . a0 a1 a2 a2 . a3 a3 a4 a5 a6"
-					}
+            strong {
+              font-size: 1.5rem;
+              line-height: 2rem;
+              color: $color-pink;
+            }
+          }
+          &__cyan {
+            color: $color-cyan !important;
+          }
+          &__btn {
+            gap: 4px;
+            width: 175px;
+            height: 40px;
+            background: $color-btn-default;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 24px;
+            color: white;
+            padding: 8px 15px;
+            cursor: pointer;
+            text-align: center;
+            &:hover {
+              background-color: $color-btn-hover;
+            }
+            @include respond-to("<=m") {
+              width: 100%;
+            }
+          }
+        }
+        &__right {
+          background-color: $color-bright-gray;
+          // position: relative;
+          min-height: 560px;
+          display: grid;
+          @include respond-to("<=xs") {
+            max-height: 560px;
+          }
+          @include respond-to("<=m") {
+            position: relative;
+            order: -1;
+            max-height: 560px;
+          }
+          img {
+            @include respond-to("<=xs") {
+              height: 80%;
+            }
+          }
+          &__imgWrapper {
+            position: relative;
+            position: absolute;
+            height: 100%;
+            width: 212px;
+            &:nth-child(2) {
+              top: 0;
+              right: 0;
+              // @include respond-to("<=s") {
+              // 	width: 100vw;
+              // }
+            }
+          }
+          &__triangleLeft {
+            object-position: left;
+            object-fit: contain;
+          }
+          &__triangleRight {
+            object-position: right;
+            object-fit: contain;
+          }
+        }
+      }
+    }
+  }
+  &__technologies {
+    &__block {
+      padding: 120px 0px 0px;
+      > div {
+        @include respond-to("xxxl") {
+          display: grid;
+          justify-content: center;
+          > div {
+            width: 1200px !important;
+          }
+        }
+      }
+      &__title {
+        display: grid;
+        place-items: start;
+        gap: rem(26px);
+        h2,
+        p {
+          margin: 0px;
+        }
+        p {
+          width: rem(480px);
+          font-size: 20px;
+          line-height: 30px;
+          max-width: 90vw;
+        }
+      }
+      &__logos {
+        display: grid;
+        justify-items: center;
+        grid-row-gap: 0.5rem;
+        padding: rem(50px) 0;
+        max-width: rem(924px);
+        margin: auto;
+        width: 100%;
+        @include respond-to(">=xl") {
+          transform: translate(39px, -104px);
+        }
+        @include respond-to("xxxl") {
+          transform: translate(135px, -136px);
+        }
 
-					&.row-2 {
-						grid-template-areas: "a0 a1 a2 . a3 a4 a5 . a6 a7 . a8 a8 a9"
-					}
+        @include respond-to("<=l") {
+          max-width: 54rem;
+          justify-items: center;
+          margin: auto;
+          grid-row-gap: 0;
+        }
 
-					&.row-3 {
-						grid-template-areas: ". . . a0 a1 a2 . a3 a4 . a5 a5 a6 a7"
-					}
+        &__row {
+          width: 100%;
+          display: grid;
+          grid-template-columns: repeat(14, 1fr);
+          grid-template-areas: "a0 a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11 a12 a13";
+          align-items: center;
+          justify-items: center;
+          .logoContainer {
+            position: relative;
+            width: 100%;
+            object-fit: fill;
+            min-height: auto;
+            span {
+              img {
+                width: auto !important;
+                min-width: auto !important;
+                padding: 4px !important;
+              }
+            }
+          }
+          &.row-0 {
+            grid-template-areas: ". . . . . . a0 a1 a2 . a3 a4 a5 a6 ";
+          }
 
-					&.row-4 {
-						grid-template-areas: "a0 a1 a1 . a2 a3 a4 a4 a5 a6 a6 a7 a8 a8"
-					}
+          &.row-1 {
+            grid-template-areas: ". . . . a0 a1 a2 a2 . a3 a3 a4 a5 a6";
+          }
 
-					&.row-5 {
-						grid-template-areas: ". . . a0 a0 a1 a1 a2 . a3 a3 a4 a4 a5"
-					}
+          &.row-2 {
+            grid-template-areas: "a0 a1 a2 . a3 a4 a5 . a6 a7 . a8 a8 a9";
+          }
 
-					div {
-						display: grid;
-						align-items: center;
-						justify-items: center;
-						height: rem(50px);
-						@include respond-to("<=l") {
-							height: 3rem;
-							img {
-								height: 3rem;
-							}
-						}
-					}
-				}
-			}
-			@include respond-to("<=xs") {
-				&__logos {
-					grid-row-gap: 1rem;
-					max-width: rem(320px);
-					margin: unset;
-					&__row {
-						padding: 0 !important;
-						grid-template-columns: repeat(8, 1fr);
-						grid-template-areas: "a0 a1 a2 a3 a4 a5 a6 a7" "a8 a9 a10 a11 a12 a13";
-						grid-row-gap: 1rem;
-						// width: unset;
-						height: unset;
+          &.row-3 {
+            grid-template-areas: ". . . a0 a1 a2 . a3 a4 . a5 a5 a6 a7";
+          }
 
-						div {
-							height: auto;
-							padding: 0 4px;
-							height: rem(40px);
-						}
+          &.row-4 {
+            grid-template-areas: "a0 a1 a1 . a2 a3 a4 a4 a5 a6 a6 a7 a8 a8";
+          }
 
-						&.row-0 {
-							grid-template-areas: "a0 a1 a2 .  a3 a4 a5 a6"
-						}
+          &.row-5 {
+            grid-template-areas: ". . . a0 a0 a1 a1 a2 . a3 a3 a4 a4 a5";
+          }
 
-						&.row-1 {
-							grid-template-areas: "a0 a1 a2 a2 . a3 a3 a4" "a5 a6 . . . . . ."
-						}
+          div {
+            display: grid;
+            align-items: center;
+            justify-items: center;
+            height: rem(50px);
+            @include respond-to("<=l") {
+              height: 3rem;
+              img {
+                height: 3rem;
+              }
+            }
+          }
+        }
+      }
+      @include respond-to("<=xs") {
+        &__logos {
+          grid-row-gap: 1rem;
+          max-width: rem(320px);
+          margin: unset;
+          &__row {
+            padding: 0 !important;
+            grid-template-columns: repeat(8, 1fr);
+            grid-template-areas: "a0 a1 a2 a3 a4 a5 a6 a7" "a8 a9 a10 a11 a12 a13";
+            grid-row-gap: 1rem;
+            // width: unset;
+            height: unset;
 
-						&.row-2 {
-							grid-template-areas: "a0 a1 a2 . a3 a4 a5 ." "a6 a7 . a8 a8 a9 . ."
-						}
+            div {
+              height: auto;
+              padding: 0 4px;
+              height: rem(40px);
+            }
 
-						&.row-3 {
-							grid-template-areas: "a0 a1 a2 . a3 a4 . . " "a5 a5 a6 a7 . . . ."
-						}
+            &.row-0 {
+              grid-template-areas: "a0 a1 a2 .  a3 a4 a5 a6";
+            }
 
-						&.row-4 {
-							grid-template-areas: "a0 a1 a1 . a2 a3 a4 a4" "a5 a6 a6 a7 a8 a8 . ."
-						}
+            &.row-1 {
+              grid-template-areas: "a0 a1 a2 a2 . a3 a3 a4" "a5 a6 . . . . . .";
+            }
 
-						&.row-5 {
-							grid-template-areas: "a0 a0 a1 a1 a2 . a3 a3" "a4 a4 a5 . . . . ."
-						}
-					}
-				}
-			}
-		}
-	}
-	&__team {
-		background-color: $color-neutral-black;
-		p {
-			color: white;
-		}
-		&__block {
-			&:first-child>div>div {
-				padding: 0px;
-			}					
-			&__content {
-				display: grid;
-				height: 100%;
-				gap: 2rem;
-				padding-top: 240px;
-				// justify-content: center;
-				@include respond-to("<=m") {
-					padding-top: rem(120px);
-				}
-				&__card-empty {
-					border: none;
-				}
-				&__koiContainer {
-					position: relative;
-					width: 300px;
-					height: 600px;
-					display: grid;
-					justify-content: center;
-					margin: 0 auto;
-				}
+            &.row-2 {
+              grid-template-areas: "a0 a1 a2 . a3 a4 a5 ." "a6 a7 . a8 a8 a9 . .";
+            }
 
-				&__text {
-					display: grid;
-					gap: 1rem;
-					justify-content: center;
-					&__pink {
-							color: $color-pink !important;
-					}
-					&__sbr{
-						display: none;
-					}
-					p {
-						font-size: 20px;
-						line-height: 30px;
-						margin: 0;
-						width: rem(488px);
-						text-align: center;
-						
-						@include respond-to("<=s") {
-							font-size: 1rem;
-							line-height: rem(28px);
-							max-width: 90vw;
-							br {
-								display: none;
-							}
-						}
-						strong {
-							font-size: 1.5rem;
-							line-height: 2rem;
-							color: $color-cyan;
-							@include respond-to("<=s") {
-								font-size: 1.25rem;
-								line-height: rem(28px);
-							}
-						}
-					}
-					@include respond-to("<=xs") {
-						&__sbr{
-							display: block !important;
-						}
-					}				
-				}
-				&__btn {
-					gap: 4px;
-					height: 40px;
-					background: $color-btn-default;
-					font-weight: 400;
-					font-size: 14px;
-					line-height: 24px;
-					color: white;
-					padding: 8px 16px;
-					justify-self: center;
-					cursor: pointer;
-					&:hover {
-						background-color: $color-btn-hover;
-					}
-				}
-				&__collabs {
-					margin-top: rem(55px);
-					display: grid;
-					grid-template-columns: repeat(10, 1fr);
-					background-color: $color-bright-gray;
-					 max-width: 100vw;
-					@include respond-to("<=m") {
-						grid-template-columns: repeat(7, 1fr);
-					}
-					@include respond-to("<=s") {
-						grid-template-columns: repeat(6, auto);
- 						margin-top: 2.2rem;
-					}
-					&__collabItem {
-						position: relative;
-						aspect-ratio: 1;
-						img {
-							object-fit: cover;
-						}
-					}
-				}				
-			}
-		}
-	}	
-	&__locations {
-		background-color: $color-bright-gray;
+            &.row-3 {
+              grid-template-areas: "a0 a1 a2 . a3 a4 . . " "a5 a5 a6 a7 . . . .";
+            }
 
-		padding-top: 120px;
-		overflow: hidden;
-		min-height: 800px;
-		&__text {
-			z-index: 1;
-			margin-bottom: 25px;
-			height: fit-content;
-			h1 {
-				margin-bottom: 8px;
-				width: max-content;
-				max-width: 95vw;
-				@include respond-to("<=xs") {
-					font-weight: 700;
-					font-size: 28px;
-					line-height: 36px;
-				}
-			}
-			p {
-				font-weight: 400;
-				font-size: 20px;
-				line-height: 30px;
-				width: max-content;
-				max-width: 95vw;
-				strong {
-					font-weight: 700;
-					font-size: 24px;
-					line-height: 32px;
-					color: $color-cyan;
-				}
-				@include respond-to("<=xs") {
-					br {
-						display: none;
-					}
-				}
-			}
-			&__pink {
-				color: $color-pink !important;
-			}
-		}
-		&__globe {
-			z-index: 0;
-			position: absolute;
-			right: calc(-2% - 604.5px + 270.5px);
-			top: 200px;			
-			@include respond-to("<=l") {
-				left: calc(65% - 604.5px + 270.5px);
-			}
-			@include respond-to("<=m") {
-				left: 0;
-				right: 0;
-				margin: auto;
-				top: 343px;
-			}
-			@include respond-to("<=xs") {
-				top: 415px;
-			}
-			
-			canvas {
-				@include respond-to("<=s") {
-					height: 600px !important;
-					width: 600px !important;
-				}
-				@include respond-to("<=s") {
-					height: 600px !important;
-					width: 600px !important;
-				}
-				@include respond-to("<=xs") {
-					 left: 0%;
-					height: 500px !important;
-					width: 500px !important;
-				}
-			}
-		}
-	}	
+            &.row-4 {
+              grid-template-areas: "a0 a1 a1 . a2 a3 a4 a4" "a5 a6 a6 a7 a8 a8 . .";
+            }
+
+            &.row-5 {
+              grid-template-areas: "a0 a0 a1 a1 a2 . a3 a3" "a4 a4 a5 . . . . .";
+            }
+          }
+        }
+      }
+    }
+  }
+  &__team {
+    background-color: $color-neutral-black;
+    p {
+      color: white;
+    }
+    &__block {
+      &:first-child > div > div {
+        padding: 0px;
+      }
+      &__content {
+        display: grid;
+        height: 100%;
+        gap: 2rem;
+        padding-top: 240px;
+        // justify-content: center;
+        @include respond-to("<=m") {
+          padding-top: rem(120px);
+        }
+        &__card-empty {
+          border: none;
+        }
+        &__koiContainer {
+          position: relative;
+          width: 300px;
+          height: 600px;
+          display: grid;
+          justify-content: center;
+          margin: 0 auto;
+        }
+
+        &__text {
+          display: grid;
+          gap: 1rem;
+          justify-content: center;
+          &__pink {
+            color: $color-pink !important;
+          }
+          &__sbr {
+            display: none;
+          }
+          p {
+            font-size: 20px;
+            line-height: 30px;
+            margin: 0;
+            width: rem(488px);
+            text-align: center;
+
+            @include respond-to("<=s") {
+              font-size: 1rem;
+              line-height: rem(28px);
+              max-width: 90vw;
+              br {
+                display: none;
+              }
+            }
+            strong {
+              font-size: 1.5rem;
+              line-height: 2rem;
+              color: $color-cyan;
+              @include respond-to("<=s") {
+                font-size: 1.25rem;
+                line-height: rem(28px);
+              }
+            }
+          }
+          @include respond-to("<=xs") {
+            &__sbr {
+              display: block !important;
+            }
+          }
+        }
+        &__btn {
+          gap: 4px;
+          height: 40px;
+          background: $color-btn-default;
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 24px;
+          color: white;
+          padding: 8px 16px;
+          justify-self: center;
+          cursor: pointer;
+          &:hover {
+            background-color: $color-btn-hover;
+          }
+        }
+        &__collabs {
+          margin-top: rem(55px);
+          display: grid;
+          grid-template-columns: repeat(10, 1fr);
+          background-color: $color-bright-gray;
+          max-width: 100vw;
+          @include respond-to("<=m") {
+            grid-template-columns: repeat(7, 1fr);
+          }
+          @include respond-to("<=s") {
+            grid-template-columns: repeat(6, auto);
+            margin-top: 2.2rem;
+          }
+          &__collabItem {
+            position: relative;
+            aspect-ratio: 1;
+            img {
+              object-fit: cover;
+            }
+          }
+        }
+      }
+    }
+  }
+  &__locations {
+    background-color: $color-bright-gray;
+
+    padding-top: 120px;
+    overflow: hidden;
+    min-height: 800px;
+    &__text {
+      z-index: 1;
+      margin-bottom: 25px;
+      height: fit-content;
+      h1 {
+        margin-bottom: 8px;
+        width: max-content;
+        max-width: 95vw;
+        @include respond-to("<=xs") {
+          font-weight: 700;
+          font-size: 28px;
+          line-height: 36px;
+        }
+      }
+      p {
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        width: max-content;
+        max-width: 95vw;
+        strong {
+          font-weight: 700;
+          font-size: 24px;
+          line-height: 32px;
+          color: $color-cyan;
+        }
+        @include respond-to("<=xs") {
+          br {
+            display: none;
+          }
+        }
+      }
+      &__pink {
+        color: $color-pink !important;
+      }
+    }
+    &__globe {
+      z-index: 0;
+      position: absolute;
+      right: calc(-2% - 604.5px + 270.5px);
+      top: 200px;
+      @include respond-to("<=l") {
+        left: calc(65% - 604.5px + 270.5px);
+      }
+      @include respond-to("<=m") {
+        left: 0;
+        right: 0;
+        margin: auto;
+        top: 343px;
+      }
+      @include respond-to("<=xs") {
+        top: 415px;
+      }
+
+      canvas {
+        @include respond-to("<=s") {
+          height: 600px !important;
+          width: 600px !important;
+        }
+        @include respond-to("<=s") {
+          height: 600px !important;
+          width: 600px !important;
+        }
+        @include respond-to("<=xs") {
+          left: 0%;
+          height: 500px !important;
+          width: 500px !important;
+        }
+      }
+    }
+  }
+  &__gcloudpartner {
+    .message {
+		display: grid;
+		align-items: center;
+      h2 {
+        width: 80%;
+        @include respond-to("s") {
+          width: 100%;
+          text-align: center;
+        }
+      }
+      p {
+        @include respond-to("s") {
+          text-align: center;
+        }
+        font-size: 20px;
+        line-height: 30px;
+      }
+    }
+    .center {
+      display: grid;
+      align-items: start;
+      text-align: center;
+      img {
+        display: inline-block;
+      }
+    }
+  }
 }
