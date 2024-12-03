@@ -3,7 +3,7 @@ number: 25
 title: ['Frazer']
 headline: ['']
 solutions: ['Document Manager, ERP integrations']
-services: []
+services: ['Software Development']
 methodologies: []
 period: []
 portrait: 'frazer-thumbnail'

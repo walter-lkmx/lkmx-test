@@ -1,9 +1,9 @@
 ---
 number: 47
-title: ['Primera Fila']
+title: ['Frazer']
 headline: ['']
-solutions: ['Booking System']
-services: []
+solutions: ['Gestión de Documentos, ERP']
+services: ['Desarrollo de Software']
 methodologies: []
 period: []
 portrait: 'frazer-thumbnail'
