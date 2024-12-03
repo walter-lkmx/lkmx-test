@@ -2,7 +2,7 @@
 number: 3
 title: ['LegalStream', '']
 headline: ['']
-solutions: ['SaaS, Document Manager']
+solutions: ['SaaS, Manejo de Documentos']
 services: []
 methodologies: []
 period: []
@@ -10,8 +10,8 @@ portrait: 'legal-thumbnail'
 hero: 'legal-hero'
 storyType: 'Trabajo'
 introduction: {
-    title: "Antecedentes",
-    content: "En el intrincado mundo de los asuntos legales, la comunicación fluida es fundamental, especialmente para aquellos que se están recuperando de lesiones. Reconociendo esta necesidad crítica, emprendimos la creación de una plataforma innovadora. Esta aplicación web está específicamente diseñada para cerrar la brecha entre las personas lesionadas y sus principales puntos de contacto: abogados y proveedores de atención médica. ¿Nuestro objetivo? Revolucionar la eficiencia de la comunicación y reducir los exorbitantes costos típicamente asociados con los procesos legales."
+    title: "",
+    content: ""
 }
 ---
 

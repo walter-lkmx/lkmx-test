@@ -10,8 +10,8 @@ portrait: 'legal-thumbnail'
 hero: 'legal-hero'
 storyType: 'Work'
 introduction: {
-    title: "Background",
-    content: "In the intricate world of legal affairs, seamless communication is paramount—especially for those recuperating from injuries. Recognizing this critical need, we embarked on creating a groundbreaking platform. This web application is specifically designed to bridge the gap between injured individuals and their central points of contact: lawyers and healthcare providers. Our goal? To revolutionize communication efficiency and slash the exorbitant costs typically associated with legal processes."
+    title: "",
+    content: ""
 }
 ---
 

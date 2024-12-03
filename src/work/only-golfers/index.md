@@ -10,8 +10,8 @@ portrait: 'og-thumbnail'
 hero: 'og-hero'
 storyType: 'Trabajo' 
 introduction: {
-    title: ,
-    content: 
+    title: "",
+    content: ""
 }
 ---
 

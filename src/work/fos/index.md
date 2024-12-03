@@ -2,7 +2,7 @@
 number: 1
 title: ['FOS']
 headline: []
-solutions: ['E-Commerce, Digital Brand']
+solutions: ['E-Commerce, Marca Digital']
 services: []
 methodologies: []
 period: []

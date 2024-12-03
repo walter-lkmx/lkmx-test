@@ -15,7 +15,6 @@ introduction: {
 }
 ---
 
-
 ## Antecedentes
 
 Frazer Ltd., con sede en Houston, Texas, es un fabricante líder especializado en vehículos de Servicios Médicos de Emergencia (EMS), incluyendo clínicas móviles, unidades de ictus y ambulancias. Desde su fundación en 1956, Frazer se ha dedicado a la innovación en el campo de la atención médica móvil. Frazer ha evolucionado continuamente para satisfacer las demandas de sus clientes. Para mejorar la eficiencia operativa y reducir errores manuales, Frazer buscó automatizar su sistema de procesamiento de facturas.

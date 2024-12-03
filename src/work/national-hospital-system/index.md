@@ -2,7 +2,7 @@
 number: 8
 title: ['Maypo Insights Logistics', '']
 headline: ['']
-solutions: ['Cloud Infrastructure']
+solutions: ['Infraestructura en la Nube']
 services: []
 methodologies: []
 period: []
@@ -10,8 +10,8 @@ portrait: 'hospitals-thumbnail'
 hero: 'hospitals-hero'
 storyType: 'Trabajo'
 introduction: {
-    title: "Antecedentes",
-    content: "En respuesta a los complejos desafíos de logística y distribución enfrentados por el sector salud en México, Maypo, la tercera empresa de logística más grande del país, buscó una transformación digital. Encargado de distribuir suministros médicos a más de 900 hospitales para la segunda red de salud gubernamental más grande, Maypo necesitaba una solución robusta y escalable para optimizar sus operaciones y garantizar la entrega puntual de suministros médicos críticos."
+    title: "",
+    content: ""
 }
 ---
 

@@ -10,8 +10,8 @@ portrait: 'hospitals-thumbnail'
 hero: 'hospitals-hero'
 storyType: 'Work'
 introduction: {
-    title: "Background",
-    content: "In response to the complex logistics and distribution challenges faced by Mexico's healthcare sector, Maypo, the country's third-largest logistics firm, sought a digital transformation. Tasked with distributing medical supplies across over 900 hospitals for the second-largest government health network, Maypo needed a robust, scalable solution to streamline its operations and ensure timely delivery of critical healthcare supplies."
+    title: "",
+    content: ""
 }
 ---
 
