@@ -8,7 +8,7 @@ methodologies: []
 period: []
 portrait: 'belair-thumbnail'
 hero: 'belair-cover'
-storyType: 'work'
+storyType: 'Work'
 introduction: {
     title: ,
     content: 

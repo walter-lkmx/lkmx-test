@@ -2,7 +2,7 @@
 number: 1
 title: ['Casa Hogar Del Anciano']
 headline: []
-solutions: ['Digital Brand']
+solutions: ['Marca Digital']
 services: []
 methodologies: []
 period: []

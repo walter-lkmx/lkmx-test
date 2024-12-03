@@ -2,7 +2,7 @@
 number: 10
 title: ['Emprops IA', '']
 headline: []
-solutions: ['Art Marketplace, Web3 Project']
+solutions: ['Mercado de Arte, Proyecto Web3']
 services: []
 methodologies: []
 period: []
@@ -10,11 +10,10 @@ portrait: 'emprops-thumbnail'
 hero: 'emprops-cover'
 storyType: 'Trabajo'
 introduction: {
-    title: "Antecedentes",
-    content: "EmProps, abreviatura de 'Emergent Properties' (Propiedades Emergentes), creada por Logic Kernel, marca la confluencia del arte generativo con la IA en el ámbito digital. Como una plataforma pionera de Inteligencia Artificial Generativa descentralizada, capitaliza el novedoso concepto de los NFT para redefinir la propiedad digital y el arte. Nacida de tres años de desarrollo web3 especializado, EmProps ofrece a los creadores un conjunto sólido de herramientas para escalar sus emprendimientos digitales, encarnando el viaje transformador del arte en la era de la tecnología blockchain."
+    title: "",
+    content: ""
 }
 ---
-
 
 
 ### Antecedentes
