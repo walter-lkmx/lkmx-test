@@ -10,8 +10,8 @@ portrait: 'casa-anciano-thumbnail'
 hero: 'casa-anciano-cover'
 storyType: 'Trabajo'
 introduction: {
-    title: ,
-    content: 
+    title: "",
+    content: ""
 }
 ---
 

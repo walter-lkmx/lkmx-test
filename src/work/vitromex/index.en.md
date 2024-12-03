@@ -10,8 +10,8 @@ portrait: 'vitromex-thumbnail'
 hero: 'vitromex-cover'
 storyType: 'Work'
 introduction: {
-    title: ,
-    content: 
+    title: "",
+    content: ""
 }
 ---
 

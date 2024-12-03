@@ -10,8 +10,8 @@ portrait: 'pharma-thumbnail'
 hero: 'pharma-hero'
 storyType: 'Trabajo'
 introduction: {
-    title: "Antecedentes",
-    content: "Nuestro cliente, una destacada empresa farmacéutica que opera en México, Colombia y América Central, enfrentaba desafíos en la gestión de sus vastos requerimientos de datos. El proceso involucraba la recopilación, limpieza y procesamiento manual de datos de diversas fuentes, lo que resultaba en la generación de informes a través de hojas de cálculo de Excel para los interesados, consumiendo mucho tiempo. Este método no solo retrasaba la toma de decisiones, sino que también aumentaba el riesgo de inexactitudes en los datos. La empresa reconoció la necesidad de una solución avanzada para optimizar la gestión de datos, reducir la intervención manual y mejorar la precisión y accesibilidad de los análisis para la toma de decisiones estratégicas en sus operaciones."
+    title: "",
+    content: ""
 }
 ---
 

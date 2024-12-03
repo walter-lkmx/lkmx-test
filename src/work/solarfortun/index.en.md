@@ -10,11 +10,10 @@ portrait: 'solarfortun-thumbnail'
 hero: 'solarfortun-cover'
 storyType: 'Work'
 introduction: {
-    title: ,
-    content: 
+    title: "",
+    content: ""
 }
 ---
-
 
 ## Challenge
 

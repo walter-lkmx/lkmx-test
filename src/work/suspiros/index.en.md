@@ -10,8 +10,8 @@ portrait: 'suspiros-thumbnail'
 hero: 'suspiros-cover'
 storyType: 'Work'
 introduction: {
-    title: ,
-    content: 
+    title: "",
+    content: ""
 }
 ---
 

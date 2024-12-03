@@ -10,8 +10,8 @@ portrait: 'cañadas-thumbnail'
 hero: 'cañadas-cover'
 storyType: 'Work'
 introduction: {
-    title: ,
-    content: 
+    title: "",
+    content: ""
 }
 ---
 

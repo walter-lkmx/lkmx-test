@@ -10,8 +10,8 @@ portrait: 'fos-thumbnail'
 hero: 'fos-cover'
 storyType: 'Work'
 introduction: {
-    title: ,
-    content: 
+    title: "",
+    content: ""
 }
 ---
 

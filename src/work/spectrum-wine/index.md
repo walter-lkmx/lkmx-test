@@ -10,8 +10,8 @@ portrait: 'spectrum-thumbnail'
 hero: 'spectrum-cover'
 storyType: 'Trabajo'
 introduction: {
-    title: ,
-    content: 
+    title: "",
+    content: ""
 }
 ---
 

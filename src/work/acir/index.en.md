@@ -10,8 +10,8 @@ portrait: 'acir-thumbnail'
 hero: 'acir-cover'
 storyType: 'Work'
 introduction: {
-    title: ,
-    content: 
+    title: "",
+    content: ""
 }
 ---
 

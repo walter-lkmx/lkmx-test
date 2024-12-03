@@ -11,7 +11,7 @@ hero: 'og-hero'
 storyType: 'work'
 introduction: {
     title: "",
-    content: 
+    content: ""
 }
 ---
 

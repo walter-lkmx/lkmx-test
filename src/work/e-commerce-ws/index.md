@@ -10,8 +10,8 @@ portrait: 'belair-thumbnail'
 hero: 'belair-cover'
 storyType: 'Trabajo'
 introduction: {
-    title: ,
-    content: 
+    title: "",
+    content: ""
 }
 ---
 

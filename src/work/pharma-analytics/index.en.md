@@ -10,8 +10,8 @@ portrait: 'pharma-thumbnail'
 hero: 'pharma-hero'
 storyType: 'Work'
 introduction: {
-    title: "Background",
-    content: "Our client, a prominent pharmaceutical company operating in Mexico, Colombia, and Central America, encountered challenges in handling its vast data requirements. The process involved manually collecting, cleansing, and processing data from various sources, resulting in time-consuming report generation through Excel spreadsheets for stakeholders. This method not only delayed decision-making but also increased the risk of data inaccuracies. The company recognized the need for an advanced solution to streamline its data management, reduce manual intervention, and enhance the accuracy and accessibility of insights for strategic decision-making across its operations."
+    title: "",
+    content: ""
 }
 ---
 
