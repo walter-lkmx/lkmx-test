@@ -1,25 +1,23 @@
 ---
 number: 59
-title: ['Suspiros']
+title: ["Suspiros"]
 headline: []
-solutions: ['E-Commerce']
+solutions: ["E-Commerce"]
 services: []
 methodologies: []
 period: []
-portrait: 'suspiros-thumbnail'
-hero: 'suspiros-cover'
-storyType: 'Work'
-introduction: {
-    title: "",
-    content: ""
-}
+portrait: "suspiros-thumbnail"
+hero: "suspiros-cover"
+storyType: "Work"
+introduction: { title: "", content: "" }
 ---
 
+## Challenge
 
-## Desafío
+The primary challenge for Suspiros Pastelerías, Mexico's largest bakery with a nationwide presence, was to develop their first e-commerce platform. This platform needed to not only reflect their broad selection of products but also accommodate the unique pricing and product availability across various franchises and cities. Given the franchise model, each location had different offerings and pricing, requiring a highly customized solution to provide a seamless and personalized shopping experience for customers based on their specific city.
 
-El desafío principal para Suspiros Pastelerías, la pastelería más grande de México con presencia en todo el país, era desarrollar su primera plataforma de comercio electrónico. Esta plataforma no solo necesitaba reflejar su amplia selección de productos, sino también acomodar los precios y la disponibilidad de productos únicos en varias franquicias y ciudades. Dado el modelo de franquicia, cada ubicación tenía diferentes ofertas y precios, lo que requería una solución altamente personalizada para proporcionar una experiencia de compra fluida y personalizada para los clientes según su ciudad específica.
+## Solution
 
-## Solución
+A custom e-commerce system was developed, tailored to meet Suspiros Pastelerías' specific requirements. This innovative platform featured a location-based pricing and product availability system, allowing it to dynamically adjust the product listings and prices according to the customer's city. By integrating this level of customization, Suspiros could offer a personalized shopping experience, ensuring customers in different cities saw only the products available in their area, with accurate pricing reflective of each franchise's policies.
 
-Se desarrolló un sistema de comercio electrónico personalizado, adaptado para cumplir con los requisitos específicos de Suspiros Pastelerías. Esta innovadora plataforma presentaba un sistema de precios y disponibilidad de productos basado en la ubicación, permitiendo ajustar dinámicamente las listas de productos y los precios según la ciudad del cliente. Al integrar este nivel de personalización, Suspiros podía ofrecer una experiencia de compra personalizada, asegurando que los clientes en diferentes ciudades vieran solo los productos disponibles en su área, con precios precisos que reflejaban las políticas de cada franquicia.
+![](/work/suspiros-figure-1.jpg)
