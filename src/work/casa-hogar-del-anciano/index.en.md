@@ -37,9 +37,15 @@ The creation and donation of the website for La Casa Hogar del Anciano de Ensena
 
 ## Technology
 
-* Gridsome
-* Javascript
-* Jamstack
-* Flare
+Some of the technologies and integrations implemented in this project.
 
-![](/work/casa-hogar-del-anciano.jpg)
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/gridsome.svg" alt="Gridsome"/>
+      <img loading="lazy" src="/technologies/javascript.svg" alt="JavaScript"/>
+      <img loading="lazy" src="/technologies/jamstack.svg" alt="Jamstack"/>
+      <img loading="lazy" src="/technologies/flare.svg" alt="Flare"/>
+    </div>
+  </div>
+</div>

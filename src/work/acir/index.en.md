@@ -42,6 +42,8 @@ The successful redesign implementation of Grupo ACIR's mobile application repres
 
 ## Technology
 
+Some of the technologies and integrations implemented in this project.
+
 * Sketch
 * Konva.js
 * AngularJS

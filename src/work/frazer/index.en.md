@@ -37,6 +37,8 @@ The collaboration resulted in a successful implementation of an automated invoic
 
 ## Technology
 
+Some of the technologies and integrations implemented in this project.
+
 * UiPath
 * Document AI (Google)
 * Google Drive

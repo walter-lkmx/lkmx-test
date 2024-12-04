@@ -38,9 +38,15 @@ La creación y donación del sitio web para La Casa Hogar del Anciano de Ensenad
 
 ### Tecnología
 
-* Gridsome
-* JavaScript
-* Jamstack
-* Flare
+Algunas de las tecnologías e integraciones implementadas en este proyecto.
 
-![](/work/casa-hogar-del-anciano.jpg)
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/gridsome.svg" alt="Gridsome"/>
+      <img loading="lazy" src="/technologies/javascript.svg" alt="JavaScript"/>
+      <img loading="lazy" src="/technologies/jamstack.svg" alt="Jamstack"/>
+      <img loading="lazy" src="/technologies/flare.svg" alt="Flare"/>
+    </div>
+  </div>
+</div>

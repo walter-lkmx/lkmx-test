@@ -47,12 +47,21 @@ La revitalización de la presencia digital de Secret Network es un testimonio de
 
 ## Tecnologías
 
-* HTML5
-* CSS
-* JavaScript
-* TypeScript
-* Vue.js
-* Gridsome
-* Git
-* GitHub
-* Strapi
+Algunas de las tecnologías e integraciones implementadas en este proyecto.
+
+<div class="story_story__mainContent__technologies__v5XXm"> 
+    <div class="story_story__mainContent__technologies__images__6NSg5">
+        <div>
+        <img loading="lazy" src="/technologies/html.svg" alt="html"/>
+            <img loading="lazy" src="/technologies/css.svg" alt="css"/>
+            <img loading="lazy" src="/technologies/javascript.svg" alt="javascript"/>
+            <img loading="lazy" src="/technologies/typescript.svg" alt="typescript"/>
+        </div>
+        <div>
+            <img loading="lazy" src="/technologies/vue.svg" alt="vue"/>
+            <img loading="lazy" src="/technologies/gridsom.svg" alt="gridsom"/>
+            <img loading="lazy" src="/technologies/github.svg" alt="github"/>
+            <img loading="lazy" src="/technologies/strapi.svg" class="story_story__mainContent__technologies__images__large__KxVD1" alt="strapi logo"/>
+        </div>
+    </div>     
+</div>

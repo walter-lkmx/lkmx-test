@@ -39,10 +39,20 @@ El lanzamiento de la aplicación móvil de Spectrum Wine ha transformado el mund
 
 ## Tecnologías
 
-* HTML
-* CSS
-* JavaScript
-* Vue
-* Sass
-* Cordova
-* Node.js
+Algunas de las tecnologías e integraciones implementadas en este proyecto.
+
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/html.svg" alt="HTML"/>
+      <img loading="lazy" src="/technologies/css.svg" alt="CSS"/>
+      <img loading="lazy" src="/technologies/javascript.svg" alt="JavaScript"/>
+      <img loading="lazy" src="/technologies/vue.svg" alt="Vue"/>
+    </div>
+    <div>
+      <img loading="lazy" src="/technologies/sass.svg" alt="Sass"/>
+      <img loading="lazy" src="/technologies/cordova.png" alt="Cordova"/>
+      <img loading="lazy" src="/technologies/node.svg" alt="Node.js"/>
+    </div>
+  </div>
+</div>

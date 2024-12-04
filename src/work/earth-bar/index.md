@@ -30,9 +30,16 @@ Para abordar este desafío, la tienda Shopify de Earthbar experimentó una actua
 
 ![](/work/earthbar-figure-03.jpg)
 
-## Tecnología:
+## Tecnología
 
-* Shopify
-* Liquid
-* HTML5
-* SASS
+Algunas de las tecnologías e integraciones implementadas en este proyecto.
+
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/shopify.svg" alt="Shopify"/>
+      <img loading="lazy" src="/technologies/html.svg" alt="HTML5"/>
+      <img loading="lazy" src="/technologies/sass.svg" alt="SASS"/>
+    </div>
+  </div>
+</div>
