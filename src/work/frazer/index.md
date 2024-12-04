@@ -1,18 +1,15 @@
 ---
 number: 47
-title: ['Frazer']
-headline: ['']
-solutions: ['Gestión de Documentos, ERP']
-services: ['Desarrollo de Software']
+title: ["Frazer"]
+headline: [""]
+solutions: ["Gestión de Documentos, ERP"]
+services: ["Desarrollo de Software"]
 methodologies: []
 period: []
-portrait: 'frazer-thumbnail'
-hero: 'frazer-cover'
-storyType: 'Trabajo'
-introduction: {
-    title: "",
-    content: ""
-}
+portrait: "frazer-thumbnail"
+hero: "frazer-cover"
+storyType: "Trabajo"
+introduction: { title: "", content: "" }
 ---
 
 ## Antecedentes
@@ -22,6 +19,8 @@ Frazer Ltd., con sede en Houston, Texas, es un fabricante líder especializado e
 ## Desafío
 
 Frazer enfrentaba desafíos significativos en su flujo de trabajo de procesamiento de facturas. El manejo manual de facturas era un proceso que consumía mucho tiempo y era propenso a errores, incluyendo facturas inválidas, órdenes de compra (POs) faltantes, datos no coincidentes e información incompleta. Estos problemas provocaban ineficiencias y aumentaban el riesgo de errores humanos, afectando la precisión y rapidez de las operaciones financieras. Además, se estimaba que la clasificación manual de documentos podía consumir hasta 2,000 horas de trabajo anuales, destacando aún más la necesidad de una solución automatizada.
+
+![](/work/frazer-figure-1.jpg)
 
 ## Solución
 
@@ -39,7 +38,7 @@ La colaboración resultó en la implementación exitosa de un sistema automatiza
 
 Algunas de las tecnologías e integraciones implementadas en este proyecto.
 
-* UiPath
-* Document AI (Google)
-* Google Drive
-* Syteline ERP
+- UiPath
+- Document AI (Google)
+- Google Drive
+- Syteline ERP
