@@ -37,6 +37,8 @@ La colaboración resultó en la implementación exitosa de un sistema automatiza
 
 ## Tecnologías
 
+Algunas de las tecnologías e integraciones implementadas en este proyecto.
+
 * UiPath
 * Document AI (Google)
 * Google Drive

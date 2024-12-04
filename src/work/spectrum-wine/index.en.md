@@ -38,12 +38,22 @@ The introduction of the new mobile app significantly improved the wine house's o
 
 The launch of Spectrum Wine's mobile app has transformed the wine auction world, blending tradition with modern technology to enhance the auction experience. This initiative has extended the reach of fine wine auctions globally, reinforcing our commitment to innovative, user-centered digital solutions. Spectrum Wine now leads in the digital auction space, with a platform that reflects its high-quality offerings. This collaboration highlights our ability to navigate challenges and drive industry advancements, showcasing our leadership in digital innovation.
 
-## Technologies
+## Technology
 
-* HTML
-* CSS
-* Javascript
-* Vue
-* Sass
-* Cordova
-* Node.js
+Some of the technologies and integrations implemented in this project.
+
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/html.svg" alt="HTML"/>
+      <img loading="lazy" src="/technologies/css.svg" alt="CSS"/>
+      <img loading="lazy" src="/technologies/javascript.svg" alt="JavaScript"/>
+      <img loading="lazy" src="/technologies/vue.svg" alt="Vue"/>
+    </div>
+    <div>
+      <img loading="lazy" src="/technologies/sass.svg" alt="Sass"/>
+      <img loading="lazy" src="/technologies/cordova.png" alt="Cordova"/>
+      <img loading="lazy" src="/technologies/node.svg" alt="Node.js"/>
+    </div>
+  </div>
+</div>

@@ -27,6 +27,15 @@ Nuestro equipo se embarcó en el desarrollo de un sitio web de comercio electró
 
 ## Tecnologías
 
-* Wordpress
-* WooCommerce
-* OpenTable
+Algunas de las tecnologías e integraciones implementadas en este proyecto.
+
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/wordpress.svg" alt="Wordpress"/>
+      <img loading="lazy" src="/technologies/woocommerce.svg" alt="WooCommerce"/>
+      <img loading="lazy" src="/technologies/opentable.svg" alt="OpenTable"/>
+      <img loading="lazy" src="/technologies/placeholder.svg" alt="Placeholder"/>
+    </div>
+  </div>
+</div>

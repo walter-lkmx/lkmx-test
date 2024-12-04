@@ -27,14 +27,23 @@ To address Vitromex's integration challenges, a system was built to enhance oper
 
 ![](/work/vitromex-figure-02.jpg)
 
-## Technologies
+## Technology
 
-* Java
-* Spring
-* AngularJS
-* RESTful APIs
-* MongoDB
-* Google Cloud Platform
-* Docker
-* Kubernetes
-* Cloudflare
+Some of the technologies and integrations implemented in this project.
+
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/java.svg" alt="Java"/>
+      <img loading="lazy" src="/technologies/spring.svg" alt="Spring"/>
+      <img loading="lazy" src="/technologies/angular.svg" alt="AngularJS"/>
+      <img loading="lazy" src="/technologies/mongodb.svg" alt="MongoDB"/>
+    </div>
+    <div>
+      <img loading="lazy" src="/technologies/gcloud.svg" alt="Google Cloud Platform"/>
+      <img loading="lazy" src="/technologies/docker.svg" alt="Docker"/>
+      <img loading="lazy" src="/technologies/kubernetes.svg" alt="Kubernetes"/>
+      <img loading="lazy" src="/technologies/cloudflare.svg" alt="Cloudflare"/>
+    </div>
+  </div>
+</div>

@@ -46,3 +46,24 @@ The launch of Secret Network's redesigned website has significantly enhanced the
 ## Conclusion
 
 The revitalization of Secret Network's digital presence is a testament to our commitment to harnessing innovative web solutions that align with the principles of digital privacy and user empowerment. Through this project, we've demonstrated our expertise in creating platforms that not only meet the technical and aesthetic needs of today's digital landscape but also embody the core values of our clients. This initiative reflects our dedication to advancing privacy-focused blockchain technology and showcases our capability to transform challenges into impactful, user-centric solutions.
+
+## Technology
+
+Some of the technologies and integrations implemented in this project.
+
+<div class="story_story__mainContent__technologies__v5XXm"> 
+    <div class="story_story__mainContent__technologies__images__6NSg5">
+        <div>
+        <img loading="lazy" src="/technologies/html.svg" alt="html"/>
+            <img loading="lazy" src="/technologies/css.svg" alt="css"/>
+            <img loading="lazy" src="/technologies/javascript.svg" alt="javascript"/>
+            <img loading="lazy" src="/technologies/typescript.svg" alt="typescript"/>
+        </div>
+        <div>
+            <img loading="lazy" src="/technologies/vue.svg" alt="vue"/>
+            <img loading="lazy" src="/technologies/gridsom.svg" alt="gridsom"/>
+            <img loading="lazy" src="/technologies/github.svg" alt="github"/>
+            <img loading="lazy" src="/technologies/strapi.svg" class="story_story__mainContent__technologies__images__large__KxVD1" alt="strapi logo"/>
+        </div>
+    </div>     
+</div>

@@ -43,10 +43,20 @@ The culmination of the PrimeraFila project highlights our proficiency in deliver
 
 ## Technology
 
-* Java
-* Spring Framework
-* HTML5
-* CSS
-* Vue.js
-* JavaScript
-* Linux
+Some of the technologies and integrations implemented in this project.
+
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/java.svg" alt="Java"/>
+      <img loading="lazy" src="/technologies/spring.svg" alt="Spring Framework"/> 
+      <img loading="lazy" src="/technologies/html.svg" alt="HTML5"/>
+      <img loading="lazy" src="/technologies/css.svg" alt="CSS"/>
+    </div>
+    <div>
+      <img loading="lazy" src="/technologies/vue.svg" alt="Vue.js"/>
+      <img loading="lazy" src="/technologies/javascript.svg" alt="JavaScript"/>
+      <img loading="lazy" src="/technologies/linux.svg" alt="Linux"/>
+    </div>
+  </div>
+</div>

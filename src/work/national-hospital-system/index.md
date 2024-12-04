@@ -38,6 +38,8 @@ Este proyecto refleja nuestra dedicación a aplicar tecnologías innovadoras par
 
 ## Tecnologías
 
+Algunas de las tecnologías e integraciones implementadas en este proyecto.
+
 * Java
 * Elasticsearch
 * Spring Boot

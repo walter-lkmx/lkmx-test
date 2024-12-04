@@ -33,7 +33,14 @@ To address this, Earthbar's Shopify store underwent a significant update focused
 
 ## Technology
 
-* Shopify
-* Liquid
-* HTML5
-* SASS
+Some of the technologies and integrations implemented in this project.
+
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/shopify.svg" alt="Shopify"/>
+      <img loading="lazy" src="/technologies/html.svg" alt="HTML5"/>
+      <img loading="lazy" src="/technologies/sass.svg" alt="SASS"/>
+    </div>
+  </div>
+</div>
