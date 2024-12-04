@@ -34,7 +34,6 @@ Some of the technologies and integrations implemented in this project.
       <img loading="lazy" src="/technologies/wordpress.svg" alt="Wordpress"/>
       <img loading="lazy" src="/technologies/woocommerce.svg" alt="WooCommerce"/>
       <img loading="lazy" src="/technologies/opentable.svg" alt="OpenTable"/>
-      <img loading="lazy" src="/technologies/placeholder.svg" alt="Placeholder"/>
     </div>
   </div>
 </div>
