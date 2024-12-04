@@ -59,9 +59,3 @@ npm run build
 1. Push changes to `stg` branch (no automatic deployment)
 2. Create Pull Request from `stg` to `PRD` when ready
 3. Vercel automatically deploys on commits to `PRD` branch
-
-### ⚡ Manual Deploy
-If needed, force a deployment using the webhook:
-```bash
-curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_4zS77YVZmrybFgaEMk5SG4dw2zl2/OWsf6NstVA
-```
