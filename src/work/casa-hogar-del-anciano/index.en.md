@@ -1,18 +1,15 @@
 ---
 number: 1
-title: ['Casa Hogar Del Anciano']
+title: ["Casa Hogar Del Anciano"]
 headline: []
-solutions: ['Digital Brand']
+solutions: ["Digital Brand"]
 services: []
 methodologies: []
 period: []
-portrait: 'casa-anciano-thumbnail'
-hero: 'casa-anciano-cover'
-storyType: 'Work'
-introduction: {
-    title: "",
-    content: ""
-}
+portrait: "casa-anciano-thumbnail"
+hero: "casa-anciano-cover"
+storyType: "Work"
+introduction: { title: "", content: "" }
 ---
 
 ## Background
@@ -27,9 +24,13 @@ The advent of the pandemic brought unforeseen challenges for La Casa Hogar del A
 
 To address the critical financial shortfall, our team initiated and crafted a streamlined website as a pro bono endeavor for La Casa Hogar del Anciano de Ensenada A.C. The site was meticulously designed to synthesize key information, providing easy access for donors to learn about the home's mission and the urgent needs of its residents. With intuitive design and clear pathways for contribution, the website was an unexpected gift to the institution, catalyzing the collection of essential funds and rallying community support in a time of unforeseen crisis.
 
+![](/work/casa-anciano-figure-1.jpg)
+
 ## Impact
 
 The impact of the website was significant and immediate. It provided a lifeline for the home, improving the donation process and increasing the visibility of the emergency. The campaign attracted new benefactors, and the influx of donations enabled the continued specialized care for the elderly residents, ensuring that the compassion and generosity of the community translated into tangible support.
+
+![](/work/casa-anciano-figure-2.jpg)
 
 ## Conclusion
 

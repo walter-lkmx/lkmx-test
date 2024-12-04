@@ -1,20 +1,16 @@
 ---
 number: 1
-title: ['Casa Hogar Del Anciano']
+title: ["Casa Hogar Del Anciano"]
 headline: []
-solutions: ['Marca Digital']
+solutions: ["Marca Digital"]
 services: []
 methodologies: []
 period: []
-portrait: 'casa-anciano-thumbnail'
-hero: 'casa-anciano-cover'
-storyType: 'Trabajo'
-introduction: {
-    title: "",
-    content: ""
-}
+portrait: "casa-anciano-thumbnail"
+hero: "casa-anciano-cover"
+storyType: "Trabajo"
+introduction: { title: "", content: "" }
 ---
-
 
 ### Antecedentes
 
@@ -28,9 +24,13 @@ La llegada de la pandemia trajo desafíos imprevistos para La Casa Hogar del Anc
 
 Para abordar la crítica falta de fondos, nuestro equipo inició y creó un sitio web optimizado como un esfuerzo pro bono para La Casa Hogar del Anciano de Ensenada A.C. El sitio fue diseñado meticulosamente para sintetizar información clave, proporcionando un acceso fácil para que los donantes aprendan sobre la misión del hogar y las necesidades urgentes de sus residentes. Con un diseño intuitivo y caminos claros para la contribución, el sitio web fue un regalo inesperado para la institución, catalizando la recaudación de fondos esenciales y movilizando el apoyo comunitario en un momento de crisis imprevista.
 
+![](/work/casa-anciano-figure-1.jpg)
+
 ### Impacto
 
 El impacto del sitio web fue significativo e inmediato. Proporcionó un salvavidas para el hogar, mejorando el proceso de donación y aumentando la visibilidad de la emergencia. La campaña atrajo a nuevos benefactores y el influjo de donaciones permitió continuar la atención especializada para los residentes ancianos, asegurando que la compasión y generosidad de la comunidad se tradujeran en apoyo tangible.
+
+![](/work/casa-anciano-figure-2.jpg)
 
 ### Conclusión
 
