@@ -1,18 +1,15 @@
 ---
 number: 1
-title: ['Spectrum Wine']
+title: ["Spectrum Wine"]
 headline: []
-solutions: ['Mobile App']
+solutions: ["Mobile App"]
 services: []
 methodologies: []
 period: []
-portrait: 'spectrum-thumbnail'
-hero: 'spectrum-cover'
-storyType: 'Trabajo'
-introduction: {
-    title: "",
-    content: ""
-}
+portrait: "spectrum-thumbnail"
+hero: "spectrum-cover"
+storyType: "Trabajo"
+introduction: { title: "", content: "" }
 ---
 
 ## Contexto
@@ -23,11 +20,11 @@ Una reconocida casa de subastas de vinos buscaba mejorar su presencia digital al
 
 El proyecto presentó dos desafíos principales: en primer lugar, la integración con la extensa base de datos de la casa de vinos para mostrar el inventario de subastas en tiempo real, incluyendo información detallada sobre los vinos como la añada, la región y las notas de cata, junto con el estado actual de las pujas. El acceso rápido y eficiente a los datos era crucial para una experiencia de usuario fluida. En segundo lugar, el manejo de datos confidenciales exigía medidas de seguridad estrictas para proteger contra el fraude y asegurar que la información del usuario permaneciera segura, dada la naturaleza de alto valor de los artículos en subasta.
 
-![](/work/spectrum-wine-figure-1.jpg)
-
 ## Solución
 
 Nuestro enfoque fue diseñar una aplicación móvil personalizada utilizando una API RESTful para una integración fluida con la base de datos de inventario de la casa de vinos. Esta solución garantizó la presentación rápida y eficiente de datos de subastas en tiempo real a los usuarios de la aplicación. Para abordar las preocupaciones de seguridad, incorporamos múltiples capas de protección de datos, incluyendo la encriptación de información sensible y la implementación de controles de acceso estrictos. La aplicación presentó capacidades para que los usuarios crearan listas de seguimiento, contactaran directamente con los vendedores, enviaran pujas y participaran activamente en las subastas, mejorando el compromiso y la satisfacción del usuario.
+
+![](/work/spectrum-figure-1.jpg)
 
 ## Impacto
 

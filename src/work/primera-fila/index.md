@@ -1,18 +1,15 @@
 ---
 number: 47
-title: ['Primera Fila']
-headline: ['']
-solutions: ['Sistema de Reservas']
+title: ["Primera Fila"]
+headline: [""]
+solutions: ["Sistema de Reservas"]
 services: []
 methodologies: []
 period: []
-portrait: 'pfila-thumbnail'
-hero: 'pfila-cover'
-storyType: 'Trabajo'
-introduction: {
-    title: "",
-    content: ""
-}
+portrait: "pfila-thumbnail"
+hero: "pfila-cover"
+storyType: "Trabajo"
+introduction: { title: "", content: "" }
 ---
 
 ## Contexto
@@ -27,8 +24,6 @@ El proyecto presentó un conjunto complejo de desafíos. Requirió la creación 
 
 Para abordar estos desafíos, se implementó una estrategia de desarrollo cohesiva que involucró la creación de una plataforma de comercio electrónico segura y estable que permitiera búsquedas de eventos, selección de asientos y transacciones sin problemas, ya sea en línea o a través de pagos alternativos. Se introdujeron cuentas de usuario para simplificar futuras compras. Se desarrolló una aplicación de acceso para agilizar la verificación y validación de entradas en los lugares de eventos, mejorando el proceso de entrada. La consola administrativa fue diseñada para dar a los organizadores control sobre la configuración de eventos, la gestión de usuarios, la venta de entradas, el mapeo de lugares y la personalización de diseños de lugares a través de un editor especializado de lugares. Este editor permite la colocación y categorización precisa de asientos dentro de varias zonas, optimizando el proceso de planificación de eventos. Además, se creó una extensión móvil para iOS y Android que reflejaba las capacidades de la plataforma de comercio electrónico, incluyendo una función de cola virtual para mantener la estabilidad del sistema. Se integró un módulo de historial de compras en el sitio web y la aplicación móvil, proporcionando a los usuarios una forma conveniente de ver registros de transacciones y acceder a códigos QR para la entrada sin papel a los eventos.
 
-![](/work/work-pfila-1.jpg)
-
 ![](/work/work-pfila-2.jpg)
 
 ![](/work/work-pfila-3.jpg)
@@ -36,6 +31,8 @@ Para abordar estos desafíos, se implementó una estrategia de desarrollo cohesi
 ## Impacto
 
 La solución integral proporcionada por PrimeraFila mejoró significativamente la experiencia de compra de entradas y entrada a eventos para los usuarios, al tiempo que ofreció a los organizadores de eventos herramientas poderosas para la gestión y el análisis. La introducción del sistema de cola virtual gestionó eficazmente la carga de la plataforma durante períodos de alta demanda, asegurando la estabilidad operativa. La extensión de la aplicación móvil amplió el acceso, permitiendo a los usuarios la comodidad de gestionar sus experiencias en eventos sobre la marcha.
+
+![](/work/work-pfila-1.jpg)
 
 ## Conclusión
 

@@ -1,18 +1,15 @@
 ---
 number: 1
-title: ['Solar Fortún']
+title: ["Solar Fortún"]
 headline: []
-solutions: ['E-Commerce']
+solutions: ["E-Commerce"]
 services: []
 methodologies: []
 period: []
-portrait: 'solarfortun-thumbnail'
-hero: 'solarfortun-cover'
-storyType: 'Trabajo'
-introduction: {
-    title: "",
-    content: ""
-}
+portrait: "solarfortun-thumbnail"
+hero: "solarfortun-cover"
+storyType: "Trabajo"
+introduction: { title: "", content: "" }
 ---
 
 ## Desafío
@@ -24,6 +21,8 @@ Solar Fortún necesitaba aumentar su visibilidad en línea para igualar su recon
 ## Solución
 
 Nuestro equipo se embarcó en el desarrollo de un sitio web de comercio electrónico integral, enfocándose tanto en el diseño web como en los aspectos funcionales. La plataforma fue diseñada cuidadosamente para asegurar una experiencia de cliente fluida, permitiendo una exploración y compra sin esfuerzo de una amplia gama de vinos. Además, la integración de OpenTable facilitó las reservas para visitas al viñedo, combinando el comercio con el compromiso experiencial de manera perfecta. Este enfoque aseguró que el sitio web trascendiera ser simplemente un portal de ventas, invitando a los usuarios a sumergirse en la experiencia de la bodega. El producto final es una presencia en línea fácil de usar y atractiva que cumple efectivamente con los objetivos comerciales y profundiza las conexiones con los visitantes.
+
+![](/work/solarfortun-figure-2.jpg)
 
 ## Tecnologías
 

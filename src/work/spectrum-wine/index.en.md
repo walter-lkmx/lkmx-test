@@ -1,20 +1,16 @@
 ---
 number: 1
-title: ['Spectrum Wine']
+title: ["Spectrum Wine"]
 headline: []
-solutions: ['Mobile App']
+solutions: ["Mobile App"]
 services: []
 methodologies: []
 period: []
-portrait: 'spectrum-thumbnail'
-hero: 'spectrum-cover'
-storyType: 'Work'
-introduction: {
-    title: "",
-    content: ""
-}
+portrait: "spectrum-thumbnail"
+hero: "spectrum-cover"
+storyType: "Work"
+introduction: { title: "", content: "" }
 ---
-
 
 ## Background
 
@@ -24,11 +20,11 @@ A renowned auction wine house sought to enhance its digital footprint by transit
 
 The project presented two main challenges: firstly, the integration with the wine house's extensive database to display auction inventory in real time, including detailed wine information such as vintage, region, and tasting notes, along with current bidding status. Rapid and efficient data access was crucial for a seamless user experience. Secondly, the handling of confidential data demanded stringent security measures to protect against fraud and ensure user information remained secure, given the high-value nature of the auction items.
 
-![](/work/spectrum-wine-figure-1.jpg)
-
 ## Solution
 
 Our approach was to design a custom mobile app utilizing a RESTful API for smooth integration with the wine house's inventory database. This solution ensured the swift and efficient presentation of real-time auction data to app users. To address the security concerns, we incorporated multiple layers of data protection, including the encryption of sensitive information and the implementation of strict access controls. The app featured capabilities for users to create watchlists, contact sellers directly, submit bids, and actively participate in auctions, enhancing engagement and user satisfaction.
+
+![](/work/spectrum-figure-1.jpg)
 
 ## Impact
 

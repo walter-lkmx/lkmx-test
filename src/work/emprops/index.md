@@ -1,20 +1,16 @@
 ---
 number: 10
-title: ['Emprops IA', '']
+title: ["Emprops IA", ""]
 headline: []
-solutions: ['Mercado de Arte, Proyecto Web3']
+solutions: ["Mercado de Arte, Proyecto Web3"]
 services: []
 methodologies: []
 period: []
-portrait: 'emprops-thumbnail'
-hero: 'emprops-cover'
-storyType: 'Trabajo'
-introduction: {
-    title: "",
-    content: ""
-}
+portrait: "emprops-thumbnail"
+hero: "emprops-cover"
+storyType: "Trabajo"
+introduction: { title: "", content: "" }
 ---
-
 
 ## Antecedentes
 
@@ -32,13 +28,15 @@ Para abordar el escepticismo inicial que rodeaba a los NFT y el salto tecnológi
 
 La generación en tiempo real de arte, facilitada por una síntesis de la visión artística y la automatización algorítmica, permitió la creación de obras de arte únicas y generadas algorítmicamente.
 
+![](/work/emprops-figure-1.jpg)
+
 ## Impacto
 
 La acogida de EmProps en el espacio del arte digital habla por sí sola, con un torrente de comentarios positivos de creadores y coleccionistas por igual. Ha catalizado un renacimiento en la creatividad digital, donde la distinción entre artista y tecnólogo se difumina en una identidad singular. Los entusiastas testimonios de los usuarios destacan el éxito de la plataforma al proporcionar un entorno dinámico para la creación, acuñación y comercialización sin problemas de obras de arte digitales mejoradas por IA.
 
 EmProps ha fomentado una comunidad donde el arte digital no solo se consume, sino que se celebra por su innovadora integración de tecnologías emergentes. El impacto de la plataforma es evidente en la vibrante actividad del mercado y en la adopción de sus herramientas por parte de creadores que anteriormente podrían haber dudado ante el umbral del mundo del arte digital. A través de EmProps, los artistas han encontrado una voz en el nuevo paisaje digital, y la plataforma se ha convertido en un faro para el potencial de la IA generativa en el arte.
 
-![](/work/emprops-ia-figure-1.jpg)
+![](/work/emprops-figure-2.jpg)
 
 ## Conclusión
 

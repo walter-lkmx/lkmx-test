@@ -1,18 +1,15 @@
 ---
 number: 47
-title: ['Primera Fila']
-headline: ['']
-solutions: ['Booking System']
+title: ["Primera Fila"]
+headline: [""]
+solutions: ["Booking System"]
 services: []
 methodologies: []
 period: []
-portrait: 'pfila-thumbnail'
-hero: 'pfila-cover'
-storyType: 'Work'
-introduction: {
-    title: "",
-    content: ""
-}
+portrait: "pfila-thumbnail"
+hero: "pfila-cover"
+storyType: "Work"
+introduction: { title: "", content: "" }
 ---
 
 ## Background
@@ -27,8 +24,6 @@ The endeavor presented a complex set of challenges. The project required the cre
 
 Addressing these challenges, a cohesive development strategy was implemented, which involved crafting a secure and stable E-commerce platform that allows for easy event searches, seat selection, and seamless transactions, either online or through alternative payments. User accounts were introduced to simplify future purchases. An Access App was developed to expedite ticket scanning and validation at venues, enhancing the entry process. The Administrative Console was designed to give organizers control over event setup, user management, ticket sales, venue mapping, and the customization of venue layouts through a specialized venue editor. This editor enables precise placement and categorization of seats within various zones, streamlining the event planning process. Additionally, a mobile app extension for iOS and Android mirrored the E-commerce platform's capabilities, including a virtual queue feature to maintain system stability. A purchase history module was integrated across the website and mobile app, providing users with a convenient way to view transaction records and access QR codes for paperless event entry.
 
-![](/work/work-pfila-1.jpg)
-
 ![](/work/work-pfila-2.jpg)
 
 ![](/work/work-pfila-3.jpg)
@@ -36,6 +31,8 @@ Addressing these challenges, a cohesive development strategy was implemented, wh
 ## Impact
 
 The comprehensive solution provided by PrimeraFila significantly improved the ticket purchasing and event entry experience for users, while also offering event organizers powerful tools for management and analysis. The introduction of the virtual queue system effectively managed the platform's load during high-demand periods, ensuring operational stability. The mobile app extension broadened access, allowing users the convenience of managing their event experiences on the go.
+
+![](/work/work-pfila-1.jpg)
 
 ## Conclusion
 
