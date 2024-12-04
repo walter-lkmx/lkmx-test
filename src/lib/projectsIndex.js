@@ -30,7 +30,7 @@ export default function getProjectsIndexed(locale) {
       },
       {
         title: ["Only Golfers"],
-        services: [, "Continuous Support"],
+        services: ["Continuous Support"],
         route: "/work/only-golfers",
         thumbnail: "og-thumbnail",
         catchphrase: "",
@@ -160,7 +160,7 @@ export default function getProjectsIndexed(locale) {
     const projectsEn = [
       {
         title: ["Secret Network"],
-        services: ["Web3 Project Digital Brand"],
+        services: ["Web3 Project, Digital Brand"],
         route: "/work/secret-network",
         thumbnail: "scrt-thumbnail",
         catchphrase: "",

@@ -28,23 +28,27 @@ export default function OurWork() {
 
     function generateRandom(maxLimit) {
         const generate = () => Math.floor(Math.random() * maxLimit);
-        const values = { one: generate(), two: generate(), three: generate() }
-        
+        const values = { one: generate(), two: generate(), three: generate() };
         return isUnique(values) ? values : generateRandom(maxLimit);
     }
 
     function isUnique(obj) {
         const values = Object.values(obj);
         const uniqueValues = [];
-
         values.forEach((value) => {
             if (!uniqueValues.includes(value)) {
                 uniqueValues.push(value);
             }
         });
-
         return values.length === uniqueValues.length;
     }
+
+    const ProjectOverlay = ({ title, services }) => (
+        <div className={styles.ourWork__block__grid__overlay}>
+            <h3>{title[0]}</h3>
+            <p>{services.join(', ')}</p>
+        </div>
+    );
 
     return (first.title && second.title && third.title ?
         <Column className={styles.ourWork}>
@@ -53,48 +57,51 @@ export default function OurWork() {
                 <div className={styles.ourWork__block__heading}>
                     <p>{$t.ourWork.par}</p>
                     <Link href="/work" legacyBehavior>
-                        <div
-                            className={styles.ourWork__block__heading__btn}
-                        >{$t.ourWork.btn}</div>
+                        <div className={styles.ourWork__block__heading__btn}>
+                            {$t.ourWork.btn}
+                        </div>
                     </Link>
                 </div>
                 <div className={styles.ourWork__block__grid}>
-                        <Link href={first.route} className={styles.ourWork__block__grid__full}>
-                            <div className={styles.ourWork__block__grid__full__item}>
-                                <div className={styles.ourWork__block__grid__full__item__img}>
-                                    <Image
-                                        fill
-                                        src={`/work/${first.thumbnail}.jpg`}
-                                        alt="project image"
-                                    />
-                                </div>
-                                <span>{first.catchphrase}</span>
+                    <Link href={first.route} className={styles.ourWork__block__grid__full}>
+                        <div className={styles.ourWork__block__grid__full__item}>
+                            <div className={styles.ourWork__block__grid__full__item__img}>
+                                <Image
+                                    fill
+                                    src={`/work/${first.thumbnail}.jpg`}
+                                    alt="project image"
+                                />
+                                <ProjectOverlay title={first.title} services={first.services} />
                             </div>
-                        </Link>
-                        <Link href={second.route} className={styles.ourWork__block__grid__half}>
-                            <div className={styles.ourWork__block__grid__half__item}>
-                                <div className={styles.ourWork__block__grid__half__item__img}>
-                                    <Image
-                                        fill
-                                        src={`/work/${second.thumbnail}.jpg`}
-                                        alt="project image"
-                                    />
-                                </div>
-                                <span>{second.catchphrase}</span>
+                            <span>{first.catchphrase}</span>
+                        </div>
+                    </Link>
+                    <Link href={second.route} className={styles.ourWork__block__grid__half}>
+                        <div className={styles.ourWork__block__grid__half__item}>
+                            <div className={styles.ourWork__block__grid__half__item__img}>
+                                <Image
+                                    fill
+                                    src={`/work/${second.thumbnail}.jpg`}
+                                    alt="project image"
+                                />
+                                <ProjectOverlay title={second.title} services={second.services} />
                             </div>
-                        </Link>
-                        <Link href={third.route} className={styles.ourWork__block__grid__half__second}>
-                            <div className={styles.ourWork__block__grid__half__item}>
-                                <div className={styles.ourWork__block__grid__half__item__img}>
-                                    <Image
-                                        fill
-                                        src={`/work/${third.thumbnail}.jpg`}
-                                        alt="project image"
-                                    />
-                                </div>
-                                <span>{third.catchphrase}</span>
+                            <span>{second.catchphrase}</span>
+                        </div>
+                    </Link>
+                    <Link href={third.route} className={styles.ourWork__block__grid__half__second}>
+                        <div className={styles.ourWork__block__grid__half__item}>
+                            <div className={styles.ourWork__block__grid__half__item__img}>
+                                <Image
+                                    fill
+                                    src={`/work/${third.thumbnail}.jpg`}
+                                    alt="project image"
+                                />
+                                <ProjectOverlay title={third.title} services={third.services} />
                             </div>
-                        </Link>
+                            <span>{third.catchphrase}</span>
+                        </div>
+                    </Link>
                 </div>
             </Block>
         </Column>
