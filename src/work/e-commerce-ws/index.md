@@ -6,8 +6,8 @@ solutions: ["E-commerce"]
 services: []
 methodologies: []
 period: []
-portrait: "belair-thumbnail"
-hero: "belair-cover"
+portrait: "bel-air-athletics-thumbnail"
+hero: "bel-air-athletics-cover"
 storyType: "Trabajo"
 introduction: { title: "", content: "" }
 ---

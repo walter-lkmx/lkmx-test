@@ -6,8 +6,8 @@ solutions: ["Mobile App"]
 services: []
 methodologies: []
 period: []
-portrait: "spectrum-thumbnail"
-hero: "spectrum-cover"
+portrait: "spectrum-wine-thumbnail"
+hero: "spectrum-wine-cover"
 storyType: "Trabajo"
 introduction: { title: "", content: "" }
 ---
@@ -24,7 +24,7 @@ El proyecto presentó dos desafíos principales: en primer lugar, la integració
 
 Nuestro enfoque fue diseñar una aplicación móvil personalizada utilizando una API RESTful para una integración fluida con la base de datos de inventario de la casa de vinos. Esta solución garantizó la presentación rápida y eficiente de datos de subastas en tiempo real a los usuarios de la aplicación. Para abordar las preocupaciones de seguridad, incorporamos múltiples capas de protección de datos, incluyendo la encriptación de información sensible y la implementación de controles de acceso estrictos. La aplicación presentó capacidades para que los usuarios crearan listas de seguimiento, contactaran directamente con los vendedores, enviaran pujas y participaran activamente en las subastas, mejorando el compromiso y la satisfacción del usuario.
 
-![](/work/spectrum-figure-1.jpg)
+![](/work/spectrum-wine-figure-1.jpg)
 
 ## Impacto
 

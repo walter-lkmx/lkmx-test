@@ -6,8 +6,8 @@ solutions: ['E-Commerce']
 services: []
 methodologies: []
 period: []
-portrait: 'earthbar-thumbnail'
-hero: 'earthbar-cover'
+portrait: 'earth-bar-thumbnail'
+hero: 'earth-bar-cover'
 storyType: 'Trabajo'
 introduction: {
     title: "",

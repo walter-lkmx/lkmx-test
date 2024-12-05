@@ -6,8 +6,8 @@ solutions: ["Marca Digital"]
 services: []
 methodologies: []
 period: []
-portrait: "casa-anciano-thumbnail"
-hero: "casa-anciano-cover"
+portrait: "casa-hogar-del-anciano-thumbnail"
+hero: "casa-hogar-del-anciano-cover"
 storyType: "Trabajo"
 introduction: { title: "", content: "" }
 ---

@@ -6,8 +6,8 @@ solutions: ["Digital Brand"]
 services: []
 methodologies: []
 period: []
-portrait: "casa-anciano-thumbnail"
-hero: "casa-anciano-cover"
+portrait: "casa-hogar-del-anciano-thumbnail"
+hero: "casa-hogar-del-anciano-cover"
 storyType: "Work"
 introduction: { title: "", content: "" }
 ---

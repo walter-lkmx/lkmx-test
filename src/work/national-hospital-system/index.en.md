@@ -35,3 +35,22 @@ The deployment of this comprehensive data analytics and logistics platform revol
 ## Conclusion
 
 This project reflects our dedication to applying innovative technologies to solve real-world challenges. This project illustrates our expertise in engineering complex, scalable solutions tailored to the unique demands of healthcare logistics. By transforming Maypo's operational framework, we've played a pivotal role in enhancing the efficiency of medical supply distribution across Mexico, contributing to the broader goal of improving healthcare delivery. Our collaboration with Maypo showcases our ability to deliver impactful technological advancements, affirming our position as a key partner in the pursuit of operational excellence and better healthcare outcomes.
+
+## Technology
+
+Some of the technologies and integrations implemented in this project.
+
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/java.svg" alt="Java"/>
+      <img loading="lazy" src="/technologies/elasticsearch.svg" alt="Elasticsearch"/>
+      <img loading="lazy" src="/technologies/spring.svg" alt="Spring Boot"/>
+      <img loading="lazy" src="/technologies/gcloud.svg" alt="Google Cloud"/>
+    </div>
+    <div>
+      <img loading="lazy" src="/technologies/rest.svg" alt="APIs REST"/>
+      <img loading="lazy" src="/technologies/sap.svg" alt="Integración con SAP"/>
+    </div>
+  </div>
+</div>
