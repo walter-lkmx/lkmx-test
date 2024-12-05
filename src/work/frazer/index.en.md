@@ -38,7 +38,13 @@ The collaboration resulted in a successful implementation of an automated invoic
 
 Some of the technologies and integrations implemented in this project.
 
-- UiPath
-- Document AI (Google)
-- Google Drive
-- Syteline ERP
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/uipath.svg" alt="UiPath"/>
+      <img loading="lazy" src="/technologies/gemini.svg" alt="Document AI (Google)"/>
+      <img loading="lazy" src="/technologies/google-drive.svg" alt="Google Drive"/>
+      <img loading="lazy" src="/technologies/infor.svg" alt="Syteline ERP"/>
+    </div>
+  </div>
+</div>

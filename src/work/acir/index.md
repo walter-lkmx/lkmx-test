@@ -42,10 +42,20 @@ La exitosa implementación del rediseño de la aplicación móvil de Grupo ACIR 
 
 ## Technología
 
-* Sketch
-* Konva.js
-* AngularJS
-* JavaScript
-* Cordova
-* Java
-* MySQL
+Algunas de las tecnologías e integraciones implementadas en este proyecto.
+
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/sketch.svg" alt="Sketch"/>
+      <img loading="lazy" src="/technologies/konva.svg" alt="Konva.js"/>
+      <img loading="lazy" src="/technologies/angular.svg" alt="AngularJS"/>
+      <img loading="lazy" src="/technologies/javascript.svg" alt="JavaScript"/>
+    </div>
+    <div>
+      <img loading="lazy" src="/technologies/cordova.png" alt="Cordova"/>
+      <img loading="lazy" src="/technologies/java.svg" alt="Java"/>
+      <img loading="lazy" src="/technologies/mysql.svg" alt="MySQL"/>
+    </div>
+  </div>
+</div>

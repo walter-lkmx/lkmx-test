@@ -44,10 +44,18 @@ The successful redesign implementation of Grupo ACIR's mobile application repres
 
 Some of the technologies and integrations implemented in this project.
 
-* Sketch
-* Konva.js
-* AngularJS
-* JavaScript
-* Cordova
-* Java
-* MySQL
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/sketch.svg" alt="Sketch"/>
+      <img loading="lazy" src="/technologies/konva.svg" alt="Konva.js"/>
+      <img loading="lazy" src="/technologies/angular.svg" alt="AngularJS"/>
+      <img loading="lazy" src="/technologies/javascript.svg" alt="JavaScript"/>
+    </div>
+    <div>
+      <img loading="lazy" src="/technologies/cordova.png" alt="Cordova"/>
+      <img loading="lazy" src="/technologies/java.svg" alt="Java"/>
+      <img loading="lazy" src="/technologies/mysql.svg" alt="MySQL"/>
+    </div>
+  </div>
+</div>
