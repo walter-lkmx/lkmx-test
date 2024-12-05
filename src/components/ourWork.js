@@ -5,9 +5,8 @@ import Image from "next/image";
 import Link from "next/link";
 import getLang from '@/lang';
 import { useRouter } from "next/router";
-import getProjectsIndexed from '../lib/projectsIndex';
 
-export default function OurWork() {
+export default function OurWork({ projects = [] }) {
     const { locale } = useRouter();
     const $t = getLang(locale);
     const [first, setFirst] = useState({});
@@ -15,11 +14,12 @@ export default function OurWork() {
     const [third, setThird] = useState({});
 
     useEffect(() => {
-        setProjects();
-    }, [locale]);
+        setRandomProjects();
+    }, [locale, projects]);
 
-    function setProjects() {
-        const projects = getProjectsIndexed(locale);
+    function setRandomProjects() {
+        if (projects.length === 0) return;
+        
         const numbers = generateRandom(projects.length);
         setFirst(projects[numbers.one]);
         setSecond(projects[numbers.two]);
