@@ -24,15 +24,15 @@ The primary challenge for Bel-Air Athletics was to evolve and expand the e-comme
 
 In response to the evolving needs of Bel-Air Athletics, our approach involved enhancing the Shopify theme to support a broader merchandise range while maintaining a clean and engaging user interface. This initiative allowed for an enriched shopping experience, reflective of the brand's dynamic aesthetic. Concurrently, we integrated advanced inventory management solutions within the Shopify framework to facilitate real-time tracking and streamlined order fulfillment. Custom backend tools were developed to provide the operations team with comprehensive control over inventory and shipping processes, significantly improving operational efficiency. Through these concerted efforts, the e-commerce platform was optimized to meet the growing demands of Bel-Air Athletics, ensuring scalability and operational excellence.
 
-![](/work/belair-figure-2.jpg)
+![](/work/bel-air-athletics-figure-2.jpg)
 
-![](/work/belair-figure-1.jpg)
+![](/work/bel-air-athletics-figure-1.jpg)
 
 ## Impact
 
 This extended collaboration with the Fresh Prince resulted in a robust and scalable e-commerce ecosystem that supported the brand's dynamic growth. The enhancements made to the online store and operational tools significantly improved the efficiency of order processing and merchandise management. This, in turn, led to a more streamlined shopping experience for customers and an optimized workflow for the operations team. The project solidified the brand's online presence, contributing to its sustained success and expansion.
 
-![](/work/belair-figure-3.jpg)
+![](/work/bel-air-athletics-figure-3.jpg)
 
 ## Conclusion
 

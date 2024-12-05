@@ -30,7 +30,7 @@ El desarrollo de la aplicación móvil de Grupo ACIR fue un ejercicio de fusión
 
 Para la estación "Amor", la aplicación adoptó un tema visual romántico, utilizando tonos púrpura e imágenes íntimas para hacer eco de la naturaleza emotiva de la música. Cada elección de diseño en la aplicación se elaboró para reflejar las diversas experiencias auditivas de las estaciones de Grupo ACIR, asegurando una experiencia de usuario fluida y atractiva.
 
-![](/work/acir-figure-01.jpg)
+![](/work/acir-radio-figure-01.jpg)
 
 ### Impacto
 

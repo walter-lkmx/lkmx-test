@@ -16,7 +16,7 @@ introduction: { title: "", content: "" }
 
 Vitromex, a company specializing in sustainable premium ceramic floor tiles for retail and large architectural projects, faced significant challenges with their previous systems' inability to integrate effectively with their accounting platform. This integration issue hindered their operational efficiency, especially in managing quotes, orders, sales, and material deliveries. They needed a system that could not only handle their internal workflow but also synchronize seamlessly with external catalogs and financial records.
 
-![](/work/vitromex-figure-01.jpg)
+![](/work/vitromex-figure-1.jpg)
 
 ## Solution
 
