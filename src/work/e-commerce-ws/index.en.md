@@ -1,67 +1,39 @@
 ---
 number: 2
-title: ['E-commerce and data', 'analysis for will smith']
-headline: ['The Fresh Prince of Bel-Air takes the e-commerce world by', 'storm.']
-services: ['discovery', 'agile development']
-methodologies: ['Scrum']
-period: ['2019 - 2020']
-portrait: 'ws-cover'
-hero: 'ws-hero'
-storyType: 'work'
-introduction: {
-    title: "Introduction",
-    content: "We were contacted by K2 Omniverse, a company of entrepreneurs with the mission of creating links between celebrities and their massive audiences, with a mission that seemed impossible: to build an e-commerce platform for Will Smith in just four weeks, that would allow him to offer his millions of followers for only 72 hours a new and exclusive collection of products belonging to his then new brand Fresh Prince of Bel Air."
-}
+title: ["Bel-Air Athletics"]
+headline: []
+solutions: ["E-commerce"]
+services: []
+methodologies: []
+period: []
+portrait: "belair-thumbnail"
+hero: "belair-cover"
+storyType: "Work"
+introduction: { title: "", content: "" }
 ---
-<div>
-    <h2>Challenges</h2>
-    <p>One of the main challenges we faced in this project was implementing a robust and scalable platform capable of handling a large amount of traffic in a short period of time. The platform should be able to handle a large number of real-time transactions, as well as integrate with the sales and social media data generated during the campaign.</p>
-    <p>Another important challenge was using open source projects to develop the platform, as this required a lot of time and effort to implement and customize these tools and meet the project goals.</p>
-</div>
-<div class="story_story__mainContent__2cGrid__aNFn8">
-    <div class="story_story__mainContent__2cGrid__textContainer__CjTww">
-        <h2>Solution</h2>
-        <p>To face these challenges, we built a platform based on Shopify and a robust backend capable of aggregating real-time data from sales and social media generated during the period when the campaign was active. In the development of this platform, we used more open source projects than in any other project given the innovative and disruptive nature of our client.</p>
-    </div>
-    <figure>
-        <img src="/work/ws-product.jpg" alt="Product details" loading="lazy"/>
-        <figcaption class="story_story__mainContent__gridCaption__8kiY6 story_story__mainContent__caption__IQRnS">We found in Shopify a solid platform where we combined a simple and fluid design with the ability to handle high traffic demand.</figcaption>
-    </figure>  
-</div>
-<div>
-    <p>The project was developed using our Agile Development service, with value deliveries in each sprint. This allowed us to be flexible to any changes that Will Smith or K2 Omniverse had. We were able to keep this technology and the it’s artifacts under control, thanks to our strict integration and continuous delivery processes and other systems such as design systems that allowed us to raise our level of technology and engineering.</p>
-</div>
-<div class="story_story__mainContent__2cGrid__aNFn8"> 
-    <figure>
-        <img src="/work/ws-summary.jpg" alt="Purchase Summary" loading="lazy"/>
-        <figcaption class="story_story__mainContent__gridCaption__8kiY6 story_story__mainContent__caption__IQRnS">We combine sales data with an efficient system to maximize its use in Will Smith's team's advertising campaigns.</figcaption>
-    </figure>
-    <div class="story_story__mainContent__wsSolutionList__KrV8F">
-        <span>Some of the capabilities of the platform:</span>
-        <ul>
-        <li>High volume traffic management.</li>
-        <li>Real-time transactions.</li>
-        <li>Integration of sales data and social network</li>
-        </ul>
-    </div>    
-</div>
-<div>
-    <p>As with all of our projects, this project began with a Discovery stage where we worked closely with the client to understand their needs and objectives. This phase involved a detailed analysis of the business needs and strategic planning to achieve the objectives.</p>
-</div>
-<div class="story_story__mainContent__gantt__TErEp">
-    <figure>
-        <img src="/work/project-chart-en.svg" alt="Gantt chart" loading="lazy"/>
-        <figcaption class="story_story__mainContent__caption__IQRnS">The Gantt chart for this project illustrates our Agile Development service, with each sprint broken down into three distinct phases: definition, implementation, and acceptance.</figcaption>
-    </figure>
-</div>
-<div>
-    <figure>
-        <img src="/work/ws-store.jpg" alt="store products" loading="lazy"/>
-        <figcaption class="story_story__mainContent__caption__IQRnS">The intuitive design of Bel-Air Athletics facilitates a hassle-free and satisfying online shopping experience.</figcaption>
-    </figure>    
-</div>
-<div>
-    <h2>Conclusion</h2>
-    <p>In this project, we were able to overcome a challenge that seemed impossible by building an e-commerce platform for Will Smith in just 4 weeks. With it, we allowed millions of Will Smith's followers to have access to an exclusive and unique collection of products from his Fresh Prince of Bel Air brand. Not only did we meet the time goal, but we also managed to handle a high volume of traffic and real-time transactions, ensuring the stability and quality of the platform.</p>
-    <p>The project was a great success, after it finishes we worked for over 2 years building different tools that allowed the creatives of the organization to launch different promotions, all of them, heavily based on the use of data that allowed to revolutionize the Bel Air Athletics brand and position it as a spearhead in the industry.</p>
-</div>
+
+## Background
+
+Following the triumphant launch of The Fresh Prince e-commerce platform for Will Smith, our team was approached once again for an equally ambitious project: Bel-Air Athletics. With the success of the previous project setting a high bar, we were tasked with managing and enhancing the e-commerce operations for Bel-Air Athletics over two years. This new venture focused to not only sustain the brand's online presence but also to streamline operational processes and merchandise shipping.
+
+## Challenge
+
+The primary challenge for Bel-Air Athletics was to evolve and expand the e-commerce capabilities to support the brand's growing demands. This involved configuring the online store to accommodate an increasing product range, improving the operational efficiency for order processing and fulfillment, and developing tools that enabled the operations team to have precise control over inventory and shipping.
+
+## Solution
+
+In response to the evolving needs of Bel-Air Athletics, our approach involved enhancing the Shopify theme to support a broader merchandise range while maintaining a clean and engaging user interface. This initiative allowed for an enriched shopping experience, reflective of the brand's dynamic aesthetic. Concurrently, we integrated advanced inventory management solutions within the Shopify framework to facilitate real-time tracking and streamlined order fulfillment. Custom backend tools were developed to provide the operations team with comprehensive control over inventory and shipping processes, significantly improving operational efficiency. Through these concerted efforts, the e-commerce platform was optimized to meet the growing demands of Bel-Air Athletics, ensuring scalability and operational excellence.
+
+![](/work/belair-figure-2.jpg)
+
+![](/work/belair-figure-1.jpg)
+
+## Impact
+
+This extended collaboration with the Fresh Prince resulted in a robust and scalable e-commerce ecosystem that supported the brand's dynamic growth. The enhancements made to the online store and operational tools significantly improved the efficiency of order processing and merchandise management. This, in turn, led to a more streamlined shopping experience for customers and an optimized workflow for the operations team. The project solidified the brand's online presence, contributing to its sustained success and expansion.
+
+![](/work/belair-figure-3.jpg)
+
+## Conclusion
+
+Bel-Air Athletics, a brand under Will Smith's creative direction, showcases our capacity to support and enhance the digital commerce strategies of high-profile ventures. By tailoring our solutions to the unique challenges and opportunities presented by the brand, we reinforced Bel-Air Athletics' position in the competitive online marketplace. This project stands as a testament to our ability to deliver sophisticated, scalable e-commerce solutions that cater to the nuanced needs of our clients, affirming our dedication to driving their success in the digital domain.

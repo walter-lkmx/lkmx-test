@@ -1,62 +1,61 @@
-# WWW 
-- [WWW](#www)
-- [Documentation](#documentation)
-  - [www](#www-1)
-    - [Prerequisites](#prerequisites)
-    - [Install dependencies](#install-dependencies)
-    - [Run the project](#run-the-project)
-    - [Build Docker Image](#build-docker-image)
+# LKMX Website 🌐
 
-# Documentation
+Next.js-based website with internationalization support and custom styling using Flare design system.
 
-## www
+## ✨ Features
 
-This is a [Next.js](https://nextjs.org/) project with Flare.
+- 🚀 Built with Next.js 13
+- 🌍 Multilingual support (English/Spanish)
+- 🎨 SVG imports with SVGR
+- 💅 Flare design system integration
+- 📝 Markdown content support with gray-matter and remark
 
-### Prerequisites
+## 🔧 Prerequisites
 
-- Node.js 14.18.0 or later.
+- Node.js 18
+- npm 
 
-### Install dependencies
+## 🚀 Installation
 
-```
-yarn install
+```bash
+npm install
 ```
 
-### Run the project
+## 💻 Development
 
-```
-yarn run dev
-```
-
-### Build Docker Image
-
-```
-yarn run build
-
-docker build -t www-lkmx-web-example .
+```bash
+npm run dev
 ```
 
-You could run the project using this Docker Image.
+The site will be available at `http://localhost:3000`
 
-For example:
+### 🔍 Pre-commit Checks
 
-Create a ```docker-compose.yml``` file.
+Before pushing changes to the repository:
+1. Run local build test:
+```bash
+npm run lint
+npm run build
 ```
-version: '3'
+2. Fix any build errors or warnings
+3. Only commit and push once the build succeeds
 
-services:
-  www:
-    container_name: www
-    image: 'www-lkmx-web-example:latest'
-    environment:
-      - API_URL=http://api-example.dev-lk.mx
-    ports:
-      - "3000:80"
-```
+## 📜 Scripts
 
-Run
-```
-$ docker-compose up -d www
-```
-And go to http://localhost:3000 to see the WWW project running.
+- `dev`: Start development server
+- `build`: Build production application
+- `export`: Generate static export
+- `start`: Start production server
+- `lint`: Run ESLint checks
+
+## 🚀 Deployment
+
+### Vercel Setup
+- Project hosted on a free Vercel account
+- Account ownership: walter.hurtado@lkmx.io
+- Limited to single member access
+
+### 🔄 Deployment Flow
+1. Push changes to `stg` branch (no automatic deployment)
+2. Create Pull Request from `stg` to `PRD` when ready
+3. Vercel automatically deploys on commits to `PRD` branch

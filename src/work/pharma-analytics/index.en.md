@@ -1,80 +1,38 @@
 ---
 number: 9
-title: ['Data Analysis System for', 'Pharmaceuticals']
-headline: ['From consolidation to visualization: transforming business', 'processes with cutting-edge technology.']
-services: ['discovery', 'agile Development', 'agile Maintenance']
-methodologies: ['Scrum']
-period: ['2021 - current']
+title: ['Pharma Data Analytics']
+headline: []
+solutions: []
+services: []
+methodologies: []
+period: []
 portrait: 'pharma-thumbnail'
 hero: 'pharma-hero'
 storyType: 'Work'
 introduction: {
-    title: "Introduction",
-    content: "Our client, an internationally renowned pharmaceutical company with a strong presence in Mexico, Colombia, and Central America, faced a crucial challenge: to ensure the availability of reliable and up-to-date information in real-time for making strategic decisions and operating effectively.",
-    content2: "With years of experience and an overwhelming range of data sources, the challenge of consolidating, processing, and analyzing information in a format accessible to all key areas had become more challenging over time."
+    title: "",
+    content: ""
 }
 ---
 
-<div>
-    <h2>Challenges</h2>
-    <p>Our client faced a hard task in handling its data. The manual collection of information was a time-consuming and error-prone process, which in turn made it difficult to obtain accurate and updated information. Moreover, the collected information was stored in multiple reports shared in Excel, making the processing and purification of data an even more complicated task.</p>
-    <p>The lack of an overall vision of the company affected not only daily decision-making but also long-term planning. A solution was needed that would break the repetitive cycle of acquiring, processing, and analyzing information, which prevented it from advancing in its ability to make decisions and plan for its future effectively.</p>
-</div>
-<div>
-    <h2>Solution</h2>
-    <p>To tackle the data handling challenges, we started by executing our Discovery service with the involvement of regional directors and district managers. This process allowed us to thoroughly understand the different sources of information and the specific needs of each company area. With this information, we developed a work plan in multiple phases for the implementation of a tailor-made solution.</p>
-    <p>We designed a graphical interface for bulk data loading, which includes custom validation and purification algorithms. The platform efficiently processes years of information in hours, generating optimized indices and dozens of customized reports that can be accessed in real-time.</p>
-    <div class="story_story__mainContent__2cGrid__aNFn8">
-        <div>
-            <p>The solution implements the 5 key stages of data analysis, with technologies specifically selected for each phase. The collection phase includes the use of Java APIs to catalogue and transfer the information to a robust mechanism based on Apache Spark. This process purifies and organizes the complete information using Google Cloud's Data Proc and Big Query services. Finally, Elastic Search indices are generated and accessed through a hybrid web interface based on Vue JS and Kibana.</p>
-        </div>
-        <figure>
-            <img loading="lazy" src="/work/pharma-figure1.jpg" alt="Data Colection"/>
-            <figcaption class="story_story__mainContent__gridCaption__8kiY6 story_story__mainContent__caption__IQRnS">A solution to manual data collection was implemented.</figcaption>
-        </figure>  
-    </div>
-</div>
-<div>
-    <figure>
-        <img loading="lazy" src="/work/pharma-figure2.jpg" alt="data processing"/>
-        <figcaption class="story_story__mainContent__caption__IQRnS">The tool processes the data collected, avoids the manual search for reports through the use of filters and purifying the information consulted.</figcaption>
-    </figure>    
-</div>
-<div>
-    <p>Kibana is a key component in our solution and an added value for the end-user. With this data visualization and analysis tool, the user can efficiently interact with the information, generating customized graphs and dashboards that are updated in real-time. This provides a complete and detailed view of the information, which helps the user make precise and up-to-date decisions, even without prior experience in data analysis.</p>
-</div>
-<div>
-    <figure>
-        <img loading="lazy" src="/work/pharma-figure3.jpg" alt="User Interface"/>
-        <figcaption class="story_story__mainContent__caption__IQRnS">The interface displays a view of accurate data, updated in real time, with which the user can interact and make decisions.</figcaption>
-    </figure>    
-</div>
-<div class="story_story__mainContent__technologies__v5XXm">
-    <div>
-        <h3>TECNOLOGies</h3>
-        <span>Some of the technologies and integrations<br/>implemented in this project.</span>
-    </div>   
-    <div class="story_story__mainContent__technologies__images__6NSg5">
-        <div>
-            <img loading="lazy" alt="Html" src="/technologies/html.svg"/>
-            <img loading="lazy" alt="Css" src="/technologies/css.svg"/>
-            <img loading="lazy" alt="Javascript" src="/technologies/javascript.svg"/>
-            <img loading="lazy" alt="Vue" src="/technologies/vue.svg"/>
-        </div>
-        <div>
-            <img loading="lazy" alt="Elasticsearch" src="/technologies/elasticsearch.svg"/>
-            <img loading="lazy" alt="kibana" src="/technologies/kibana.svg"/>
-            <img loading="lazy" alt="Google Cloud" src="/technologies/gcloud.svg"/>
-            <img loading="lazy" alt="Big Query" src="/technologies/bigquery.svg"/>
-        </div>
-        <div>
-            <img loading="lazy" alt="Data proc" src="/technologies/data-proc.svg"/>    
-            <img loading="lazy" alt="Java" src="/technologies/java.svg"/> 
-            <img loading="lazy" alt="Apache Spark" src="/technologies/apache-spark.svg" class="story_story__mainContent__technologies__images__large__KxVD1"/>   
-        </div>
-    </div>     
-</div>
-<div>
-    <h2>Conclusion</h2>
-    <p>This project has been a true demonstration of the synergy between cutting-edge technology and a user-focused approach. By implementing this solution, we have transformed business processes that were once slow and complicated into a smooth and efficient experience. The combination of rigorous analysis, intuitive design, and advanced technology has resulted in a product that has exceeded our client's expectations and has had a significant impact on its business performance.</p>
-</div>
+## Background
+
+Our client, a prominent pharmaceutical company operating in Mexico, Colombia, and Central America, encountered challenges in handling its vast data requirements. The process involved manually collecting, cleansing, and processing data from various sources, resulting in time-consuming report generation through Excel spreadsheets for stakeholders. This method not only delayed decision-making but also increased the risk of data inaccuracies. The company recognized the need for an advanced solution to streamline its data management, reduce manual intervention, and enhance the accuracy and accessibility of insights for strategic decision-making across its operations.
+
+## Challenge
+
+The challenge stemmed from navigating regulatory restrictions in Mexico that prohibit pharmaceutical companies from directly promoting medicines to the public. This necessitated a strategic shift in marketing efforts towards direct outreach to prescribers, while concurrently gathering sales and distribution data from various channels to identify patterns and opportunities throughout the year. However, the complexity arose from the disparate nature of these channel datasets, which were extensive, lacked interrelation, and exhibited varying dimensions.
+
+## Solution
+
+First, we had a discovery with a few dozen regional directors and district managers which allowed us to get to know the different information sources involved and the needs of each of the areas in regards to them. After this, we designed a work plan with multiple phases for the implementation of a solution. 
+
+We engineered a comprehensive platform capable of ingesting data from over 25 disparate sources provided by different vendors. This platform implemented a robust data cleansing, enrichment, organization, and preparation mechanism, leveraging advanced design patterns and Apache Spark technology to construct optimized indices spanning lengthy time periods on-demand. These optimized indices formed the foundation for more than 20 dashboards and over 100 charts and visualizations, empowering decision-makers to enhance the efficiency of their sales force through informed insights derived from unified and enriched data sources.
+
+## Impact
+
+By streamlining data processing and reporting, the company experienced improved operational efficiency and agility in decision-making processes. The ability to ingest and analyze data from multiple different sources enabled the identification of valuable insights and trends, empowering marketing departments to target prescribers more effectively and optimize sales and distribution strategies. Moreover, the enhanced data visualization capabilities provided by the dashboards and visualizations facilitated clearer communication and alignment across the organization, ultimately driving improvements in sales force efficiency and performance. Overall, our solution catalyzed a positive transformation in the company's data management practices, fostering better strategic decision-making and driving business growth.
+
+## Conclusion
+
+This case underscores our expertise in navigating complex data management challenges within highly regulated industries. Through a meticulous discovery process and strategic planning, we developed a tailored solution that not only streamlined our client's data processing workflows but also significantly enhanced their decision-making capabilities. Our approach, rooted in understanding unique sectoral challenges and leveraging advanced technologies like Apache Spark, demonstrates our capability to design and implement robust solutions that address specific client needs. The successful deployment of a custom platform for a leading pharmaceutical company in Latin America exemplifies our commitment to excellence and our ability to drive transformative change. By enabling more efficient data analysis and visualization, we have empowered our client to refine their marketing strategies and operational efficiencies, thereby reinforcing our reputation as trusted advisors and solution providers in the tech industry. This project not only reaffirms our adeptness at solving intricate data management issues but also highlights our contribution to enhancing our client's strategic agility and competitive advantage in the marketplace.

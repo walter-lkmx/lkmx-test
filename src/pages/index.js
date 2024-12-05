@@ -1,26 +1,26 @@
-import React from 'react';
-import BaseLayout from '@/layouts/base-layout.js';
-import { Block, Column, Page } from '@lkmx/flare-react';
-import getLang from '@/lang';
-import styles from './index.module.scss';
-import siteMetadata from '../meta/siteMetadata';
-import HeadSeo from '../components/HeadSeo';
-import technologies from '@/service/json/technologies';
-import Link from 'next/link';
-import { useRouter } from 'next/router';
-import ImageLegacy from 'next/legacy/image';
-import Image from 'next/image';
-import OurWork from '../components/ourWork';
-import Industries from '../components/industriesComponent';
+import React from "react";
+import BaseLayout from "@/layouts/base-layout.js";
+import { Block, Column, Page } from "@lkmx/flare-react";
+import getLang from "@/lang";
+import styles from "./index.module.scss";
+import siteMetadata from "../meta/siteMetadata";
+import HeadSeo from "../components/HeadSeo";
+import technologies from "@/service/json/technologies";
+import Link from "next/link";
+import { useRouter } from "next/router";
+import ImageLegacy from "next/legacy/image";
+import Image from "next/image";
+import OurWork from "../components/ourWork";
+import Industries from "../components/industriesComponent";
 
 function getTeamList() {
-  let r = require.context('/public/images', false, /\.(png|jpe?g|svg)$/);
+  let r = require.context("/public/images", false, /\.(png|jpe?g|svg)$/);
   return r
     .keys()
     .map((n) => {
       return {
-        fileName: n.replace(/\.\//, ''),
-        name: n.replace(/\.\/_\d*_/, '').replace(/\.jpg/, ''),
+        fileName: n.replace(/\.\//, ""),
+        name: n.replace(/\.\/_\d*_/, "").replace(/\.jpg/, ""),
       };
     })
     .sort((a, b) => a.name.localeCompare(b.name));
@@ -32,7 +32,7 @@ export default function Index() {
   const $t = getLang(locale);
   const pictures = getTeamList();
   const fallbackBlurImage =
-    'data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAAKAAoDAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9OP2vv+Cy3wV+H/7fvw08BWWg65qnhf4J6++geNdd0/XJrK3m1PWnSzleHTov9Gvray80+YbgneVYIV4NAH9DWmeOfht4h03T9fsNb05rHXLK01iyY3CAtaanBHe2zEc4JhnQnk896d33f3gfxD/E7wv4avdZ/ax1a88O6Fd6pF8Q5hFqVzpNhPqEe3VIyuy8lt3uEwSSNsgwSSOaQH9I3wshhHwx+HIEUQA8B+EAAI0AAHh/T8ADHAFAAP/Z';
+    "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAAKAAoDAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9OP2vv+Cy3wV+H/7fvw08BWWg65qnhf4J6++geNdd0/XJrK3m1PWnSzleHTov9Gvray80+YbgneVYIV4NAH9DWmeOfht4h03T9fsNb05rHXLK01iyY3CAtaanBHe2zEc4JhnQnk896d33f3gfxD/E7wv4avdZ/ax1a88O6Fd6pF8Q5hFqVzpNhPqEe3VIyuy8lt3uEwSSNsgwSSOaQH9I3wshhHwx+HIEUQA8B+EAAI0AAHh/T8ADHAFAAP/Z";
 
   pictures.forEach((e, index) => {
     //TODO: Hacer esto automatico para que agregue los espacios cada 20 fotos.
@@ -48,19 +48,19 @@ export default function Index() {
   return (
     <BaseLayout>
       <HeadSeo
-        title={$t.home.title + ' - ' + siteMetadata.companyName}
+        title={$t.home.title + " - " + siteMetadata.companyName}
         description={$t.home.ogDescription}
         ogImageUrl={
           $t.home.ogImage
             ? $t.home.ogImage
-            : locale === 'es'
+            : locale === "es"
             ? siteMetadata.ogDefaultImageEs
             : siteMetadata.ogDefaultImageEn
         }
         ogTwitterImage={
           $t.home.ogImage
             ? $t.home.ogImage
-            : locale === 'es'
+            : locale === "es"
             ? siteMetadata.ogDefaultImageEs
             : siteMetadata.ogDefaultImageEn
         }
@@ -89,13 +89,18 @@ export default function Index() {
                     styles.index__hero__block__content__right__imgContainer
                   }
                 >
-                  <Image fill src="/dragon-home.svg" alt="LKMX - Dragon" priority />
+                  <Image
+                    fill
+                    src="/dragon-home.svg"
+                    alt="LKMX - Dragon"
+                    priority
+                  />
                 </div>
               </div>
             </div>
           </Block>
         </Column>
-        
+
         <Column mode="normal" modeM="full" className={styles.index__services}>
           <Block className={styles.index__services__block}>
             <div className={styles.index__services__block__content}>
@@ -103,9 +108,9 @@ export default function Index() {
                 <div>
                   <h2>{$t.home.servicesTitle}</h2>
                   <p>
-                    {$t.home.services[0]} <strong>{$t.home.services[1]}</strong>{' '}
+                    {$t.home.services[0]} <strong>{$t.home.services[1]}</strong>{" "}
                     <br />
-                    {$t.home.services[2]}{' '}
+                    {$t.home.services[2]}{" "}
                     <strong
                       className={
                         styles.index__services__block__content__left__cyan
@@ -202,8 +207,28 @@ export default function Index() {
             </div>
           </Block>
         </Column>
-        <OurWork/>
-        <Industries/>
+
+        <OurWork />
+
+        <Column className={styles.index__gcloudpartner} numberS="1" number="2" mode="normal">
+          <Block className={styles.message}>
+            <div>
+              <h2>{$t.home.gcloudTitle}</h2>
+              <p>{$t.home.gcloudParagraph}</p>
+            </div>
+          </Block>
+          <Block className={styles.center}>
+            <div>
+              <Image
+                width="300"
+                height="300"
+                src="/certifications/gcloud.svg"
+              ></Image>
+            </div>
+          </Block>
+        </Column>
+
+        <Industries />
         <Column className={styles.index__team} mode="full">
           <Block className={styles.index__team__block}>
             <div className={styles.index__team__block__content}>
@@ -220,14 +245,14 @@ export default function Index() {
                   {$t.home.team[0]}
                   <br
                     className={styles.index__team__block__content__text__sbr}
-                  />{' '}
-                  <strong>{$t.home.team[1]}</strong> {$t.home.team[2]}{' '}
+                  />{" "}
+                  <strong>{$t.home.team[1]}</strong> {$t.home.team[2]}{" "}
                   <strong
                     className={styles.index__team__block__content__text__pink}
                   >
-                    {' '}
+                    {" "}
                     {$t.home.team[3]}
-                  </strong>{' '}
+                  </strong>{" "}
                   {$t.home.team[4]} <br />
                   {$t.home.team[5]} <br />
                   {$t.home.team[6]}
@@ -246,12 +271,12 @@ export default function Index() {
                       className={`${
                         picture.fileName
                           ? styles.index__team__block__content__collabs__collabItem
-                          : styles['index__team__block__content__card-empty']
+                          : styles["index__team__block__content__card-empty"]
                       }`}
                     >
                       {picture.fileName ? (
                         <ImageLegacy
-                          layout={'fill'}
+                          layout={"fill"}
                           placeholder="blur"
                           blurDataURL={fallbackBlurImage}
                           src={`/images/${picture.fileName}`}

@@ -1,75 +1,48 @@
 ---
 number: 4
-title: ['Real state CRM', '']
-headline: ['Enhancing real estate sales operations with a tailored CRM']
-services: ['discovery', 'agile Development']
-methodologies: ['Scrum']
-period: ['2020 - 2021']
+title: ['Avittat', '']
+headline: ['']
+solutions: ['CRM']
+services: []
+methodologies: []
+period: []
 portrait: 'avittat-thumbnail'
 hero: 'avittat-hero'
 storyType: 'Work'
 introduction: {
-    title: "Introduction",
-    content: "In this project, we aimed to develop a specialized CRM for a real estate company with the goal of improving the tracking of its prospects and increasing the effectiveness of its sales force. With this system, we expected to achieve greater efficiency in the property acquisition process by improving communication and information management."
+    title: "",
+    content: ""
 }
 ---
 
-<div>
-    <h2>Challenges</h2>
-    <p>To carry out this project several challenges were faced, including the need for a system that would allow for efficient tracking of prospects in order to measure their effectiveness and increase sales volume.</p>   
-    <p>Another concern was the dependence on printed documents and the bottlenecks this caused. A system was required that would allow for the digitization of documentation and facilitate the exchange of information.</p>
-</div>
-<div>
-    <h2>Solution</h2>
-    <p>To address these challenges, a Discovery project was carried out to understand the scope and limitations of the project. After this analysis, it was concluded that there were two viable options for the development of the system. Finally, a solution composed of several pieces was chosen and developed through our Agile Development service:</p>
-</div>
-<div>
-    <figure>
-        <img loading="lazy" src="/work/avittat-figure1.jpg" alt="case details"/>
-        <figcaption class="story_story__mainContent__caption__IQRnS">Before starting the development of the project, we perform a Discovery service to understand the business challenges. With the analysis obtained, we carefully design the application and its workflows.</figcaption>
-    </figure>    
-</div>
-<ul class="story_story__mainContent__fullList__ClxE5">
-    <li>Implementation of main flows
-        <ul>
-            <span>A primary version of the main flows was implemented for validation and improvement, with the aim of achieving efficient tracking of prospects.</span>
-        </ul>
-    </li>
-    <li>Digitized documentation
-        <ul>
-            <span>Physical documentation was exchanged for digital documentation for closing and titling that is shared through the platform, avoiding excessive use of paper and facilitating the exchange of information.</span>
-        </ul>
-    </li>
-    <li>Notifications at strategic process points
-        <ul>
-            <span>Strategic notifications were made to customers about the progress of their acquisition through electronic means, with the aim of improving communication and ensuring adequate progress of acquisitions.</span>
-        </ul>
-    </li>
-    <li>Adequate tracking of quotes and sales
-        <ul>
-            <span>The system supports sales advisors in giving adequate follow-up on their quotes and sales, responding effectively to the customer and allowing for the measurement of sales force effectiveness.</span>
-        </ul>
-    </li>
-</ul>
-<div class="story_story__mainContent__gantt__TErEp">
-    <figure>
-        <img loading="lazy" src="/work/project-chart-en.svg" alt="Gantt chart"/>
-        <figcaption class="story_story__mainContent__caption__IQRnS">The Gantt chart for this project illustrates our Agile Development service, with each sprint broken down into three distinct phases: definition, implementation, and acceptance.</figcaption>
-    </figure>
-</div>
-<div>
-    <figure>
-        <img loading="lazy" src="/work/avittat-figure2.jpg" alt="case details"/>
-        <figcaption class="story_story__mainContent__caption__IQRnS">Tools were designed to facilitate the follow-up of prospects.</figcaption>
-    </figure>    
-</div>
-<div>
-    <figure>
-        <img loading="lazy" src="/work/avittat-figure3.jpg" alt="case details"/>
-        <figcaption class="story_story__mainContent__caption__IQRnS">With these new tools it is no longer necessary to depend on printed documents.</figcaption>
-    </figure>    
-</div>
-<div>
-    <h2>Conclusion</h2>
-    <p>The implementation of a CRM project was a great step towards the modernization and efficiency of our client. The accuracy in the tracking of prospects improved the performance of sales agents, allowing for better preparation and offering a higher-quality service. Additionally, the system provided greater efficiency in measuring the performance of agents, which helped reward those with better results with incentives and commissions according to their performance. In conclusion, the CRM was essential in improving the management of prospects and the performance of sales agents, allowing for the leaving behind of old manual processes.</p>
-</div>
+## Background
+
+In the competitive landscape of the real estate market, a company embarked on a journey to redefine its sales and customer management strategy. Identifying key inefficiencies in tracking prospects and a reliance on outdated methods, the company envisioned harnessing technology to foster growth and enhance operational effectiveness. The project at the heart of this transformation was the development of a specialized CRM system, designed specifically to streamline the sales process and improve communication. This marked the company's first step towards digital modernization and achieving operational excellence.
+
+![](/work/avittat-figure-1.jpg)
+
+
+## Challenge
+
+The primary challenge revolved around creating a CRM system that not only streamlined the tracking of sales prospects but also enhanced the overall sales strategy. Compounding this was the agency's over-reliance on cumbersome paper-based processes, which led to inefficiencies in information exchange and document management, impeding the smooth execution of property transactions.
+
+## Solution
+
+We build a customized CRM system designed specifically for the real estate sector. It streamlined prospect tracking and sales strategies through automation and innovative technology. Key features included establishing core functionalities for efficient management, transitioning to digital documentation to expedite processes, implementing automated strategic notifications for better client communication, and enhancing quote and sales tracking to improve sales force effectiveness. This solution was developed using our Agile Development service, ensuring adaptability and continuous refinement based on client feedback.
+
+![](/work/avittat-figure-2.jpg)
+
+![](/work/avittat-figure-3.jpg)
+
+![](/work/avittat-figure-4.jpg)
+
+
+
+## Impact
+
+The CRM implementation dramatically enhanced both operational efficiency and client satisfaction. Specific data showcased substantial sales volume increases and quicker transaction completions. After introducing the CRM, the agency observed a clear boost in workflow efficiency and a reduction in paperwork. Feedback from critical stakeholders—sales agents and clients—emphasized the system's effectiveness in improving service quality and strengthening customer relations, evidencing the CRM's crucial role in propelling the agency's success forward.
+
+
+## Conclusion
+
+The implementation of our tailored CRM system not only tackled the immediate challenges faced by the dynamic real estate agency but also set a new benchmark in customer relationship management within the industry. The successful project outcome, underscored by the agency's marked improvement in prospect tracking and sales metrics, is a testament to our team's innovative approach and technical prowess. Our collaboration has led to a notable increase in client satisfaction and sales outcomes, demonstrating our capability to transform challenges into opportunities for growth. This project is a clear indicator of our dedication to leveraging technology for impactful solutions, making it a prime example of our expertise in navigating and solving complex business challenges.

@@ -1,96 +1,55 @@
 ---
 number: 1
-title: ['Subastas de vinos', 'en tus manos']
-headline: ['Experimenta el mundo de las subastas de vino', 'todo el tiempo, en todo lugar.']
-services: ['discovery', 'agile development']
-methodologies: ['Scrum']
-period: ['2022']
-portrait: 'spectrum-cover'
-hero: 'spectrum-hero'
-storyType: 'Trabajo'
-introduction: {
-    title: "Introducción",
-    content: "Fuimos abordados por una casa de subastas de vinos que buscaba mejorar su presencia en línea con el desarrollo de una aplicación móvil para sus subastas. La casa vinícola tenía una exitosa trayectoria como anfitrión de subastas en línea en su sitio web, por lo que reconoció el potencial de crecimiento que provee una aplicación móvil dedicada a sus usuarios. Una anterior aplicación móvil con la que ellos contaban estaba pobremente diseñada, lenta y proveía una pobre experiencia de usuario, llevando a una baja tasa de uso. La meta del proyecto fue crear una app que permitiera a los usuarios navegar y hacer una oferta en vinos desde sus celulares con una experiencia de usuario simple y segura."
-}
+title: ["Spectrum Wine"]
+headline: []
+solutions: ["Mobile App"]
+services: []
+methodologies: []
+period: []
+portrait: "spectrum-thumbnail"
+hero: "spectrum-cover"
+storyType: "Trabajo"
+introduction: { title: "", content: "" }
 ---
 
-<div>
-    <h2>Los Retos</h2>
-    <p>Uno de los principales retos que enfrentamos en este proyecto fue la necesidad de integrar una existente base de datos del inventario de las subastas de la casa vinícola y mostrar la información en tiempo real con respuesta rápida. La base de datos contenía información detallada sobre cada vino, incluyendo añada, región y notas de sabor, así como el actual estatus de la oferta. Era esencial que la aplicación accediera y mostrara esta información rápido y eficiente para proveer esta experiencia simple y segura.</p>
-    <br/>
-    <p>Otro importante reto que abordamos fue la necesidad de manejar datos confidenciales de manera segura a través de la aplicación. La bodega maneja artículos de alto valor, por lo que era esencial que implementáramos medidas de seguridad robustas contra fraudes y asegurar la confidencialidad de la información del usuario.</p>
-</div>
-<div>
-    <h2>solución</h2>
-    <p>Para enfrentar estos retos, desarrollamos una aplicación personalizada que utiliza una API RESTful para integrarse perfectamente con la base de datos del inventario de la casa de vinos. Esto permite que se muestre información en tiempo real rápido y eficiente de cada uno de los vinos, incluyendo su correspondiente estatus de oferta, a usuarios de la aplicación. A su vez implementamos un número de medidas de seguridad para proteger la confidencialidad de los datos de usuario, que incluyen encriptación de información susceptible y un estricto control de acceso.</p>
-</div>
-<div class="story_story__mainContent__solutionGrid__gf19L story_story__mainContent__2cGrid__aNFn8">
-    <figure>
-         <div class="story_story__mainContent__gifContainer__XPvMb">
-            <img loading="lazy" src="/work/wine-details.gif" alt="Wine details"/>
-        </div>
-        <figcaption class="story_story__mainContent__gridCaption__8kiY6 story_story__mainContent__caption__IQRnS">Una integración perfecta con el inventario de la vinicola permite mostrar rápidamente la información requerida.</figcaption>
-    </figure>  
-    <div>
-        <span>Los usuarios son capaces de:</span>
-        <ul>
-        <li>Crear una lista de seguimiento de vinos en los cuales están interesados</li>
-        <li>Contactar al vendedor directamente a través de correo electrónico</li>
-        <li>Enviar ofertas en otro momento</li>
-        <li>Participar en subastas</li>
-        </ul>
-    </div>    
-</div>
-<div>
-    <p>El proyecto fue desarrollado utilizando nuestro servicio de DESARROLLO ÁGIL, con entregas de valor en cada sprint. Esto nos permitió ser flexibles y atentos a cada necesidad de cambios que la casa de vinos tuviese y asegurar que somos capaces de entregar un producto de alta calidad que satisfaga sus necesidades.</p>
-    <br/>
-    <p>Como en todos nuestros proyectos, este proyecto comenzó con una etapa de discovery en la que trabajamos en cercanía con la bodega para comprender sus necesidades y objetivos. Esta fase involucró un análisis detallado de su existente proceso de subastas en línea, así como de la experiencia de usuario de su previa aplicación móvil y actuar sitio de ofertas. En base a este análisis, fuimos capaces de definir el alcance del proyecto y determinar el mejor acercamiento de desarrollo para la nueva aplicación. La etapa de discovery fue crítica para el éxito del proyecto, ya que permitió establecer unos cimientos sólidos y asegurar que éramos capaces de entregar un producto que contara con las necesidades de la bodega y sus usuarios.</p>
-</div>
-<div class="story_story__mainContent__gantt__TErEp">
-    <figure>
-        <img loading="lazy" src="/work/project-chart-es.svg" alt="Gantt chart"/>
-        <figcaption class="story_story__mainContent__caption__IQRnS">El diagrama de Gantt de este proyecto ilustra nuestro servicio de Desarrollo Ágil, con cada sprint desglosado en tres diferentes fases: definición, implementación, y aprobación.</figcaption>
-    </figure>
-</div>
-<div>
-    <figure>
-        <div class="story_story__mainContent__gifContainer__XPvMb">
-            <img loading="lazy" src="/work/search-result.gif" alt="Search results"/>
-        </div>
-        <figcaption class="story_story__mainContent__caption__IQRnS">El proceso de subastas es optimizado con una interfaz cuidadosamente diseñada.</figcaption>
-    </figure>    
-</div>
-<div class="story_story__mainContent__imagesGrid__NKnam story_story__mainContent__2cGrid__aNFn8">
-    <figure>
-        <img loading="lazy" src="/work/store-spectrum.jpg" alt="App capture"/>
-        <figcaption class="story_story__mainContent__gridCaption__8kiY6 story_story__mainContent__caption__IQRnS">Los usuarios pueden hacer ofertas informadas ya que tienen acceso a los detalles de la subasta en tiempo real.</figcaption>
-    </figure>
-    <figure>
-        <img loading="lazy" src="/work/cart-spectrum.jpg" alt="App capture"/>
-        <figcaption class="story_story__mainContent__gridCaption__8kiY6 story_story__mainContent__caption__IQRnS">Los datos del usuario están protegidos por sólidas medidas de seguridad, lo que permite subastas seguras.</figcaption>
-    </figure>
-</div>
+## Contexto
+
+Una reconocida casa de subastas de vinos buscaba mejorar su presencia digital al pasar de su tradicional plataforma de subastas en línea a una aplicación móvil más atractiva y fácil de usar. A pesar de tener un historial exitoso de subastas de vinos en línea, la aplicación móvil existente estaba bajo rendimiento, caracterizada por un mal diseño, tiempos de respuesta lentos y una experiencia de usuario generalmente insatisfactoria, lo que contribuía a bajas tasas de adopción. El objetivo era claro: desarrollar una nueva aplicación que no solo facilitara la navegación y la puja en subastas de vinos, sino que también elevara la experiencia general del usuario para cumplir con las expectativas de los usuarios móviles de hoy.
+
+## Desafío
+
+El proyecto presentó dos desafíos principales: en primer lugar, la integración con la extensa base de datos de la casa de vinos para mostrar el inventario de subastas en tiempo real, incluyendo información detallada sobre los vinos como la añada, la región y las notas de cata, junto con el estado actual de las pujas. El acceso rápido y eficiente a los datos era crucial para una experiencia de usuario fluida. En segundo lugar, el manejo de datos confidenciales exigía medidas de seguridad estrictas para proteger contra el fraude y asegurar que la información del usuario permaneciera segura, dada la naturaleza de alto valor de los artículos en subasta.
+
+## Solución
+
+Nuestro enfoque fue diseñar una aplicación móvil personalizada utilizando una API RESTful para una integración fluida con la base de datos de inventario de la casa de vinos. Esta solución garantizó la presentación rápida y eficiente de datos de subastas en tiempo real a los usuarios de la aplicación. Para abordar las preocupaciones de seguridad, incorporamos múltiples capas de protección de datos, incluyendo la encriptación de información sensible y la implementación de controles de acceso estrictos. La aplicación presentó capacidades para que los usuarios crearan listas de seguimiento, contactaran directamente con los vendedores, enviaran pujas y participaran activamente en las subastas, mejorando el compromiso y la satisfacción del usuario.
+
+![](/work/spectrum-figure-1.jpg)
+
+## Impacto
+
+La introducción de la nueva aplicación móvil mejoró significativamente la presencia en línea y la experiencia del usuario de la casa de vinos. Al proporcionar una plataforma rápida, confiable y segura para las subastas de vinos, la aplicación fomentó una mayor confianza entre los usuarios, lo que, a su vez, llevó a mayores tasas de adopción y una participación más activa en las subastas. El enfoque de desarrollo ágil permitió una entrega continua de valor y una adaptabilidad a las necesidades evolutivas de la casa de vinos, culminando en un producto que no solo cumplió, sino que superó sus expectativas.
+
+## Conclusión
+
+El lanzamiento de la aplicación móvil de Spectrum Wine ha transformado el mundo de las subastas de vinos, combinando la tradición con la tecnología moderna para mejorar la experiencia de las subastas. Esta iniciativa ha ampliado el alcance de las subastas de vinos finos a nivel global, reforzando nuestro compromiso con soluciones digitales innovadoras y centradas en el usuario. Spectrum Wine ahora lidera en el espacio de subastas digitales, con una plataforma que refleja su oferta de alta calidad. Esta colaboración destaca nuestra capacidad para navegar desafíos y promover avances en la industria, mostrando nuestro liderazgo en innovación digital.
+
+## Tecnologías
+
+Algunas de las tecnologías e integraciones implementadas en este proyecto.
+
 <div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
     <div>
-        <h3>TECNOLOGÍAS</h3>
-        <span>Algunas de las tecnologías e integraciones<br/>implementadas en este proyecto.</span>
-    </div>   
-    <div class="story_story__mainContent__technologies__images__6NSg5">
-        <div>
-            <img loading="lazy" alt="Technology logo" src="/technologies/html.svg"/>
-            <img loading="lazy" alt="Technology logo" src="/technologies/css.svg"/>
-            <img loading="lazy" alt="Technology logo" src="/technologies/javascript.svg"/>
-            <img loading="lazy" alt="Technology logo" src="/technologies/vue.svg"/>
-            <img loading="lazy" alt="Technology logo" src="/technologies/sass.svg"/>
-        </div>
-        <div>
-            <img loading="lazy" alt="Technology logo" src="/technologies/chat.svg"/>
-            <img loading="lazy" alt="Technology logo" src="/technologies/cordova.png"/>
-            <img loading="lazy" alt="Technology logo" src="/technologies/nodejs.svg"/>
-        </div>
-    </div>     
-</div>
-<div>
-    <h2>Conclusión</h2>
-    <p>La aplicación que desarrollamos continuará ayudando a la casa vinícola a mejorar su presencia en línea y a proveer una experiencia de usuario para sus clientes mejor que en su aplicación previa. Ofrece una plataforma transparente y segura de conducción de subastas, incrementando la confianza en las subastas en línea de la casa de vinos. Nuestro equipo se enorgullece de haber desempeñado un papel en el éxito de este proyecto y espera continuar trabajando con la bodega en el futuro.</p>
+      <img loading="lazy" src="/technologies/html.svg" alt="HTML"/>
+      <img loading="lazy" src="/technologies/css.svg" alt="CSS"/>
+      <img loading="lazy" src="/technologies/javascript.svg" alt="JavaScript"/>
+      <img loading="lazy" src="/technologies/vue.svg" alt="Vue"/>
+    </div>
+    <div>
+      <img loading="lazy" src="/technologies/sass.svg" alt="Sass"/>
+      <img loading="lazy" src="/technologies/cordova.png" alt="Cordova"/>
+      <img loading="lazy" src="/technologies/node.svg" alt="Node.js"/>
+    </div>
+  </div>
 </div>
