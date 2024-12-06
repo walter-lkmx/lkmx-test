@@ -23,6 +23,9 @@ The government of Baja California initiated the Outstanding Host Baja program to
 
 Our role encompassed the comprehensive design and development of the website, including a detailed directory for the Baja California government's Outstanding Host Baja program. In collaboration with Eraboy Studio, who provided the graphic art for the homepage, we introduced interactive animations to enrich the user experience. This concerted effort resulted in a navigable and informative platform that efficiently connects tourists with establishments distinguished by the program for their superior hospitality and quality, solidifying Baja California's appeal as a reliable and attractive tourist destination.
 
+![](/work/outstanding-host-baja-figure-1.jpg)
+
+![](/work/outstanding-host-baja-figure-2.jpg)
 
 ## Tecnology
 

@@ -23,5 +23,6 @@ Stake or Die se embarcó en un ambicioso viaje para construir productos, herrami
 
 En respuesta, se implementó una estrategia integral de aumento de personal, proporcionando a Stake or Die un equipo de profesionales altamente calificados y expertos en las complejidades de la tecnología blockchain. Este esfuerzo colaborativo llevó al desarrollo de una gama de soluciones blockchain, desde contratos inteligentes hasta aplicaciones Web3 más complejas. Cada solución fue elaborada con precisión, asegurando escalabilidad, seguridad e innovación en su núcleo. Este enfoque no solo abordó las necesidades técnicas inmediatas, sino que también posicionó a Stake or Die como un pionero en el dominio blockchain, capaz de aprovechar la tecnología para productos y estrategias innovadoras.
 
+![](/work/stake-or-die-figure-1.jpg)
 
-\
+![](/work/stake-or-die-figure-2.jpg)

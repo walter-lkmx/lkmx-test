@@ -22,3 +22,7 @@ Stake or Die embarked on an ambitious journey to build pioneering blockchain pro
 ## Solution
 
 In response, a comprehensive staff augmentation strategy was implemented, providing the with a team of highly skilled professionals adept in the nuances of blockchain technology. This collaborative effort led to the development of a range of blockchain solutions, from smart contracts to more intricate Web3 applications. Each solution was crafted with precision, ensuring scalability, security, and innovation at its core. This approach not only addressed the immediate technical needs but also positioned STAKE OR DIE as a pioneer in the blockchain domain, capable of leveraging technology for groundbreaking products and strategies.
+
+![](/work/stake-or-die-figure-1.jpg)
+
+![](/work/stake-or-die-figure-2.jpg)

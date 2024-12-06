@@ -23,6 +23,10 @@ El gobierno de Baja California inició el programa Outstanding Host Baja para de
 
 Nuestra labor abarcó el diseño y desarrollo integral del sitio web, incluyendo un directorio detallado para el programa Outstanding Host Baja del gobierno de Baja California. En colaboración con Eraboy Studio, quienes proporcionaron el arte gráfico para la página de inicio, introdujimos animaciones interactivas para enriquecer la experiencia del usuario. Este esfuerzo concertado resultó en una plataforma navegable e informativa que conecta eficientemente a los turistas con los establecimientos distinguidos por el programa por su hospitalidad y calidad superior, consolidando el atractivo de Baja California como un destino turístico confiable y atractivo.
 
+![](/work/outstanding-host-baja-figure-1.jpg)
+
+![](/work/outstanding-host-baja-figure-2.jpg)
+
 ## Tecnologías
 
 <div class="story_story__mainContent__technologies__v5XXm">

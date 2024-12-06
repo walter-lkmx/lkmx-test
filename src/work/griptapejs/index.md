@@ -31,6 +31,8 @@ Clave para la evolución del framework fue la integración de actividades impuls
 
 El apoyo de la Secret Foundation, a través de una subvención dedicada, subrayó la importancia del proyecto. Este respaldo fue instrumental para escalar las capacidades de Griptape.js, con el objetivo de apoyar al menos diez proyectos formales y, por lo tanto, aumentar las Dapps seguras y centradas en la privacidad dentro del ecosistema.
 
+![](/work/griptapejs-figure-1.jpg)
+
 ## Impacto
 
 La introducción de Griptape.js catalizó un cambio transformador en el ecosistema de Dapps de Secret Network. Los desarrolladores encontraron que el framework era una herramienta crítica para mejorar su productividad y las funciones de privacidad de sus aplicaciones. El impacto de la iniciativa se extendió más allá de simplificar los procesos de desarrollo; contribuyó activamente a la proliferación de Dapps seguras y centradas en la privacidad. El framework se convirtió en un pilar para la innovación, permitiendo a los desarrolladores explorar nuevas posibilidades en la tecnología blockchain. Como resultado, el panorama digital vio un aumento notable en la disponibilidad de aplicaciones dedicadas a proteger los datos del usuario, marcando un avance significativo hacia un mundo en línea más seguro y privado.

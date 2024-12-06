@@ -19,6 +19,8 @@ introduction: {
 
 Athens Services, a leading entity in environmental services across the greater Los Angeles area, has provided waste collection and recycling solutions for over six decades. Embedded in the community's fabric, they've demonstrated an unwavering commitment to sustainability, servicing over 250,000 customers in upwards of 40 cities. This dedication is embodied in their efforts to divert waste from landfills, emphasizing recycling and composting. As Athens Services looked to the future, they recognized the necessity of evolving their digital and operational strategies to better meet modern demands, maintaining their environmental commitment while enhancing customer service and operational efficiency.
 
+![](/work/athens-figure-1.jpg)
+
 ## Challenge 
 
 The primary challenge was to enhance user experience and streamline billing management through the development and integration of a new website. Additionally, a solution was needed to optimize internal processes and ensure operational continuity without compromising service quality. All of this needed to be achieved while maintaining the company's commitment to sustainability and customer satisfaction.
@@ -30,6 +32,8 @@ The team launched a project to revamp Athens Services' online presence and strea
 Crucial to these advancements was integrating these tools with the Soft-Pak® ERP system, known for its comprehensive support in customer service, route management, and billing. This integration ensured that the new digital enhancements worked smoothly with Athens Services' operational framework, maintaining service consistency and efficiency.
 
 This approach was designed to boost both digital and operational efficiency at Athens Services, improving customer interaction while upholding the company's standards for environmental responsibility and high-quality service.
+
+![](/work/athens-figure-2.jpg)
 
 ## Impact
 
