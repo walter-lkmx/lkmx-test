@@ -6,8 +6,8 @@ solutions: ["E-Commerce"]
 services: []
 methodologies: []
 period: []
-portrait: "solarfortun-thumbnail"
-hero: "solarfortun-cover"
+portrait: "solar-fortun-thumbnail"
+hero: "solar-fortun-cover"
 storyType: "Trabajo"
 introduction: { title: "", content: "" }
 ---
