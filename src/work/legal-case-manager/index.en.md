@@ -6,8 +6,8 @@ solutions: ['SaaS, Document Manager']
 services: []
 methodologies: []
 period: []
-portrait: 'legal-thumbnail'
-hero: 'legal-hero'
+portrait: 'legalstream-thumbnail'
+hero: 'legalstream-cover'
 storyType: 'Work'
 introduction: {
     title: "",

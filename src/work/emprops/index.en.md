@@ -28,15 +28,13 @@ In addressing the initial skepticism surrounding NFTs and the technological leap
 
 The real-time generation of art, facilitated by a synthesis of artistic vision and algorithmic automation, allowed for the creation of unique, algorithmically generated artworks.
 
-![](/work/emprops-ia-figure-1.jpg)
+![](/work/emprops-ai-figure-2.jpg)
 
 ## Impact
 
 The reception of EmProps within the digital art space speaks volumes, with an outpouring of positive feedback from creators and collectors alike. It has catalyzed a renaissance in digital creativity, where the distinction between artist and technologist blurs into a singular identity. Enthusiastic testimonials from users highlight the platform's success in providing a dynamic environment for the seamless creation, minting, and trading of AI-enhanced digital artworks.
 
 EmProps has fostered a community where digital art is not only consumed but celebrated for its innovative integration of emerging technologies. The platform's impact is evident in the vibrant marketplace activity and the embrace of its tools by creators who previously might have hesitated at the threshold of the digital art world. Through EmProps, artists have found a voice in the new digital landscape, and the platform has become a beacon for the potential of generative AI in art.
-
-![](/work/emprops-ia-figure-2.jpg)
 
 ## Conclusion
 
