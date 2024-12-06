@@ -6,8 +6,8 @@ solutions: ["Document Manager, ERP integrations"]
 services: ["Software Development"]
 methodologies: []
 period: []
-portrait: "frazer-thumbnail"
-hero: "frazer-cover"
+thumbnail: "frazer-thumbnail"
+cover: "frazer-cover"
 storyType: "Work"
 introduction: { title: "", content: "" }
 ---

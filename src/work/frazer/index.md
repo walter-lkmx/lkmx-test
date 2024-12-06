@@ -6,8 +6,8 @@ solutions: ["Gestión de Documentos, ERP"]
 services: ["Desarrollo de Software"]
 methodologies: []
 period: []
-portrait: "frazer-thumbnail"
-hero: "frazer-cover"
+thumbnail: "frazer-thumbnail"
+cover: "frazer-cover"
 storyType: "Trabajo"
 introduction: { title: "", content: "" }
 ---

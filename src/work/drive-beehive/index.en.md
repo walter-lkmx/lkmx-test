@@ -6,8 +6,8 @@ solutions: ['Mobile App']
 services: []
 methodologies: []
 period: []
-portrait: 'drive-beehive-thumbnail'
-hero: 'drive-beehive-cover'
+thumbnail: 'drive-beehive-thumbnail'
+cover: 'drive-beehive-cover'
 storyType: 'Work'
 introduction: {
     title: "",

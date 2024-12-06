@@ -6,8 +6,8 @@ solutions: []
 services: []
 methodologies: []
 period: []
-portrait: 'stendhal-thumbnail'
-hero: 'stendhal-cover'
+thumbnail: 'stendhal-thumbnail'
+cover: 'stendhal-cover'
 storyType: 'Work'
 introduction: {
     title: "",

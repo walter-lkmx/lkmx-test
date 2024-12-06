@@ -6,8 +6,8 @@ solutions: ['HR System, Engineering Team, Booking System']
 services: []
 methodologies: []
 period: []
-portrait: 'las-canadas-thumbnail'
-hero: 'las-canadas-cover'
+thumbnail: 'las-canadas-thumbnail'
+cover: 'las-canadas-cover'
 storyType: 'Work'
 introduction: {
     title: "",

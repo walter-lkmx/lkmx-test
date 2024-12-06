@@ -6,8 +6,8 @@ solutions: ["E-Commerce, Marca Digital"]
 services: []
 methodologies: []
 period: []
-portrait: "fos-thumbnail"
-hero: "fos-cover"
+thumbnail: "fos-thumbnail"
+cover: "fos-cover"
 storyType: "Trabajo"
 introduction: { title: "", content: "" }
 ---

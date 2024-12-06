@@ -6,8 +6,8 @@ solutions: ["Mobile App"]
 services: []
 methodologies: []
 period: []
-portrait: "spectrum-wine-thumbnail"
-hero: "spectrum-wine-cover"
+thumbnail: "spectrum-wine-thumbnail"
+cover: "spectrum-wine-cover"
 storyType: "Trabajo"
 introduction: { title: "", content: "" }
 ---

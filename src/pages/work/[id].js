@@ -79,7 +79,7 @@ export default function SuccessStory({storyData}) {
                         <div className={styles.story__heroImg}>
                             <Image
                                 fill
-                                src={`/work/${storyData.hero}.jpg`}
+                                src={`/work/${storyData.cover}.jpg`}
                                 alt="Heading Image"
                                 priority
                             />
