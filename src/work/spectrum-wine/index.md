@@ -6,15 +6,15 @@ solutions: ["Mobile App"]
 services: []
 methodologies: []
 period: []
-portrait: "spectrum-thumbnail"
-hero: "spectrum-cover"
+portrait: "spectrum-wine-thumbnail"
+hero: "spectrum-wine-cover"
 storyType: "Trabajo"
 introduction: { title: "", content: "" }
 ---
 
 ## Contexto
 
-Una reconocida casa de subastas de vinos buscaba mejorar su presencia digital al pasar de su tradicional plataforma de subastas en línea a una aplicación móvil más atractiva y fácil de usar. A pesar de tener un historial exitoso de subastas de vinos en línea, la aplicación móvil existente estaba bajo rendimiento, caracterizada por un mal diseño, tiempos de respuesta lentos y una experiencia de usuario generalmente insatisfactoria, lo que contribuía a bajas tasas de adopción. El objetivo era claro: desarrollar una nueva aplicación que no solo facilitara la navegación y la puja en subastas de vinos, sino que también elevara la experiencia general del usuario para cumplir con las expectativas de los usuarios móviles de hoy.
+Una reconocida casa de subastas de vinos buscaba mejorar su presencia digital al pasar de su tradicional plataforma de subastas en línea a una aplicación móvil más atractiva y fácil de usar. A pesar de tener un historial exitoso de subastas de vinos en línea, la aplicación móvil existente estaba teniendo un bajo desempeño, caracterizada por un mal diseño, tiempos de respuesta lentos y una experiencia de usuario generalmente insatisfactoria, lo que contribuía a bajas tasas de adopción. El objetivo era claro: desarrollar una nueva aplicación que no solo facilitara la navegación y la puja en subastas de vinos, sino que también elevara la experiencia general del usuario para cumplir con las expectativas de los usuarios móviles de hoy.
 
 ## Desafío
 
@@ -24,7 +24,7 @@ El proyecto presentó dos desafíos principales: en primer lugar, la integració
 
 Nuestro enfoque fue diseñar una aplicación móvil personalizada utilizando una API RESTful para una integración fluida con la base de datos de inventario de la casa de vinos. Esta solución garantizó la presentación rápida y eficiente de datos de subastas en tiempo real a los usuarios de la aplicación. Para abordar las preocupaciones de seguridad, incorporamos múltiples capas de protección de datos, incluyendo la encriptación de información sensible y la implementación de controles de acceso estrictos. La aplicación presentó capacidades para que los usuarios crearan listas de seguimiento, contactaran directamente con los vendedores, enviaran pujas y participaran activamente en las subastas, mejorando el compromiso y la satisfacción del usuario.
 
-![](/work/spectrum-figure-1.jpg)
+![](/work/spectrum-wine-figure-1.jpg)
 
 ## Impacto
 

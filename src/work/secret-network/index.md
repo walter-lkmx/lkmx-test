@@ -6,8 +6,8 @@ solutions: ['Proyecto Web3, Marca Digital']
 services: []
 methodologies: []
 period: []
-portrait: 'scrt-thumbnail'
-hero: 'scrt-cover'
+portrait: 'secret-network-thumbnail'
+hero: 'secret-network-cover'
 storyType: 'Trabajo'
 introduction: {
     title: "",

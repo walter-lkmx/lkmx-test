@@ -40,4 +40,12 @@ Este caso subraya nuestra experiencia en la gestión de desafíos complejos de d
 
 ## Tecnología
 
-* Apache Spark
+Algunas de las tecnologías e integraciones implementadas en este proyecto.
+
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/apache-spark.svg" alt="Apache Spark"/>
+    </div>
+  </div>
+</div>

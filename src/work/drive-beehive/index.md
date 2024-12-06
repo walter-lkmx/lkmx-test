@@ -37,7 +37,7 @@ La aplicación incentiva la conducción segura al recompensar a los usuarios por
 
 ![](/work/drive-beehive-figure-03.png)
 
-### **Impacto**
+### Impacto
 
 Drive Beehive rápidamente dejó su huella, logrando una tracción significativa con cientos de descargas y el apoyo de organizaciones como People Against Distracted Driving y Fathers Against Distracted Drivers. El enfoque único de la aplicación para reducir la conducción distraída no solo construyó una comunidad de conductores y patrocinadores concienciados, sino que también abrió vías para asociaciones con minoristas para facilitar mecanismos de recompensa directa. Los comentarios abrumadoramente positivos, principalmente a través del boca a boca, subrayaron la efectividad de la aplicación y su potencial de crecimiento.
 

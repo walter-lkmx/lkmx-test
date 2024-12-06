@@ -39,7 +39,15 @@ LegalStream no es solo un producto; es parte de un cambio de paradigma en la tec
 
 ## Tecnología
 
-* Twilio 
-* Google Maps 
-* Stripe 
-* Elasticsearch
+Algunas de las tecnologías e integraciones implementadas en este proyecto.
+
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/twilio.svg" alt="Twilio"/>
+      <img loading="lazy" src="/technologies/maps.svg" alt="Google Maps"/>
+      <img loading="lazy" src="/technologies/stripe.svg" alt="Stripe"/>
+      <img loading="lazy" src="/technologies/elasticsearch.svg" alt="Elasticsearch"/>
+    </div>
+  </div>
+</div>

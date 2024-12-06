@@ -6,8 +6,8 @@ solutions: ["Art Marketplace, Web3 Project"]
 services: []
 methodologies: []
 period: []
-portrait: "emprops-thumbnail"
-hero: "emprops-cover"
+portrait: "emprops-ai-thumbnail"
+hero: "emprops-ai-cover"
 storyType: "Work"
 introduction: { title: "", content: "" }
 ---
@@ -28,7 +28,7 @@ In addressing the initial skepticism surrounding NFTs and the technological leap
 
 The real-time generation of art, facilitated by a synthesis of artistic vision and algorithmic automation, allowed for the creation of unique, algorithmically generated artworks.
 
-![](/work/emprops-figure-1.jpg)
+![](/work/emprops-ia-figure-1.jpg)
 
 ## Impact
 
@@ -36,7 +36,7 @@ The reception of EmProps within the digital art space speaks volumes, with an ou
 
 EmProps has fostered a community where digital art is not only consumed but celebrated for its innovative integration of emerging technologies. The platform's impact is evident in the vibrant marketplace activity and the embrace of its tools by creators who previously might have hesitated at the threshold of the digital art world. Through EmProps, artists have found a voice in the new digital landscape, and the platform has become a beacon for the potential of generative AI in art.
 
-![](/work/emprops-figure-2.jpg)
+![](/work/emprops-ia-figure-2.jpg)
 
 ## Conclusion
 

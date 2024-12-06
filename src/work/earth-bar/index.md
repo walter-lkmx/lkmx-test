@@ -6,8 +6,8 @@ solutions: ['E-Commerce']
 services: []
 methodologies: []
 period: []
-portrait: 'earthbar-thumbnail'
-hero: 'earthbar-cover'
+portrait: 'earth-bar-thumbnail'
+hero: 'earth-bar-cover'
 storyType: 'Trabajo'
 introduction: {
     title: "",
@@ -20,15 +20,15 @@ introduction: {
 
 Durante más de cinco décadas, Earthbar se ha posicionado como una fuerza pionera en la industria del bienestar. Reconociendo la necesidad de actualizar su presencia digital para reflejar más fielmente su dedicación a ofrecer productos sostenibles y de alta calidad, se propuso actualizar la experiencia de compra en línea para que fuera más atractiva e intuitiva, alineándose con los objetivos de salud de los clientes y los valores de Earthbar.
 
-![](/work/earthbar-figure-01.jpg)
+![](/work/earth-bar-figure-01.jpg)
 
-![](/work/earthbar-figure-02.jpg)
+![](/work/earth-bar-figure-02.jpg)
 
 ## Solución
 
 Para abordar este desafío, la tienda Shopify de Earthbar experimentó una actualización significativa centrada en la experiencia del usuario. La nueva interfaz presenta una navegación sencilla y un diseño visualmente atractivo que muestra prominentemente los productos de bienestar de Earthbar. Al integrar señales visuales y mensajes sobre sostenibilidad en todo el sitio, el rediseño facilita que los clientes identifiquen productos que satisfacen sus necesidades de bienestar y apoyan el compromiso de Earthbar con la administración ambiental. Esta mejora de la tienda en línea facilita una conexión más efectiva entre la misión de Earthbar y el recorrido de compra del cliente.
 
-![](/work/earthbar-figure-03.jpg)
+![](/work/earth-bar-figure-03.jpg)
 
 ## Tecnología
 

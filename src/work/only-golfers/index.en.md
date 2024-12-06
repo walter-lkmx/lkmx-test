@@ -6,8 +6,8 @@ solutions: ['Mobile App, Social Network, SaaS']
 services: []
 methodologies: []
 period: []
-portrait: 'og-thumbnail' 
-hero: 'og-hero'
+portrait: 'only-golfers-thumbnail' 
+hero: 'only-golfers-cover'
 storyType: 'work'
 introduction: {
     title: "",
@@ -27,11 +27,7 @@ Our task was to digitally encapsulate the essence and spirit of golf, translatin
 
 The OnlyGolfers App emerged from a rigorous Agile Development process. We began with a Discovery phase, focusing keenly on the community's specific needs and goals. This foundation allowed us to build a mobile application that was both intuitive and immersive, providing features that resonate with the golfing community. The app facilitates real-time interactions among users, keeps them updated on golfing events and tournaments, and features a live scoreboard for an added competitive edge. Integrations such as push notifications and Firebase were implemented for effective data management and user engagement.
 
-![](/work/onlygolfers-figure-1.jpg)
-
-![](/work/onlygolfers-figure-2.jpg)
-
-![](/work/onlygolfers-figure-3.jpg)
+![](/work/only-golfers-figure-1.jpg)
 
 
 ## Impact

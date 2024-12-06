@@ -6,8 +6,8 @@ solutions: ["Mobile App"]
 services: []
 methodologies: []
 period: []
-portrait: "spectrum-thumbnail"
-hero: "spectrum-cover"
+portrait: "spectrum-wine-thumbnail"
+hero: "spectrum-wine-cover"
 storyType: "Work"
 introduction: { title: "", content: "" }
 ---
@@ -24,7 +24,7 @@ The project presented two main challenges: firstly, the integration with the win
 
 Our approach was to design a custom mobile app utilizing a RESTful API for smooth integration with the wine house's inventory database. This solution ensured the swift and efficient presentation of real-time auction data to app users. To address the security concerns, we incorporated multiple layers of data protection, including the encryption of sensitive information and the implementation of strict access controls. The app featured capabilities for users to create watchlists, contact sellers directly, submit bids, and actively participate in auctions, enhancing engagement and user satisfaction.
 
-![](/work/spectrum-figure-1.jpg)
+![](/work/spectrum-wine-figure-1.jpg)
 
 ## Impact
 

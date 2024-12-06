@@ -16,7 +16,7 @@ introduction: { title: "", content: "" }
 
 Vitromex, una empresa especializada en baldosas cerámicas sostenibles de alta calidad para proyectos minoristas y grandes proyectos arquitectónicos, enfrentaba importantes desafíos debido a la incapacidad de sus sistemas anteriores para integrarse eficazmente con su plataforma contable. Este problema de integración afectaba su eficiencia operativa, especialmente en la gestión de cotizaciones, pedidos, ventas y entregas de materiales. Necesitaban un sistema que no solo manejara su flujo de trabajo interno, sino que también se sincronizara perfectamente con catálogos externos y registros financieros.
 
-![](/work/vitromex-figure-01.jpg)
+![](/work/vitromex-figure-1.jpg)
 
 ## Solución
 
