@@ -19,9 +19,13 @@ introduction: {
 
 SuperYacht VPN necesitaba un sitio web de una sola página atractivo para promocionar su innovador servicio de VPN diseñado para clientes de Starlink en yates. Los requisitos principales eran comunicar efectivamente los beneficios únicos de su servicio, incluyendo la transmisión sin restricciones de canales de TV en diferentes países, y presentar un diseño brillante y atractivo. El trabajo del diseñador existente no cumplía con estas expectativas, lo que hacía necesario un rediseño que transmitiera mejor la historia y los beneficios de SuperYacht VPN.
 
+![](/work/superyacht-vpn-figure-1.jpg)
+
 ## Solución
 
 Logic Kernel asumió la tarea de renovar el sitio web de SuperYacht VPN y su identidad de marca. El enfoque involucró la creación de una identidad de marca moderna y vibrante que refleje la naturaleza innovadora y lujosa del producto, y el desarrollo de un sitio web de una sola página visualmente atractivo y fácil de usar que describa claramente los beneficios y características de SuperYacht VPN. El nuevo diseño enfatiza la claridad, la facilidad de navegación y una estética profesional que se alinea con las expectativas del mercado objetivo.
+
+![](/work/superyacht-vpn-figure-2.jpg)
 
 ## Tecnologías
 

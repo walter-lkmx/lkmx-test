@@ -19,6 +19,8 @@ introduction: {
 
 En un maravilloso espacio ubicado en el Valle de Guadalupe, donde los huéspedes disfrutan del hermoso paisaje y son el centro de atención, surgió la necesidad de proporcionar una experiencia de alojamiento más fluida y conveniente. El Valle de Guadalupe produce el 90% del vino mexicano y cuenta con más de 80 bodegas y más de 40 restaurantes. Con tantas atracciones, los huéspedes esperaban un proceso de check-in y acceso a las habitaciones sin complicaciones para maximizar su tiempo y disfrutar plenamente de su estadía.
 
+![](/work/reserbed-figure-1.jpg)
+
 ## Solución
 
 Para abordar este desafío, se desarrolló una aplicación móvil que revolucionó el proceso de reserva y acceso a las habitaciones. Con solo un clic, los huéspedes podían reservar su estadía y recibir una llave de acceso digital. Esta llave les permitía entrar directamente a su habitación a través de una cerradura inteligente, sin necesidad de pasar por la recepción.

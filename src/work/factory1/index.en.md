@@ -23,6 +23,8 @@ A manufacturing company encountered significant operational inefficiencies in it
 
 To address this issue, an Order Management System (OMS) was developed, automating the manual components of the order-to-delivery cycle. The system streamlined user interactions and operational tasks, offering a scalable and secure infrastructure for workflow management. The introduction of the OMS markedly improved the company's operational efficiency, expanded its production capacity, and increased profitability by minimizing the manual workload and optimizing the entire process from manufacturing to delivery.
 
+![](/work/factory1-figure-1.jpg)
+
 ## Technology
 
 <div class="story_story__mainContent__technologies__v5XXm">

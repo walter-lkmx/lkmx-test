@@ -23,6 +23,8 @@ Una empresa manufacturera enfrentaba ineficiencias operativas significativas en 
 
 Para abordar este problema, se desarrolló un Sistema de Gestión de Pedidos (OMS), automatizando los componentes manuales del ciclo de pedido a entrega. El sistema agilizó las interacciones de los usuarios y las tareas operativas, ofreciendo una infraestructura escalable y segura para la gestión del flujo de trabajo. La introducción del OMS mejoró notablemente la eficiencia operativa de la empresa, amplió su capacidad de producción y aumentó la rentabilidad al minimizar la carga de trabajo manual y optimizar todo el proceso desde la fabricación hasta la entrega.
 
+![](/work/factory1-figure-1.jpg)
+
 ## Tecnología
 
 <div class="story_story__mainContent__technologies__v5XXm">
