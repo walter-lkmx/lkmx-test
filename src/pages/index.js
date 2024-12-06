@@ -12,6 +12,7 @@ import ImageLegacy from "next/legacy/image";
 import Image from "next/image";
 import OurWork from "../components/ourWork";
 import Industries from "../components/industriesComponent";
+import { getSortedStoriesData } from '../lib/work';
 
 function getTeamList() {
   let r = require.context("/public/images", false, /\.(png|jpe?g|svg)$/);
@@ -26,8 +27,26 @@ function getTeamList() {
     .sort((a, b) => a.name.localeCompare(b.name));
 }
 
-export default function Index() {
-  // const canvasRef = useRef();
+export async function getStaticProps({ locale }) {
+  const storiesData = getSortedStoriesData(locale);
+    
+  // Transform the data to match the expected format
+  const projects = storiesData.map(story => ({
+      title: story.title || [""],
+      services: story.solutions?.length ? story.solutions : [],
+      route: `/work/${story.id}`,
+      thumbnail: story.portrait || "",
+      catchphrase: ""
+  }));
+
+  return {
+    props: {
+      projects
+    }
+  };
+}
+
+export default function Index({ projects }) {
   const { locale } = useRouter();
   const $t = getLang(locale);
   const pictures = getTeamList();
@@ -208,7 +227,7 @@ export default function Index() {
           </Block>
         </Column>
 
-        <OurWork />
+        <OurWork projects={projects} />
 
         <Column className={styles.index__gcloudpartner} numberS="1" number="2" mode="normal">
           <Block className={styles.message}>

@@ -6,8 +6,8 @@ solutions: ['Infraestructura en la Nube']
 services: []
 methodologies: []
 period: []
-portrait: 'hospitals-thumbnail'
-hero: 'hospitals-hero'
+portrait: 'maypo-insights-logistics-thumbnail'
+hero: 'maypo-insights-logistics-cover'
 storyType: 'Trabajo'
 introduction: {
     title: "",
@@ -40,9 +40,17 @@ Este proyecto refleja nuestra dedicación a aplicar tecnologías innovadoras par
 
 Algunas de las tecnologías e integraciones implementadas en este proyecto.
 
-* Java
-* Elasticsearch
-* Spring Boot
-* Google Cloud
-* APIs REST
-* Integración con SAP
+<div class="story_story__mainContent__technologies__v5XXm">
+  <div class="story_story__mainContent__technologies__images__6NSg5">
+    <div>
+      <img loading="lazy" src="/technologies/java.svg" alt="Java"/>
+      <img loading="lazy" src="/technologies/elasticsearch.svg" alt="Elasticsearch"/>
+      <img loading="lazy" src="/technologies/spring.svg" alt="Spring Boot"/>
+      <img loading="lazy" src="/technologies/gcloud.svg" alt="Google Cloud"/>
+    </div>
+    <div>
+      <img loading="lazy" src="/technologies/rest.svg" alt="APIs REST"/>
+      <img loading="lazy" src="/technologies/sap.svg" alt="Integración con SAP"/>
+    </div>
+  </div>
+</div>

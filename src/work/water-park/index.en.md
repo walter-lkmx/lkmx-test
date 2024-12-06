@@ -6,8 +6,8 @@ solutions: ['HR System, Engineering Team, Booking System']
 services: []
 methodologies: []
 period: []
-portrait: 'cañadas-thumbnail'
-hero: 'cañadas-cover'
+portrait: 'las-canadas-thumbnail'
+hero: 'las-canadas-cover'
 storyType: 'Work'
 introduction: {
     title: "",
@@ -19,9 +19,9 @@ introduction: {
 
 Las Cañadas Campsite and Aquatic Park sprawls across 200 hectares of natural beauty, nestled in the heart of Baja California, Mexico. Here, adventure meets tranquility, and visitors seek both adrenaline rushes and serene moments. But managing this vast oasis posed challenges that demanded innovative solutions.
 
-![](/work/las-cañadas-figure-1.jpg)
+![](/work/las-canadas-figure-1.jpg)
 
-![](/work/las-cañadas-figure-2.jpg)
+![](/work/las-canadas-figure-2.jpg)
 
 
 ## Challenge
@@ -36,11 +36,11 @@ We didn't just build software; we crafted an ecosystem.
 * Admissions System. Seamlessly integrating e-commerce and ticket sales, this system bridged the digital and walk-in worlds. No more revenue gaps. Whether visitors booked online or arrived at the gate, our system tracked their journey. No more operational blind spots.
 * Administration Console. Real-time dashboards revealed revenue trends, headcount, and visitor origin. Strategic decisions became data-driven. Year-on-year comparisons empowered general management. Historical insights guided future planning.
 
-![](/work/las-cañadas-figure-3.jpg)
+![](/work/las-canadas-figure-3.jpg)
 
-![](/work/las-cañadas-figure-4.jpg)
+![](/work/las-canadas-figure-4.jpg)
 
-![](/work/las-cañadas-figure-5.jpg)
+![](/work/las-canadas-figure-5.jpg)
 
 ## Impact
 

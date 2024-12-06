@@ -6,8 +6,8 @@ solutions: ['Mobile App']
 services: []
 methodologies: []
 period: []
-portrait: 'acir-thumbnail'
-hero: 'acir-cover'
+portrait: 'acir-radio-thumbnail'
+hero: 'acir-radio-cover'
 storyType: 'Work'
 introduction: {
     title: "",
@@ -30,7 +30,7 @@ The development of Grupo ACIR's mobile app was an exercise in blending functiona
 For the 'Amor' station, the app took on a romantic visual theme, using purples and intimate imagery to echo the music's emotive nature. Every design choice in the app was crafted to reflect the diverse auditory experiences of Grupo ACIR's stations, ensuring a seamless and engaging user experience.
 
 
-![](/work/acir-figure-01.jpg)
+![](/work/acir-radio-figure-01.jpg)
 
 ## Impact
 

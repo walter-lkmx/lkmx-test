@@ -6,8 +6,8 @@ solutions: ['HR System, Engineering Team, Booking System']
 services: []
 methodologies: []
 period: []
-portrait: 'cañadas-thumbnail'
-hero: 'cañadas-cover'
+portrait: 'las-canadas-thumbnail'
+hero: 'las-canadas-cover'
 storyType: 'Trabajo'
 introduction: {
     title: "",
@@ -19,9 +19,9 @@ introduction: {
 
 Las Cañadas Campamento y Parque Acuático se extiende por 200 hectáreas de belleza natural, ubicado en el corazón de Baja California, México. Aquí, la aventura se encuentra con la tranquilidad, y los visitantes buscan tanto emociones fuertes como momentos de serenidad. Gestionar este vasto oasis planteaba desafíos que requerían soluciones innovadoras.
 
-![](/work/las-cañadas-figure-1.jpg)
+![](/work/las-canadas-figure-1.jpg)
 
-![](/work/las-cañadas-figure-2.jpg)
+![](/work/las-canadas-figure-2.jpg)
 
 ## Desafío
 
@@ -37,11 +37,11 @@ Sistema de Admisiones. Integrando perfectamente el comercio electrónico y las v
 
 Consola de Administración. Los paneles en tiempo real revelaban tendencias de ingresos, conteo de visitantes y origen de los mismos. Las decisiones estratégicas se volvieron basadas en datos. Las comparaciones año tras año empoderaban la gestión general. Los conocimientos históricos guiaban la planificación futura.
 
-![](/work/las-cañadas-figure-3.jpg)
+![](/work/las-canadas-figure-3.jpg)
 
-![](/work/las-cañadas-figure-4.jpg)
+![](/work/las-canadas-figure-4.jpg)
 
-![](/work/las-cañadas-figure-5.jpg)
+![](/work/las-canadas-figure-5.jpg)
 
 ## Impacto
 

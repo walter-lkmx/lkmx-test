@@ -7,7 +7,7 @@ services: []
 methodologies: []
 period: []
 portrait: 'avittat-thumbnail'
-hero: 'avittat-hero'
+hero: 'avittat-cover'
 storyType: 'Trabajo'
 introduction: {
     title: "",
