@@ -23,6 +23,10 @@ Paldi, un minorista que opera a lo largo de la frontera entre EE. UU. y México,
 
 Se desarrolló un sistema integral de gestión de pedidos para transformar las capacidades operativas de Paldi. Este sistema optimizó la gestión de grandes volúmenes de pedidos, desde las cotizaciones iniciales hasta los pedidos confirmados, e introdujo funciones de informes personalizados. Estas funciones permitieron a los responsables de la toma de decisiones monitorear efectivamente las operaciones y automatizar el cálculo de comisiones e incentivos. Una actualización significativa permitió que el sistema sirviera tanto a las sucursales mexicanas como a las estadounidenses de la empresa, mejorando la cohesión operativa transfronteriza.
 
+![](/work/paldi-figure-1.jpg)
+
+![](/work/paldi-figure-2.jpg)
+
 ## Tecnologías
 
 <div class="story_story__mainContent__technologies__v5XXm">

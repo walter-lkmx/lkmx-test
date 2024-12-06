@@ -23,6 +23,10 @@ Paldi, a retailer operating across the US/Mexico border, specializing in blinds,
 
 A comprehensive Order Management System was developed to transform Paldi's operational capabilities. This system streamlined the management of high volumes of orders, from initial quotes to confirmed orders, and introduced custom reporting features. These features enabled decision-makers to effectively monitor operations and automate the calculation of commissions and incentives. A significant update allowed the system to serve both the Mexican and US branches of the company, enhancing cross-border operational cohesion.
 
+![](/work/paldi-figure-1.jpg)
+
+![](/work/paldi-figure-2.jpg)
+
 ## Technology
 
 <div class="story_story__mainContent__technologies__v5XXm">

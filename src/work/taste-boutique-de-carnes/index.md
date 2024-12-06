@@ -22,3 +22,7 @@ El desafío principal para Taste Boutique de Carnes, un distinguido servicio de 
 ## Solución
 
 El proyecto comenzó con una fase de descubrimiento, empleando una metodología de Design Sprint inspirada por Google, para comprender a fondo los requisitos del cliente e idear una solución de comercio electrónico a medida. Este enfoque colaborativo facilitó la creación de la arquitectura del software y los mapas de aplicaciones, asegurando una base sólida para la plataforma. Durante tres días intensivos, el equipo y el cliente trabajaron estrechamente para diseñar y prototipar una plataforma de comercio electrónico centrada en el usuario, equipada con herramientas especializadas para que los clientes construyeran paquetes de carne personalizados. El proceso no solo atendió las necesidades inmediatas de implementación del cliente, sino que también delineó una hoja de ruta estratégica para futuras mejoras. Este enfoque meticuloso subrayó nuestro compromiso de ofrecer soluciones personalizadas que resuenen con los modelos y objetivos de negocio únicos de nuestros clientes.
+
+![](/work/taste-boutique-de-carnes-figure-1.jpg)
+
+![](/work/taste-boutique-de-carnes-figure-2.jpg)
