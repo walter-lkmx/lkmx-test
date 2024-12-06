@@ -35,6 +35,10 @@ El primer equipo construyó un tema de Shopify utilizando Liquid desde cero para
 
 El segundo equipo construyó un sistema de backend personalizado capaz de manejar el volumen de tráfico anticipado y proporcionar información en tiempo real.
 
+![](/work/the-fresh-prince-figure-1.jpg)
+
+![](/work/the-fresh-prince-figure-2.jpg)
+
 ## Impacto
 
 El lanzamiento de la plataforma de comercio electrónico exclusiva para la marca The Fresh Prince fue un gran éxito. Manejó el aumento de interés de más de 30 millones de seguidores, ofreciendo una experiencia de compra fluida durante la ventana crítica de 72 horas. La plataforma no solo soportó el tráfico pesado sino que también ejecutó transacciones sin problemas, demostrando la robustez de la infraestructura. La integración de análisis de ventas y redes sociales proporcionó una vista completa de las interacciones con los clientes, lo que permitió decisiones basadas en datos que fueron cruciales para gestionar la alta demanda. El diseño limpio y centrado en el usuario del escaparate de Shopify, combinado con el eficiente sistema backend, aseguró que los fanáticos tuvieran una experiencia agradable y fluida, contribuyendo significativamente al exitoso debut de la marca en el mercado.

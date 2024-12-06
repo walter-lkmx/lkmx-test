@@ -22,3 +22,5 @@ Nuestro desafío fue digitalizar las operaciones de una destacada compañía inm
 ## Solución
 
 Nuestra respuesta fue la creación de un directorio de propiedades personalizado que abordara directamente la visión de la empresa. Al desarrollar meticulosamente una plataforma que recopilara y presentara eficientemente listados nacionales de propiedades junto con funcionalidades de búsqueda avanzadas, establecimos un nuevo estándar en los servicios inmobiliarios en línea. Una innovación destacada fue la integración de calculadoras de crédito directamente en la experiencia del usuario, ofreciendo información financiera inmediata y agregando un valor sustancial al recorrido del usuario. Esta solución digital de vanguardia no solo facilitó una conexión fluida entre la empresa y su clientela, sino que también redefinió la posición de la empresa en el mercado, mostrando nuestra experiencia en transformar modelos de negocio tradicionales en éxitos digitales pioneros.
+
+![](/work/ubicy-figure-1.jpg)

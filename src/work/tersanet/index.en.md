@@ -28,6 +28,8 @@ The challenge lay in upgrading a vital digital tool to meet the increasing deman
 
 To address the challenge, our team a system powered by an ETL process that regularly updates and structures tire data into a NoSQL database for swift UI access. The solution provides a rich user interface that allows for detailed searches, new model registrations, discount management, and access to promotions. A standout feature is the system's ability to automatically apply promotions when generating quotes, streamlining the sales process significantly. At its core, TersaNet leverages Java for backend operations and Vue.js for a responsive front-end experience, ensuring a robust and user-friendly platform. This approach has transformed TersaNet into a critical tool for sales efficiency, maintained over six years with minimal operational costs.
 
+![](/work/tersanet-figure-1.jpg)
+
 ## Impact
 
 The deployment of our platform revolutionized tire sales operations by streamlining the process of quoting and managing inventory. Offering real-time access to comprehensive tire data, the system enabled sales professionals to deliver accurate quotes swiftly, incorporating the latest discounts and promotions. This improvement in efficiency and accuracy directly enhanced customer satisfaction and increased sales conversions. Furthermore, the system's design for low operational costs while handling large data volumes underscored the potential and importance of integrating advanced technological solutions into traditional business workflows. As a result, the platform has become an indispensable tool, continuously adapting and proving its worth in the dynamic tire industry landscape.
