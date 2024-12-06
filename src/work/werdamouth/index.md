@@ -27,6 +27,8 @@ Se nos encargó construir una aplicación que no solo facilitara a los usuarios 
 
 Para satisfacer las demandas del proyecto, diseñamos Werdamouth, armonizando el sistema tradicional de referencias boca a boca con la escalabilidad del mundo digital. Nuestro enfoque se centró en crear una interfaz de usuario intuitiva que simplificara la creación de perfiles y el intercambio de recomendaciones confiables. Al integrar características esenciales de participación, como conexiones con redes sociales y notificaciones push, aseguramos que la aplicación siguiera siendo un centro animado para interacciones comerciales creíbles. A través de un desarrollo cuidadoso, Werdamouth emergió como una plataforma comunitaria clave, rejuveneciendo la esencia auténtica de las referencias personales dentro del vibrante entorno de Palm Beach.
 
+![](/work/werdamouth-figure-1.jpg)
+
 ## Impacto
 
 La introducción de Werdamouth en la escena empresarial de Palm Beach provocó un notable cambio en cómo los emprendedores y negocios locales se conectan y apoyan entre sí. La capacidad de la aplicación para facilitar intercambios directos y confiables de recomendaciones rápidamente la convirtió en una parte indispensable de las operaciones diarias de la comunidad. A medida que los usuarios se involucraron activamente con la plataforma, observamos un aumento medible en la colaboración y las referencias de clientes, impactando directamente el crecimiento y el éxito de las empresas participantes. Este vibrante espacio de networking digital no solo reforzó el valor del apoyo impulsado por la comunidad, sino que también destacó la efectividad de combinar la innovación digital con las prácticas comerciales tradicionales.

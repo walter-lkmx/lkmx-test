@@ -22,3 +22,5 @@ CANIRAC Tijuana, part of the National Chamber of the Restaurant and Seasoned Foo
 ## Solution
 
 To meet CANIRAC Tijuana's objectives, a multifaceted digital platform was developed. This platform featured extensive directories for restaurants and suppliers, facilitating easy access to essential resources and services. Key functionalities included the ability to add, edit, and delete listings in the directory, empowering businesses with direct control over their information. A standout feature of the solution was the implementation of Augmented Reality using the Wikitude library, offering geo-AR experiences to engage users uniquely. This technological enhancement allowed members and patrons to interact with the physical dining environment in innovative ways, such as viewing menus, specials, and restaurant stories through their mobile devices. This comprehensive digital solution significantly boosted CANIRAC Tijuana's ability to represent and support its members, fostering a more integrated and interactive community within the local food and beverage industry.
+
+![](/work/canirac-tijuana-figure-1.jpg)

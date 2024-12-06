@@ -27,6 +27,8 @@ We were tasked with building an app that not only made it easy for users to conn
 
 To meet the project's demands, we crafted Werdamouth, harmonizing the traditional word-of-mouth referral system with the digital world's scalability. Our approach focused on creating an intuitive user interface that simplifies profile creation and the exchange of trusted recommendations. By integrating essential engagement features such as social media connections and push notifications, we ensured the app remained a lively hub for credible business interactions. Through careful development, Werdamouth emerged as a key community platform, rejuvenating the authentic essence of personal referrals within the vibrant setting of Palm Beach.
 
+![](/work/werdamouth-figure-1.jpg)
+
 ## Impact
 
 The introduction of Werdamouth into Palm Beach's business scene sparked a notable shift in how local entrepreneurs and businesses connect and support each other. The app's ability to facilitate direct, trusted exchanges of recommendations quickly made it an indispensable part of the community's daily operations. As users actively engaged with the platform, we observed a measurable uptick in collaboration and customer referrals, directly impacting the growth and success of participating businesses. This vibrant digital networking space not only reinforced the value of community-driven support but also underscored the effectiveness of blending digital innovation with traditional business practices.
