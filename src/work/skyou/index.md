@@ -7,7 +7,7 @@ services: []
 methodologies: []
 period: []
 portrait: 'skyou-thumbnail'
-hero: 'skyou-hero'
+hero: 'skyou-cover'
 storyType: 'Trabajo'
 introduction: {
     title: "",

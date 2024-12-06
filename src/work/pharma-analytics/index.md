@@ -6,8 +6,8 @@ solutions: []
 services: []
 methodologies: []
 period: []
-portrait: 'pharma-thumbnail'
-hero: 'pharma-hero'
+portrait: 'stendhal-thumbnail'
+hero: 'stendhal-cover'
 storyType: 'Trabajo'
 introduction: {
     title: "",
