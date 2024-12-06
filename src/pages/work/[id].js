@@ -71,7 +71,7 @@ export default function SuccessStory({storyData}) {
                         <span>{storyData.storyType}</span>
                         <h1>{storyData.title[0]}</h1>
                         <h1>{storyData.title[1]}</h1>
-                        <span>{storyData.solutions}</span>
+                        <span>{Array.isArray(storyData.solutions) ? storyData.solutions.join(', ') : storyData.solutions}</span>
                     </Block>
                 </Column>
                 <Column>
