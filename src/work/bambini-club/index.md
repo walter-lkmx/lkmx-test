@@ -23,7 +23,7 @@ Bambini Club aspiraba a transformar el mercado online de productos para bebés c
 
 La solución creada para Bambini Club fue una atractiva plataforma de comercio electrónico, que enfatizaba una experiencia de compra intuitiva complementada con una gran cantidad de conocimientos sobre crianza. Nuestra colaboración con Eraboy Studio, el equipo de identidad visual, nos permitió diseñar y ofrecer una presencia web que resonara con el espíritu de la marca. Al fortalecer la seguridad del sitio con certificados actualizados, mejoramos la confiabilidad de la plataforma. El exitoso lanzamiento de la plataforma subrayó nuestra experiencia en armonizar un diseño impactante con una funcionalidad sólida, estableciendo un recurso digital invaluable para padres.
 
-![](/work/bambini-figure-1.jpg)
+![](/work/bambini-club-figure-1.jpg)
 
 ## Tecnologías
 
