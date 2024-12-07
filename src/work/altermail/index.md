@@ -29,4 +29,4 @@ Altermail implicó el diseño de una plataforma sin precedentes basada en blockc
 
 Este artefacto inicial, como una prueba de concepto (PoC), demostró la viabilidad de utilizar blockchain para la comunicación, atrayendo la atención de los usuarios conscientes de la privacidad y generando discusiones sobre las aplicaciones más amplias de la tecnología. Al abordar este desafío, ALTER emergió, ofreciendo una alternativa segura y mejorada con blockchain a los servicios de comunicación convencionales.
 
-![](/work/altermail-figure-1.jpg)
+![](/work/altermail-figure-2.jpg)
