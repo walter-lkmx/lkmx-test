@@ -15,10 +15,11 @@ introduction: {
 }
 ---
 
-
 ## Background
 
 In the intricate world of legal affairs, seamless communication is paramount—especially for those recuperating from injuries. Recognizing this critical need, we embarked on creating a groundbreaking platform. This web application is specifically designed to bridge the gap between injured individuals and their central points of contact: lawyers and healthcare providers. Our goal? To revolutionize communication efficiency and slash the exorbitant costs typically associated with legal processes.
+
+![](/work/legalstream-figure-1.jpg)
 
 ## Challenge
 
@@ -28,9 +29,9 @@ We were confronted with two major challenges: ensuring robust security and priva
 
 We developed a flexible and accessible platform that adapts to various devices and user needs, allowing seamless communication between patients, lawyers, and healthcare providers. The application facilitates case management, enhances case visibility, and simplifies communication among all involved parties. From the outset, we involved user testers to ensure an intuitive experience, eliminating the need for extensive manuals or lengthy training sessions.
 
+![](/work/legalstream-figure-2.jpg)
 
-![](/work/legalstream-figure-1.jpg)
-
+![](/work/legalstream-figure-3.jpg)
 
 ## Impact
 
