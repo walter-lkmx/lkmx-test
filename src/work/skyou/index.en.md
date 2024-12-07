@@ -6,8 +6,8 @@ solutions: ['E-commerce']
 services: []
 methodologies: []
 period: []
-portrait: 'skyou-thumbnail'
-hero: 'skyou-cover'
+thumbnail: 'skyou-thumbnail'
+cover: 'skyou-cover'
 storyType: 'Work'
 introduction: {
     title: "",

@@ -6,8 +6,8 @@ solutions: ['Mobile App, Social Network, SaaS']
 services: []
 methodologies: []
 period: []
-portrait: 'only-golfers-thumbnail' 
-hero: 'only-golfers-cover'
+thumbnail: 'only-golfers-thumbnail' 
+cover: 'only-golfers-cover'
 storyType: 'work'
 introduction: {
     title: "",

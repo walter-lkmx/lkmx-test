@@ -6,8 +6,8 @@ solutions: ["Mercado de Arte, Proyecto Web3"]
 services: []
 methodologies: []
 period: []
-portrait: "emprops-ai-thumbnail"
-hero: "emprops-ai-cover"
+thumbnail: "emprops-ai-thumbnail"
+cover: "emprops-ai-cover"
 storyType: "Trabajo"
 introduction: { title: "", content: "" }
 ---

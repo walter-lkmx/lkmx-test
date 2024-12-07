@@ -6,8 +6,8 @@ solutions: ['Mobile App']
 services: []
 methodologies: []
 period: []
-portrait: 'acir-radio-thumbnail'
-hero: 'acir-radio-cover'
+thumbnail: 'acir-radio-thumbnail'
+cover: 'acir-radio-cover'
 storyType: 'Work'
 introduction: {
     title: "",

@@ -6,8 +6,8 @@ solutions: ['Web3 Project, Digital Brand']
 services: []
 methodologies: []
 period: []
-portrait: 'secret-network-thumbnail'
-hero: 'secret-network-cover'
+thumbnail: 'secret-network-thumbnail'
+cover: 'secret-network-cover'
 storyType: 'Work'
 introduction: {
     title: "",

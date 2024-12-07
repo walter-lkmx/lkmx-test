@@ -34,6 +34,7 @@ export default function OurWork({ projects = [] }) {
 
     function isUnique(obj) {
         const values = Object.values(obj);
+        
         const uniqueValues = [];
         values.forEach((value) => {
             if (!uniqueValues.includes(value)) {
@@ -50,6 +51,7 @@ export default function OurWork({ projects = [] }) {
         </div>
     );
 
+    console.log(second)
     return (first.title && second.title && third.title ?
         <Column className={styles.ourWork}>
             <Block className={styles.ourWork__block}>

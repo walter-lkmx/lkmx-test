@@ -6,8 +6,8 @@ solutions: ["Art Marketplace, Web3 Project"]
 services: []
 methodologies: []
 period: []
-portrait: "emprops-ai-thumbnail"
-hero: "emprops-ai-cover"
+thumbnail: "emprops-ai-thumbnail"
+cover: "emprops-ai-cover"
 storyType: "Work"
 introduction: { title: "", content: "" }
 ---

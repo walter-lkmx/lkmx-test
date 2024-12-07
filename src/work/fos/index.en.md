@@ -6,8 +6,8 @@ solutions: ["E-Commerce, Digital Brand"]
 services: []
 methodologies: []
 period: []
-portrait: "fos-thumbnail"
-hero: "fos-cover"
+thumbnail: "fos-thumbnail"
+cover: "fos-cover"
 storyType: "Work"
 introduction: { title: "", content: "" }
 ---

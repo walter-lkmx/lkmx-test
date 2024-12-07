@@ -6,8 +6,8 @@ solutions: ['Infraestructura en la Nube']
 services: []
 methodologies: []
 period: []
-portrait: 'maypo-insights-logistics-thumbnail'
-hero: 'maypo-insights-logistics-cover'
+thumbnail: 'maypo-insights-logistics-thumbnail'
+cover: 'maypo-insights-logistics-cover'
 storyType: 'Trabajo'
 introduction: {
     title: "",
