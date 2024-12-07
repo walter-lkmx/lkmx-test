@@ -6,8 +6,8 @@ solutions: ["E-Commerce"]
 services: []
 methodologies: []
 period: []
-portrait: "suspiros-thumbnail"
-hero: "suspiros-cover"
+thumbnail: "suspiros-thumbnail"
+cover: "suspiros-cover"
 storyType: "Work"
 introduction: { title: "", content: "" }
 ---

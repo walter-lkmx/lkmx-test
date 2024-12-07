@@ -48,7 +48,7 @@ export function getProjectsIndexed(locale) {
         title: story.title || [""],
         services: story.solutions?.length ? [story.solutions.join(", ")] : [""],
         route: `/work/${story.id}`,
-        thumbnail: story.portrait || "",
+        thumbnail: story.thumbnail || "",
         catchphrase: ""
     }));
 }

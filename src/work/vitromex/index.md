@@ -6,8 +6,8 @@ solutions: ["ERP"]
 services: []
 methodologies: []
 period: []
-portrait: "vitromex-thumbnail"
-hero: "vitromex-cover"
+thumbnail: "vitromex-thumbnail"
+cover: "vitromex-cover"
 storyType: "Trabajo"
 introduction: { title: "", content: "" }
 ---

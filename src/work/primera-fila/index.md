@@ -6,8 +6,8 @@ solutions: ["Sistema de Reservas"]
 services: []
 methodologies: []
 period: []
-portrait: "primera-fila-thumbnail"
-hero: "primera-fila-cover"
+thumbnail: "primera-fila-thumbnail"
+cover: "primera-fila-cover"
 storyType: "Trabajo"
 introduction: { title: "", content: "" }
 ---

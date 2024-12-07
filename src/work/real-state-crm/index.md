@@ -6,8 +6,8 @@ solutions: ['CRM']
 services: []
 methodologies: []
 period: []
-portrait: 'avittat-thumbnail'
-hero: 'avittat-cover'
+thumbnail: 'avittat-thumbnail'
+cover: 'avittat-cover'
 storyType: 'Trabajo'
 introduction: {
     title: "",
