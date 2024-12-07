@@ -35,7 +35,7 @@ export async function getStaticProps({ locale }) {
       title: story.title || [""],
       services: story.solutions?.length ? story.solutions : [],
       route: `/work/${story.id}`,
-      thumbnail: story.portrait || "",
+      thumbnail: story.thumbnail || "",
       catchphrase: ""
   }));
 
