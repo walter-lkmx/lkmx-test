@@ -27,6 +27,10 @@ The primary challenge was developing a platform capable of aggregating a vast ar
 
 We delivered a unified platform that simplifies the healthcare journey for patients in Baja California. This solution serves as a comprehensive directory, expertly blending primary healthcare options with essential recovery services such as accommodations and dining. The platform empowers patients to efficiently locate, compare, and coordinate medical and ancillary services. Our emphasis on system performance and reliability ensures that patients can depend on the directory for a seamless planning process, contributing to a stress-free recovery environment. This holistic approach to healthcare access exemplifies our commitment to developing innovative solutions that enhance user convenience and satisfaction.
 
+![](/work/baja-health-cluster-figure-1.jpg)
+
+![](/work/baja-health-cluster-figure-2.jpg)
+
 ## Impact
 
 The directory swiftly transformed the patient experience, offering a seamless avenue to access healthcare services. Users reported a reduction in the time and complexity of organizing medical trips, as the platform adeptly connected them with a full spectrum of care options. This enhanced accessibility resulted in heightened trust and reliance on the directory, establishing it as an indispensable resource for healthcare planning in Baja California.

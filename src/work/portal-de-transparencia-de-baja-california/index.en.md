@@ -23,6 +23,10 @@ The Municipality of Tijuana was confronted with the critical need for a sophisti
 
 A portal was established for the Municipality of Tijuana to efficiently handle transparency requests, facilitate article publication, and ensure compliance with legal requirements. This solution provided a streamlined approach for managing administrative tasks, improving public access to information, and maintaining adherence to state and federal transparency laws. Enhanced by a user-friendly interface, the portal simplified processes for both the administration and the public, contributing significantly to the municipality's transparency and operational efficiency.
 
+![](/work/portal-de-transparencia-de-baja-california-figure-1.jpg)
+
+![](/work/portal-de-transparencia-de-baja-california-figure-2.jpg)
+
 ## Technology
 
 <div class="story_story__mainContent__technologies__v5XXm">

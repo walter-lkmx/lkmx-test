@@ -27,6 +27,10 @@ The project faced several challenges. The client's team was distributed across L
 
 Logic Kernel adopted a structured approach to address these challenges. The team adjusted the design and conducted backlog grooming sessions to refine specific requirements. Strapi was integrated as the CMS, enabling the client to manage characters, events, news, and other key elements of the website. The project was developed over six sprints with continuous releases to receive regular feedback from the client. Rules were implemented to ensure that the design looked good on different devices and resolutions. Additionally, interactive features such as an interactive map and embedded games were developed to enhance user engagement.
 
+![](/work/chimpers-figure-1.jpg)
+
+![](/work/chimpers-figure-2.jpg)
+
 ### Impact
 
 The collaboration resulted in a modernized and functional website that aligns with Chimpers' mission to entertain and inspire its global community. The client can now easily manage website content through Strapi. The user experience was significantly enhanced with the inclusion of an interactive map, personalized sounds, and embedded games. The design was successfully adapted for responsiveness across various devices, maintaining visual quality.

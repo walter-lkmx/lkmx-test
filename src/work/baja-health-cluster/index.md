@@ -27,6 +27,10 @@ El principal desafío era desarrollar una plataforma capaz de agrupar una amplia
 
 Entregamos una plataforma unificada que simplifica el viaje de atención médica para los pacientes en Baja California. Esta solución sirve como un directorio integral, combinando de manera experta las opciones de atención primaria con los servicios esenciales de recuperación, como alojamientos y alimentación. La plataforma permite a los pacientes localizar, comparar y coordinar eficientemente los servicios médicos y auxiliares. Nuestro énfasis en el rendimiento y la fiabilidad del sistema garantiza que los pacientes puedan depender del directorio para un proceso de planificación sin problemas, contribuyendo a un entorno de recuperación libre de estrés. Este enfoque holístico del acceso a la atención médica ejemplifica nuestro compromiso con el desarrollo de soluciones innovadoras que mejoran la conveniencia y la satisfacción del usuario.
 
+![](/work/baja-health-cluster-figure-1.jpg)
+
+![](/work/baja-health-cluster-figure-2.jpg)
+
 ## Impacto
 
 El directorio transformó rápidamente la experiencia del paciente, ofreciendo una vía fluida para acceder a los servicios de atención médica. Los usuarios informaron una reducción en el tiempo y la complejidad de organizar viajes médicos, ya que la plataforma los conectó hábilmente con un espectro completo de opciones de atención. Esta accesibilidad mejorada resultó en una mayor confianza y dependencia en el directorio, estableciéndolo como un recurso indispensable para la planificación de la atención médica en Baja California.

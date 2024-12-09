@@ -19,6 +19,8 @@ introduction: {
 
 Protein Kitchen surgió como un pionero en el sector de la comida saludable, aspirando a elevar el concepto tradicional de preparación de comidas a una experiencia dinámica y personalizable. El objetivo era fusionar la experiencia de nutricionistas con la creatividad culinaria de chefs, ofreciendo no solo comidas, sino una solución integral de estilo de vida saludable. La plataforma debía atender las necesidades exigentes de individuos activos y aquellos con requisitos dietéticos específicos, asegurando accesibilidad, facilidad y compromiso.
 
+![](/work/protein-kitchen-figure-1.jpg)
+
 ## Desafío
 
 Desarrollar una aplicación que pudiera manejar intuitivamente preferencias dietéticas complejas, gestionar pedidos y monitorear la ingesta nutricional presentó un desafío multifacético. La plataforma necesitaba atraer a una clientela que variaba desde entusiastas del fitness hasta individuos que manejan condiciones crónicas, exigiendo una interfaz adaptable y centrada en el usuario que también optimizara los aspectos logísticos de la planificación y distribución de comidas.
@@ -26,6 +28,8 @@ Desarrollar una aplicación que pudiera manejar intuitivamente preferencias diet
 ## Solución
 
 En respuesta, se diseñó una aplicación móvil integral, funcionando como una extensión de la filosofía de salud y bienestar personalizado de Protein Kitchen. Esta aplicación, accesible para una amplia gama de usuarios, facilita la personalización detallada de comidas basada en las preferencias y necesidades dietéticas de los usuarios. También incluye una función para rastrear el progreso nutricional, fomentando una conexión entre las elecciones de estilo de vida del usuario y sus objetivos de salud. La aplicación móvil simplifica la realización de pedidos y ofrece la flexibilidad de entrega a domicilio o recogida en tienda, mejorando el factor de conveniencia del servicio.
+
+![](/work/protein-kitchen-figure-2.jpg)
 
 ## Impacto
 

@@ -23,6 +23,10 @@ El Municipio de Tijuana se enfrentaba a la necesidad crítica de una plataforma 
 
 Se estableció un portal para el Municipio de Tijuana con el fin de gestionar eficientemente las solicitudes de transparencia, facilitar la publicación de artículos y asegurar el cumplimiento de los requisitos legales. Esta solución proporcionó un enfoque optimizado para la gestión de tareas administrativas, mejoró el acceso público a la información y mantuvo la adherencia a las leyes de transparencia estatales y federales. Mejorado con una interfaz fácil de usar, el portal simplificó los procesos tanto para la administración como para el público, contribuyendo significativamente a la transparencia y eficiencia operativa del municipio.
 
+![](/work/portal-de-transparencia-de-baja-california-figure-1.jpg)
+
+![](/work/portal-de-transparencia-de-baja-california-figure-2.jpg)
+
 ## Tecnologías
 
 <div class="story_story__mainContent__technologies__v5XXm">
