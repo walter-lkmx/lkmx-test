@@ -15,26 +15,26 @@ introduction: {
 }
 ---
 
-## Background
+## Antecedentes
 
-A logistics giant in the healthcare sector, is entrusted with the critical task of delivering millions of medicines and supplies to healthcare facilities nationwide. These items, crucial for patient care, come with stringent documentation requirements, often filled out by various stakeholders at different stages. The complexity of ensuring the accurate and timely inclusion of all necessary documents presented a significant operational challenge, impacting both efficiency and compliance.
+Un gigante logístico en el sector salud tiene la crucial tarea de entregar millones de medicamentos y suministros a centros de salud en todo el país. Estos artículos, fundamentales para la atención al paciente, conllevan estrictos requisitos de documentación, que a menudo son completados por diversos responsables en diferentes etapas. La complejidad de asegurar la inclusión precisa y oportuna de todos los documentos necesarios presentaba un importante desafío operativo, impactando tanto en la eficiencia como en el cumplimiento normativo.
 
-## Challenge
+## Desafío
 
-The primary challenge was to streamline the complex process of managing, reviewing, and integrating essential documentation for each delivery. The process involved multiple actors and varied timings, making manual coordination cumbersome and prone to errors. There was a clear need for an automated system that could seamlessly handle the documentation workflow, from extraction and review to signing and final inclusion, ensuring compliance and accuracy across the logistics chain.
+El principal reto consistía en optimizar el complejo proceso de gestión, revisión e integración de la documentación esencial para cada entrega. El proceso involucraba múltiples actores y diferentes tiempos, haciendo que la coordinación manual fuera engorrosa y propensa a errores. Existía una clara necesidad de un sistema automatizado que pudiera manejar sin problemas el flujo de documentación, desde la extracción y revisión hasta la firma e inclusión final, garantizando el cumplimiento y la precisión en toda la cadena logística.
 
-## Solution
+## Solución
 
-We designed and implemented an innovative system that leverages APIs for efficient document management. By integrating advanced technologies, including mobile app barcode scanners and QR code monitoring for remote file verification, the system automated a once labor-intensive process. Built on a robust technology stack featuring Java, JavaScript, HTML, CSS, SASS, JPA, Spring, Apache Kafka, MySQL, Elasticsearch, Vue.js, and supported by Linux, Docker, Kubernetes, Google Cloud Platform, and Cloudflare, our solution optimized workflow efficiency and document accuracy. The use of gradle, npm, git, and Gitlab CI further streamlined development and deployment, marking a significant leap in operational capability for DSK.
+Diseñamos e implementamos un sistema innovador que aprovecha las APIs para una gestión eficiente de documentos. Mediante la integración de tecnologías avanzadas, incluyendo escáneres de códigos de barras en aplicaciones móviles y monitoreo de códigos QR para la verificación remota de archivos, el sistema automatizó un proceso que antes requería mucha mano de obra. Construido sobre una sólida base tecnológica que incluye Java, JavaScript, HTML, CSS, SASS, JPA, Spring, Apache Kafka, MySQL, Elasticsearch, Vue.js, y respaldado por Linux, Docker, Kubernetes, Google Cloud Platform y Cloudflare, nuestra solución optimizó la eficiencia del flujo de trabajo y la precisión documental. El uso de gradle, npm, git y Gitlab CI agilizó aún más el desarrollo y despliegue, marcando un salto significativo en la capacidad operativa.
 
 ![](/work/maypo-dsk-figure-1.jpg)
 
 ![](/work/maypo-dsk-figure-2.jpg)
 
-## Impact
+## Impacto
 
-The implementation of this system transformed DSK's logistics operations, automating the documentation process that many deemed impossible. The efficiency gains not only improved delivery times and accuracy but also ensured compliance with healthcare regulations. By minimizing manual intervention, the system reduced the risk of errors, enhancing overall service quality. DSK's ability to manage and deliver medicines and supplies more effectively has significantly impacted patient care across the country.
+La implementación de este sistema transformó las operaciones logísticas, automatizando el proceso de documentación que muchos consideraban imposible. Las mejoras en la eficiencia no solo optimizaron los tiempos de entrega y la precisión, sino que también aseguraron el cumplimiento de las regulaciones sanitarias. Al minimizar la intervención manual, el sistema redujo el riesgo de errores, mejorando la calidad general del servicio. La capacidad de gestionar y entregar medicamentos y suministros de manera más efectiva ha impactado significativamente en la atención al paciente en todo el país.
 
-## Conclusion
+## Conclusión
 
-The project for DSK exemplifies our commitment to leveraging technology to solve complex logistical challenges in the healthcare sector. By automating the documentation process, we have enabled DSK to achieve higher efficiency, accuracy, and compliance in its delivery operations, ultimately contributing to better patient care. This initiative highlights our expertise in developing and integrating advanced technological solutions to streamline and improve critical healthcare logistics processes.
+El proyecto ejemplifica nuestro compromiso de aprovechar la tecnología para resolver desafíos logísticos complejos en el sector sanitario. Al automatizar el proceso de documentación, hemos permitido lograr una mayor eficiencia, precisión y cumplimiento en sus operaciones de entrega, contribuyendo en última instancia a una mejor atención al paciente. Esta iniciativa destaca nuestra experiencia en el desarrollo e integración de soluciones tecnológicas avanzadas para optimizar y mejorar los procesos logísticos críticos en el ámbito sanitario.
