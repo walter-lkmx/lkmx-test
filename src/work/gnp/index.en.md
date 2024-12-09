@@ -19,6 +19,8 @@ introduction: {
 
 GNP, headquartered in Mexico City, stands as one of the premier insurance providers in the nation. The company was confronted with the need to enhance its service offerings for business partners by streamlining the process of generating corporate quotes. This task involved orchestrating hundreds of calls, a requirement that demanded high efficiency and reliability to maintain GNP's standard of service.
 
+![](/work/gnp-figure-1.jpg)
+
 ## Solution
 
 In response to this challenge, a specialized API was developed to manage the complex network of calls necessary for creating corporate quotes. This project was a collaborative effort between our top engineering team and GNP's IT department, focusing on the architecture, design, and implementation of critical back-end components. These components were engineered to meet stringent Service Level Agreements (SLAs), processing requests within microseconds.

@@ -27,6 +27,10 @@ Our objective was twofold: to secure the collection and storage of sensitive hea
 
 We developed an Electronic Medical Records (EMR) system tailored to monitor cholinesterase levels among agricultural workers. This system was engineered with stringent data security protocols and featured fluent integration with the HL7 standard, facilitating communication with external labs. It offered real-time monitoring and automated alerts for irregular test results, promoting immediate medical action. A user-centric interface guaranteed ease of access for health professionals of varied technical acumen. Furthermore, the system was architected for scalability to meet the expanding and changing needs of health data management.
 
+![](/work/che-figure-1.jpg)
+
+![](/work/gnp-figure-2.jpg)
+
 ## Impact
 
 With real-time data and alerts, medical professionals can now respond swiftly to any risks, ensuring timely interventions. This advancement has strengthened preventive measures and improved the overall strategy for handling health-related data. As a direct consequence, the agricultural community benefits from a safer work environment, while healthcare providers enjoy streamlined operations and clearer insights. 

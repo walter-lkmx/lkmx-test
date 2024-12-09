@@ -27,6 +27,10 @@ Nuestro objetivo era doble: asegurar la recopilación y almacenamiento de datos 
 
 Desarrollamos un sistema de Registros Médicos Electrónicos (EMR) diseñado para monitorear los niveles de colinesterasa entre los trabajadores agrícolas. Este sistema se diseñó con rigurosos protocolos de seguridad de datos y contó con integración con el estándar HL7, facilitando la comunicación con laboratorios externos. Ofrecía monitoreo en tiempo real y alertas automáticas para resultados de pruebas irregulares, promoviendo la acción médica inmediata. Una interfaz centrada en el usuario garantizó un fácil acceso para profesionales de la salud con diferentes niveles de conocimiento técnico. Además, el sistema fue diseñado para ser escalable, adaptándose a las necesidades cambiantes y crecientes de la gestión de datos de salud.
 
+![](/work/che-figure-1.jpg)
+
+![](/work/gnp-figure-2.jpg)
+
 ## Impacto
 
 Con datos en tiempo real y alertas, los profesionales médicos pueden ahora responder rápidamente a cualquier riesgo, asegurando intervenciones oportunas. Este avance ha fortalecido las medidas preventivas y mejorado la estrategia general para manejar los datos relacionados con la salud. Como consecuencia directa, la comunidad agrícola se beneficia de un entorno laboral más seguro, mientras que los proveedores de salud disfrutan de operaciones más eficientes y una mayor claridad en los datos.
