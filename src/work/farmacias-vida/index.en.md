@@ -25,6 +25,10 @@ A hybrid mobile application was developed, encapsulating the company's e-commerc
 
 This approach allowed Farmacias Vida to extend its digital presence into the mobile space effectively, providing customers with a versatile platform to access their extensive product catalog, thus enhancing customer engagement and accessibility.
 
+![](/work/farmacias-vida-figure-1.jpg)
+
+![](/work/farmacias-vida-figure-2.jpg)
+
 ## Technology
 
 <div class="story_story__mainContent__technologies__v5XXm">

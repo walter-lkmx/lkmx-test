@@ -31,6 +31,10 @@ Moreover, we improved documentation accuracy and transportation tracking to main
 
 This strategy significantly optimized the logistics operations, ensuring the dependable delivery of vital medical supplies and bolstering Mexico's complex healthcare infrastructure.
 
+![](/work/maypo-cenadi-figure-1.jpg)
+
+![](/work/maypo-cenadi-figure-2.jpg)
+
 ### Impact
 
 The overhaul of the logistics system markedly improved the healthcare supply chain across Mexico, enabling the reliable monthly distribution of over 10 million medical units to nearly 1,000 public hospitals. Enhanced operational efficiency, real-time data accuracy, and strategic decision-making support emerged as key outcomes, optimizing the entire supply process. This transformation not only solidified the resilience of Mexico's healthcare logistics against future demands but also underscored the essential role of sophisticated logistics solutions in bolstering the nation's public health infrastructure.

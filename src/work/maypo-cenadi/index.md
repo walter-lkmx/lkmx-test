@@ -31,6 +31,10 @@ Además, mejoramos la precisión de la documentación y el seguimiento del trans
 
 Esta estrategia concisa optimizó significativamente las operaciones logísticas, asegurando la entrega confiable de suministros médicos vitales y fortaleciendo la infraestructura compleja de atención médica en México.
 
+![](/work/maypo-cenadi-figure-1.jpg)
+
+![](/work/maypo-cenadi-figure-2.jpg)
+
 ## Impacto
 
 La renovación del sistema logístico mejoró notablemente la cadena de suministro de atención médica en todo México, permitiendo la distribución mensual confiable de más de 10 millones de unidades médicas a casi 1,000 hospitales públicos. La eficiencia operativa mejorada, la precisión de datos en tiempo real y el apoyo a la toma de decisiones estratégicas surgieron como resultados clave, optimizando todo el proceso de suministro. Esta transformación no solo consolidó la resiliencia de la logística de atención médica de México ante demandas futuras, sino que también subrayó el papel esencial de las soluciones logísticas sofisticadas en el fortalecimiento de la infraestructura de salud pública del país.

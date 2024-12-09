@@ -25,6 +25,10 @@ Se desarrolló una aplicación móvil híbrida, encapsulando la plataforma web d
 
 Este enfoque permitió a Farmacias Vida expandir su presencia digital al espacio móvil de manera efectiva, proporcionando a los clientes una plataforma versátil para acceder a su extenso catálogo de productos, mejorando así el compromiso y la accesibilidad del cliente.
 
+![](/work/farmacias-vida-figure-1.jpg)
+
+![](/work/farmacias-vida-figure-2.jpg)
+
 ## Tecnologías
 
 <div class="story_story__mainContent__technologies__v5XXm">
