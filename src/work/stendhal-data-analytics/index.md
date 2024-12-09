@@ -27,6 +27,10 @@ El desafío principal de Stendhal Pharma era sintetizar y procesar de manera efe
 
 La Herramienta de Análisis de Datos de Stendhal se concibió utilizando una combinación de tecnologías avanzadas. La herramienta optimizó el flujo de trabajo de datos desde la extracción hasta la visualización. Contaba con una sofisticada gestión de datos y reportes visuales interactivos, mejorando la facilidad de interpretación y toma de decisiones. Esto se logró con una arquitectura diseñada para la escalabilidad y el manejo robusto de datos, adaptada a las necesidades analíticas de la industria farmacéutica.
 
+![](/work/stendhal-data-analytics-figure-1.jpg)
+
+![](/work/stendhal-data-analytics-figure-2.jpg)
+
 ## Impacto
 
 La implementación de la Herramienta de Análisis de Datos de Stendhal revolucionó el enfoque de Stendhal Pharma hacia el análisis de datos y la inteligencia empresarial. Al proporcionar una solución optimizada de extremo a extremo para el procesamiento y la visualización de datos, la herramienta permitió a la compañía desbloquear insights valiosos de sus vastos repositorios de datos. Los paneles interactivos permitieron a los usuarios interpretar fácilmente datos complejos, llevando a decisiones estratégicas más informadas. Esta herramienta transformadora no solo elevó las capacidades analíticas de Stendhal Pharma, sino que también estableció un nuevo estándar para el análisis de datos en la industria farmacéutica en toda América Latina.

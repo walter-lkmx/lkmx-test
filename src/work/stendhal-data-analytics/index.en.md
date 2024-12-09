@@ -27,6 +27,10 @@ Stendhal Pharma's primary challenge was to effectively synthesize and process ex
 
 The Stendhal Data Analytics Tool was conceived utilizing a blend of advanced technologies. It streamlined the data workflow from extraction to visualization. The tool featured sophisticated data management and interactive, visual reports, enhancing ease of interpretation and decision-making. This was achieved with an architecture designed for scalability and robust data handling, tailored for the pharmaceutical industry's analytical needs.
 
+![](/work/stendhal-data-analytics-figure-1.jpg)
+
+![](/work/stendhal-data-analytics-figure-2.jpg)
+
 ## Impact
 
 The implementation of the Stendhal Data Analytics Tool revolutionized Stendhal Pharma's approach to data analysis and business intelligence. By providing a streamlined, end-to-end solution for data processing and visualization, the tool empowered the company to unlock valuable insights from their vast data repositories. The interactive dashboards enabled users to easily interpret complex data, leading to more informed strategic decisions. This transformative tool has not only elevated Stendhal Pharma's analytical capabilities but has also set a new standard for data analytics in the pharmaceutical industry across Latin America.
