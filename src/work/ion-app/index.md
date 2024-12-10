@@ -19,6 +19,8 @@ introduction: {
 
 Enfrentando las altas demandas de su posición como proveedor global de soluciones de TI, Technologent necesitaba optimizar urgentemente su aplicación móvil utilizada para documentar y aprobar productos de seguros y financieros. El desafío era doble: comprender y mejorar rápidamente una base de código compleja escrita en Java y Spring Boot, y ejecutar estas mejoras con rapidez para mantener las operaciones críticas de la aplicación sin interrupción.
 
+![](/work/ion-app-figure-1.jpg)
+
 ## Solución
 
 En respuesta, se movilizó rápidamente un equipo dedicado, aprovechando una profunda experiencia en Java y Spring Boot para abordar y resolver los problemas de la aplicación de manera eficiente. Este enfoque ejemplificó una efectiva ampliación de personal a corto plazo, proporcionando a Technologent el apoyo especializado necesario para enfrentar rápidamente los desafíos técnicos urgentes, asegurando una operación continua y sin interrupciones de sus servicios esenciales.

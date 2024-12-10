@@ -19,6 +19,8 @@ introduction: {
 
 ER Manufacturing necesitaba una plataforma en línea efectiva para mostrar sus capacidades en el diseño y construcción de tanques y contenedores de acero, y para simplificar el proceso de consultas de los clientes.
 
+![](/work/er-manufacturing-figure-1.jpg)
+
 ## Solución
 
 Se desarrolló un sitio web directo para mostrar de manera efectiva la gama de tanques y contenedores de acero de ER. Esta plataforma proporciona información clara y accesible sobre cada producto y permite a los clientes realizar consultas fácilmente, facilitando la comunicación con ER para soluciones personalizadas.
