@@ -19,6 +19,8 @@ introduction: {
 
 In collaboration with experts from MIT and Harvard, a visionary project was launched to harness AI for critical healthcare needs at a hospital in Singapore. Spearheaded by a team of distinguished scientists, Peach IntelliHealth Inc emerged with a profound mission to revolutionize patient care through predictive analytics.
 
+![](/work/peach-intellihealth-figure-1.jpg)
+
 ## Challenge
 
 The challenge faced was to establish technical and innovative proficiency. Prior to engaging with the principal project, the task involved developing three distinct applications as a means to evaluate capability in contributing significantly to the overarching initiative. Successful demonstration of expertise in complex AI integrations and the provision of solutions that adhered to exacting standards garnered the trust and confidence required for further collaboration on the pivotal project.

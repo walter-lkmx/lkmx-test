@@ -19,6 +19,8 @@ introduction: {
 
 Peach IntelliHealth, una empresa innovadora en el sector de la salud, buscaba mejorar la gestión y el análisis de datos de pacientes para ofrecer un servicio más personalizado y eficiente. Integrar diversas fuentes de datos en un sistema unificado era crucial para permitir a los profesionales médicos acceder rápidamente a la información necesaria para tomar decisiones informadas.
 
+![](/work/peach-intellihealth-figure-1.jpg)
+
 ## Desafío
 
 El principal desafío era integrar diversas fuentes de datos de salud en un sistema unificado que permitiera a los profesionales médicos acceder rápidamente a la información necesaria para tomar decisiones informadas. Además, el sistema debía cumplir con estrictos estándares de seguridad y privacidad de datos para proteger la información sensible de los pacientes.

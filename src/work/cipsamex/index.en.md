@@ -27,6 +27,10 @@ The primary challenge was to develop a unified platform that could cater to the 
 
 A mobile-compatible web application was crafted, tailored to the unique needs of CIPSAMEX. This platform was designed to facilitate complex order tracking logistics with role-specific functionalities for various stakeholders including ADMIN, PURCHASES, PAYMENTS, BILLING, SALES, WAREHOUSE, and DELIVERY. Each role could effectively manage the order lifecycle from placement to delivery, with additional client access for order monitoring, ensuring accurate and consistent data for all parties involved.
 
+![](/work/cipsamex-figure-1.jpg)
+
+![](/work/cipsamex-figure-2.jpg)
+
 ## Impact
 
 The solution significantly improved operational efficiency and customer satisfaction across all targeted industries. The platform's capability to provide real-time updates and customized interaction for different roles enhanced the overall service responsiveness and streamlined the order management process.

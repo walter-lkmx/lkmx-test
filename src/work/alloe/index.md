@@ -27,6 +27,8 @@ En el mundo acelerado de las organizaciones modernas, el éxito va más allá de
 
 La interfaz intuitiva de Alloe facilitó que los miembros de las organizaciones registraran su actividad física, comidas y hábitos saludables. La aplicación se integró perfectamente con dispositivos portátiles como Fitbit y utilizó escáneres QR para una entrada de datos eficiente. Alloe fomentó actividades físicas individuales y grupales. Los usuarios podían registrar sus entrenamientos, rastrear sus pasos y competir por recompensas. Los participantes registraban sus comidas, promoviendo hábitos alimenticios conscientes. Los desafíos en torno a una nutrición equilibrada motivaron elecciones más saludables. Este software facilitó registros relacionados con la salud, fomentando el cuidado preventivo y las evaluaciones de salud regulares. Alloe transformó el bienestar en una competencia amistosa. Los miembros competían por recompensas basadas en su participación en prácticas saludables. Ya fuera alcanzando metas de pasos, manteniendo una dieta equilibrada o asistiendo a talleres de salud, Alloe celebraba el progreso.
 
+![](/work/alloe-figure-1.jpg)
+
 ## Impacto
 
 El efecto dominó fue notable. Alloe fomentó un sentido de comunidad. Los colegas se animaban entre sí, creando un ambiente de apoyo. Los participantes informaron de una mayor actividad física, mejores hábitos alimenticios y una mayor atención plena. El impacto de Alloe se extendió más allá de la salud. Reforzó una cultura de bienestar, mejorando la satisfacción laboral en general. Alloe ganó reconocimiento cuando fue destacado en un video oficial de Credit Karma, uno de nuestros mayores usuarios. En ese momento, Credit Karma estaba valorado en la asombrosa cifra de 3.5 mil millones de USD.

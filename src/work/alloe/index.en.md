@@ -27,6 +27,8 @@ In the fast-paced world of modern organizations, success extends beyond financia
 
 Alloe's intuitive UI made it easy for organization members to register their physical activity, meals, and healthy habits. The app seamlessly integrated with wearable devices like Fitbit and leveraged QR scanners for efficient data input. Alloe encouraged individual and group fitness activities. Users could check in their workouts, track steps, and compete for rewards. Participants logged their meals, fostering mindful eating habits. Challenges around balanced nutrition motivated healthier choices. This software facilitated health-related check-ins, encouraging preventive care and regular health assessments. Alloe transformed wellness into a friendly competition. Members competed for rewards based on their engagement in healthy practices. Whether it was hitting step goals, maintaining a balanced diet, or attending health workshops, Alloe celebrated progress.
 
+![](/work/alloe-figure-1.jpg)
+
 ## Impact
 
 The ripple effect was remarkable. Alloe fostered a sense of community. Colleagues cheered each other on, creating a supportive environment. Participants reported improved physical activity, better eating habits, and increased mindfulness. Alloe's impact extended beyond health. It reinforced a culture of well-being, enhancing overall job satisfaction. Alloe gained recognition when it was featured in an official video by Credit Karma, one of our largest users. At that moment, Credit Karma was valued at a staggering 3.5 billion USD.

@@ -27,6 +27,10 @@ El principal desafío era desarrollar una plataforma unificada que pudiera satis
 
 Para abordar este desafío, desarrollamos una aplicación web compatible con dispositivos móviles, adaptada específicamente a sus necesidades. Esta plataforma fue diseñada para simplificar el seguimiento complejo de pedidos con funcionalidades adaptadas a diversos roles, incluyendo administración, compras, pagos, facturación, ventas, almacén y entrega. Cada rol podía gestionar eficazmente el ciclo de vida del pedido, desde la colocación hasta la entrega, con acceso adicional para los clientes para el monitoreo de pedidos. Esto aseguró datos precisos y consistentes para todas las partes involucradas, proporcionando una experiencia de gestión de pedidos fluida y eficiente.
 
+![](/work/cipsamex-figure-1.jpg)
+
+![](/work/cipsamex-figure-2.jpg)
+
 ## Impacto
 
 La implementación de la aplicación web mejoró significativamente la eficiencia operativa y la satisfacción del cliente en todas las industrias objetivo. La capacidad de la plataforma para proporcionar actualizaciones en tiempo real e interacción personalizada para diferentes roles mejoró la capacidad de respuesta del servicio y optimizó el proceso de gestión de pedidos. Datos específicos mostraron mejoras sustanciales en la eficiencia del flujo de trabajo y una reducción en el papeleo manual, lo que llevó a un procesamiento de pedidos más rápido y preciso.

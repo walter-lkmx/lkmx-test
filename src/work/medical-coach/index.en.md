@@ -19,6 +19,8 @@ introduction: {
 
 Medical Coach sought to integrate pharmaceutical sales with remote medical consultations for a pharmacy. The challenge was to develop a secure telehealth platform that would facilitate these consultations and integrate seamlessly with an existing Electronic Medical Records (EMR) system. This integration was essential for maintaining organized and accessible patient information for medical professionals.
 
+![](/work/medical-coach-figure-1.jpg)
+
 ## Solution
 
 To meet these requirements, Logic Kernel designed a comprehensive telehealth platform. This solution enabled remote consultations through secure video conferencing and real-time chat, ensuring a user-friendly experience for both patients and healthcare providers. The platform also featured an intuitive interface to streamline the consultation process.
