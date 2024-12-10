@@ -29,7 +29,7 @@ Desarrollamos un sistema de Registros Médicos Electrónicos (EMR) diseñado par
 
 ![](/work/che-figure-1.jpg)
 
-![](/work/gnp-figure-2.jpg)
+![](/work/che-figure-2.jpg)
 
 ## Impacto
 

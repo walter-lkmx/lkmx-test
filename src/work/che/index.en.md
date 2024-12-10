@@ -29,7 +29,7 @@ We developed an Electronic Medical Records (EMR) system tailored to monitor chol
 
 ![](/work/che-figure-1.jpg)
 
-![](/work/gnp-figure-2.jpg)
+![](/work/che-figure-2.jpg)
 
 ## Impact
 
