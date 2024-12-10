@@ -23,6 +23,8 @@ Creative Benefits, Inc. es una firma de consultoría en seguros grupales y benef
 
 En un mundo cada vez más digitalizado, los empleados esperan tener acceso conveniente a información crítica. Sin embargo, los datos de beneficios y salud a menudo están dispersos en múltiples fuentes, lo que dificulta una gestión efectiva. Creative Benefits, Inc. identificó la necesidad de proporcionar a sus clientes una solución móvil integrada que centralizara y optimizara el acceso a esta información vital.
 
+![](/work/cbi-assistant-figure-1.jpg)
+
 ## Solución
 
 Logic Kernel desarrolló CBI Assistant, una aplicación móvil que ofrece a los usuarios acceso directo a sus datos de beneficios y salud. Con una interfaz intuitiva, CBI Assistant permite a los usuarios ver tarjetas de identificación de seguros, revisar declaraciones de confirmación de beneficios, acceder a contactos del equipo de gestión de cuentas y mantenerse actualizados con las últimas noticias sobre beneficios.

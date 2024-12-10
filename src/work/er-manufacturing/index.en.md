@@ -19,6 +19,8 @@ introduction: {
 
 ER Manufacturing required an effective online platform to showcase their capabilities in designing and building steel tanks and containers, and to simplify the customer inquiry process.
 
+![](/work/er-manufacturing-figure-1.jpg)
+
 ## Solution
 
 A straightforward website was developed to effectively display ER's range of steel tanks and containers. This platform provides clear, accessible information on each product and allows customers to easily make inquiries, facilitating streamlined communications with ER for tailored solutions.
