@@ -10,7 +10,7 @@ const storiesDirectory = path.join(process.cwd(), 'src/work');
 const defaultLocale = 'es';
 
 // Constante para controlar los IDs de proyectos a excluir
-const EXCLUDED_STORY_IDS = ['pharma-analytics']; // Aquí agregas los IDs que deseas excluir
+const EXCLUDED_STORY_IDS = ['pharma-analytics', 'ion-app', 'cbi-assistant', 'er-manufacturing']; // Aquí agregas los IDs que deseas excluir
 
 export function getSortedStoriesData(locale) {
     const fileNames = fs.readdirSync(storiesDirectory);
