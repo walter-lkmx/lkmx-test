@@ -23,7 +23,9 @@ GNP, con sede en la Ciudad de México, es uno de los principales proveedores de 
 
 ## Solución
 
-En respuesta a este desafío, se desarrolló una API especializada para gestionar la compleja red de llamadas necesarias para crear cotizaciones corporativas. Este proyecto fue un esfuerzo colaborativo entre nuestro equipo de ingeniería y el departamento de TI de GNP, enfocándose en la arquitectura, el diseño y la implementación de componentes críticos del backend. Estos componentes fueron diseñados para cumplir con estrictos Acuerdos de Nivel de Servicio (SLAs), procesando solicitudes en microsegundos.
+Como respuesta a este desafío, se desarrolló una API especializada para gestionar la compleja red de llamadas necesarias para la creación de cotizaciones corporativas. Este proyecto fue un esfuerzo colaborativo entre nuestro equipo de ingeniería elite y el departamento de TI de GNP, enfocándose en la arquitectura, diseño e implementación de componentes críticos del back-end. Estos componentes fueron diseñados para cumplir con estrictos Acuerdos de Nivel de Servicio (SLA), procesando solicitudes en microsegundos.
+
+El desarrollo de esta API utilizó Java, incorporando JPA y Spring para una robusta funcionalidad de back-end y dando soporte tanto a clientes REST como SOAP para asegurar compatibilidad y flexibilidad en las comunicaciones. La infraestructura de despliegue aprovechó Linux, Docker y Kubernetes, alojada en Google Cloud Platform, para proporcionar un entorno escalable y resiliente. Se integró Cloudflare para mejorar la seguridad y el rendimiento.
 
 Esta solución tecnológica permitió a GNP mejorar significativamente la eficiencia y fiabilidad en la generación de cotizaciones corporativas para sus socios comerciales, reforzando la posición de la compañía como líder en el sector de seguros en México.
 
