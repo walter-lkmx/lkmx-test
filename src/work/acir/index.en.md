@@ -1,21 +1,18 @@
 ---
 number: 1
-title: ['ACIR Radio']
+title: ["ACIR Radio"]
 headline: []
-solutions: ['Mobile App']
+solutions: ["Mobile App"]
 services: []
 methodologies: []
 period: []
-thumbnail: 'acir-radio-thumbnail'
-cover: 'acir-radio-cover'
-storyType: 'Work'
-introduction: {
-    title: "",
-    content: ""
-}
+thumbnail: "acir-radio-thumbnail"
+cover: "acir-radio-cover"
+storyType: "Work"
+introduction: { title: "", content: "" }
 ---
 
-## Background 
+## Background
 
 Grupo ACIR is a Mexican media company that operated dozens of stations broadcasting all types of music for different generations. During decades, their brands have captivated hundreds of thousands of listeners in the main cities of Mexico.
 
@@ -28,7 +25,6 @@ Grupo ACIR was looking to launch a new digital strategy that involved a new mobi
 The development of Grupo ACIR's mobile app was an exercise in blending functionality with aesthetic appeal. The home screen presented a clear entry point to live radio and podcasts, using intuitive icons to mimic the ease of traditional radio. Navigating to the station selection, the design's curvature subtly guided users through genres like 'Smooth Jazz' and 'Sounds Electronic,' marrying visual appeal with user-friendly design.
 
 For the 'Amor' station, the app took on a romantic visual theme, using purples and intimate imagery to echo the music's emotive nature. Every design choice in the app was crafted to reflect the diverse auditory experiences of Grupo ACIR's stations, ensuring a seamless and engaging user experience.
-
 
 ![](/work/acir-radio-figure-01.jpg)
 
