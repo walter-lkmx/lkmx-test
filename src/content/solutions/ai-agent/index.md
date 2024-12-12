@@ -46,18 +46,25 @@ Con los controles adecuados, los agentes de IA utilizan los datos de manera segu
 
 Los agentes de IA ofrecen una flexibilidad notable, permitiendo una amplia gama de aplicaciones en diversas industrias. Aquí hay algunos tipos distintos de agentes de IA y sus usos prácticos en los negocios.
 
-| Tipo de Agente de IA            | Casos de Uso                                                                                                                                                                                    |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Servicio al Cliente             | Los agentes de IA manejan preguntas frecuentes, resuelven problemas y procesan reembolsos, liberando a los agentes humanos para enfocarse en construir relaciones más fuertes con los clientes. |
-| Soporte Técnico (IT)            | Pueden gestionar problemas técnicos como restablecimiento de contraseñas y acceso a VPN, así como automatizar tareas repetitivas.                                                               |
-| Soporte de Recursos Humanos     | Responden consultas de empleados sobre beneficios o políticas, agilizan la incorporación y preseleccionan solicitudes de empleo.                                                                |
-| Ventas y Marketing              | Utilizando datos en tiempo real, la IA puede recomendar productos o mejoras basadas en el comportamiento y el historial del cliente.                                                            |
-| Salud                           | Ayudan a programar citas, responder consultas de salud básicas y dirigir a los departamentos relevantes según el problema.                                                                      |
-| Finanzas                        | La IA automatiza la detección de fraudes, ofrece asesoramiento de inversión personalizado y simplifica los procesos de solicitud de préstamos.                                                  |
-| Comercio Minorista y E-Commerce | Rastrean pedidos, proporcionan actualizaciones personalizadas, generan etiquetas de devolución y responden preguntas relacionadas con productos, mejorando la experiencia de compra general.    |
-| Viajes                          | Ayudan en la reserva de vuelos y hoteles, responden preguntas relacionadas con viajes y crean itinerarios personalizados.                                                                       |
-| Telecomunicaciones              | Proporcionan soporte instantáneo y personalizado durante interrupciones de red u otros problemas técnicos.                                                                                      |
-| Servicios de Entretenimiento    | Responden preguntas sobre contenido específico disponible en servicios de suscripción, mejorando la experiencia del usuario.                                                                    |
+- **Servicio al Cliente**: Los agentes de IA manejan preguntas frecuentes, resuelven problemas y procesan reembolsos, liberando a los agentes humanos para enfocarse en construir relaciones más fuertes con los clientes.
+
+- **Soporte Técnico (IT)**: Pueden gestionar problemas técnicos como restablecimiento de contraseñas y acceso a VPN, así como automatizar tareas repetitivas.
+
+- **Soporte de Recursos Humanos**: Responden consultas de empleados sobre beneficios o políticas, agilizan la incorporación y preseleccionan solicitudes de empleo.
+
+- **Ventas y Marketing**: Utilizando datos en tiempo real, la IA puede recomendar productos o mejoras basadas en el comportamiento y el historial del cliente.
+
+- **Salud**: Ayudan a programar citas, responder consultas de salud básicas y dirigir a los departamentos relevantes según el problema.
+
+- **Finanzas**: La IA automatiza la detección de fraudes, ofrece asesoramiento de inversión personalizado y simplifica los procesos de solicitud de préstamos.
+
+- **Comercio Minorista y E-Commerce**: Rastrean pedidos, proporcionan actualizaciones personalizadas, generan etiquetas de devolución y responden preguntas relacionadas con productos, mejorando la experiencia de compra general.
+
+- **Viajes**: Ayudan en la reserva de vuelos y hoteles, responden preguntas relacionadas con viajes y crean itinerarios personalizados.
+
+- **Telecomunicaciones**: Proporcionan soporte instantáneo y personalizado durante interrupciones de red u otros problemas técnicos.
+
+- **Servicios de Entretenimiento**: Responden preguntas sobre contenido específico disponible en servicios de suscripción, mejorando la experiencia del usuario.                                                      
 
 ## Preguntas Frecuentes
 
