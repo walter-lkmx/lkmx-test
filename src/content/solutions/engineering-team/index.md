@@ -1,6 +1,7 @@
 ---
 number: 12
 title: ["Equipo De Ingeniería"]
+description: ""
 thumbnail: "engineering-team-thumbnail"
 cover: "engineering-team-cover"
 storyType: "solution"

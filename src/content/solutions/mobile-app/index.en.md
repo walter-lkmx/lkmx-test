@@ -1,6 +1,7 @@
 ---
 number: 14
 title: ["Mobile App"]
+description: ""
 thumbnail: "mobile-app-thumbnail"
 cover: "mobile-app-cover"
 storyType: "solution"

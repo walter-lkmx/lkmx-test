@@ -1,6 +1,7 @@
 ---
 number: 8
 title: ["Digital Brand"]
+description: ""
 thumbnail: "digital-brand-thumbnail"
 cover: "digital-brand-cover"
 storyType: "solution"

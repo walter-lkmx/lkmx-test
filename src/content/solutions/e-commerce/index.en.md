@@ -1,6 +1,7 @@
 ---
 number: 10
 title: ["E-Commerce"]
+description: ""
 thumbnail: "e-commerce-thumbnail"
 cover: "e-commerce-cover"
 storyType: "solution"

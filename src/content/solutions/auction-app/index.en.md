@@ -1,6 +1,7 @@
 ---
 number: 3
 title: ["Auction App"]
+description: ""
 thumbnail: "auction-app-thumbnail"
 cover: "auction-app-cover"
 storyType: "solution"

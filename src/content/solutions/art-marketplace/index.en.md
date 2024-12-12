@@ -1,6 +1,7 @@
 ---
 number: 2
 title: ["Art Marketplace"]
+description: ""
 thumbnail: "art-marketplace-thumbnail"
 cover: "art-marketplace-cover"
 storyType: "solution"

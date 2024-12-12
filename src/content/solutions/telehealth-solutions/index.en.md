@@ -1,6 +1,7 @@
 ---
 number: 17
 title: ["Telehealth Solutions"]
+description: ""
 thumbnail: "telehealth-solutions-thumbnail"
 cover: "telehealth-solutions-cover"
 storyType: "solution"

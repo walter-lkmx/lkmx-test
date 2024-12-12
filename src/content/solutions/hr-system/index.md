@@ -1,6 +1,7 @@
 ---
 number: 13
 title: ["Sistema De Recursos Humanos"]
+description: ""
 thumbnail: "hr-system-thumbnail"
 cover: "hr-system-cover"
 storyType: "solution"

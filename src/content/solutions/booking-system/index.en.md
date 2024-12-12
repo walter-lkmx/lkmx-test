@@ -1,6 +1,7 @@
 ---
 number: 4
 title: ["Booking System"]
+description: ""
 thumbnail: "booking-system-thumbnail"
 cover: "booking-system-cover"
 storyType: "solution"

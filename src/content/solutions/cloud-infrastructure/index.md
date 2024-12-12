@@ -1,6 +1,7 @@
 ---
 number: 6
 title: ["Infraestructura En La Nube"]
+description: ""
 thumbnail: "cloud-infrastructure-thumbnail"
 cover: "cloud-infrastructure-cover"
 storyType: "solution"

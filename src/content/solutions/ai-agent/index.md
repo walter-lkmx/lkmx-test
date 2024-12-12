@@ -1,6 +1,7 @@
 ---
 number: 1
 title: ["Agente de IA"]
+description: ""
 thumbnail: "ai-agent-thumbnail"
 cover: "ai-agent-cover"
 storyType: "solution"

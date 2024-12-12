@@ -1,6 +1,7 @@
 ---
 number: 12
 title: ["Engineering Team"]
+description: ""
 thumbnail: "engineering-team-thumbnail"
 cover: "engineering-team-cover"
 storyType: "solution"

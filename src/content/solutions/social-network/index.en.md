@@ -1,6 +1,7 @@
 ---
 number: 16
 title: ["Social Network"]
+description: ""
 thumbnail: "social-network-thumbnail"
 cover: "social-network-cover"
 storyType: "solution"

@@ -1,6 +1,7 @@
 ---
 number: 9
 title: ["Gestor De Documentos"]
+description: ""
 thumbnail: "document-manager-thumbnail"
 cover: "document-manager-cover"
 storyType: "solution"

@@ -1,6 +1,7 @@
 ---
 number: 5
 title: ["CRM"]
+description: ""
 thumbnail: "crm-thumbnail"
 cover: "crm-cover"
 storyType: "solution"

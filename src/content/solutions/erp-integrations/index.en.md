@@ -1,6 +1,7 @@
 ---
 number: 11
 title: ["ERP Integrations"]
+description: ""
 thumbnail: "erp-integrations-thumbnail"
 cover: "erp-integrations-cover"
 storyType: "solution"

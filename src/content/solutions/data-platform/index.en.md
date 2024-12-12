@@ -1,6 +1,7 @@
 ---
 number: 7
 title: ["Data Platform"]
+description: ""
 thumbnail: "data-platform-thumbnail"
 cover: "data-platform-cover"
 storyType: "solution"

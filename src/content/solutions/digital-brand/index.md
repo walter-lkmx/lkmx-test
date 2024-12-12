@@ -1,6 +1,7 @@
 ---
 number: 8
 title: ["Marca Digital"]
+description: ""
 thumbnail: "digital-brand-thumbnail"
 cover: "digital-brand-cover"
 storyType: "solution"

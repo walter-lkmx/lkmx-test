@@ -1,6 +1,7 @@
 ---
 number: 3
 title: ["App De Subastas"]
+description: ""
 thumbnail: "auction-app-thumbnail"
 cover: "auction-app-cover"
 storyType: "solution"

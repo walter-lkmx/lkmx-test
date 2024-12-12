@@ -1,6 +1,7 @@
 ---
 number: 15
 title: ["SaaS Unicorn"]
+description: ""
 thumbnail: "saas-unicorn-thumbnail"
 cover: "saas-unicorn-cover"
 storyType: "solution"
