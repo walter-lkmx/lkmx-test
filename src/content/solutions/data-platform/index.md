@@ -1,10 +1,10 @@
 ---
 number: 7
-title: ['Plataforma De Datos']
-thumbnail: 'data-platform-thumbnail'
-cover: 'data-platform-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Plataforma De Datos"]
+thumbnail: "data-platform-thumbnail"
+cover: "data-platform-cover"
+storyType: "solution"
+iconName: "chart-bar"
 ---
 
 # Plataforma de Datos

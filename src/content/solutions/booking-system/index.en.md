@@ -1,10 +1,10 @@
 ---
 number: 4
-title: ['Booking System']
-thumbnail: 'booking-system-thumbnail'
-cover: 'booking-system-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Booking System"]
+thumbnail: "booking-system-thumbnail"
+cover: "booking-system-cover"
+storyType: "solution"
+iconName: "bed"
 ---
 
 # Booking System

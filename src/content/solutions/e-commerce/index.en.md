@@ -1,10 +1,10 @@
 ---
 number: 10
-title: ['E-Commerce']
-thumbnail: 'e-commerce-thumbnail'
-cover: 'e-commerce-cover'
-storyType: 'solution'
-iconName: ''
+title: ["E-Commerce"]
+thumbnail: "e-commerce-thumbnail"
+cover: "e-commerce-cover"
+storyType: "solution"
+iconName: "shopping-cart"
 ---
 
 # E-Commerce
@@ -21,7 +21,7 @@ Contact us
 
 ### **Optimized User Journey**
 
- We design eCommerce platforms with the best UX practices, making it easy for customers to navigate and complete purchases.
+We design eCommerce platforms with the best UX practices, making it easy for customers to navigate and complete purchases.
 
 ### **Scalable Solutions**
 
@@ -49,7 +49,7 @@ Our platforms synchronize seamlessly with your ERP system, providing real-time d
 
 Implement robust security measures to protect customer data, ensuring compliance with industry standards and building customer trust.
 
-## Frequently Asked Questions 
+## Frequently Asked Questions
 
 ### What types of businesses can benefit from your eCommerce solutions?
 

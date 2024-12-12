@@ -1,10 +1,10 @@
 ---
 number: 14
-title: ['Mobile App']
-thumbnail: 'mobile-app-thumbnail'
-cover: 'mobile-app-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Mobile App"]
+thumbnail: "mobile-app-thumbnail"
+cover: "mobile-app-cover"
+storyType: "solution"
+iconName: "tablet-smartphone"
 ---
 
 # Mobile App

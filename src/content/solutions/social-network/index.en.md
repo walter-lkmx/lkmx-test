@@ -1,10 +1,10 @@
 ---
 number: 16
-title: ['Social Network']
-thumbnail: 'social-network-thumbnail'
-cover: 'social-network-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Social Network"]
+thumbnail: "social-network-thumbnail"
+cover: "social-network-cover"
+storyType: "solution"
+iconName: "message-circle"
 ---
 
 # Social Network

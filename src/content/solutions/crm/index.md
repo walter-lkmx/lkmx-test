@@ -1,10 +1,10 @@
 ---
 number: 5
-title: ['CRM']
-thumbnail: 'crm-thumbnail'
-cover: 'crm-cover'
-storyType: 'solution'
-iconName: ''
+title: ["CRM"]
+thumbnail: "crm-thumbnail"
+cover: "crm-cover"
+storyType: "solution"
+iconName: "book-marked"
 ---
 
 # CRM

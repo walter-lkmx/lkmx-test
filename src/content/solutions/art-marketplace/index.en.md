@@ -1,10 +1,10 @@
 ---
 number: 2
-title: ['Art Marketplace']
-thumbnail: 'art-marketplace-thumbnail'
-cover: 'art-marketplace-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Art Marketplace"]
+thumbnail: "art-marketplace-thumbnail"
+cover: "art-marketplace-cover"
+storyType: "solution"
+iconName: "palette"
 ---
 
 # Art Marketplace

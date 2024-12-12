@@ -1,10 +1,10 @@
 ---
 number: 13
-title: ['Sistema De Recursos Humanos']
-thumbnail: 'hr-system-thumbnail'
-cover: 'hr-system-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Sistema De Recursos Humanos"]
+thumbnail: "hr-system-thumbnail"
+cover: "hr-system-cover"
+storyType: "solution"
+iconName: "briefcase"
 ---
 
 # Sistema de Recursos Humanos

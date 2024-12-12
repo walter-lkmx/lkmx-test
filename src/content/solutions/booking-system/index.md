@@ -1,10 +1,10 @@
 ---
 number: 4
-title: ['Sistema De Reservas']
-thumbnail: 'booking-system-thumbnail'
-cover: 'booking-system-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Sistema De Reservas"]
+thumbnail: "booking-system-thumbnail"
+cover: "booking-system-cover"
+storyType: "solution"
+iconName: "bed"
 ---
 
 # Sistema de Reservas

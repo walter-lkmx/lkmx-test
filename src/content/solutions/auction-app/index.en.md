@@ -1,10 +1,10 @@
 ---
 number: 3
-title: ['Auction App']
-thumbnail: 'auction-app-thumbnail'
-cover: 'auction-app-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Auction App"]
+thumbnail: "auction-app-thumbnail"
+cover: "auction-app-cover"
+storyType: "solution"
+iconName: "gavel"
 ---
 
 # Auction App

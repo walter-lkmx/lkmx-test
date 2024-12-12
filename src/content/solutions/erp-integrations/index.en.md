@@ -1,10 +1,10 @@
 ---
 number: 11
-title: ['ERP Integrations']
-thumbnail: 'erp-integrations-thumbnail'
-cover: 'erp-integrations-cover'
-storyType: 'solution'
-iconName: ''
+title: ["ERP Integrations"]
+thumbnail: "erp-integrations-thumbnail"
+cover: "erp-integrations-cover"
+storyType: "solution"
+iconName: "binoculars"
 ---
 
 # ERP integrations
@@ -105,11 +105,11 @@ Our ERP consultants leverage a variety of platforms and cutting-edge technologie
 
 **SAP**
 
-  Leading ERP software providing comprehensive solutions for various business processes, from finance to supply chain management.
+Leading ERP software providing comprehensive solutions for various business processes, from finance to supply chain management.
 
 **Oracle ERP Cloud**
 
-  A complete, modern, cloud-based ERP suite that manages enterprise functions, including accounting, financial management, project management, and procurement.
+A complete, modern, cloud-based ERP suite that manages enterprise functions, including accounting, financial management, project management, and procurement.
 
 **Microsoft Dynamics 365**
 
@@ -119,7 +119,7 @@ An intelligent cloud-based business application that combines CRM and ERP capabi
 
 A robust ERP solution designed for small to medium-sized businesses, offering a range of functionalities including accounting, inventory management, and order management.
 
-**Infor** 
+**Infor**
 
 Industry-specific ERP solutions that leverage AI and machine learning to optimize business processes and decision-making.
 

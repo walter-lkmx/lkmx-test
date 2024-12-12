@@ -1,10 +1,10 @@
 ---
 number: 18
-title: ['Web3']
-thumbnail: 'web3-project-thumbnail'
-cover: 'web3-project-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Web3"]
+thumbnail: "web3-project-thumbnail"
+cover: "web3-project-cover"
+storyType: "solution"
+iconName: "bitcoin"
 ---
 
 # Web3
@@ -57,7 +57,7 @@ Integra sistemas de pago basados en blockchain para transacciones financieras se
 
 Empodera tu negocio con soluciones Web3 de vanguardia diseñadas para mejorar la seguridad, la transparencia y la eficiencia.
 
-**Comienza Ahora** 
+**Comienza Ahora**
 
 ## Preguntas Frecuentes (FAQ)
 

@@ -1,10 +1,10 @@
 ---
 number: 15
-title: ['SaaS Unicorn']
-thumbnail: 'saas-unicorn-thumbnail'
-cover: 'saas-unicorn-cover'
-storyType: 'solution'
-iconName: ''
+title: ["SaaS Unicorn"]
+thumbnail: "saas-unicorn-thumbnail"
+cover: "saas-unicorn-cover"
+storyType: "solution"
+iconName: "star"
 ---
 
 # SaaS Unicorn

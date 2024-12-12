@@ -1,10 +1,10 @@
 ---
 number: 12
-title: ['Engineering Team']
-thumbnail: 'engineering-team-thumbnail'
-cover: 'engineering-team-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Engineering Team"]
+thumbnail: "engineering-team-thumbnail"
+cover: "engineering-team-cover"
+storyType: "solution"
+iconName: "users"
 ---
 
 # Engineering Team

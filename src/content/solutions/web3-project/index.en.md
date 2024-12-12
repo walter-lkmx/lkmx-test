@@ -1,10 +1,10 @@
 ---
 number: 18
-title: ['Web3 Project']
-thumbnail: 'web3-project-thumbnail'
-cover: 'web3-project-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Web3 Project"]
+thumbnail: "web3-project-thumbnail"
+cover: "web3-project-cover"
+storyType: "solution"
+iconName: "bitcoin"
 ---
 
 # Web3 project

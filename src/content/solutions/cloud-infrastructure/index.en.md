@@ -1,10 +1,10 @@
 ---
 number: 6
-title: ['Cloud Infrastructure']
-thumbnail: 'cloud-infrastructure-thumbnail'
-cover: 'cloud-infrastructure-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Cloud Infrastructure"]
+thumbnail: "cloud-infrastructure-thumbnail"
+cover: "cloud-infrastructure-cover"
+storyType: "solution"
+iconName: "cloud"
 ---
 
 # Cloud Infrastructure

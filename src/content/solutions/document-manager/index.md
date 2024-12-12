@@ -1,10 +1,10 @@
 ---
 number: 9
-title: ['Gestor De Documentos']
-thumbnail: 'document-manager-thumbnail'
-cover: 'document-manager-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Gestor De Documentos"]
+thumbnail: "document-manager-thumbnail"
+cover: "document-manager-cover"
+storyType: "solution"
+iconName: "file"
 ---
 
 # Gestor de Documentos

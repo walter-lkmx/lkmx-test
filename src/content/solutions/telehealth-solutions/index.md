@@ -1,10 +1,10 @@
 ---
 number: 17
-title: ['Telemedicina']
-thumbnail: 'telehealth-solutions-thumbnail'
-cover: 'telehealth-solutions-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Telemedicina"]
+thumbnail: "telehealth-solutions-thumbnail"
+cover: "telehealth-solutions-cover"
+storyType: "solution"
+iconName: "tv"
 ---
 
 # Telemedicina

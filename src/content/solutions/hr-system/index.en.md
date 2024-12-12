@@ -1,10 +1,10 @@
 ---
 number: 13
-title: ['HR System']
-thumbnail: 'hr-system-thumbnail'
-cover: 'hr-system-cover'
-storyType: 'solution'
-iconName: ''
+title: ["HR System"]
+thumbnail: "hr-system-thumbnail"
+cover: "hr-system-cover"
+storyType: "solution"
+iconName: "briefcase"
 ---
 
 # HR System

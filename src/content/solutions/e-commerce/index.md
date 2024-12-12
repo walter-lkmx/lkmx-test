@@ -1,10 +1,10 @@
 ---
 number: 10
-title: ['E-Commerce']
-thumbnail: 'e-commerce-thumbnail'
-cover: 'e-commerce-cover'
-storyType: 'solution'
-iconName: ''
+title: ["E-Commerce"]
+thumbnail: "e-commerce-thumbnail"
+cover: "e-commerce-cover"
+storyType: "solution"
+iconName: "shopping-cart"
 ---
 
 # E-Commerce

@@ -1,10 +1,10 @@
 ---
 number: 17
-title: ['Telehealth Solutions']
-thumbnail: 'telehealth-solutions-thumbnail'
-cover: 'telehealth-solutions-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Telehealth Solutions"]
+thumbnail: "telehealth-solutions-thumbnail"
+cover: "telehealth-solutions-cover"
+storyType: "solution"
+iconName: "tv"
 ---
 
 # Telehealth Solutions

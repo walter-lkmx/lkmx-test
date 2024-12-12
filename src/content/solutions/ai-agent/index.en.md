@@ -1,10 +1,10 @@
 ---
 number: 1
-title: ['AI Agent']
-thumbnail: 'ai-agent-thumbnail'
-cover: 'ai-agent-cover'
-storyType: 'solution'
-iconName: ''
+title: ["AI Agent"]
+thumbnail: "ai-agent-thumbnail"
+cover: "ai-agent-cover"
+storyType: "solution"
+iconName: "headset"
 ---
 
 # AI Agent
@@ -43,18 +43,18 @@ With proper controls, AI agents use data securely and accurately, maintaining cu
 
 AI agents offer remarkable flexibility, enabling a wide range of applications across various industries. Here are some distinct types of AI agents and their practical uses in business.
 
-| Type of AI agent | Use Cases |
-|----|----|
-| Customer Service | AI agents handle FAQs, resolve issues, and process refunds, freeing human agents to focus on building stronger customer relationships. |
-| IT Support | AI agents can manage technical problems like password resets and VPN access, as well as automate repetitive tasks. |
-| HR Support | Answer employee queries regarding benefits or policies, streamline onboarding, and pre-screen job applications. |
-| Sales and Marketing | Utilizing real-time data, AI can recommend products or upgrades based on customer behavior and history. |
-| Healthcare	 | AI agents assist with scheduling appointments, answering basic health queries, and directing to the relevant departments based on the issue. |
-| Finance | AI automates fraud detection, offers personalized investment advice, and simplifies loan application processes. |
-| Retail and E-Commerce | Tracks orders, provides personalized updates, generates return labels, and answers product-related questions, enhancing the overall shopping experience. |
-| Travel | Assists in booking flights and hotels, answers travel-related questions, and creates personalized itineraries. |
-| Telecommunications | Provides instant, personalized support during network outages or other technical issues. |
-| Entertainment Services | Answers questions about specific content available in subscription services, enhancing user experience. |
+| Type of AI agent       | Use Cases                                                                                                                                                |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Customer Service       | AI agents handle FAQs, resolve issues, and process refunds, freeing human agents to focus on building stronger customer relationships.                   |
+| IT Support             | AI agents can manage technical problems like password resets and VPN access, as well as automate repetitive tasks.                                       |
+| HR Support             | Answer employee queries regarding benefits or policies, streamline onboarding, and pre-screen job applications.                                          |
+| Sales and Marketing    | Utilizing real-time data, AI can recommend products or upgrades based on customer behavior and history.                                                  |
+| Healthcare             | AI agents assist with scheduling appointments, answering basic health queries, and directing to the relevant departments based on the issue.             |
+| Finance                | AI automates fraud detection, offers personalized investment advice, and simplifies loan application processes.                                          |
+| Retail and E-Commerce  | Tracks orders, provides personalized updates, generates return labels, and answers product-related questions, enhancing the overall shopping experience. |
+| Travel                 | Assists in booking flights and hotels, answers travel-related questions, and creates personalized itineraries.                                           |
+| Telecommunications     | Provides instant, personalized support during network outages or other technical issues.                                                                 |
+| Entertainment Services | Answers questions about specific content available in subscription services, enhancing user experience.                                                  |
 
 ## Frequently Asked Questions (FAQ)
 

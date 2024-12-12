@@ -1,10 +1,10 @@
 ---
 number: 6
-title: ['Infraestructura En La Nube']
-thumbnail: 'cloud-infrastructure-thumbnail'
-cover: 'cloud-infrastructure-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Infraestructura En La Nube"]
+thumbnail: "cloud-infrastructure-thumbnail"
+cover: "cloud-infrastructure-cover"
+storyType: "solution"
+iconName: "cloud"
 ---
 
 # Infraestructura en la Nube

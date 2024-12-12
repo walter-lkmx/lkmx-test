@@ -1,10 +1,10 @@
 ---
 number: 12
-title: ['Equipo De Ingeniería']
-thumbnail: 'engineering-team-thumbnail'
-cover: 'engineering-team-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Equipo De Ingeniería"]
+thumbnail: "engineering-team-thumbnail"
+cover: "engineering-team-cover"
+storyType: "solution"
+iconName: "users"
 ---
 
 # Equipo de Ingeniería

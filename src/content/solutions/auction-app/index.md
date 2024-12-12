@@ -1,10 +1,10 @@
 ---
 number: 3
-title: ['App De Subastas']
-thumbnail: 'auction-app-thumbnail'
-cover: 'auction-app-cover'
-storyType: 'solution'
-iconName: ''
+title: ["App De Subastas"]
+thumbnail: "auction-app-thumbnail"
+cover: "auction-app-cover"
+storyType: "solution"
+iconName: "gavel"
 ---
 
 # App de Subastas

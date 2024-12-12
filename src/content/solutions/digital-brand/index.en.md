@@ -1,10 +1,10 @@
 ---
 number: 8
-title: ['Digital Brand']
-thumbnail: 'digital-brand-thumbnail'
-cover: 'digital-brand-cover'
-storyType: 'solution'
-iconName: ''
+title: ["Digital Brand"]
+thumbnail: "digital-brand-thumbnail"
+cover: "digital-brand-cover"
+storyType: "solution"
+iconName: "stamp"
 ---
 
 # Digital Brand
