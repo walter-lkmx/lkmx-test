@@ -176,6 +176,17 @@
       "de nuestros clientes."
     ]
   },
+  "solutions": {
+    "title": "Soluciones",
+    "ogDescription": "Nuestras diversas soluciones aprovechan las últimas tecnologías para ayudar a tu negocio a tener éxito en la era digital. Desde agentes de IA y blockchain hasta infraestructura en la nube y aplicaciones móviles, contamos con la experiencia para dar vida a tus ideas e impulsar el crecimiento.",
+    "ogImage": "",
+    "hero": [
+      "Nuestras diversas soluciones aprovechan las últimas tecnologías para ayudar a tu negocio a tener éxito en la era digital. Desde agentes de IA y blockchain hasta infraestructura en la nube y aplicaciones móviles, contamos con la experiencia para dar vida a tus ideas e impulsar el crecimiento."
+    ],
+    "intro": "Nos mantenemos a la vanguardia de las tendencias e innovaciones emergentes para crear oportunidades alineadas con las necesidades únicas de su empresa. Explore cómo hemos empoderado a empresas de diversas industrias para alcanzar sus objetivos.",
+    "catalogTitle": "CADA NEGOCIO REQUIERE UNA SOLUCIÓN PERSONALIZADA",
+    "catalogDescription": "Nos mantenemos a la vanguardia de las tendencias e innovaciones emergentes para crear oportunidades alineadas con las necesidades únicas de su empresa. Explore cómo hemos empoderado a empresas de diversas industrias para alcanzar sus objetivos."
+  },
   "industries": {
     "title": "Industrias",
     "ogDescription": "Nuestra historia en varias industrias nos dota de la experiencia para comprender mejor tu negocio y crear soluciones de software que hagan de tu producto uno exitoso.",
