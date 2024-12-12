@@ -1,7 +1,7 @@
 ---
 number: 1
 title: ["AI Agent"]
-description: ""
+description: "Developing AI agents that automate tasks, enhance customer experiences, and improve operational efficiency."
 thumbnail: "ai-agent-thumbnail"
 cover: "ai-agent-cover"
 storyType: "solution"

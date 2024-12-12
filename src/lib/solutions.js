@@ -45,6 +45,7 @@ export function getSolutionsIndexed(locale) {
     
     return solutions.map(solution => ({
         title: solution.title || [""],
+        description: solution.description || [""],
         route: `/solutions/${solution.id}`,
         iconName: solution.iconName || "",
         cover: solution.cover || "",

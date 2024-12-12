@@ -1,11 +1,17 @@
 // Ruta del archivo: src/components/solutionsAnchors.js
 
 import React, { useEffect } from "react";
+import { useRouter } from 'next/router';
 import styles from "@/components/solutionsAnchors.module.scss";
 import { Block, Column } from "@lkmx/flare-react";
 import Image from "next/image";
+import getLang from "@/lang";
 
 export default function SolutionsAnchors({anchorsData}) {
+    const { locale } = useRouter();
+    const $t = getLang(locale);
+
+    
     useEffect(() => {
         document.addEventListener('scroll', function () {
             var i = 0;
@@ -67,10 +73,10 @@ export default function SolutionsAnchors({anchorsData}) {
                                 </div>                            
                                 <div className={styles.anchors__sections__block__black__item__content}>                                
                                     <h2>{data.title[0]}</h2>
-                                    <p>{data.title[1]}</p>
+                                    <p>{data.description}</p>
                                     <div className={styles.anchors__sections__block__black__item__content__route}>
                                         <a href={data.route}>
-                                            Learn more
+                                        {locale === 'es' ? 'Aprende más' : 'Learn more'}
                                         </a>
                                     </div>
                                 </div>
