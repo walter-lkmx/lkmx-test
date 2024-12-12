@@ -61,7 +61,7 @@ export default function SolutionsAnchors({anchorsData}) {
                                 <div className={styles.anchors__sections__block__black__item__image}>
                                     <Image
                                         fill
-                                        src={`/solutions/${data.thumbnail}.jpg`}
+                                        src={`/icons/${data.iconName}.svg`}
                                         alt="Solution thumbnail"
                                     />
                                 </div>                            

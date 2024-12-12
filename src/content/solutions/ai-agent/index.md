@@ -4,7 +4,7 @@ title: ['Agente de IA']
 thumbnail: 'ai-agent-thumbnail'
 cover: 'ai-agent-cover'
 storyType: 'solution'
-iconName: ''
+iconName: 'brain-cog'
 ---
 
 # Agente de IA
