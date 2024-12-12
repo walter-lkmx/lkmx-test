@@ -1,0 +1,179 @@
+.anchors {
+    &__sections {
+        &__block {    
+          > div {
+            @include respond-to("xxxl") {
+              display: grid;
+              justify-content: center;
+              > div {
+                width: 1200px !important;
+              }
+            }
+          }
+          overflow-x: clip;
+          >div>div {
+            padding: 0 !important;
+            position: relative;
+            @include respond-to("xxxl") {
+              transform: translateX(169px);
+            }            
+          }
+    
+          &__white {
+            @include respond-to("<=m") {
+              display: none;
+            }
+          }
+          &__wrapper {
+            padding-top: 92px;
+            position: absolute;
+            left: -192px;
+            height: 97.5%;
+
+            &__aside {
+              z-index: 2;
+              position: sticky;
+              top: 56px;
+              display: grid;
+              gap: 16px;
+              @include respond-to("<=m") {
+                display: none;
+              }
+      
+              a {
+                display: grid;
+                grid-template-columns: 196px min-content;
+                align-items: center;
+                gap: 16px;
+                text-decoration: none;
+                
+                span {
+                  text-align: right;
+                  text-transform: uppercase;
+                  color: $color-lang-secondary;
+                  transition: .2s ease-in;
+                  &:hover {
+                    color: $color-blue !important;
+                  }
+                }
+      
+                img {
+                  max-width: none !important;
+                  width: 25px;
+                  height: 5px;
+                }
+              }
+      
+            }
+          }
+          
+    
+          &__black {
+            @include respond-to("<=m") {
+              transform: translateY(0px);
+              padding: 0 16px;
+            }
+            z-index: 3;
+            padding: 0px 0px 0px 44.5px;
+            display: grid;
+            position: relative;            
+            @include respond-to("<=s") {
+              padding: 56px 16px;
+            }
+            @include respond-to("<=xs") {
+              padding: 0px 16px;
+            }            
+            &__item {
+              display: grid;
+              grid-template-columns: 32px auto;
+              gap: 19px;
+              padding: 92px 0;
+              align-items: start;
+              position: relative;                            
+              &:not(:last-child) {
+                &:after {
+                  position: absolute;
+                  content: "";
+                  height: 1px;
+                  background-color: #EBEAE8;
+                  width: 100vw;
+                  bottom: 0;
+                  z-index: 4;
+                }
+              }
+              @include respond-to("xxxl") {
+                grid-template-columns: 32px 680px;
+              }
+              @include respond-to("<=xs") {
+                grid-template-columns: 1fr;
+                justify-items: start;
+                gap: 16px;
+                padding: 76px 0;
+              }
+    
+              &__content {
+                h2 {
+                  font-size: 24px;
+                  line-height: 32px;
+                }        
+                span {
+                  font-weight: 700;
+                  font-size: 16px;
+                  line-height: 28px;
+                  margin-bottom: 8px;
+                }  
+                &__capabilities {
+                  display: flex;
+                  flex-direction: row;
+                  flex-wrap: wrap;
+                  gap: 8px;
+                  margin-top: 8px;
+                  a {
+                    border: 1px solid #EBEAE8;
+                    padding: 0px 16px;
+                    height: 72px;
+                    display: grid;
+                    align-items: center;
+                    text-decoration: none;   
+                    line-height: 20px;                    
+                    @include respond-to("<=s") {
+                      font-size: 14px;
+                      height: 56px;                      
+                    }               
+                  }
+                  &__enabled {
+                    &:visited {
+                      color: $color-neutral-black;
+                      }
+                    &:hover {
+                      background-color: $color-pink;
+                      color: white;
+                      cursor: pointer;
+                      border: 1px solid $color-pink;
+                    }                    
+                  }
+                  &__disabled {
+                    color: $color-lang-secondary;
+                    pointer-events: none;
+                    &:hover {
+                      color: $color-lang-secondary;
+                      cursor: default;
+                    }
+                    &:visited {
+                      color: $color-lang-secondary;
+                      }
+                  }
+                }
+                
+              }  
+              &__image {
+                position: relative;
+                width: 100%;
+                height: 32px;
+                width: 32px;
+              }                
+            }
+          }
+        }
+    }
+}

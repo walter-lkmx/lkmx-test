@@ -187,6 +187,17 @@
       "of our clients."
     ]
   },
+  "solutions": {
+    "title": "Solutions",
+    "ogDescription": "Our diverse solutions leverage the latest technologies to help your business succeed in the digital era. From AI agents and blockchain marketplaces to cloud infrastructure and mobile apps, we have the expertise to bring your ideas to life and drive growth.",
+    "ogImage": "",
+    "hero": [
+      "Our diverse solutions leverage the latest technologies to help your business succeed in the digital era. From AI agents and blockchain marketplaces to cloud infrastructure and mobile apps, we have the expertise to bring your ideas to life and drive growth."
+    ],
+    "intro": "We keep up with evolving trends and technologies that impact digital changes and offer opportunities depending on the type of company. Learn more about how we have helped other businesses related to your industry.",
+    "catalogTitle": "Every idea requires a custom solution",
+    "catalogDescription": "We stay at the forefront of emerging trends and innovations to create opportunities aligned with your company's unique needs. Explore how we've empowered businesses across industries to achieve their goals."
+  },
   "industries": {
     "title": "Industries",
     "ogDescription": "Our history in diverse industries gives us the needed experience to understand your business and create software solutions that make your product successful.",

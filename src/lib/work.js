@@ -6,7 +6,7 @@ import { remark } from 'remark';
 import html from 'remark-html';
 import matter from 'gray-matter';
 
-const storiesDirectory = path.join(process.cwd(), 'src/work');
+const storiesDirectory = path.join(process.cwd(), 'src/content/work');
 const defaultLocale = 'es';
 
 // Constante para controlar los IDs de proyectos a excluir
