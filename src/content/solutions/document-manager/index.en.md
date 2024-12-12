@@ -1,7 +1,7 @@
 ---
 number: 9
 title: ["Document Manager"]
-description: ""
+description: "Implementing customized document management systems to optimize organization, improve accessibility, and ensure regulatory compliance."
 thumbnail: "document-manager-thumbnail"
 cover: "document-manager-cover"
 storyType: "solution"

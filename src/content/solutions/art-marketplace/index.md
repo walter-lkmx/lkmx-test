@@ -1,7 +1,7 @@
 ---
 number: 2
 title: ["Marketplace De Arte"]
-description: ""
+description: "Creando plataformas digitales para artistas y compradores, integrando blockchain para transacciones seguras y promoviendo la creatividad."
 thumbnail: "art-marketplace-thumbnail"
 cover: "art-marketplace-cover"
 storyType: "solution"

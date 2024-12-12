@@ -1,7 +1,7 @@
 ---
 number: 18
 title: ["Web3"]
-description: ""
+description: "Desarrollando proyectos innovadores de Web3 que aprovechan la tecnología blockchain para crear soluciones digitales descentralizadas y seguras."
 thumbnail: "web3-project-thumbnail"
 cover: "web3-project-cover"
 storyType: "solution"

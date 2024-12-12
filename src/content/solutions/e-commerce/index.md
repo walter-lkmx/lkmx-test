@@ -1,7 +1,7 @@
 ---
 number: 10
 title: ["E-Commerce"]
-description: ""
+description: "Desarrollando plataformas de comercio electrónico personalizadas para aumentar las ventas, expandir mercados y mejorar la experiencia de compra del usuario."
 thumbnail: "e-commerce-thumbnail"
 cover: "e-commerce-cover"
 storyType: "solution"

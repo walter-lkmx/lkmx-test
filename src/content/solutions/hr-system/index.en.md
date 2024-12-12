@@ -1,7 +1,7 @@
 ---
 number: 13
 title: ["HR System"]
-description: ""
+description: "Developing customized HR systems to simplify personnel administration, improve efficiency, and ensure regulatory compliance."
 thumbnail: "hr-system-thumbnail"
 cover: "hr-system-cover"
 storyType: "solution"

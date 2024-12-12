@@ -1,7 +1,7 @@
 ---
 number: 9
 title: ["Gestor De Documentos"]
-description: ""
+description: "Implementando sistemas de gestión de documentos personalizados para optimizar la organización, mejorar la accesibilidad y asegurar el cumplimiento regulatorio."
 thumbnail: "document-manager-thumbnail"
 cover: "document-manager-cover"
 storyType: "solution"

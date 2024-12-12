@@ -1,7 +1,7 @@
 ---
 number: 16
 title: ["Red Social"]
-description: ""
+description: "Creando plataformas de redes sociales seguras y visualmente atractivas con características avanzadas para conectar y comprometer efectivamente a los usuarios."
 thumbnail: "social-network-thumbnail"
 cover: "social-network-cover"
 storyType: "solution"

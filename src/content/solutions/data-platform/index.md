@@ -1,7 +1,7 @@
 ---
 number: 7
 title: ["Plataforma De Datos"]
-description: ""
+description: "Construyendo plataformas de análisis de datos para transformar grandes volúmenes de datos en información procesable utilizando tecnologías avanzadas."
 thumbnail: "data-platform-thumbnail"
 cover: "data-platform-cover"
 storyType: "solution"

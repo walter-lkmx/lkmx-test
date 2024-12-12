@@ -1,7 +1,7 @@
 ---
 number: 3
 title: ["Auction App"]
-description: ""
+description: "Developing secure, efficient auction applications that handle transactions in conventional and cryptocurrency."
 thumbnail: "auction-app-thumbnail"
 cover: "auction-app-cover"
 storyType: "solution"

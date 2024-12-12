@@ -1,7 +1,7 @@
 ---
 number: 13
 title: ["Sistema De Recursos Humanos"]
-description: ""
+description: "Desarrollando sistemas de RRHH personalizados para simplificar la administración del personal, mejorar la eficiencia y asegurar el cumplimiento regulatorio."
 thumbnail: "hr-system-thumbnail"
 cover: "hr-system-cover"
 storyType: "solution"

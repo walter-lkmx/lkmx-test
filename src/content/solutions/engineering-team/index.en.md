@@ -1,7 +1,7 @@
 ---
 number: 12
 title: ["Engineering Team"]
-description: ""
+description: "Enhance tech capabilities with our Engineering Teams, ensuring you have the best talent on board."
 thumbnail: "engineering-team-thumbnail"
 cover: "engineering-team-cover"
 storyType: "solution"

@@ -1,7 +1,7 @@
 ---
 number: 4
 title: ["Booking System"]
-description: ""
+description: "Creating custom booking systems to enhance scheduling, accessibility, and reservation management for various sectors."
 thumbnail: "booking-system-thumbnail"
 cover: "booking-system-cover"
 storyType: "solution"

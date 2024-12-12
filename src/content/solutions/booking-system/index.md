@@ -1,7 +1,7 @@
 ---
 number: 4
 title: ["Sistema De Reservas"]
-description: ""
+description: "Creando sistemas de reservas personalizados para mejorar la programación, la accesibilidad y la gestión de reservas en diversos sectores."
 thumbnail: "booking-system-thumbnail"
 cover: "booking-system-cover"
 storyType: "solution"

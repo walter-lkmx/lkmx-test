@@ -1,7 +1,7 @@
 ---
 number: 5
 title: ["CRM"]
-description: ""
+description: "Designing customized CRM solutions to manage customer relationships, improve service, and boost sales."
 thumbnail: "crm-thumbnail"
 cover: "crm-cover"
 storyType: "solution"

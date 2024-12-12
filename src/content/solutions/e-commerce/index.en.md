@@ -1,7 +1,7 @@
 ---
 number: 10
 title: ["E-Commerce"]
-description: ""
+description: "Developing custom e-commerce platforms to increase sales, expand markets, and improve user shopping experiences."
 thumbnail: "e-commerce-thumbnail"
 cover: "e-commerce-cover"
 storyType: "solution"

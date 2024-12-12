@@ -1,7 +1,7 @@
 ---
 number: 7
 title: ["Data Platform"]
-description: ""
+description: "Building data analytics platforms to transform large data volumes into actionable insights using advanced technologies."
 thumbnail: "data-platform-thumbnail"
 cover: "data-platform-cover"
 storyType: "solution"

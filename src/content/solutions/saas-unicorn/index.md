@@ -1,7 +1,7 @@
 ---
 number: 15
 title: ["SaaS Unicorn"]
-description: ""
+description: "Creando plataformas SaaS escalables para emprendedores, integrando tecnologías avanzadas, reduciendo costos y asegurando un rápido tiempo de comercialización."
 thumbnail: "saas-unicorn-thumbnail"
 cover: "saas-unicorn-cover"
 storyType: "solution"

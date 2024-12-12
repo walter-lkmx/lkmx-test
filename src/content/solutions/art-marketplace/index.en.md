@@ -1,7 +1,7 @@
 ---
 number: 2
 title: ["Art Marketplace"]
-description: ""
+description: "Creating digital platforms for artists and buyers, integrating blockchain for secure transactions and promoting creativity."
 thumbnail: "art-marketplace-thumbnail"
 cover: "art-marketplace-cover"
 storyType: "solution"

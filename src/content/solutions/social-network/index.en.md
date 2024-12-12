@@ -1,7 +1,7 @@
 ---
 number: 16
 title: ["Social Network"]
-description: ""
+description: "Creating secure, visually appealing social media platforms with advanced features to effectively connect and engage users."
 thumbnail: "social-network-thumbnail"
 cover: "social-network-cover"
 storyType: "solution"

@@ -1,7 +1,7 @@
 ---
 number: 11
 title: ["ERP Integrations"]
-description: ""
+description: "Implementing ERP integrations to streamline operations, enhance efficiency, and support strategic business goals."
 thumbnail: "erp-integrations-thumbnail"
 cover: "erp-integrations-cover"
 storyType: "solution"

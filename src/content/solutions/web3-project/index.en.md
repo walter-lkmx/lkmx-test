@@ -1,7 +1,7 @@
 ---
 number: 18
 title: ["Web3 Project"]
-description: ""
+description: "https://docs.logickernel.com/doc/solutions-PzFBVNUAvT"
 thumbnail: "web3-project-thumbnail"
 cover: "web3-project-cover"
 storyType: "solution"

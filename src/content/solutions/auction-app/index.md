@@ -1,7 +1,7 @@
 ---
 number: 3
 title: ["App De Subastas"]
-description: ""
+description: "Desarrollando aplicaciones de subastas seguras y eficientes que manejan transacciones en moneda convencional y criptomonedas."
 thumbnail: "auction-app-thumbnail"
 cover: "auction-app-cover"
 storyType: "solution"

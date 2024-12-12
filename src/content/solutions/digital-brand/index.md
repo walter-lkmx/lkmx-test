@@ -1,7 +1,7 @@
 ---
 number: 8
 title: ["Marca Digital"]
-description: ""
+description: "Proporcionando soluciones integrales de branding digital para fortalecer la identidad de tu marca, mejorar la presencia en línea y aumentar el compromiso del cliente."
 thumbnail: "digital-brand-thumbnail"
 cover: "digital-brand-cover"
 storyType: "solution"

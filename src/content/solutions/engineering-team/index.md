@@ -1,7 +1,7 @@
 ---
 number: 12
 title: ["Equipo De Ingeniería"]
-description: ""
+description: "Mejora tus capacidades tecnológicas con nuestros Equipos de Ingeniería, asegurando que cuentes con el mejor talento."
 thumbnail: "engineering-team-thumbnail"
 cover: "engineering-team-cover"
 storyType: "solution"

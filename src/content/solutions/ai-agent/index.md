@@ -1,7 +1,7 @@
 ---
 number: 1
 title: ["Agente de IA"]
-description: ""
+description: "Desarrollando agentes de IA que automatizan tareas, mejoran la experiencia del cliente y aumentan la eficiencia operativa."
 thumbnail: "ai-agent-thumbnail"
 cover: "ai-agent-cover"
 storyType: "solution"

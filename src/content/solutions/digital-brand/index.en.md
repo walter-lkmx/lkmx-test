@@ -1,7 +1,7 @@
 ---
 number: 8
 title: ["Digital Brand"]
-description: ""
+description: "Providing comprehensive digital branding solutions to strengthen your brand’s identity, enhance online presence, and drive customer engagement."
 thumbnail: "digital-brand-thumbnail"
 cover: "digital-brand-cover"
 storyType: "solution"

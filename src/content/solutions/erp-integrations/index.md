@@ -1,7 +1,7 @@
 ---
 number: 11
 title: ["ERP"]
-description: ""
+description: "Implementando integraciones ERP para optimizar operaciones, mejorar la eficiencia y apoyar los objetivos estratégicos del negocio."
 thumbnail: "erp-integrations-thumbnail"
 cover: "erp-integrations-cover"
 storyType: "solution"
