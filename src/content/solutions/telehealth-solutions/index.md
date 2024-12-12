@@ -1,7 +1,7 @@
 ---
 number: 17
 title: ["Telemedicina"]
-description: ""
+description: "Diseño e implementación de soluciones innovadoras de telemedicina para mejorar la atención al paciente, optimizar flujos de trabajo y aumentar la accesibilidad."
 thumbnail: "telehealth-solutions-thumbnail"
 cover: "telehealth-solutions-cover"
 storyType: "solution"

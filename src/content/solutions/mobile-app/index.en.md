@@ -1,7 +1,7 @@
 ---
 number: 14
 title: ["Mobile App"]
-description: ""
+description: "Crafting intuitive and high-performance mobile applications tailored to meet diverse user needs and drive engagement."
 thumbnail: "mobile-app-thumbnail"
 cover: "mobile-app-cover"
 storyType: "solution"

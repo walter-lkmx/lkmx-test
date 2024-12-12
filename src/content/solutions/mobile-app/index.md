@@ -1,7 +1,7 @@
 ---
 number: 14
 title: ["Aplicación Móvil"]
-description: ""
+description: "Diseño de aplicaciones móviles intuitivas y de alto rendimiento, adaptadas a las diversas necesidades de los usuarios y orientadas a impulsar la participación."
 thumbnail: "mobile-app-thumbnail"
 cover: "mobile-app-cover"
 storyType: "solution"

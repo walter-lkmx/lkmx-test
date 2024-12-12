@@ -1,7 +1,7 @@
 ---
 number: 6
 title: ["Infraestructura En La Nube"]
-description: ""
+description: "Creación de infraestructura en la nube sólida para garantizar escalabilidad, confiabilidad y seguridad en aplicaciones y servicios modernos."
 thumbnail: "cloud-infrastructure-thumbnail"
 cover: "cloud-infrastructure-cover"
 storyType: "solution"

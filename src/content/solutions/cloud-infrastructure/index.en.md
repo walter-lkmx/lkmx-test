@@ -1,7 +1,7 @@
 ---
 number: 6
 title: ["Cloud Infrastructure"]
-description: ""
+description: "Building robust cloud infrastructure to ensure scalability, reliability, and security for modern applications and services"
 thumbnail: "cloud-infrastructure-thumbnail"
 cover: "cloud-infrastructure-cover"
 storyType: "solution"

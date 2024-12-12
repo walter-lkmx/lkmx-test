@@ -1,7 +1,7 @@
 ---
 number: 17
 title: ["Telehealth Solutions"]
-description: ""
+description: "Designing and delivering cutting-edge telehealth solutions to enhance patient care, streamline workflows, and improve accessibility."
 thumbnail: "telehealth-solutions-thumbnail"
 cover: "telehealth-solutions-cover"
 storyType: "solution"
