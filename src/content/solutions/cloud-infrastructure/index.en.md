@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "cloud"
 ---
 
-# Cloud Infrastructure
-
 Scalable and robust cloud infrastructure solutions optimize performance, enhance efficiency, ensure high availability, and support business growth with cutting-edge technology.
 
 **Get Started**

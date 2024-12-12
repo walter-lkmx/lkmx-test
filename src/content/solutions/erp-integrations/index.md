@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "binoculars"
 ---
 
-# ERP
-
 Mejora el rendimiento, reduce costos y obtén una vista integral y sin interrupciones de tu organización con nuestras soluciones ERP.
 
 ## Beneficios Principales

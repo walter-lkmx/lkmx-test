@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "heart-pulse"
 ---
 
-# Telemedicina
-
 Conectamos a pacientes y profesionales de la salud de manera segura y eficiente, mejorando la accesibilidad y calidad de la atención médica.
 
 **Comienza Ahora**

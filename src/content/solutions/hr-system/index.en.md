@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "briefcase"
 ---
 
-# HR System
-
 Customized HR systems streamline personnel administration from hiring to payroll, combining custom applications with open-source and proprietary tools to improve efficiency and accuracy.
 
 ## Key Features

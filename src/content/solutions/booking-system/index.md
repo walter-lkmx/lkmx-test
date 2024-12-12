@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "bed"
 ---
 
-# Sistema de Reservas
-
 Un sistema ineficiente puede llevar a confusión, errores y pérdida de clientes. Optimiza y Simplifica la Gestión de Reservas.
 
 ## Características Clave

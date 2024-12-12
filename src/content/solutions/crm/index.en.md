@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "book-marked"
 ---
 
-# CRM
-
 A powerful, intuitive, and efficient platform to enhance your customer relationships.
 
 ### Core Benefits

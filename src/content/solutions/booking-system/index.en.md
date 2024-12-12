@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "bed"
 ---
 
-# Booking System
-
 An inefficient system can lead to confusion, errors, and lost customers. Optimize and Simplify Reservation Management.
 
 ## Key Features

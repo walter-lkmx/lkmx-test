@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "binoculars"
 ---
 
-# ERP integrations
-
 Enhance performance, reduce costs, and achieve a comprehensive, seamless view of your organization with our ERP solutions.
 
 ## Core Benefits

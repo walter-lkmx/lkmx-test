@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "cloud"
 ---
 
-# Infraestructura en la Nube
-
 Soluciones escalables y robustas de infraestructura en la nube que optimizan el rendimiento, mejoran la eficiencia, aseguran alta disponibilidad y apoyan el crecimiento empresarial con tecnología de vanguardia.
 
 **Comienza Ahora**

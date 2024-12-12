@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "users"
 ---
 
-# Engineering Team
-
 Experience seamless project execution with dedicated engineering teams, ensuring timely deliveries and comprehensive coverage through expert collaboration.
 
 **Get Started**

@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "chart-bar"
 ---
 
-# Data Platform
-
 Innovative data analytics platforms transform raw data into actionable insights, enhancing decision-making and operational efficiency with advanced analytics and real-time processing capabilities.
 
 ## Main Benefits

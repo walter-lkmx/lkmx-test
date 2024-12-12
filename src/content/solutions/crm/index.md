@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "book-marked"
 ---
 
-# CRM
-
 Una plataforma poderosa, intuitiva y eficiente para mejorar tus relaciones con los clientes.
 
 ## Beneficios Principales

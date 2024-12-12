@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "shopping-cart"
 ---
 
-# E-Commerce
-
 We develop custom eCommerce platforms to boost sales and expand markets, optimizing product management, payments, and shopping experiences.
 
 ## Build the Future eCommerce

@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "star"
 ---
 
-# SaaS Unicorn
-
 Desarrollamos plataformas SaaS robustas y escalables para emprendedores, asegurando un tiempo mínimo de comercialización. Ayudamos a los emprendedores a lanzar sus negocios rápidamente, optimizando operaciones y reduciendo costos para asegurar su éxito digital.
 
 ## Características Clave

@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "tablet-smartphone"
 ---
 
-# Mobile App
-
 Efficient mobile app solutions enhance user engagement and streamline business operations with tailored, high-quality applications.
 
 **Get Started**

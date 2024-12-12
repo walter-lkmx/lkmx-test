@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "gavel"
 ---
 
-# App de Subastas
-
 Desarrollamos todo tipo de aplicaciones de subastas que gestionan ofertas en tiempo real de manera eficiente y segura. Nuestras plataformas pueden manejar transacciones en moneda convencional y criptomonedas, ofreciendo una experiencia de usuario fluida y características avanzadas para la gestión de productos y transacciones.
 
 ## Beneficios

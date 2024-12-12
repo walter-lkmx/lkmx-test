@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "briefcase"
 ---
 
-# Sistema de Recursos Humanos
-
 Los sistemas de recursos humanos personalizados optimizan la administración del personal desde la contratación hasta la nómina, combinando aplicaciones personalizadas con herramientas de código abierto y propietarias para mejorar la eficiencia y la precisión.
 
 ## Características Clave

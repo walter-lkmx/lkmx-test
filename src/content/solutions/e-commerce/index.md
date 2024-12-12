@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "shopping-cart"
 ---
 
-# E-Commerce
-
 Desarrollamos plataformas de comercio electrónico personalizadas para aumentar ventas y expandir mercados, optimizando gestión de productos, pagos y experiencias de compra.
 
 ## Construye el Futuro E-Commerce

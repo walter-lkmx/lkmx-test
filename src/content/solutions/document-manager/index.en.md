@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "file"
 ---
 
-# Document Manager
-
 Customized document management systems enhance information organization, provide secure storage, and ensure quick access, optimizing efficiency and compliance.
 
 **Get Started**

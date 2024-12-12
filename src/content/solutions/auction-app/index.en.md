@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "gavel"
 ---
 
-# Auction App
-
 We develop all type of auction applications that manage real-time bids efficiently and securely. Our platforms can handle transactions in conventional currency and crypto, offering a smooth user experience and advanced features for product and transaction management.
 
 ## Benefits

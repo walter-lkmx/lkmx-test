@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "file"
 ---
 
-# Gestor de Documentos
-
 Los sistemas de gestión de documentos personalizados mejoran la organización de la información, proporcionan almacenamiento seguro y aseguran un acceso rápido, optimizando la eficiencia y el cumplimiento.
 
 **Comienza Ahora**

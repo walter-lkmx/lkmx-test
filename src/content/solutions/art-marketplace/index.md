@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "palette"
 ---
 
-# Marketplace de Arte
-
 Plataformas de arte innovadoras que utilizan IA y blockchain conectan a artistas y compradores, facilitando transacciones seguras y creativas, transformando el mercado de arte digital con soluciones tecnológicas avanzadas.
 
 **Comienza tu Viaje**

@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "stamp"
 ---
 
-# Digital Brand
-
 Create a cohesive digital brand identity to enhance customer engagement and trust with consistent messaging and impactful design across all platforms.
 
 ## Key Features

@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "message-circle"
 ---
 
-# Social Network
-
 Leverage advanced social features to engage users, increase activity, and gain insights into audience sentiments and preferences with secure, visually appealing social media platforms.
 
 **Connect Now**

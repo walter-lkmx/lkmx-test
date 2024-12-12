@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "bitcoin"
 ---
 
-# Web3
-
 Transforma aplicaciones tradicionales en soluciones descentralizadas, mejorando la seguridad, la transparencia y la eficiencia con nuestros avanzados servicios de desarrollo Web3.
 
 **Comienza Ahora**

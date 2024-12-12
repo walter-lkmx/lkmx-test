@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "stamp"
 ---
 
-# Marca Digital
-
 Crea una identidad digital cohesiva para mejorar el compromiso y la confianza del cliente con mensajes consistentes y un diseño impactante en todas las plataformas.
 
 ## Características Clave

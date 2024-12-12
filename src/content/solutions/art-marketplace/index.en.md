@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "palette"
 ---
 
-# Art Marketplace
-
 Innovative art platforms utilizing AI and blockchain connect artists and buyers, facilitating secure and creative transactions, transforming the digital art market with advanced technological solutions.
 
 Start your Journey

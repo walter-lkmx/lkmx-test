@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "users"
 ---
 
-# Equipo de Ingeniería
-
 Experimenta una ejecución de proyectos sin problemas con equipos de ingeniería dedicados, asegurando entregas puntuales y una cobertura integral a través de la colaboración experta.
 
 **Comienza Ahora**

@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "headset"
 ---
 
-# Agente de IA
-
 Nuestros agentes de IA revolucionan la interacción con el cliente a través de respuestas inteligentes y conscientes del contexto. Estos agentes aprovechan el aprendizaje automático para proporcionar experiencias personalizadas, optimizar operaciones y mejorar el compromiso del usuario en diversas plataformas.
 
 ## Transformando las Operaciones Empresariales

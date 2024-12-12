@@ -8,8 +8,6 @@ storyType: "solution"
 iconName: "headset"
 ---
 
-# AI Agent
-
 Our AI agents revolutionize customer interaction through intelligent, context-aware responses. These agents leverage machine learning to provide personalized experiences, streamline operations, and enhance user engagement across various platforms.
 
 ## Transforming Business Operations
