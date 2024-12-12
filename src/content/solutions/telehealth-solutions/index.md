@@ -4,7 +4,7 @@ title: ["Telemedicina"]
 thumbnail: "telehealth-solutions-thumbnail"
 cover: "telehealth-solutions-cover"
 storyType: "solution"
-iconName: "tv"
+iconName: "heart-pulse"
 ---
 
 # Telemedicina
