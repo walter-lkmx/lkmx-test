@@ -1,7 +1,7 @@
 ---
 number: 12
 title: ["Bienestar"]
-description: ""
+description: "Promueve el bienestar con soluciones que mejoran el compromiso del paciente, optimizan la entrega de servicios y mejoran los resultados de salud."
 thumbnail: "wellness-thumbnail"
 cover: "wellness-cover"
 storyType: "industrie"

@@ -1,7 +1,7 @@
 ---
 number: 10
 title: ["Tourism"]
-description: ""
+description: "Revolutionize tourism with technology that enhances customer experiences, streamlines booking processes, and improves destination management."
 thumbnail: "tourism-thumbnail"
 cover: "tourism-cover"
 storyType: "industrie"

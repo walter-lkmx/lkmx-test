@@ -1,7 +1,7 @@
 ---
 number: 5
 title: ["Legal"]
-description: ""
+description: "Support the legal industry with technology that improves case management, document automation, and client communication."
 thumbnail: "legal-thumbnail"
 cover: "legal-cover"
 storyType: "industrie"

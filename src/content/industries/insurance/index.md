@@ -1,7 +1,7 @@
 ---
 number: 4
 title: ["Seguros"]
-description: ""
+description: "Optimiza los procesos de seguros con soluciones personalizadas que mejoran el servicio al cliente, agilizan el procesamiento de reclamaciones y mejoran la gestión de datos."
 thumbnail: "insurance-thumbnail"
 cover: "insurance-cover"
 storyType: "industrie"

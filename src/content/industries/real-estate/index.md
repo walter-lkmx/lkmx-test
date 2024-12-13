@@ -1,7 +1,7 @@
 ---
 number: 8
 title: ["Bienes Raíces"]
-description: ""
+description: "Mejora las operaciones inmobiliarias con tecnología que mejora la gestión de propiedades, el compromiso del cliente y los procesos de transacción."
 thumbnail: "real-estate-thumbnail"
 cover: "real-estate-cover"
 storyType: "industrie"

@@ -1,7 +1,7 @@
 ---
 number: 8
 title: ["Real Estate"]
-description: ""
+description: "Enhance real estate operations with technology that improves property management, client engagement, and transaction processes."
 thumbnail: "real-estate-thumbnail"
 cover: "real-estate-cover"
 storyType: "industrie"

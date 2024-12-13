@@ -1,7 +1,7 @@
 ---
 number: 12
 title: ["Wellness"]
-description: ""
+description: "Promote wellness with solutions that enhance patient engagement, streamline service delivery, and improve health outcomes."
 thumbnail: "wellness-thumbnail"
 cover: "wellness-cover"
 storyType: "industrie"

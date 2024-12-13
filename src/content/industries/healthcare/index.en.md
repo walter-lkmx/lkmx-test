@@ -1,7 +1,7 @@
 ---
 number: 3
 title: ["Healthcare"]
-description: ""
+description: "mprove healthcare delivery with secure, efficient solutions that connect patients and providers, streamline workflows, and enhance patient care."
 thumbnail: "healthcare-thumbnail"
 cover: "healthcare-cover"
 storyType: "industrie"

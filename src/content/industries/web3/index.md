@@ -1,7 +1,7 @@
 ---
 number: 11
 title: ["Web 3"]
-description: ""
+description: "Aprovecha la tecnología Web3 para crear aplicaciones descentralizadas, mejorar la seguridad e impulsar la innovación en varios sectores."
 thumbnail: "web3-thumbnail"
 cover: "web3-cover"
 storyType: "industrie"

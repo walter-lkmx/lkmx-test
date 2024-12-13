@@ -1,7 +1,7 @@
 ---
 number: 6
 title: ["Logistics"]
-description: ""
+description: "Enhance logistics operations with advanced technology that improves supply chain management, inventory tracking, and delivery efficiency."
 thumbnail: "logistics-thumbnail"
 cover: "logistics-cover"
 storyType: "industrie"

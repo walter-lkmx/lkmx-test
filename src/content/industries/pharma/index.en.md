@@ -1,7 +1,7 @@
 ---
 number: 7
 title: ["Pharma"]
-description: ""
+description: "Drive innovation in the pharmaceutical industry with solutions that enhance research, streamline production, and ensure regulatory compliance."
 thumbnail: "pharma-thumbnail"
 cover: "pharma-cover"
 storyType: "industrie"

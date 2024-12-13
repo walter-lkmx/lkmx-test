@@ -1,7 +1,7 @@
 ---
 number: 6
 title: ["Logística"]
-description: ""
+description: "Mejora las operaciones logísticas con tecnología avanzada que optimiza la gestión de la cadena de suministro, el seguimiento de inventarios y la eficiencia de la entrega."
 thumbnail: "logistics-thumbnail"
 cover: "logistics-cover"
 storyType: "industrie"

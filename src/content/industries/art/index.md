@@ -1,7 +1,7 @@
 ---
 number: 1
 title: ["Arte"]
-description: ""
+description: "Eleva la industria del arte con soluciones innovadoras que conectan a artistas y compradores, optimizan operaciones y mejoran la creatividad."
 thumbnail: "art-thumbnail"
 cover: "art-cover"
 storyType: "industrie"

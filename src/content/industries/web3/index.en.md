@@ -1,7 +1,7 @@
 ---
 number: 11
 title: ["Web3"]
-description: ""
+description: "Leverage Web3 technology to create decentralized applications, enhance security, and drive innovation in various sectors."
 thumbnail: "web3-thumbnail"
 cover: "web3-cover"
 storyType: "industrie"

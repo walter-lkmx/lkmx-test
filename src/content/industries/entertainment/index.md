@@ -1,7 +1,7 @@
 ---
 number: 2
 title: ["Entretenimiento"]
-description: ""
+description: "Transforma el entretenimiento con tecnología de punta, mejorando la experiencia del usuario, la entrega de contenido y el compromiso de la audiencia."
 thumbnail: "entertainment-thumbnail"
 cover: "entertainment-cover"
 storyType: "industrie"
