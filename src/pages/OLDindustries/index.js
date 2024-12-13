@@ -1,5 +1,3 @@
-// Ruta del archivo: src/pages/industries/index.js
-
 import React from 'react';
 import BaseLayout from '@/layouts/base-layout.js';
 import styles from './index.module.scss';
@@ -9,30 +7,32 @@ import siteMetadata from '../../meta/siteMetadata';
 import HeadSeo from '../../components/HeadSeo';
 import { useRouter } from 'next/router';
 import Image from "next/image";
-import { getIndustriesIndexed } from '@/lib/content';
-import SolutionsAnchors from '../../components/solutionsAnchors';
+import IndustriesAnchors from '../../components/industriesAnchors';
 
-export async function getStaticProps({ locale }) {
-  const industries = getIndustriesIndexed(locale);
-  
-  return {
-    props: {
-      industries
-    }
-  };
-}
-
-export default function IndustriesPage({ industries = [] }) {
+export default function TechnologyPage() {
   const { locale } = useRouter();
   const $t = getLang(locale);
+  const industriesCat = $t.industries.catalogItems
 
   return (
     <BaseLayout>
       <HeadSeo
-        title={`${$t.industries.title} - ${siteMetadata.companyName}`}
+        title={$t.industries.title + ' - ' + siteMetadata.companyName}
         description={$t.industries.ogDescription}
-        ogImageUrl={$t.home?.ogImage || (locale === 'es' ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
-        ogTwitterImage={$t.home?.ogImage || (locale === 'es' ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
+        ogImageUrl={
+          $t.home.ogImage
+            ? $t.home.ogImage
+            : locale === 'es'
+            ? siteMetadata.ogDefaultImageEs
+            : siteMetadata.ogDefaultImageEn
+        }
+        ogTwitterImage={
+          $t.home.ogImage
+            ? $t.home.ogImage
+            : locale === 'es'
+            ? siteMetadata.ogDefaultImageEs
+            : siteMetadata.ogDefaultImageEn
+        }
       />
       <Page className={styles.industries}>
         <Column
@@ -47,19 +47,18 @@ export default function IndustriesPage({ industries = [] }) {
           mode="full"
         >
           <Block className={styles.industries__hero__block__left}>            
-            <div className={styles.industries__hero__block__left__content}>
-              <h2>{$t.industries.title}</h2>
-              <p>{$t.industries.hero[0]}</p>
-            </div>
+              <div className={styles.industries__hero__block__left__content}>
+                <h2>{$t.industries.title}</h2>
+                <p>{$t.industries.hero[0]}</p>
+              </div>
           </Block>
           <Block className={styles.industries__hero__block}>
             <div className={styles.industries__hero__block__right}>
               <div className={styles.industries__hero__block__right__waves}>
-                <Image
+              <Image
                   fill             
                   priority={true}
-                  src="/industries/wave.svg" 
-                  alt="Wave decoration"
+                  src="/industries/wave.svg" alt="waves"
                 />
               </div>   
               <div className={styles.industries__hero__block__right__cyan}></div>
@@ -67,7 +66,7 @@ export default function IndustriesPage({ industries = [] }) {
                 <Image
                   fill
                   src="/circle--pink.svg"
-                  alt="Circle decoration"
+                  alt="ellipse"
                   className={styles.industries__hero__block__right__elipse}
                 />
               </div>                         
@@ -78,15 +77,14 @@ export default function IndustriesPage({ industries = [] }) {
         <Column modeM="normal" className={styles.industries__intro}>
           <Block className={styles.industries__intro__block}>
             <div className={styles.lkContainer}>
-              <h2>{$t.industries.catalogTitle}</h2>
-              <p>{$t.industries.catalogDescription}</p>
+            <h2>{$t.industries.catalogTitle}</h2>
+              <p>
+                {$t.industries.intro}
+              </p>
             </div>
           </Block>
         </Column>
-
-        {industries && industries.length > 0 && (
-          <SolutionsAnchors anchorsData={industries} />
-        )}
+        <IndustriesAnchors anchorsData={industriesCat}/>     
       </Page>
     </BaseLayout>
   );
