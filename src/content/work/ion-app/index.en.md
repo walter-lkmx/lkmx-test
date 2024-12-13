@@ -1,18 +1,15 @@
 ---
 number: 28
-title: ['ION App']
-headline: ['']
-solutions: ['Mobile App', 'SaaS']
+title: ["ION App"]
+headline: [""]
+solutions: ["Mobile App", "SaaS"]
 services: []
 methodologies: []
 period: []
-thumbnail: 'ion-app-thumbnail'
-cover: 'ion-app-cover'
-storyType: 'Work'
-introduction: {
-    title: "",
-    content: ""
-}
+thumbnail: "ion-app-thumbnail"
+cover: "ion-app-cover"
+storyType: "Work"
+introduction: { title: "", content: "" }
 ---
 
 ## Challenge
@@ -23,7 +20,7 @@ Facing the high demands of their position as a global IT solutions provider, Tec
 
 ## Solution
 
-In response, a dedicated team was promptly mobilized, leveraging deep expertise in Java and Spring Boot to address and resolve the app's issues efficiently.. This approach exemplified effective short-term staff augmentation, providing Technologent with the specialized support required to swiftly tackle urgent technical challenges, ensuring continuous, seamless operation of their essential services.
+In response, a dedicated team was promptly mobilized, leveraging deep expertise in Java and Spring Boot to address and resolve the app's issues efficiently. This approach exemplified effective short-term staff augmentation, providing Technologent with the specialized support required to swiftly tackle urgent technical challenges, ensuring continuous, seamless operation of their essential services.
 
 ## Technology
 
