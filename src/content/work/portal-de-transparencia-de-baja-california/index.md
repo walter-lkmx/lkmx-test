@@ -2,7 +2,7 @@
 number: 46
 title: ['Portal De Transparencia De Baja California']
 headline: ['']
-solutions: []
+solutions: ['Document Manager']
 services: []
 methodologies: []
 period: []

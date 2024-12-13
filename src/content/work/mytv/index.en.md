@@ -2,7 +2,7 @@
 number: 39
 title: ['Mytv']
 headline: ['']
-solutions: []
+solutions: ['Entertainment']
 services: []
 methodologies: []
 period: []

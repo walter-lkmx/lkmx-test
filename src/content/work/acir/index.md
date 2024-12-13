@@ -18,11 +18,11 @@ introduction: {
 
 ### Antecedentes
 
-ACIR es un grupo radiofónico mexicano que opera decenas de estaciones que transmiten todo tipo de música para diferentes generaciones. Durante décadas, sus marcas han cautivado a cientos de miles de oyentes en las principales ciudades de México. Estaban buscando lanzar una nueva estrategia digital que incluyera una nueva aplicación móvil para sus clientes.
+ACIR es un grupo radiofónico mexicano que opera decenas de estaciones que transmiten todo tipo de música para diferentes generaciones. Durante décadas, sus marcas han cautivado a cientos de miles de oyentes en las principales ciudades de México.
 
 ### Desafío
 
-El desafío era encapsular la extensa red de radio de Grupo ACIR en una sola aplicación móvil sin sacrificar la identidad y la experiencia distintivas de cada estación. La aplicación tenía que ofrecer capacidades de transmisión en vivo, una sólida gestión de contenidos y una interfaz de usuario amigable que reflejara la sencillez de sintonizar la radio para una audiencia digital.
+Grupo ACIR buscaba lanzar una nueva estrategia digital que incluyera una aplicación móvil para sus clientes. El desafío era encapsular la extensa red de radio de Grupo ACIR en una sola aplicación móvil sin sacrificar la identidad y la experiencia distintivas de cada estación. La aplicación tenía que ofrecer capacidades de transmisión en vivo, una sólida gestión de contenidos y una interfaz de usuario amigable que reflejara la sencillez de sintonizar la radio para una audiencia digital.
 
 ### Solución
 
@@ -40,7 +40,7 @@ El rediseño de la aplicación móvil marcó el cambio estratégico de Grupo ACI
 
 La exitosa implementación del rediseño de la aplicación móvil de Grupo ACIR representa el compromiso de nuestra empresa con la innovación y el diseño centrado en el usuario en el panorama digital. Refleja nuestro compromiso de brindar soluciones de vanguardia que resuenan con el estilo de vida y las preferencias del usuario final, asegurando que nuestros clientes se mantengan a la vanguardia en un mercado en rápida evolución.
 
-## Technología
+## Tecnología
 
 Algunas de las tecnologías e integraciones implementadas en este proyecto.
 
