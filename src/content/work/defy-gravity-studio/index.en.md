@@ -2,7 +2,7 @@
 number: 17
 title: ['Defy Gravity Studio']
 headline: ['']
-services: ['SAAS']
+solutions: ['SAAS']
 services: ['']
 methodologies: []
 period: []
