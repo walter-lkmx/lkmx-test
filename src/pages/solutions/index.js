@@ -9,7 +9,7 @@ import siteMetadata from '../../meta/siteMetadata';
 import HeadSeo from '../../components/HeadSeo';
 import { useRouter } from 'next/router';
 import Image from "next/image";
-import { getIndustriesIndexed, getIndustryData, getAllIndustriesIds } from '@/lib/content'
+import { getSolutionsIndexed } from '@/lib/solutions';
 import SolutionsAnchors from '../../components/solutionsAnchors';
 
 export async function getStaticProps({ locale }) {
