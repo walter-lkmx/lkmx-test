@@ -1,7 +1,7 @@
 ---
 number: 3
 title: ["Healthcare"]
-description: "mprove healthcare delivery with secure, efficient solutions that connect patients and providers, streamline workflows, and enhance patient care."
+description: "Improve healthcare delivery with secure, efficient solutions that connect patients and providers, streamline workflows, and enhance patient care."
 thumbnail: "healthcare-thumbnail"
 cover: "healthcare-cover"
 storyType: "industrie"
@@ -16,8 +16,8 @@ We integrate cutting-edge technologies with medical insights to revolutionize ca
 
 ### Capabilities
 
-* AI/ML integration
-* Biometric sensor connection
-* Mobile app development for end users
+- AI/ML integration
+- Biometric sensor connection
+- Mobile app development for end users
 
 **Learn More**
