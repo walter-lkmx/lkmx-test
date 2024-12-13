@@ -43,6 +43,17 @@ export default function PagesLinks(props) {
           </a>
         </Link>
 
+
+        <Link href="/solutions" legacyBehavior>
+          <a
+            className={`${styles.links__nav} ${
+              asPath.includes(navPath.module7.toLowerCase()) ? styles.links__nav__active : ''
+            }`}
+          >
+            {$t.header.module7}
+          </a>
+        </Link>
+
         <Link href="/technology" legacyBehavior>
           <a
             className={`${styles.links__nav} ${
