@@ -13,7 +13,7 @@ import { getIndustriesIndexed } from '@/lib/content';
 import SolutionsAnchors from '../../components/solutionsAnchors';
 
 export async function getStaticProps({ locale }) {
-  const industries = getIndustriesIndexed(locale);
+  const industries = await getIndustriesIndexed(locale);
   
   return {
     props: {

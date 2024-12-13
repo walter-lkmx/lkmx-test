@@ -3,7 +3,6 @@
 import React, { useEffect, useState, useRef } from "react";
 import BaseLayout from "@/layouts/base-layout.js";
 import { Block, Column, Page } from "@lkmx/flare-react";
-import { getAllIndustriesIds, getIndustryData } from '@/lib/content';
 import styles from "./industry.module.scss";
 import { useRouter } from 'next/router';
 import siteMetadata from "../../meta/siteMetadata";
@@ -12,24 +11,56 @@ import getLang from '@/lang';
 import Image from "next/image";
 import Services from "../../components/services";
 import GoBackBar from "../../components/goBackBar";
+import fs from 'fs';
+import { join } from 'path';
+import { remark } from 'remark';
+import html from 'remark-html';
+import matter from 'gray-matter';
 
 const useIsomorphicLayoutEffect = typeof window !== 'undefined' ? React.useLayoutEffect : React.useEffect;
 
 export async function getStaticPaths({locales}) {
-    const paths = getAllIndustriesIds(locales);
+    const industriesDirectory = join(process.cwd(), 'src/content/industries');
+    const filenames = fs.readdirSync(industriesDirectory);
+    
+    const paths = filenames.flatMap(id => 
+        locales.map(locale => ({
+            params: { id },
+            locale
+        }))
+    );
+
     return {
         paths,
         fallback: false
-    }
+    };
 }
       
 export async function getStaticProps({ params, locale }) {
-    const industryData = await getIndustryData(params.id, locale);
+    const industriesDirectory = join(process.cwd(), 'src/content/industries');
+    const fullPath = join(
+        industriesDirectory,
+        params.id,
+        locale === 'es' ? 'index.md' : `index.${locale}.md`
+    );
+
+    const fileContents = fs.readFileSync(fullPath, 'utf8');
+    const matterResult = matter(fileContents);
+
+    const processedContent = await remark()
+        .use(html, { sanitize: false })
+        .process(matterResult.content);
+    const contentHtml = processedContent.toString();
+
     return {
         props: {
-            industryData
+            industryData: {
+                id: params.id,
+                contentHtml,
+                ...matterResult.data,
+            }
         }
-    }
+    };
 }
 
 export default function Industry({industryData}) {
@@ -63,8 +94,8 @@ export default function Industry({industryData}) {
             <HeadSeo
                 title={`${industryData.title[0]} - ${siteMetadata.companyName}`}
                 description={industryData.description || ""}
-                ogImageUrl={$t.home.ogImage || (locale === "es" ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
-                ogTwitterImage={$t.home.ogImage || (locale === "es" ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
+                ogImageUrl={$t.home?.ogImage || (locale === "es" ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
+                ogTwitterImage={$t.home?.ogImage || (locale === "es" ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
             />
             <Page className={styles.industry}>
                 <GoBackBar destiny="/industries" />
