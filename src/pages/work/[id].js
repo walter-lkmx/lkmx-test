@@ -60,9 +60,9 @@ export default function SuccessStory({storyData}) {
         <BaseLayout>
             <HeadSeo
                 title={`${storyData.title[0]} - ${siteMetadata.companyName}`}
-                description={`${storyData.headline[0]} ${storyData.headline[1]}`}
-                ogImageUrl={$t.home.ogImage || (locale === "es" ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
-                ogTwitterImage={$t.home.ogImage || (locale === "es" ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
+                description={locale === 'es' ? 'Somos socios estratégicos de compañías alrededor del mundo, construyendo soluciones de software innovadoras con nuestra metodología única y la tecnología más sólida.' : 'We are strategic partners with businesses in different industries around the world, building innovative software solutions with our unique methodology and the most solid technology.'}
+                ogImageUrl={$t.home.ogImage || (locale === 'es' ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
+                ogTwitterImage={$t.home.ogImage || (locale === 'es' ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
             />
             <Page className={styles.story}>
                 <GoBackBar destiny="/work" />
