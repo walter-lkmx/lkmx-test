@@ -2,8 +2,8 @@
 number: 17
 title: ['Defy Gravity Studio']
 headline: ['']
-solutions: []
-services: ['SAAS']
+solutions: ['SAAS']
+services: ['']
 methodologies: []
 period: []
 thumbnail: 'defy-gravity-studio-thumbnail'

@@ -1,18 +1,15 @@
 ---
 number: 19
-title: ['ER Manufacturing']
-headline: ['']
-solutions: ['E-Commerce', 'Digital Brand']
+title: ["ER Manufacturing"]
+headline: [""]
+solutions: ["E-Commerce", "Digital Brand"]
 services: []
 methodologies: []
 period: []
-thumbnail: 'er-manufacturing-thumbnail'
-cover: 'er-manufacturing-cover'
-storyType: 'Work'
-introduction: {
-    title: "",
-    content: ""
-}
+thumbnail: "er-manufacturing-thumbnail"
+cover: "er-manufacturing-cover"
+storyType: "Work"
+introduction: { title: "", content: "" }
 ---
 
 ## Desafío
@@ -24,6 +21,8 @@ ER Manufacturing necesitaba una plataforma en línea efectiva para mostrar sus c
 ## Solución
 
 Se desarrolló un sitio web directo para mostrar de manera efectiva la gama de tanques y contenedores de acero de ER. Esta plataforma proporciona información clara y accesible sobre cada producto y permite a los clientes realizar consultas fácilmente, facilitando la comunicación con ER para soluciones personalizadas.
+
+![](/work/er-manufacturing-figure-2.jpg)
 
 ## Tecnologías
 

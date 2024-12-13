@@ -2,7 +2,7 @@
 number: 4
 title: ['Athens']
 headline: ['']
-solutions: []
+solutions: ['Mobile App', 'Digital Brand']
 services: []
 methodologies: []
 period: []

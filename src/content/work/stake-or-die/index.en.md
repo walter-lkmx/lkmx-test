@@ -2,7 +2,7 @@
 number: 56
 title: ['Stake Or Die']
 headline: ['']
-solutions: []
+solutions: ['Web3 Project', 'Engineering Team']
 services: ['Web3 Project']
 methodologies: []
 period: []

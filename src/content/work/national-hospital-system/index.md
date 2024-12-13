@@ -1,20 +1,16 @@
 ---
 number: 8
-title: ['Maypo Insights Logistics', '']
-headline: ['']
-solutions: ['Infraestructura en la Nube']
+title: ["Maypo Insights Logistics", ""]
+headline: [""]
+solutions: ["Infraestructura en la Nube"]
 services: []
 methodologies: []
 period: []
-thumbnail: 'maypo-insights-logistics-thumbnail'
-cover: 'maypo-insights-logistics-cover'
-storyType: 'Trabajo'
-introduction: {
-    title: "",
-    content: ""
-}
+thumbnail: "maypo-insights-logistics-thumbnail"
+cover: "maypo-insights-logistics-cover"
+storyType: "Trabajo"
+introduction: { title: "", content: "" }
 ---
-
 
 ## Contexto
 
@@ -27,6 +23,10 @@ El desafío principal fue integrar una amplia gama de fuentes de datos, incluida
 ## Solución
 
 Diseñamos una plataforma basada en la nube y de última generación, utilizando una arquitectura de microservicios. Este sistema se conecta perfectamente con las bases de datos existentes de Maypo a través de APIs REST, orquestando procesos logísticos complejos desde la recepción de pedidos hasta la validación de inventarios. La plataforma cuenta con una suite de aplicaciones diseñadas para diversos roles en la cadena de suministro, mejorando la trazabilidad y la responsabilidad de los suministros médicos. Al aprovechar tecnologías robustas, proporcionamos a Maypo una solución flexible y segura, adaptable a las necesidades cambiantes de la logística en el sector salud.
+
+![](/work/maypo-insights-logistics-figure-1.jpg)
+
+![](/work/maypo-insights-logistics-figure-2.jpg)
 
 ## Impacto
 
