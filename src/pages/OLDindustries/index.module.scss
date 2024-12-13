@@ -1,0 +1,236 @@
+.industries {
+  $hero-height-large: rem(591px);
+  $hero-height-medium: rem(592px);
+  $hero-height-small: rem(412px);
+  &__hero {
+    height: $hero-height-large;
+    @include respond-to("<=s") {
+      height: auto;
+    }
+    
+    &__block {
+      * {
+        color: white;
+      }
+      
+      &:first-child {
+        --f-gutter: 0px;
+        > div > div {
+          height: 100%;
+        }
+      }
+      &:last-child {
+        background-color: $color-bright-gray;
+        position: relative;
+        overflow: hidden;
+        height: 100%;        
+        > div {
+          width: 100%;
+          
+        }
+        > div > div {
+          height: 100%;
+          padding: 0px;
+        } 
+        @include respond-to('<=s') {
+          height: 350px;
+        }
+      }
+      &__left {
+        padding: rem(52px) 0 1rem rem(16px);
+        height: 100%;
+        display: grid;
+        align-items: end;
+        background-color: $color-neutral-black;
+
+        > div{
+          @include respond-to("xxxl") {
+            height: 100%;
+          }     
+          > div {
+            @include respond-to("xxxl") {
+              height: 100%;
+              position: relative;
+            }            
+            @include respond-to("<=m") {
+              padding-left: 0 !important;
+            }          
+          }
+        } 
+        &__content{
+          @include respond-to("xxxl") {
+            width: max-content;
+            position: absolute;
+            right: 32px;
+            bottom: 40px;
+          }     
+          padding-bottom: rem(22px);
+          *{margin: 0;}
+          @include respond-to("<=s") {
+            display: grid;
+            justify-content: center;
+          }
+          h2 {
+            color: white;
+            font-family: $font-tertiary;
+            font-size: rem(35px);
+            line-height: rem(47px);
+            text-transform: uppercase;
+            font-weight: 800;
+          }
+          p {
+            color: white;
+            margin: 0;
+            font-size: rem(20px);
+            line-height: rem(30px);
+            max-width: 355px;
+            &:last-child {
+              padding-top: rem(16px);
+            }
+            strong {
+              font-size: 1.5rem;
+              line-height: 2rem;
+              color: $color-cyan;
+              &:last-child {
+                color: $color-pink;
+              }
+            }
+          }
+        }
+      }
+      &__right {    
+        height: 100%;  
+        &__waves {
+          position: relative;
+          height: 100%;
+          z-index: 0;
+          img {
+            object-fit: cover;
+          }
+        }
+        &__cyan {
+          width: 100%;
+          height: 84px;
+          background-color: $color-cyan;
+          position: absolute;
+          bottom: 0;
+        }
+        &__elipse {
+          max-width: none !important;
+          width: 648px;
+          height: 648px;
+          position: absolute;
+          right: -10px;
+          top: -62px;
+          transform: translate(50%, -50%);
+          @include respond-to("xxs") {
+            max-width: 100% !important;
+            right: 24px;
+            top: 27px;
+          }
+        }
+      }
+    }
+  }
+  &__intro {
+    &__block {
+      > div {
+				@include respond-to("xxxl") {
+					display: grid;
+					justify-content: center;
+					> div {
+						width: 1200px !important;
+					}
+				}
+			}
+      .lkContainer {
+        padding: 92px 0px 0;
+        justify-content: start; 
+        @include respond-to("<=s") {
+          padding: 92px 0 0;
+        }       
+        @include respond-to("<=xs") {
+          padding: 56px 0 0;
+        }
+        * {
+          margin: 0;
+        }
+        h2 {
+          max-width: 713px;
+          font-family: $font-secondary;
+          font-size: 28px;
+          line-height: 36px;
+          text-transform: uppercase;
+          @include respond-to("<=m") {
+            font-size: 24px;
+            line-height: 32px;
+          }
+        }
+        p {
+          max-width: 960px;
+          font-size: 20px;
+          line-height: 30px;
+          margin-top: 16px;
+        }
+      }
+    }
+  }
+  &__catalog {
+      background: $color-bright-gray-01;
+
+      .lkContainer {
+        padding: 92px 0;
+        display: grid;
+        grid-template-columns: 450px 1fr;
+        @include respond-to("<=m") {
+            grid-template-columns: 1fr;
+            gap: var(--f-gutter);
+        }
+        .catalogIntro {
+          max-width: rem(450px);
+          padding-top: var(--f-gutter);
+          padding-bottom: var(--f-gutter);
+          display: grid;
+          gap: 8px;
+          align-content: start;
+          *{margin: 0;}
+          h2 {
+            max-width: 418px;
+            font-family: $font-secondary;
+            font-size: 28px;
+            line-height: 36px;
+            text-transform: uppercase;
+          }
+        }
+        .catalogItems {
+          min-height: 300px;
+          display: grid;
+          grid-template-columns: repeat(2, 2fr);
+          gap: 2px;
+          @include respond-to("<=s") {
+            grid-template-columns: 1fr;
+          }
+          *{margin: 0;}
+          .catalogItem {
+            background-color: white;
+            min-height: 296px;
+            padding: 26px;
+            display: grid;
+            gap: var(--f-gutter);
+            justify-items: start;
+            align-content: start;
+            &__desc {
+              display: grid;
+              gap: 4px;
+              h4 {
+                font-family: $font-secondary;
+                font-size: 20px;
+                line-height: 28px;
+                text-transform: uppercase;
+              }
+            }
+          }
+        }
+      }
+  }
+}

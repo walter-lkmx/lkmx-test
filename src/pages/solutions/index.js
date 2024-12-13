@@ -26,39 +26,16 @@ export default function SolutionsPage({ solutions = [] }) {
   const { locale } = useRouter();
   const $t = getLang(locale);
 
-  // Asegúrate de que $t.solutions existe con valores por defecto
-  const defaultText = {
-    title: 'Solutions',
-    ogDescription: 'Our Solutions',
-    hero: ['Discover our solutions'],
-    catalogTitle: 'Our Solutions Catalog',
-    intro: 'Explore our range of solutions'
-  };
-
-  const solutionsText = $t.solutions || defaultText;
-
   return (
     <BaseLayout>
       <HeadSeo
-        title={`${solutionsText.title} - ${siteMetadata.companyName}`}
-        description={solutionsText.ogDescription}
-        ogImageUrl={
-          $t.home?.ogImage
-            ? $t.home.ogImage
-            : locale === 'es'
-            ? siteMetadata.ogDefaultImageEs
-            : siteMetadata.ogDefaultImageEn
-        }
-        ogTwitterImage={
-          $t.home?.ogImage
-            ? $t.home.ogImage
-            : locale === 'es'
-            ? siteMetadata.ogDefaultImageEs
-            : siteMetadata.ogDefaultImageEn
-        }
+        title={`${$t.solutions.title} - ${siteMetadata.companyName}`}
+        description={$t.solutions.ogDescription}
+        ogImageUrl={$t.home?.ogImage || (locale === 'es' ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
+        ogTwitterImage={$t.home?.ogImage || (locale === 'es' ? siteMetadata.ogDefaultImageEs : siteMetadata.ogDefaultImageEn)}
       />
       <Page className={styles.solutions}>
-      <Column
+        <Column
           number="2"
           numberS="1"
           className={styles.solutions__hero}
@@ -70,18 +47,19 @@ export default function SolutionsPage({ solutions = [] }) {
           mode="full"
         >
           <Block className={styles.solutions__hero__block__left}>            
-              <div className={styles.solutions__hero__block__left__content}>
-                <h2>{$t.solutions.title}</h2>
-                <p>{$t.solutions.hero[0]}</p>
-              </div>
+            <div className={styles.solutions__hero__block__left__content}>
+              <h2>{$t.solutions.title}</h2>
+              <p>{$t.solutions.hero[0]}</p>
+            </div>
           </Block>
           <Block className={styles.solutions__hero__block}>
             <div className={styles.solutions__hero__block__right}>
               <div className={styles.solutions__hero__block__right__waves}>
-              <Image
+                <Image
                   fill             
                   priority={true}
-                  src="/industries/wave.svg" alt="waves"
+                  src="/industries/wave.svg" 
+                  alt="Wave decoration"
                 />
               </div>   
               <div className={styles.solutions__hero__block__right__cyan}></div>
@@ -89,7 +67,7 @@ export default function SolutionsPage({ solutions = [] }) {
                 <Image
                   fill
                   src="/circle--pink.svg"
-                  alt="ellipse"
+                  alt="Circle decoration"
                   className={styles.solutions__hero__block__right__elipse}
                 />
               </div>                         
@@ -100,15 +78,14 @@ export default function SolutionsPage({ solutions = [] }) {
         <Column modeM="normal" className={styles.solutions__intro}>
           <Block className={styles.solutions__intro__block}>
             <div className={styles.lkContainer}>
-              <h2>{solutionsText.catalogTitle}</h2>
-              <p>
-              {$t.solutions.catalogDescription}
-              </p>
+              <h2>{$t.solutions.catalogTitle}</h2>
+              <p>{$t.solutions.catalogDescription}</p>
             </div>
           </Block>
         </Column>
+
         {solutions && solutions.length > 0 && (
-          <SolutionsAnchors anchorsData={solutions}/>
+          <SolutionsAnchors anchorsData={solutions} />
         )}
       </Page>
     </BaseLayout>
