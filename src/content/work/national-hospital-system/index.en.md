@@ -1,20 +1,16 @@
 ---
 number: 8
-title: ['Maypo Insights Logistics', '']
-headline: ['']
-solutions: ['Cloud Infrastructure']
+title: ["Maypo Insights Logistics", ""]
+headline: [""]
+solutions: ["Cloud Infrastructure"]
 services: []
 methodologies: []
 period: []
-thumbnail: 'maypo-insights-logistics-thumbnail'
-cover: 'maypo-insights-logistics-cover'
-storyType: 'Work'
-introduction: {
-    title: "",
-    content: ""
-}
+thumbnail: "maypo-insights-logistics-thumbnail"
+cover: "maypo-insights-logistics-cover"
+storyType: "Work"
+introduction: { title: "", content: "" }
 ---
-
 
 ## Background
 
@@ -27,6 +23,10 @@ The principal challenge was integrating a vast array of data sources, including 
 ## Solution
 
 To tackle these challenges, we devised a state-of-the-art cloud-based platform utilizing a microservices architecture. This system was designed to seamlessly connect with Maypo's existing databases via REST APIs, orchestrating complex logistics processes from order intake to inventory validation. The platform featured a suite of applications tailored for various supply chain roles, enhancing traceability and accountability of the medical supplies. By leveraging robust technologies like Java, Elasticsearch, Spring Boot, and employing Google Cloud for scalability, we provided Maypo with a flexible, secure solution adaptable to the evolving needs of healthcare logistics.
+
+![](/work/maypo-insights-logistics-figure-1.jpg)
+
+![](/work/maypo-insights-logistics-figure-2.jpg)
 
 ## Impact
 
