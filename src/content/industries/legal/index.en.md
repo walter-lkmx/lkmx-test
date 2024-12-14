@@ -21,4 +21,3 @@ We understand the unique challenges legal professionals face today. Our approach
 * Secure Document Management
 * Integrated Communication Tools
 
-**Learn More**

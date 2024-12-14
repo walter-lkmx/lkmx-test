@@ -21,4 +21,3 @@ Aprovechamos la IA y blockchain para impulsar una nueva era de creatividad digit
 * Creación y gestión de NFT en múltiples cadenas
 * Personalización de plataformas de arte integradas con blockchain
 
-**Más Información**

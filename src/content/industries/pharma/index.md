@@ -21,4 +21,3 @@ Mejoramos el desarrollo de medicamentos, la eficiencia en la fabricación y los 
 * Aplicaciones de compromiso del paciente
 * Integración de IoT para monitoreo de salud
 
-**Más Información**

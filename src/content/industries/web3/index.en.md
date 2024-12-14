@@ -24,4 +24,3 @@ We design creative and innovative decentralized solutions for public and private
 * Tokenization Platforms
 * Interoperability Solutions
 
-**Learn More**

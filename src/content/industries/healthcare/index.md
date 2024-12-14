@@ -20,4 +20,3 @@ Integramos tecnologías de vanguardia con conocimientos médicos para revolucion
 * Conexión de sensores biométricos
 * Desarrollo de aplicaciones móviles para usuarios finales
 
-**Más Información**

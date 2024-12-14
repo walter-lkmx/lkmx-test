@@ -21,4 +21,3 @@ We modernize services that help our clients meet requirements, reduce costs, inc
 * Predictive analytics for supply chain
 * Transportation management systems
 
-**Learn More**

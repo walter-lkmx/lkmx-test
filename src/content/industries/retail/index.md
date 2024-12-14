@@ -22,4 +22,3 @@ Aprovechar la tecnología para mejorar la experiencia de compra y la eficiencia 
 * Software de optimización de la cadena de suministro
 * Estrategias de compromiso omnicanal con el cliente
 
-**Más Información**

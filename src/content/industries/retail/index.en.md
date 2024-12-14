@@ -22,4 +22,3 @@ Leveraging technology to enhance the shopping experience and operational efficie
 * Supply chain optimization software
 * Omnichannel customer engagement strategies
 
-**Learn More**

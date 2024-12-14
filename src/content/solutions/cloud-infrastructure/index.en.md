@@ -50,7 +50,7 @@ Receive continuous support and maintenance from cloud experts.
 
 Transform your operations with our advanced, scalable, and secure cloud solutions tailored to meet your business needs.
 
-**Start Your Journey**
+
 
 ## Frequently Asked Questions (FAQ)
 
