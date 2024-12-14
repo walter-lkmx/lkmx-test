@@ -24,4 +24,3 @@ Diseñamos soluciones descentralizadas creativas e innovadoras para protocolos p
 * Soluciones de Interoperabilidad
 * Desarrollo y Gestión de NFTs
 
-**Más Información**

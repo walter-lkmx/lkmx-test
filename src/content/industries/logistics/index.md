@@ -21,4 +21,3 @@ Modernizamos servicios que ayudan a nuestros clientes a cumplir con los requisit
 * Análisis predictivo para la cadena de suministro
 * Sistemas de gestión de transporte
 
-**Más Información**

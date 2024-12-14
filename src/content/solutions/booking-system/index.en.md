@@ -52,7 +52,7 @@ View and edit individual tickets, check usage data, amend ticket end dates, disa
 
 Upgrade to effortless, efficient booking with our innovative platform.
 
-Start Your Journey
+
 
 ## Frequently Asked Questions (FAQ)
 

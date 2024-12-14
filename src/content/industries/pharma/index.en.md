@@ -21,4 +21,3 @@ We enhance drug development, manufacturing efficiencies, and patient outcomes. O
 * Patient engagement apps
 * IoT integration for health monitoring
 
-**Learn More**

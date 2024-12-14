@@ -21,4 +21,3 @@ We harness AI and blockchain to fuel a new era of digital creativity. This indus
 * Multi-chain NFT minting and management
 * Blockchain-integrated art platform customization
 
-**Learn More**

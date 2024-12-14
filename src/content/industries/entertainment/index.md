@@ -21,4 +21,3 @@ Desarrolla plataformas innovadoras para optimizar la producción, mejorar el com
 * Experiencias interactivas e inmersivas
 * Distribución global y análisis de audiencia
 
-**Más Información**

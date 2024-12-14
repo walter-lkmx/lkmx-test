@@ -21,4 +21,3 @@ We leverage technology to redefine how insurance companies operate, enhancing ef
 * Automated claims processing systems
 * Digital platforms for customer engagement and policy management
 
-**Learn More**

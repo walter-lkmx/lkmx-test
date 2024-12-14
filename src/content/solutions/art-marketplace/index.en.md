@@ -10,7 +10,7 @@ iconName: "palette"
 
 Innovative art platforms utilizing AI and blockchain connect artists and buyers, facilitating secure and creative transactions, transforming the digital art market with advanced technological solutions.
 
-Start your Journey
+
 
 ## Key Features
 
@@ -68,7 +68,7 @@ AI-powered recommendations enhance the discovery process, making it easier for u
 
 Elevate your art marketplace with our innovative solutions that make technology accessible and useful for everyone.
 
-Start your Journey
+
 
 ## Frequently Asked Questions
 

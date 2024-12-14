@@ -21,4 +21,3 @@ Our goal is to empower individuals and organizations to achieve optimal health a
 * Data Analytics for Health Insights
 * Integration with Wearable Devices
 
-**Learn More**

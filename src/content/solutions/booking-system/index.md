@@ -52,7 +52,7 @@ Visualiza y edita tickets individuales, verifica datos de uso, modifica fechas d
 
 Actualiza a una gestión de reservas sin esfuerzo y eficiente con nuestra plataforma innovadora.
 
-**Comienza tu Viaje**
+
 
 ## Preguntas Frecuentes (FAQ)
 

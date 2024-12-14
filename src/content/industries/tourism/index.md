@@ -20,4 +20,3 @@ Desarrollamos soluciones digitales innovadoras para mejorar las experiencias de 
 * Análisis de datos avanzados para crear itinerarios de viaje personalizados
 * Experiencias inmersivas a través de VR y AR para exploraciones virtuales
 
-**Más Información**

@@ -21,4 +21,3 @@ Aprovechamos la tecnología para redefinir cómo operan las compañías de segur
 * Sistemas automatizados de procesamiento de reclamaciones
 * Plataformas digitales para el compromiso del cliente y la gestión de pólizas
 
-**Más Información**

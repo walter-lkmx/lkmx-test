@@ -21,4 +21,3 @@ Nuestro objetivo es empoderar a individuos y organizaciones para alcanzar una sa
 * Análisis de Datos para Información de Salud
 * Integración con Dispositivos Wearables
 
-**Más Información**
