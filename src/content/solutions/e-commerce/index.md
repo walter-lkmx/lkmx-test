@@ -14,8 +14,6 @@ Desarrollamos plataformas de comercio electrónico personalizadas para aumentar 
 
 Una plataforma elegante, rápida y fácil de usar para impulsar tus ventas.
 
-**Contáctanos**
-
 ## Beneficios Principales
 
 ### Experiencia de Usuario Optimizada

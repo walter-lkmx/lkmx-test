@@ -10,8 +10,6 @@ iconName: "message-circle"
 
 Aprovecha funciones sociales avanzadas para involucrar a los usuarios, aumentar la actividad y obtener información sobre las preferencias y sentimientos de la audiencia con plataformas de redes sociales seguras y visualmente atractivas.
 
-**Conéctate Ahora**
-
 ## Características Clave
 
 ### Sistemas de Mensajería Segura
