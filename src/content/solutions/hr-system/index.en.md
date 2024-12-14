@@ -39,5 +39,3 @@ Allow employees to access and update their own information, request leave, and v
 ## Build the Future HR System
 
 Transform your HR management with our innovative and efficient solutions.
-
-Get Started

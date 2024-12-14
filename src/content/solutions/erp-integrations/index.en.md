@@ -96,8 +96,6 @@ We customize and optimize open-source ERP solutions to offer a cost-effective, e
 
 Enhance performance, reduce costs, and achieve a comprehensive, seamless view of your organization with our ERP solutions.
 
-**Get started today**
-
 ## ERP Platforms and Technologies We Work With
 
 Our ERP consultants leverage a variety of platforms and cutting-edge technologies to meet your enterprise's needs. Technologies and platforms we use include:

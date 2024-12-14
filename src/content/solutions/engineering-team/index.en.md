@@ -74,8 +74,6 @@ Ensure high-quality deliverables through rigorous testing and quality assurance 
 
 Assemble the right experts for your project
 
-Learn More
-
 ## Frequently Asked Questions (FAQ)
 
 ### What can I expect if I choose to form a dedicated team?

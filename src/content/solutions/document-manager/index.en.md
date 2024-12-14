@@ -64,4 +64,3 @@ Robust management features are implemented to ensure full compliance with indust
 
 Streamline your document management with our secure and efficient solutions.
 
-Get Started

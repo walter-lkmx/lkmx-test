@@ -58,8 +58,6 @@ Integrate blockchain-based payment systems for secure and efficient financial tr
 
 Empower your business with cutting-edge Web3 solutions designed to enhance security, transparency, and efficiency.
 
-Get Started
-
 ## Frequently Asked Questions (FAQ)
 
 ### How can decentralized applications (dApps) benefit my business?

@@ -65,5 +65,3 @@ Enable cross-border transactions by connecting customers and sellers worldwide, 
 ## Build the Future Auction App
 
 Transform your auction platform today with our innovative solutions.
-
-Start The Journey
