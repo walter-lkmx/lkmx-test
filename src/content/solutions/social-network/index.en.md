@@ -41,5 +41,3 @@ Ensure data protection and compliance with privacy regulations through advanced 
 ## Build the Future Social Network
 
 Create an engaging and secure social platform that connects users and fosters vibrant online communities.
-
-**Connect Now**

@@ -14,8 +14,6 @@ We develop custom eCommerce platforms to boost sales and expand markets, optimiz
 
 A sleek, fast, and user-friendly platform to skyrocket your sales.
 
-Contact us
-
 ## Core Benefits
 
 ### **Optimized User Journey**
