@@ -10,7 +10,7 @@ iconName: "file"
 
 Los sistemas de gestión de documentos personalizados mejoran la organización de la información, proporcionan almacenamiento seguro y aseguran un acceso rápido, optimizando la eficiencia y el cumplimiento.
 
-**Comienza Ahora**
+
 
 ## Características Clave
 
@@ -64,4 +64,4 @@ Se implementan funciones de gestión robustas para asegurar el cumplimiento tota
 
 Optimiza la gestión de tus documentos con nuestras soluciones seguras y eficientes.
 
-**Comienza Ahora**
+

@@ -65,5 +65,3 @@ Permite transacciones transfronterizas conectando a clientes y vendedores de tod
 ## Construye la Aplicación de Subastas del Futuro
 
 Transforma tu plataforma de subastas hoy con nuestras soluciones innovadoras.
-
-**Comienza el Viaje**

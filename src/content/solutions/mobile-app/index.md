@@ -10,7 +10,7 @@ iconName: "tablet-smartphone"
 
 Soluciones eficientes de aplicaciones móviles mejoran la participación del usuario y optimizan las operaciones comerciales con aplicaciones personalizadas y de alta calidad.
 
-**Comienza Ahora**
+
 
 ## Características Clave
 

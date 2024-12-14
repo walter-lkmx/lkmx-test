@@ -10,7 +10,7 @@ iconName: "bitcoin"
 
 Transforma aplicaciones tradicionales en soluciones descentralizadas, mejorando la seguridad, la transparencia y la eficiencia con nuestros avanzados servicios de desarrollo Web3.
 
-**Comienza Ahora**
+
 
 ## Beneficios
 
@@ -56,7 +56,7 @@ Integra sistemas de pago basados en blockchain para transacciones financieras se
 
 Empodera tu negocio con soluciones Web3 de vanguardia diseñadas para mejorar la seguridad, la transparencia y la eficiencia.
 
-**Comienza Ahora**
+
 
 ## Preguntas Frecuentes (FAQ)
 
