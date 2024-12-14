@@ -42,6 +42,4 @@ Conéctate sin problemas con plataformas de marketing para ejecutar campañas ef
 
 Integra con sistemas de servicio al cliente para asegurar una resolución rápida y eficiente de los problemas, mejorando la satisfacción del cliente.
 
-## Construye el Sistema CRM del Futuro
-
 
