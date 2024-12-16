@@ -114,7 +114,7 @@ export default function Industry({industryData}) {
                         <div className={styles.industry__heroImg}>
                             <Image
                                 fill
-                                src={`/industries/${industryData.id}/${industryData.cover}.jpg`}
+                                src={`/industries/${industryData.cover}.jpg`}
                                 alt={industryData.title[0]}
                                 priority
                             />
