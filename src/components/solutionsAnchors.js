@@ -2,6 +2,7 @@
 
 import React, { useEffect } from "react";
 import { useRouter } from 'next/router';
+import Link from 'next/link';
 import styles from "@/components/solutionsAnchors.module.scss";
 import { Block, Column } from "@lkmx/flare-react";
 import Image from "next/image";
@@ -11,6 +12,7 @@ export default function SolutionsAnchors({anchorsData}) {
     const { locale } = useRouter();
     const $t = getLang(locale);
 
+    console.log(locale);
     
     useEffect(() => {
         document.addEventListener('scroll', function () {
@@ -75,9 +77,9 @@ export default function SolutionsAnchors({anchorsData}) {
                                     <h2>{data.title[0]}</h2>
                                     <p>{data.description}</p>
                                     <div className={styles.anchors__sections__block__black__item__content__route}>
-                                        <a href={data.route}>
+                                        <Link href={data.route}>
                                         {locale === 'es' ? 'Aprende más' : 'Learn more'}
-                                        </a>
+                                        </Link>
                                     </div>
                                 </div>
                             </article>

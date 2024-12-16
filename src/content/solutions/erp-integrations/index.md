@@ -90,8 +90,6 @@ Personalizamos y optimizamos soluciones ERP de código abierto para ofrecer una 
 
 Mejora el rendimiento, reduce costos y obtén una vista integral y sin interrupciones de tu organización con nuestras soluciones ERP.
 
-**Comienza hoy**
-
 ## Plataformas y Tecnologías ERP que Utilizamos
 
 Nuestros consultores ERP utilizan una variedad de plataformas y tecnologías de vanguardia para satisfacer las necesidades de tu empresa. Las tecnologías y plataformas que utilizamos incluyen:
