@@ -10,8 +10,6 @@ iconName: "palette"
 
 Plataformas de arte innovadoras que utilizan IA y blockchain conectan a artistas y compradores, facilitando transacciones seguras y creativas, transformando el mercado de arte digital con soluciones tecnológicas avanzadas.
 
-
-
 ## Características Clave
 
 ### Búsqueda y Filtros Avanzados
