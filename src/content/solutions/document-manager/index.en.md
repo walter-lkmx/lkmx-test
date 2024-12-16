@@ -10,7 +10,7 @@ iconName: "file"
 
 Customized document management systems enhance information organization, provide secure storage, and ensure quick access, optimizing efficiency and compliance.
 
-**Get Started**
+
 
 ## Key Features
 
