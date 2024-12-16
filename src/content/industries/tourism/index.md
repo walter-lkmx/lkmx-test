@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "tourism-industry-icon"
 ---
 
-# Turismo
-
 ## Elevando Experiencias
 
 Desarrollamos soluciones digitales innovadoras para mejorar las experiencias de viaje. Nuestros servicios van desde la creación de plataformas de reserva interactivas hasta el uso de análisis de datos para recomendaciones personalizadas, mejorando la eficiencia operativa de las empresas turísticas y enriqueciendo el viaje del viajero con tecnologías inmersivas.

@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "real-estate-industry-icon"
 ---
 
-# Real Estate
-
 ## Transforming Management
 
 By leveraging advanced technologies and industry expertise, we provide innovative solutions that address the evolving needs of the real estate sector, enhancing property management, sales strategies, and customer engagement.

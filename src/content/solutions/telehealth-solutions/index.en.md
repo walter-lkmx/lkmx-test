@@ -10,7 +10,7 @@ iconName: "heart-pulse"
 
 We securely and efficiently connect patients and healthcare professionals, enhancing accessibility and quality of care with advanced technology.
 
-**Get Started**
+
 
 ## Key Features
 

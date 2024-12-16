@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "insurance-industry-icon"
 ---
 
-# Seguros
-
 ## Optimizando Procesos
 
 Aprovechamos la tecnología para redefinir cómo operan las compañías de seguros, mejorando la eficiencia y el servicio al cliente. Nuestras soluciones modernizan la gestión de reclamaciones, la evaluación de riesgos y la interacción con el cliente.

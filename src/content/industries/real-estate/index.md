@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "real-estate-industry-icon"
 ---
 
-# Bienes Raíces
-
 ## Transformando la Gestión
 
 Aprovechando tecnologías avanzadas y experiencia en la industria, proporcionamos soluciones innovadoras que abordan las necesidades cambiantes del sector inmobiliario, mejorando la gestión de propiedades, las estrategias de ventas y el compromiso con los clientes.

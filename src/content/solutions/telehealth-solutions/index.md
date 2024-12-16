@@ -73,5 +73,3 @@ Asegura el cumplimiento de HIPAA y protege los datos de los pacientes con prueba
 ## Construye la Solución de Telemedicina del Futuro
 
 Innova el cuidado del paciente con nuestras soluciones de telemedicina seguras y eficientes. Conéctate sin problemas con los pacientes y mejora la prestación de servicios de salud.
-
-**Transforma Ahora**

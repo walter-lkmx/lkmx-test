@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "logistics-industry-icon"
 ---
 
-# Logística
-
 ## Mejorando la Eficiencia
 
 Modernizamos servicios que ayudan a nuestros clientes a cumplir con los requisitos, reducir costos, aumentar la eficiencia y ofrecer resultados críticos para la misión.

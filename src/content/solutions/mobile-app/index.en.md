@@ -10,7 +10,7 @@ iconName: "tablet-smartphone"
 
 Efficient mobile app solutions enhance user engagement and streamline business operations with tailored, high-quality applications.
 
-**Get Started**
+
 
 ## Key Features
 

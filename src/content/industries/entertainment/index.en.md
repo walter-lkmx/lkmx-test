@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "entertainment-industry-icon"
 ---
 
-# Entertainment
-
 ## Enhancing Engagement
 
 Develop innovative platforms to streamline production, enhance audience engagement, and optimize distribution channels.

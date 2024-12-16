@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "pharma-industry-icon"
 ---
 
-# Pharma
-
 ## Impulsando la Innovación
 
 Mejoramos el desarrollo de medicamentos, la eficiencia en la fabricación y los resultados para los pacientes. Nuestras soluciones priorizan la seguridad y el cumplimiento, asegurando que los clientes puedan ofrecer productos y servicios de salud superiores.

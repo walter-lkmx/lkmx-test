@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "retail-industry-icon"
 ---
 
-# Retail
-
 ## Impulsando las Ventas
 
 Aprovechar la tecnología para mejorar la experiencia de compra y la eficiencia operativa es fundamental. Aquí están las capacidades que aplican directamente a elevar tanto el servicio al cliente como la gestión de la cadena de suministro.

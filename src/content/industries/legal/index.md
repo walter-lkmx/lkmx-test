@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "legal-industry-icon"
 ---
 
-# Legal
-
 ## Simplificando Operaciones
 
 Entendemos los desafíos únicos que enfrentan los profesionales del sector legal hoy en día. Nuestro enfoque combina un profundo conocimiento de la industria con experiencia técnica para desarrollar soluciones personalizadas que permitan un trabajo más inteligente.

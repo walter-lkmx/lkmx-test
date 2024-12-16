@@ -74,8 +74,6 @@ Aseguran entregables de alta calidad a través de rigurosos procesos de prueba y
 
 Reúne a los expertos adecuados para tu proyecto.
 
-**Más Información**
-
 ## Preguntas Frecuentes (FAQ)
 
 ### ¿Qué puedo esperar si elijo formar un equipo dedicado?

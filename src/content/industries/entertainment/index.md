@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "entertainment-industry-icon"
 ---
 
-# Entretenimiento
-
 ## Enganchando Audiencias
 
 Desarrolla plataformas innovadoras para optimizar la producción, mejorar el compromiso de la audiencia y optimizar los canales de distribución.

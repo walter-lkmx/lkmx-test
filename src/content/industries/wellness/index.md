@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "wellness-industry-icon"
 ---
 
-# Bienestar
-
 ## Promoviendo la Salud
 
 Nuestro objetivo es empoderar a individuos y organizaciones para alcanzar una salud y bienestar óptimos, aprovechando la tecnología de vanguardia y conocimientos basados en datos.
