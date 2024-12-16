@@ -10,8 +10,6 @@ iconName: "message-circle"
 
 Leverage advanced social features to engage users, increase activity, and gain insights into audience sentiments and preferences with secure, visually appealing social media platforms.
 
-**Connect Now**
-
 ## Key Features
 
 ### Secure Messaging Systems
