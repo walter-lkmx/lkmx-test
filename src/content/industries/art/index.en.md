@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "art-industry-icon"
 ---
 
-# Art
-
 ## Empowering Creativity
 
 We harness AI and blockchain to fuel a new era of digital creativity. This industry blends the precision of technology with the unpredictability of art, offering endless possibilities for artists and collectors alike, ensuring each piece's authenticity while fostering a global community of digital art enthusiasts.

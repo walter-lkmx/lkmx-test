@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "art-industry-icon"
 ---
 
-# Arte
-
 ## Potenciando la Creatividad
 
 Aprovechamos la IA y blockchain para impulsar una nueva era de creatividad digital. Esta industria combina la precisión de la tecnología con la imprevisibilidad del arte, ofreciendo posibilidades infinitas para artistas y coleccionistas por igual, asegurando la autenticidad de cada pieza mientras fomenta una comunidad global de entusiastas del arte digital.

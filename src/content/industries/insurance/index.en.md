@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "insurance-industry-icon"
 ---
 
-# Insurance
-
 ## Optimizing Processes
 
 We leverage technology to redefine how insurance companies operate, enhancing efficiency and customer service. Our solutions modernize claims management, risk assessment, and customer interaction.

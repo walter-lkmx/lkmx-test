@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "wellness-industry-icon"
 ---
 
-# Wellness
-
 ## Promoting Health
 
 Our goal is to empower individuals and organizations to achieve optimal health and well-being by leveraging cutting-edge technology and data-driven insights.

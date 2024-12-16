@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "logistics-industry-icon"
 ---
 
-# Logistics
-
 ## Enhancing Efficiency
 
 We modernize services that help our clients meet requirements, reduce costs, increase efficiency and deliver Mission Critical results.

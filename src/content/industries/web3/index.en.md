@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "web3-industry-icon"
 ---
 
-# Web3
-
 ## Leading Decentralization
 
 We design creative and innovative decentralized solutions for public and private protocols of the new internet.

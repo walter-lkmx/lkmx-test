@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "healthcare-industry-icon"
 ---
 
-# Salud
-
 ## Mejorando la Atención al Paciente
 
 Integramos tecnologías de vanguardia con conocimientos médicos para revolucionar la entrega y gestión de la atención, mejorando los resultados para los pacientes y optimizando las operaciones.

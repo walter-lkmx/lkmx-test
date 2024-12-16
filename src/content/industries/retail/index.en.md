@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "retail-industry-icon"
 ---
 
-# Retail
-
 ## Boosting Sales
 
 Leveraging technology to enhance the shopping experience and operational efficiency is paramount. Here are the capabilities that apply directly to elevating both customer service and supply chain management.

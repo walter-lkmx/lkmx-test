@@ -8,8 +8,6 @@ storyType: "industrie"
 iconName: "pharma-industry-icon"
 ---
 
-# Pharma
-
 ## Supporting Innovation
 
 We enhance drug development, manufacturing efficiencies, and patient outcomes. Our solutions prioritize safety and compliance, ensuring that clients can deliver superior healthcare products and services.
