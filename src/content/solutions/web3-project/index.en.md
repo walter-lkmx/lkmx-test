@@ -1,7 +1,7 @@
 ---
 number: 18
 title: ["Web3 Project"]
-description: "https://docs.logickernel.com/doc/solutions-PzFBVNUAvT"
+description: "Developing innovative Web3 projects that leverage blockchain technology to create decentralized and secure digital solutions."
 thumbnail: "web3-project-thumbnail"
 cover: "web3-project-cover"
 storyType: "solution"
