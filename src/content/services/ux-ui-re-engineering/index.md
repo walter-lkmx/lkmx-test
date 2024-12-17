@@ -3,10 +3,8 @@ title: "UX/UI Re Engineering"
 description: ""
 cover: "ux-ui-re-engineering-cover"
 iconName: "ux-ui-re-engineering-icon"
-storyType: "services"
+storyType: "consulting"
 ---
-
-# Reingeniería de UX/UI
 
 Revitaliza tu presencia digital con diseños centrados en el usuario que mejoran la experiencia y la eficiencia, satisfaciendo las demandas del mercado en evolución.
 
@@ -42,7 +40,6 @@ Desarrolla prototipos y realiza pruebas de usabilidad para validar las mejoras d
 
 ## Beneficios Clave
 
-
 ### Diseño Centrado en el Usuario
 
 Crea diseños que se enfocan en las necesidades y preferencias del usuario, mejorando la satisfacción y usabilidad en general.
@@ -64,5 +61,3 @@ Mantente a la vanguardia con diseños modernos e intuitivos que se alinean con l
 Las interfaces rediseñadas mejoran el rendimiento y la escalabilidad, asegurando que tus productos digitales sean robustos y receptivos.
 
 ## Construye el Futuro
-
-**Comienza tu Viaje**

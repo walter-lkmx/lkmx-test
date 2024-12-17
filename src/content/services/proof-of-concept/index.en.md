@@ -3,10 +3,8 @@ title: "Proof Of Concept"
 description: ""
 cover: "proof-of-concept-cover"
 iconName: "proof-of-concept-icon"
-storyType: "services"
+storyType: "engineering"
 ---
-
-# Proof of Concept
 
 Safely explore business-boosting concepts before taking them to market with robust testing, project predictions, and expert roadmapping.
 
@@ -31,5 +29,3 @@ Collaborate with stakeholders to manage feedback and conduct market acceptance t
 Receive comprehensive project evaluations to develop a roadmap for future success, maximizing project efficiency and effectiveness.
 
 ## Refine and test your ideas.
-
-**Start your PoC**

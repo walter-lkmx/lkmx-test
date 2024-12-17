@@ -3,10 +3,8 @@ title: "Proof Of Concept"
 description: ""
 cover: "proof-of-concept-cover"
 iconName: "proof-of-concept-icon"
-storyType: "services"
+storyType: "engineering"
 ---
-
-# Pruebas de Concepto
 
 Explora de manera segura conceptos que impulsan el negocio antes de llevarlos al mercado con pruebas robustas, predicciones de proyectos y planificación experta.
 
@@ -31,5 +29,3 @@ Colabora con las partes interesadas para gestionar la retroalimentación y reali
 Recibe evaluaciones completas del proyecto para desarrollar una hoja de ruta hacia el éxito futuro, maximizando la eficiencia y efectividad del proyecto.
 
 ## Refina y Prueba tus Ideas
-
-**Comienza tu Viaje**

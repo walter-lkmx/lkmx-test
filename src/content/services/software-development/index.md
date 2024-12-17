@@ -3,10 +3,8 @@ title: "Software Development"
 description: ""
 cover: "software-development-cover"
 iconName: "software-development-icon"
-storyType: "services"
+storyType: "engineering"
 ---
-
-# Desarrollo de Software
 
 Cuando el alcance y las limitaciones de un producto se pueden describir en historias, los equipos de desarrollo dan vida a la solución una iteración a la vez.
 
@@ -57,5 +55,3 @@ Mantén una comunicación constante con actualizaciones de progreso en tiempo re
 ## Construye el Futuro
 
 Transforma visiones en realidad con equipos de ingeniería expertos que guían cada paso del camino.
-
-**Contáctanos**

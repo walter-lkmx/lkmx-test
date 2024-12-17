@@ -3,10 +3,8 @@ title: "Discovery"
 description: ""
 cover: "discovery-cover"
 iconName: "discovery-icon"
-storyType: "services"
+storyType: "consulting"
 ---
-
-# Discovery
 
 Unlock your project's potential with our Discovery services. Identify key business challenges and opportunities through detailed analysis and strategic planning.
 
@@ -51,5 +49,3 @@ Make informed decisions based on comprehensive data analysis and expert recommen
 Foster collaboration between business units and stakeholders, ensuring that everyone is aligned and working towards common goals.
 
 ## Build the Future
-
-**Start Your Journey**

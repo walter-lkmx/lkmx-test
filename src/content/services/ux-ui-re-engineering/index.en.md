@@ -3,10 +3,8 @@ title: "UX/UI Re Engineering"
 description: ""
 cover: "ux-ui-re-engineering-cover"
 iconName: "ux-ui-re-engineering-icon"
-storyType: "services"
+storyType: "consulting"
 ---
-
-# UX/UI Re-engineering
 
 Revitalize your digital presence with user-centric designs that enhance experience and efficiency, meeting evolving market demands.
 

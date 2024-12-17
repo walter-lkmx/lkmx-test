@@ -6,27 +6,19 @@ iconName: "engineering-icon"
 storyType: "services"
 ---
 
-# Engineering
-
 Empower your business with innovative engineering solutions, from initial concept to ongoing support, ensuring scalability and reliability.
 
 ### Proof of Concept
 
 Validate your ideas quickly and effectively. This service tests feasibility and functionality, reducing risks before full-scale development.
 
-Learn more
-
 ### Epic Development
 
 Deliver scalable, high-performance software solutions tailored to unique business requirements, ensuring growth and operational excellence.
 
-Learn more
-
 ### Maintenance and Support
 
 Provide ongoing updates, troubleshooting, and enhancements to keep software systems robust, secure, and up-to-date.
-
-Learn more
 
 ## Key Benefits
 
@@ -53,5 +45,3 @@ Work with a team of experienced engineers who provide valuable insights and expe
 ## Transform Your Ideas into Reality 
 
 Empower your projects with our engineering expertise, ensuring innovative solutions and successful outcomes. 
-
-**Get Started**

@@ -3,10 +3,8 @@ title: "Staff Augmentation"
 description: ""
 cover: "staff-augmentation-cover"
 iconName: "staff-augmentation-icon"
-storyType: "services"
+storyType: "teams"
 ---
-
-# Staff Augmentation
 
 Las capacidades de cualquier equipo técnico pueden ampliarse con uno o varios ingenieros de software con las mejores habilidades técnicas y blandas que se integran perfectamente en el flujo de trabajo y la cultura empresarial.
 
@@ -39,5 +37,3 @@ Todo el personal aumentado firma acuerdos de confidencialidad (NDAs) y sigue est
 ## Impulsa Tu Equipo
 
 Mejora las capacidades de tu equipo con nuestros servicios flexibles y expertos de aumento de personal.
-
-**Comienza Hoy**

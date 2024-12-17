@@ -3,10 +3,8 @@ title: "Software Development"
 description: ""
 cover: "software-development-cover"
 iconName: "software-development-icon"
-storyType: "services"
+storyType: "engineering"
 ---
-
-# Software Development
 
 When the scope and limitations of a product can be described in stories, the development teams bring the solution to life one iteration at a time.
 
@@ -57,5 +55,3 @@ Maintain constant communication with real-time progress updates, scope discussio
 ## Build The Future
 
 Transform visions into reality with expert engineering teams guiding every step of the way.
-
-Contact Us

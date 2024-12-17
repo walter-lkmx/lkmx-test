@@ -3,10 +3,8 @@ title: "Maintenance And Support"
 description: ""
 cover: "maintenance-and-support-cover"
 iconName: "maintenance-and-support-icon"
-storyType: "services"
+storyType: "engineering"
 ---
-
-# Maintenance and Support
 
 Ensure seamless operation with subscription-based projects that guarantee continuous delivery and meet any SLA requirements.
 
@@ -35,5 +33,3 @@ Provide consistent updates on system status, issue resolution, and ongoing maint
 ## Build the Future
 
 Maintain system stability and performance.
-
-**Contact Us**

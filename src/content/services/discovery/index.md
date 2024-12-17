@@ -3,10 +3,8 @@ title: "Discovery"
 description: ""
 cover: "discovery-cover"
 iconName: "discovery-icon"
-storyType: "services"
+storyType: "consulting"
 ---
-
-# Discovery
 
 Desbloquea el potencial de tu proyecto con nuestros servicios de Discovery. Identifica desafíos y oportunidades clave del negocio a través de un análisis detallado y una planificación estratégica.
 
@@ -16,7 +14,7 @@ Desbloquea el potencial de tu proyecto con nuestros servicios de Discovery. Iden
 
 Analiza y redefine objetivos, identificando obstáculos para trazar una ruta de implementación viable.
 
-### **Rapid prototyping**
+### Rapid prototyping
 
 Entrega iteraciones constantes de prototipos, mostrando vistas y escenarios para maximizar el tiempo de desarrollo.
 
@@ -51,5 +49,3 @@ Toma decisiones informadas basadas en un análisis de datos integral y recomenda
 Fomenta la colaboración entre las unidades de negocio y las partes interesadas, asegurando que todos estén alineados y trabajen hacia objetivos comunes.
 
 ## Construye el Futuro
-
-**Comienza tu Viaje**

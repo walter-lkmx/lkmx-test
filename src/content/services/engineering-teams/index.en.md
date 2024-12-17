@@ -3,10 +3,8 @@ title: "Engineering Teams"
 description: ""
 cover: "engineering-teams-cover"
 iconName: "engineering-teams-icon"
-storyType: "services"
+storyType: "teams"
 ---
-
-# Engineering Teams
 
 Full-featured software engineering teams including Project Managers, Business Analysts, UI/UX Designers, Software Engineers and Quality Assurance Engineers can be allocated to deliver a negotiated scope every iteration, always on time.
 
@@ -31,5 +29,3 @@ Quality and consistency are maintained through rigorous testing, regular reviews
 ## Empower Your Projects
 
 Enhance tech capabilities with our Engineering Teams, ensuring you have the best talent on board.
-
-__Hire Expertise__

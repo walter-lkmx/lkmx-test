@@ -3,10 +3,8 @@ title: "Staff Augmentation"
 description: ""
 cover: "staff-augmentation-cover"
 iconName: "staff-augmentation-icon"
-storyType: "services"
+storyType: "teams"
 ---
-
-# Staff Augmentation
 
 The capabilities of any technical team can be extended with single or multiple software engineers with the strongest technical and soft skills that seamlessly integrate into the workflow and company culture.
 
@@ -39,5 +37,3 @@ All augmented staff sign non-disclosure agreements (NDAs) and adhere to strict s
 ## Boost Your Team
 
 Enhance your team's capabilities with our flexible and expert staff augmentation services.
-
-**Get Started Today**

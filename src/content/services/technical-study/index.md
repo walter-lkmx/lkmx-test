@@ -3,10 +3,8 @@ title: "Technical Study"
 description: ""
 cover: "technical-study-cover"
 iconName: "technical-study-icon"
-storyType: "services"
+storyType: "consulting"
 ---
-
-# Estudio Técnico
 
 Realiza estudios técnicos profundos para evaluar la viabilidad, el rendimiento y el impacto de las soluciones propuestas, asegurando una toma de decisiones óptima.
 
@@ -55,5 +53,3 @@ Asegura que las soluciones propuestas sean capaces de ofrecer los niveles de ren
 Alinea las soluciones técnicas con tus objetivos y metas comerciales, asegurando que todos los proyectos contribuyan a tu estrategia general.
 
 ## Construye el Futuro
-
-**Comienza tu Viaje**

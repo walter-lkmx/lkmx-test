@@ -3,10 +3,8 @@ title: "Technical Study"
 description: ""
 cover: "technical-study-cover"
 iconName: "technical-study-icon"
-storyType: "services"
+storyType: "consulting"
 ---
-
-# Technical Study
 
 Conduct in-depth technical studies to evaluate the feasibility, performance, and impact of proposed solutions, ensuring optimal decision-making.
 
@@ -55,5 +53,3 @@ Ensure that proposed solutions are capable of delivering the desired performance
 Align technical solutions with your business goals and objectives, ensuring that all projects contribute to your overall strategy.
 
 ## Build the Future
-
-**Start Your Journey**
