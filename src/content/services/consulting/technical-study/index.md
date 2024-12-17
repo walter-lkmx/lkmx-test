@@ -1,6 +1,6 @@
 ---
 title: "Technical Study"
-description: ""
+description: "Evalúa meticulosamente los requisitos técnicos y las limitaciones para proporcionar información procesable que guíe la toma de decisiones informadas y la planificación estratégica."
 cover: "technical-study-cover"
 iconName: "technical-study-icon"
 storyType: "services"

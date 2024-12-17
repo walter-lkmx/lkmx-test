@@ -1,6 +1,6 @@
 ---
 title: "UX/UI Re Engineering"
-description: ""
+description: "Revitaliza tu presencia digital con diseños centrados en el usuario, mejorando la experiencia del usuario y la eficiencia de la interfaz para satisfacer las demandas del mercado en evolución."
 cover: "ux-ui-re-engineering-cover"
 iconName: "ux-ui-re-engineering-icon"
 storyType: "services"

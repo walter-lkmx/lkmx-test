@@ -1,6 +1,6 @@
 ---
 title: "Proof Of Concept"
-description: ""
+description: "Valida tus ideas de manera rápida y efectiva. Este servicio prueba la viabilidad y funcionalidad, reduciendo riesgos antes del desarrollo a gran escala."
 cover: "proof-of-concept-cover"
 iconName: "proof-of-concept-icon"
 storyType: "services"

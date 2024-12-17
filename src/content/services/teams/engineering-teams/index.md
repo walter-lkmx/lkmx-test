@@ -1,6 +1,6 @@
 ---
 title: "Engineering Teams"
-description: ""
+description: "Equipos de ingeniería completos, incluyendo Gerentes de Proyecto, Analistas, Diseñadores, Ingenieros y QA, entregan alcances negociados a tiempo."
 cover: "engineering-teams-cover"
 iconName: "engineering-teams-icon"
 storyType: "services"

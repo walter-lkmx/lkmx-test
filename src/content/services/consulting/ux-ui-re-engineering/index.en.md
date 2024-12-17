@@ -1,6 +1,6 @@
 ---
 title: "UX/UI Re Engineering"
-description: ""
+description: "Revitalize your digital presence with user-centric designs, enhancing user experience and interface efficiency to meet evolving market demands."
 cover: "ux-ui-re-engineering-cover"
 iconName: "ux-ui-re-engineering-icon"
 storyType: "services"

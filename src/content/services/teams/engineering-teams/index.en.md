@@ -1,6 +1,6 @@
 ---
 title: "Engineering Teams"
-description: ""
+description: "Full-featured engineering teams, including Project Managers, Analysts, Designers, Engineers, and QA, deliver negotiated scopes on time."
 cover: "engineering-teams-cover"
 iconName: "engineering-teams-icon"
 storyType: "services"

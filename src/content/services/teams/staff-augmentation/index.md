@@ -1,6 +1,6 @@
 ---
 title: "Staff Augmentation"
-description: ""
+description: "Amplía tu equipo técnico con ingenieros de software capacitados que se integran perfectamente en tu flujo de trabajo y cultura empresarial."
 cover: "staff-augmentation-cover"
 iconName: "staff-augmentation-icon"
 storyType: "services"

@@ -1,6 +1,6 @@
 ---
 title: "Discovery"
-description: ""
+description: "Identify and clarify project goals with comprehensive assessments and targeted analyses, ensuring optimal alignment with business objectives."
 cover: "discovery-cover"
 iconName: "discovery-icon"
 storyType: "services"

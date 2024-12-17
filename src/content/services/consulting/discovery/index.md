@@ -1,6 +1,6 @@
 ---
 title: "Discovery"
-description: ""
+description: "Identifica y aclara los objetivos del proyecto con evaluaciones integrales y análisis específicos, asegurando una alineación óptima con los objetivos comerciales."
 cover: "discovery-cover"
 iconName: "discovery-icon"
 storyType: "services"

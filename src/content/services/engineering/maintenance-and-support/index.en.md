@@ -1,6 +1,6 @@
 ---
 title: "Maintenance And Support"
-description: ""
+description: "Provide ongoing updates, troubleshooting, and enhancements to keep software systems robust, secure, and up-to-date."
 cover: "maintenance-and-support-cover"
 iconName: "maintenance-and-support-icon"
 storyType: "services"

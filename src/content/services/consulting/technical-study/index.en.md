@@ -1,6 +1,6 @@
 ---
 title: "Technical Study"
-description: ""
+description: "Evaluate technical requirements and constraints meticulously to provide actionable insights that guide informed decision-making and strategic planning."
 cover: "technical-study-cover"
 iconName: "technical-study-icon"
 storyType: "services"

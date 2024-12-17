@@ -1,6 +1,6 @@
 ---
 title: "Software Development"
-description: ""
+description: "Deliver scalable, high-performance software solutions tailored to unique business requirements, ensuring growth and operational excellence."
 cover: "software-development-cover"
 iconName: "software-development-icon"
 storyType: "services"
