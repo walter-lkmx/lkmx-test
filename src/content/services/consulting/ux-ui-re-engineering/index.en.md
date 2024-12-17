@@ -3,7 +3,9 @@ title: "UX/UI Re Engineering"
 description: ""
 cover: "ux-ui-re-engineering-cover"
 iconName: "ux-ui-re-engineering-icon"
-storyType: "consulting"
+storyType: "services"
+parentService: "consulting"  # Referencia al servicio padre
+order: 3  # Para ordenar dentro de su categoría
 ---
 
 Revitalize your digital presence with user-centric designs that enhance experience and efficiency, meeting evolving market demands.

@@ -3,7 +3,9 @@ title: "Proof Of Concept"
 description: ""
 cover: "proof-of-concept-cover"
 iconName: "proof-of-concept-icon"
-storyType: "engineering"
+storyType: "services"
+parentService: "engineering"  # Referencia al servicio padre
+order: 2  # Para ordenar dentro de su categoría
 ---
 
 Explora de manera segura conceptos que impulsan el negocio antes de llevarlos al mercado con pruebas robustas, predicciones de proyectos y planificación experta.

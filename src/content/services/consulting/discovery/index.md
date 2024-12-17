@@ -3,7 +3,9 @@ title: "Discovery"
 description: ""
 cover: "discovery-cover"
 iconName: "discovery-icon"
-storyType: "consulting"
+storyType: "services"
+parentService: "consulting"  # Referencia al servicio padre
+order: 1  # Para ordenar dentro de su categoría
 ---
 
 Desbloquea el potencial de tu proyecto con nuestros servicios de Discovery. Identifica desafíos y oportunidades clave del negocio a través de un análisis detallado y una planificación estratégica.

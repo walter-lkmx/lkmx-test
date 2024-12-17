@@ -4,6 +4,8 @@ description: ""
 cover: "engineering-cover"
 iconName: "engineering-icon"
 storyType: "services"
+isMainCategory: true
+order: 2 
 ---
 
 Empower your business with innovative engineering solutions, from initial concept to ongoing support, ensuring scalability and reliability.

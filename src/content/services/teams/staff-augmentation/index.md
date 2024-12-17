@@ -3,7 +3,7 @@ title: "Staff Augmentation"
 description: ""
 cover: "staff-augmentation-cover"
 iconName: "staff-augmentation-icon"
-storyType: "teams"
+storyType: "services"
 ---
 
 Las capacidades de cualquier equipo técnico pueden ampliarse con uno o varios ingenieros de software con las mejores habilidades técnicas y blandas que se integran perfectamente en el flujo de trabajo y la cultura empresarial.

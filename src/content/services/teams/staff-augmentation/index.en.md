@@ -3,7 +3,7 @@ title: "Staff Augmentation"
 description: ""
 cover: "staff-augmentation-cover"
 iconName: "staff-augmentation-icon"
-storyType: "teams"
+storyType: "services"
 ---
 
 The capabilities of any technical team can be extended with single or multiple software engineers with the strongest technical and soft skills that seamlessly integrate into the workflow and company culture.

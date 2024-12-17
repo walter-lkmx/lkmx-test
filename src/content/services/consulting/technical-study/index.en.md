@@ -3,7 +3,9 @@ title: "Technical Study"
 description: ""
 cover: "technical-study-cover"
 iconName: "technical-study-icon"
-storyType: "consulting"
+storyType: "services"
+parentService: "consulting"  # Referencia al servicio padre
+order: 2  # Para ordenar dentro de su categoría
 ---
 
 Conduct in-depth technical studies to evaluate the feasibility, performance, and impact of proposed solutions, ensuring optimal decision-making.

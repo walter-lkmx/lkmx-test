@@ -3,7 +3,9 @@ title: "Technical Study"
 description: ""
 cover: "technical-study-cover"
 iconName: "technical-study-icon"
-storyType: "consulting"
+storyType: "services"
+parentService: "consulting"  # Referencia al servicio padre
+order: 2  # Para ordenar dentro de su categoría
 ---
 
 Realiza estudios técnicos profundos para evaluar la viabilidad, el rendimiento y el impacto de las soluciones propuestas, asegurando una toma de decisiones óptima.

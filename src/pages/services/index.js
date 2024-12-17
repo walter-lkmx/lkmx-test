@@ -13,23 +13,24 @@ import { getServicesIndexed } from '@/lib/content';
 
 export async function getStaticProps({ locale }) {
   try {
+    // Obtener solo los servicios principales
     const services = await getServicesIndexed(locale);
     return {
       props: {
-        services: services || [] // Aseguramos que siempre haya un array
+        services: services || []
       }
     }
   } catch (error) {
     console.error('Error fetching services:', error);
     return {
       props: {
-        services: [] // En caso de error, retornamos un array vacío
+        services: []
       }
     }
   }
 }
 
-export default function ServicesPage({ services = [] }) { // Valor por defecto para services
+export default function ServicesPage({ services = [] }) {
   const { locale } = useRouter();
   const $t = getLang(locale);
 
@@ -74,6 +75,62 @@ export default function ServicesPage({ services = [] }) { // Valor por defecto p
           </div>
         </Banner>
 
+        <Column mode="full" className={styles['page__phases-links']}>
+          <Block className={styles.page__phasesBox}>
+            <div>
+              <div className={styles.page__phases}>
+                <div className={styles.page__phases__discovery}>
+                  <Link href="/services/discovery" legacyBehavior>
+                    <Image
+                      fill
+                      src="/phases/discovery_default.svg"
+                      alt="discovery"
+                    />
+                  </Link>
+                </div>
+                <div className={styles.page__phases__agileDev}>
+                  <Link href="/services/agileDevelopment" legacyBehavior>
+                    <Image
+                      fill
+                      src="/phases/agile-dev_default.svg"
+                      alt="discovery"
+                    />
+                  </Link>                  
+                </div>
+                <div className={styles.page__phases__agileMain}>
+                  <Link href="/services/agileMaintenance" legacyBehavior>
+                    <Image
+                      fill
+                      src="/phases/agile-maintenance_default.svg"
+                      alt="discovery"
+                    />
+                  </Link>                  
+                </div>
+                <div className={styles.page__phases__scopeDev}>
+                  <Link href="/services/scopeDevelopment" legacyBehavior>
+                    <Image
+                      fill
+                      src="/phases/scope-dev_default.svg"
+                      alt="discovery"
+                    />
+                  </Link>                  
+                </div>
+                <div className={styles.page__phases__contSup}>
+                  <Link href="/services/continuousSupport" legacyBehavior>
+                    <Image
+                      fill
+                      src="/phases/cont-support_default.svg"
+                      alt="discovery"
+                    />
+                  </Link>                  
+                </div>
+              </div>              
+              <div className={styles['page__phases-links__arrow']}>
+                <div></div>
+              </div>
+            </div>
+          </Block>
+        </Column>
 
         <Column numberS={1} modeL="normal" modeS="full" className={styles.page__phases2}>
           <Block className={styles.page__phases__block}>

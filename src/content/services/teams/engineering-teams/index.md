@@ -3,7 +3,7 @@ title: "Engineering Teams"
 description: ""
 cover: "engineering-teams-cover"
 iconName: "engineering-teams-icon"
-storyType: "teams"
+storyType: "services"
 ---
 
 Equipos completos de ingeniería de software, incluyendo Gerentes de Proyecto, Analistas de Negocios, Diseñadores UI/UX, Ingenieros de Software y Ingenieros de Aseguramiento de Calidad, pueden asignarse para entregar un alcance negociado en cada iteración, siempre a tiempo.

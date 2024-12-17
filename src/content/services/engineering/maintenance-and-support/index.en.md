@@ -3,7 +3,9 @@ title: "Maintenance And Support"
 description: ""
 cover: "maintenance-and-support-cover"
 iconName: "maintenance-and-support-icon"
-storyType: "engineering"
+storyType: "services"
+parentService: "engineering"  # Referencia al servicio padre
+order: 1  # Para ordenar dentro de su categoría
 ---
 
 Ensure seamless operation with subscription-based projects that guarantee continuous delivery and meet any SLA requirements.

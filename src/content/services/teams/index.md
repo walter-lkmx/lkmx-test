@@ -4,6 +4,8 @@ description: ""
 cover: "teams-cover"
 iconName: "teams-icon"
 storyType: "services"
+isMainCategory: true
+order: 3 
 ---
 
 Nuestros servicios de Equipos ofrecen personal técnico flexible y eficiente con profesionales altamente capacitados, asegurando experiencia técnica y adaptabilidad a tus necesidades.

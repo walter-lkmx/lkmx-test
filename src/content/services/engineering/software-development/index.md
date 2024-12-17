@@ -3,7 +3,9 @@ title: "Software Development"
 description: ""
 cover: "software-development-cover"
 iconName: "software-development-icon"
-storyType: "engineering"
+storyType: "services"
+parentService: "engineering"  # Referencia al servicio padre
+order: 3  # Para ordenar dentro de su categoría
 ---
 
 Cuando el alcance y las limitaciones de un producto se pueden describir en historias, los equipos de desarrollo dan vida a la solución una iteración a la vez.

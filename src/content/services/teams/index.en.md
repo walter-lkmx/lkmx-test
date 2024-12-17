@@ -4,6 +4,8 @@ description: ""
 cover: "teams-cover"
 iconName: "teams-icon"
 storyType: "services"
+isMainCategory: true
+order: 3 
 ---
 
 Our Teams services offer flexible, efficient technical staffing with highly skilled professionals, ensuring technical expertise and adaptability to your needs.

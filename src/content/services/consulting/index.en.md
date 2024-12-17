@@ -4,6 +4,8 @@ description: ""
 cover: "consulting-cover"
 iconName: "consulting-icon"
 storyType: "services"
+isMainCategory: true
+order: 1 
 ---
 
 Unlock your project's potential with strategic guidance. Our advanced techniques clarify business objectives before any development investment.
