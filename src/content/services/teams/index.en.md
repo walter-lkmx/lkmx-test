@@ -1,6 +1,6 @@
 ---
 title: "Teams"
-description: ""
+description: "Our Teams services offer flexible, efficient technical staffing with highly skilled professionals, ensuring technical expertise and adaptability to your needs."
 cover: "teams-cover"
 iconName: "teams-icon"
 storyType: "services"

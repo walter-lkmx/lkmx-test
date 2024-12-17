@@ -1,6 +1,6 @@
 ---
 title: "Consulting"
-description: ""
+description: "Unlock your project's potential with strategic guidance. Our advanced techniques clarify business objectives before any development investment."
 cover: "consulting-cover"
 iconName: "consulting-icon"
 storyType: "services"

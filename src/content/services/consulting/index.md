@@ -1,6 +1,6 @@
 ---
 title: "Consulting"
-description: ""
+description: "Desbloquea el potencial de tu proyecto con orientación estratégica. Nuestras técnicas avanzadas clarifican los objetivos comerciales antes de cualquier inversión en desarrollo."
 cover: "consulting-cover"
 iconName: "consulting-icon"
 storyType: "services"

@@ -1,6 +1,6 @@
 ---
 title: "Engineering"
-description: ""
+description: "Empower your business with innovative engineering solutions, from initial concept to ongoing support, ensuring scalability and reliability."
 cover: "engineering-cover"
 iconName: "engineering-icon"
 storyType: "services"

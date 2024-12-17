@@ -75,7 +75,7 @@ export default function ServicesPage({ services = [] }) {
           </div>
         </Banner>
 
-        <Column mode="full" className={styles['page__phases-links']}>
+        {/* <Column mode="full" className={styles['page__phases-links']}>
           <Block className={styles.page__phasesBox}>
             <div>
               <div className={styles.page__phases}>
@@ -130,7 +130,7 @@ export default function ServicesPage({ services = [] }) {
               </div>
             </div>
           </Block>
-        </Column>
+        </Column> */}
 
         <Column numberS={1} modeL="normal" modeS="full" className={styles.page__phases2}>
           <Block className={styles.page__phases__block}>
