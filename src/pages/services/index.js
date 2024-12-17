@@ -9,9 +9,27 @@ import HeadSeo from "../../components/HeadSeo"
 import { useRouter } from "next/router";
 import Link from "next/link";
 import Image from "next/image";
+import { getServicesIndexed } from '@/lib/content';
 
-export default function ServicesPage() {
+export async function getStaticProps({ locale }) {
+  try {
+    const services = await getServicesIndexed(locale);
+    return {
+      props: {
+        services: services || [] // Aseguramos que siempre haya un array
+      }
+    }
+  } catch (error) {
+    console.error('Error fetching services:', error);
+    return {
+      props: {
+        services: [] // En caso de error, retornamos un array vacío
+      }
+    }
+  }
+}
 
+export default function ServicesPage({ services = [] }) { // Valor por defecto para services
   const { locale } = useRouter();
   const $t = getLang(locale);
 
@@ -25,7 +43,6 @@ export default function ServicesPage() {
       />
 
       <Page className={styles.page}>
-
         <Column number={2} numberS={1} className={styles.page__services} weight="right" weightS="Normal" modeXl="normal" modeL="full" modeM="full">
           <Block className={styles.page__services__block}>
             <div className={styles.page__services__content}>
@@ -35,9 +52,9 @@ export default function ServicesPage() {
           </Block>
           <Block className={styles.page__services__dragon}>
             <div className={styles.page__services__dragon__content}>
-            <div className={styles.page__services__dragon__content__elipseContainer}>
-              <Image fill priority src="/dragonServices.svg" alt="ellipse" className={styles.page__services__dragon__content__elipseContainer__elipse}/>
-            </div>
+              <div className={styles.page__services__dragon__content__elipseContainer}>
+                <Image fill priority src="/dragonServices.svg" alt="ellipse" className={styles.page__services__dragon__content__elipseContainer__elipse}/>
+              </div>
             </div>
           </Block>
         </Column>
@@ -57,118 +74,24 @@ export default function ServicesPage() {
           </div>
         </Banner>
 
-        <Column mode="full" className={styles['page__phases-links']}>
-          <Block className={styles.page__phasesBox}>
-            <div>
-              <div className={styles.page__phases}>
-                <div className={styles.page__phases__discovery}>
-                  <Link href="/services/discovery" legacyBehavior>
-                    <Image
-                    fill
-                    src="/phases/discovery_default.svg"
-                    alt="discovery"
-                    />
-                  </Link>
-                </div>
-                <div className={styles.page__phases__agileDev}>
-                  <Link href="/services/agileDevelopment" legacyBehavior>
-                    <Image
-                    fill
-                    src="/phases/agile-dev_default.svg"
-                    alt="discovery"
-                    />
-                  </Link>                  
-                </div>
-                <div className={styles.page__phases__agileMain}>
-                  <Link href="/services/agileMaintenance" legacyBehavior>
-                    <Image
-                    fill
-                    src="/phases/agile-maintenance_default.svg"
-                    alt="discovery"
-                    />
-                  </Link>                  
-                </div>
-                <div className={styles.page__phases__scopeDev}>
-                  <Link href="/services/scopeDevelopment" legacyBehavior>
-                    <Image
-                    fill
-                    src="/phases/scope-dev_default.svg"
-                    alt="discovery"
-                    />
-                  </Link>                  
-                </div>
-                <div className={styles.page__phases__contSup}>
-                  <Link href="/services/continuousSupport" legacyBehavior>
-                    <Image
-                    fill
-                    src="/phases/cont-support_default.svg"
-                    alt="discovery"
-                    />
-                  </Link>                  
-                </div>
-              </div>              
-              {/* <PhasesSvg className={styles['page__phases-links__svg-desktop']}/>
-              <PhasesMobileSvg className={styles['page__phases-links__svg-mobile']}/> */}
-              <div className={styles['page__phases-links__arrow']}>
-                <div></div>
-              </div>
-            </div>
-          </Block>
-        </Column>
 
         <Column numberS={1} modeL="normal" modeS="full" className={styles.page__phases2}>
           <Block className={styles.page__phases__block}>
             <div className={styles.page__phases__content}>
-              <div>
-                <h3>DISCOVERY</h3>
-                <p>{$t.services.phases[0]}</p>
-                <Link href="/services/discovery" legacyBehavior>
-                  <div className={styles.page__iconContainer}>
-                    <Image fill src="/icons/arrow-right--pink.svg" alt="arrow"/>
-                  </div>                  
-                </Link> 
-              </div>
-              <div>
-                <h3>AGILE<br/>DEVELOPMENT</h3>
-                <p>{$t.services.phases[1]}</p>
-                <Link href="/services/agileDevelopment" legacyBehavior>
-                  <div className={styles.page__iconContainer}>
-                    <Image fill src="/icons/arrow-right--pink.svg" alt="arrow"/>
-                  </div>  
-                </Link>
-                
-              </div>
-              <div>
-                <h3>AGILE <br/>MAINTENANCE</h3>
-                <p>{$t.services.phases[2]}</p>
-                <Link href="/services/agileMaintenance" legacyBehavior>
-                  <div className={styles.page__iconContainer}>
-                    <Image fill src="/icons/arrow-right--pink.svg" alt="arrow"/>
-                  </div>    
-                </Link> 
-              </div>
-              <div>
-                <h3>Scope <br/>Development</h3>
-                <p>{$t.services.phases[3]}</p>
-                <Link href="/services/scopeDevelopment" legacyBehavior>
-                  <div className={styles.page__iconContainer}>
-                    <Image fill src="/icons/arrow-right--pink.svg" alt="arrow"/>
-                  </div>    
-                </Link> 
-              </div>
-              <div>
-                <h3>Continuous <br/>Support</h3>
-                <p>{$t.services.phases[4]}</p>
-                <Link href="/services/continuousSupport" legacyBehavior>
-                  <div className={styles.page__iconContainer}>
-                    <Image fill src="/icons/arrow-right--pink.svg" alt="arrow"/>
-                  </div>    
-                </Link> 
-              </div>
+              {Array.isArray(services) && services.map((service, index) => (
+                <div key={service.route || index}>
+                  <h3>{service.title || ''}</h3>
+                  <p>{service.description || ''}</p>
+                  <Link href={service.route || '#'} legacyBehavior>
+                    <div className={styles.page__iconContainer}>
+                      <Image fill src="/icons/arrow-right--pink.svg" alt="arrow"/>
+                    </div>    
+                  </Link> 
+                </div>
+              ))}
             </div>
           </Block>
         </Column>
-
       </Page>
     </BaseLayout>
   );

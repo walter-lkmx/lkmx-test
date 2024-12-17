@@ -1,5 +1,3 @@
-// Ruta del archivo: src/lib/content.js
-
 import path from 'path'
 import { remark } from 'remark'
 import html from 'remark-html'
@@ -16,6 +14,10 @@ const COLLECTIONS = {
     },
     industries: {
         path: 'src/content/industries',
+        excludedIds: []
+    },
+    services: {
+        path: 'src/content/services',
         excludedIds: []
     }
 }
@@ -145,3 +147,9 @@ export const getSortedIndustriesData = (locale) => getSortedCollectionData('indu
 export const getIndustriesIndexed = (locale) => getCollectionIndexed('industries', locale)
 export const getIndustryData = (id, locale) => getCollectionItemData('industries', id, locale)
 export const getAllIndustriesIds = (locales) => getAllCollectionIds('industries', locales)
+
+// Funciones específicas para services
+export const getSortedServicesData = (locale) => getSortedCollectionData('services', locale)
+export const getServicesIndexed = (locale) => getCollectionIndexed('services', locale)
+export const getServiceData = (id, locale) => getCollectionItemData('services', id, locale)
+export const getAllServicesIds = (locales) => getAllCollectionIds('services', locales)
