@@ -10,8 +10,6 @@ iconName: "heart-pulse"
 
 Conectamos a pacientes y profesionales de la salud de manera segura y eficiente, mejorando la accesibilidad y calidad de la atención médica.
 
-
-
 ## Características Clave
 
 ### Registro de Usuarios

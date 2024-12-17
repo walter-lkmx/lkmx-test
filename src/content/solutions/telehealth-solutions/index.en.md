@@ -10,8 +10,6 @@ iconName: "heart-pulse"
 
 We securely and efficiently connect patients and healthcare professionals, enhancing accessibility and quality of care with advanced technology.
 
-
-
 ## Key Features
 
 ### User Registration
@@ -74,4 +72,3 @@ Ensure HIPAA compliance and secure patient data with thorough testing and best p
 
 Innovate patient care with our secure, efficient telehealth solutions. Connect seamlessly with patients and enhance healthcare delivery.
 
-**Transform Now**

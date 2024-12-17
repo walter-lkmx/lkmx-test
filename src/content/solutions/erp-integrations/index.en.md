@@ -72,25 +72,19 @@ Build scalable and secure cloud-based ERP software, enabling remote access and c
 
 We develop fully tailored ERP systems to meet specific business needs, ensuring optimal functionality and seamless integration.
 
-**Total Flexibility:** Tailored solutions adapt perfectly to your business processes, allowing necessary changes and optimizations.
-
-**Scalability:** Expand and adjust features according to your business growth and changing demands.
-
-**Complete Integration**: Integrate all your existing applications and systems for smoother, more efficient operations.
-
-**Custom Security**: Implement specific security measures tailored to your company's needs, protecting sensitive data and regulatory compliance.
+- **Total Flexibility:** Tailored solutions adapt perfectly to your business processes, allowing necessary changes and optimizations.
+- **Scalability:** Expand and adjust features according to your business growth and changing demands.
+- **Complete Integration**: Integrate all your existing applications and systems for smoother, more efficient operations.
+- **Custom Security**: Implement specific security measures tailored to your company's needs, protecting sensitive data and regulatory compliance.
 
 ### Advantages of Open Source Adaptation
 
 We customize and optimize open-source ERP solutions to offer a cost-effective, efficient option for your enterprise.
 
-**Reduced Costs**: Open-source solutions generally have lower initial costs and minimal licensing fees.
-
-**Community and Support** : Benefit from a broad community of developers and users contributing continuous improvements and support.
-
-**Transparency and Control**: Full access to the source code allows deep customizations and total control over functionalities.
-
-**Quick Implementation**: Deploy solutions faster by leveraging pre-existing modules and components.
+- **Reduced Costs**: Open-source solutions generally have lower initial costs and minimal licensing fees.
+- **Community and Support** : Benefit from a broad community of developers and users contributing continuous improvements and support.
+- **Transparency and Control**: Full access to the source code allows deep customizations and total control over functionalities.
+- **Quick Implementation**: Deploy solutions faster by leveraging pre-existing modules and components.
 
 ## Build the Future ERP
 
@@ -100,34 +94,11 @@ Enhance performance, reduce costs, and achieve a comprehensive, seamless view of
 
 Our ERP consultants leverage a variety of platforms and cutting-edge technologies to meet your enterprise's needs. Technologies and platforms we use include:
 
-**SAP**
-
-Leading ERP software providing comprehensive solutions for various business processes, from finance to supply chain management.
-
-**Oracle ERP Cloud**
-
-A complete, modern, cloud-based ERP suite that manages enterprise functions, including accounting, financial management, project management, and procurement.
-
-**Microsoft Dynamics 365**
-
-An intelligent cloud-based business application that combines CRM and ERP capabilities to streamline business processes and enhance customer engagement.
-
-**NetSuite**
-
-A robust ERP solution designed for small to medium-sized businesses, offering a range of functionalities including accounting, inventory management, and order management.
-
-**Infor**
-
-Industry-specific ERP solutions that leverage AI and machine learning to optimize business processes and decision-making.
-
-**Odoo**
-
-An open-source ERP platform offering a wide array of business applications that can be customized to meet specific organizational needs.
-
-**Epicor**
-
-A powerful ERP system designed for manufacturing, distribution, retail, and services industries, providing end-to-end solutions to manage business operations.
-
-**Workday**
-
-Cloud-based ERP software that focuses on financial management and human capital management, offering advanced analytics and real-time insights.
+- **SAP**: Leading ERP software providing comprehensive solutions for various business processes, from finance to supply chain management.
+- **Oracle ERP Cloud**: A complete, modern, cloud-based ERP suite that manages enterprise functions, including accounting, financial management, project management, and procurement.
+- **Microsoft Dynamics 365**: An intelligent cloud-based business application that combines CRM and ERP capabilities to streamline business processes and enhance customer engagement.
+- **NetSuite**: A robust ERP solution designed for small to medium-sized businesses, offering a range of functionalities including accounting, inventory management, and order management.
+- **Infor**: Industry-specific ERP solutions that leverage AI and machine learning to optimize business processes and decision-making.
+- **Odoo**: An open-source ERP platform offering a wide array of business applications that can be customized to meet specific organizational needs.
+- **Epicor**: A powerful ERP system designed for manufacturing, distribution, retail, and services industries, providing end-to-end solutions to manage business operations.
+- **Workday**: Cloud-based ERP software that focuses on financial management and human capital management, offering advanced analytics and real-time insights.
