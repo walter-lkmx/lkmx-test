@@ -175,6 +175,7 @@ export async function getCollectionItemData(collection, id, locale, parentId = '
             parentId,
             isMainCategory: matterResult.data.isMainCategory || false,
             parentService: matterResult.data.parentService || null,
+            iconName: matterResult.data.iconName || null,
             order: matterResult.data.order || 0,
         }
     }

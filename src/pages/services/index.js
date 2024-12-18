@@ -136,7 +136,8 @@ export default function ServicesPage({ services = [] }) {
           <Block className={styles.page__phases__block}>
             <div className={styles.page__phases__content}>
               {Array.isArray(services) && services.map((service, index) => (
-                <div key={service.route || index}>
+                <div key={"/"+service.route || index}>
+                  <Image  src={`/icons/${service.iconName}.svg`} width={32} height={32}/>
                   <h3>{service.title || ''}</h3>
                   <p>{service.description || ''}</p>
                   <Link href={service.route || '#'} legacyBehavior>

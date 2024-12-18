@@ -77,6 +77,7 @@
     }
   }
   &__phases2 {
+    padding-bottom: 64px;
     @include respond-to("<=s") {
       padding-top: 72px;
     }
@@ -232,9 +233,10 @@
       grid-row-gap: 148px;
       > div {
         display: grid;
-        grid-template-rows: minmax(64px, auto) 2fr 1.2fr;        
+        gap: 16px;
+        grid-template-rows: 1fr;        
         h3 {
-          height: 62px;
+          height: auto;
           @include respond-to("<=m") {
             height: unset;
           }
