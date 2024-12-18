@@ -188,6 +188,7 @@ export async function getAllCollectionIds(collection, locales) {
     
     async function getNestedIds(dir) {
         const entries = await fs.readdir(dir, { withFileTypes: true })
+        console.log('Processing directory:', dir)
         let paths = []
         
         for (const entry of entries) {
