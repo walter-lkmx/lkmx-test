@@ -1,5 +1,5 @@
 ---
-title: "Maintenance And Support"
+title: "Mantenimiento y Soporte"
 description: "Proporciona actualizaciones continuas, resolución de problemas y mejoras para mantener los sistemas de software robustos, seguros y actualizados."
 cover: "maintenance-and-support-cover"
 iconName: "maintenance-and-support-icon"

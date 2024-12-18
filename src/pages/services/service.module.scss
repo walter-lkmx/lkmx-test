@@ -2,6 +2,8 @@
 display:none;
 height: 0px;
 }
+
+
 .service {
   max-width: 100vw;
   &__heroHeading {
@@ -440,6 +442,99 @@ height: 0px;
       li {
         list-style-image: url(/work/bullet.svg);
         line-height: 24px;
+      }
+    }
+  }
+}
+
+.service {
+  &__subServices {
+    padding: 64px 0;
+    
+    h2 {
+      margin-bottom: 32px;
+    }
+
+    &__cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      * {
+        text-decoration: none;
+      }
+      // Cuando solo hay dos tarjetas
+      &:has(:nth-child(2):last-child) {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        
+        .service__subServices__card {
+          grid-column: span 1;
+        }
+      }
+      
+      @include respond-to("<=l") {
+        grid-template-columns: repeat(2, 1fr);
+        
+        // Mantener dos columnas incluso en tablet cuando hay solo dos tarjetas
+        &:has(:nth-child(2):last-child) {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+      
+      @include respond-to("<=s") {
+        grid-template-columns: 1fr;
+        
+        // En móvil siempre una columna
+        &:has(:nth-child(2):last-child) {
+          grid-template-columns: 1fr;
+        }
+      }
+    }
+
+    &__card {
+      border: 1px solid #EBEAE8;
+      transition: all 0.3s ease;
+      
+      &:hover {
+        border-color: $color-pink;
+        background-color: $color-pink;
+        
+        h3, p {
+          color: white;
+        }
+        
+        .service__subServices__card__arrow img,
+        .service__subServices__card__icon img {
+          filter: brightness(0) invert(1);
+        }
+      }
+
+      &__icon {
+        margin-bottom: 16px;
+      }
+
+      &__content {
+        padding: 32px;
+        min-height: 250px;
+        display: flex;
+        flex-direction: column;
+        
+        h3 {
+          font-size: 24px;
+          line-height: 32px;
+          margin-bottom: 16px;
+        }
+        
+        p {
+          font-size: 16px;
+          line-height: 28px;
+          margin-bottom: 24px;
+          flex-grow: 1;
+        }
+      }
+
+      &__arrow {
+        display: flex;
+        justify-content: flex-start;
       }
     }
   }
