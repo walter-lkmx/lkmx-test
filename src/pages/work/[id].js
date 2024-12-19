@@ -100,7 +100,7 @@ export default function SuccessStory({storyData}) {
                         </div>
                     </Block>
                 </Column>
-                <Column mode="normal" modeL="slim" className={styles.story__mainContentContainer}>
+                <Column mode="normal" modeL="slim" className={`${styles.story__mainContentContainer} prose`}>
                     <Block className={styles.story__mainContentContainer__block}>
                         <div
                             ref={targetRef}

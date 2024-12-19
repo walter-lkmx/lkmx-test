@@ -11,11 +11,11 @@ body {
         font-family: $font-primary;
     }
     h1, h2, h3, h4, h5, h6 {
-        font-family: $font-primary;
+        font-family: var(--lk-font-syne);
         font-weight: bold;
     }
     strong {
-        font-family: $font-primary;
+        font-family: var(--lk-font-syne);
         text-transform: uppercase;
         font-weight: bold;
     }

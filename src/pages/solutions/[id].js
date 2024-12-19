@@ -102,7 +102,7 @@ export default function Solution({solutionData}) {
                         </div>
                     </Block>
                 </Column>
-                <Column mode="normal" modeL="slim" className={styles.solution__mainContentContainer}>
+                <Column mode="normal" modeL="slim" className={`${styles.solution__mainContentContainer} prose`}>
                     <Block className={styles.solution__mainContentContainer__block}>
                         <div
                             ref={targetRef}
