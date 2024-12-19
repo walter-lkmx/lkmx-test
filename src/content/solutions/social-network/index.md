@@ -31,3 +31,11 @@ Construye herramientas que faciliten la interacción comunitaria, como chats gru
 ### Arquitectura Escalable
 
 Diseña plataformas escalables capaces de soportar un gran número de usuarios y altos volúmenes de tráfico.
+
+### Seguridad de Datos y Cumplimiento
+
+Garantiza la protección de los datos y el cumplimiento de las normativas de privacidad mediante medidas de seguridad avanzadas.
+
+## Construye la Red Social del Futuro
+
+Crea una plataforma social atractiva y segura que conecte a los usuarios y fomente comunidades en línea vibrantes.
