@@ -152,11 +152,25 @@
 	}
 	
 	// Horizontales
-	hr {
-	  border: 0;
-	  border-top: 1px solid #E5E7EB;
-	  margin: 3em 0;
-	}
+	h1, h2, h3, h4, h5, h6 {
+		& + hr {
+		  margin-top: 0.5rem;  // Reduce el margen superior para acercarlo al heading
+		  margin-bottom: 2em;  // Mantén el espacio con el contenido siguiente
+		  width: 100%;  // Línea más corta
+		  margin-left: 0;  // Alinea a la izquierda como el heading
+		  border-top-width: 1px;  // Línea más gruesa
+		  border-color: currentColor;  // Usa el color del texto actual
+		  opacity: 0.1;  // Sutileza
+		}
+	  }
+	
+	  // Estilo normal para HRs que no siguen a headings
+	  hr {
+		border: 0;
+		border-top: 1px solid #E5E7EB;
+		margin: 3em 0;
+		width: 100%;
+	  }
 	
 	// Imágenes
 	img {
