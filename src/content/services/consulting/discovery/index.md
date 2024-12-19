@@ -34,6 +34,8 @@ Desarrolla mapas de aplicaciones para visualizar y planificar la estructura y el
 
 ## Beneficios Clave
 
+---
+
 ### Objetivos Comerciales Claros
 
 Define objetivos comerciales claros y alinéalos con tus estrategias tecnológicas, asegurando que cada proyecto apoye tus metas generales.

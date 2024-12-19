@@ -171,7 +171,7 @@ export default function Service({
 
   if (isSubService) {
     return (
-      <BaseLayout>
+      <BaseLayout className={`${styles.prose}`}>
         <HeadSeo
           title={`${serviceData.title} - ${siteMetadata.companyName}`}
           description={serviceData.description || ""}
@@ -188,7 +188,7 @@ export default function Service({
               : siteMetadata.ogDefaultImageEn)
           }
         />
-        <Page className={styles.service}>
+        <Page className={`${styles.service}`}>
           <GoBackBar destiny={`/services/${parentServiceData.id}`} />
 
           <Column>
@@ -241,7 +241,7 @@ export default function Service({
           <Column
             mode="normal"
             modeL="slim"
-            className={styles.service__mainContentContainer}
+            className={`${styles.service__mainContentContainer} prose`}
           >
             <Block className={styles.service__mainContentContainer__block}>
               <div
@@ -317,7 +317,7 @@ export default function Service({
         <Column
           mode="normal"
           modeL="slim"
-          className={styles.service__mainContentContainer}
+          className={`${styles.service__mainContentContainer} prose`}
         >
           <Block className={styles.service__mainContentContainer__block}>
             <div
