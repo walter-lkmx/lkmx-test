@@ -331,7 +331,7 @@ export default function Service({
         {serviceData.isMainCategory && subServices.length > 0 && (
           <Column mode="normal" className={styles.service__subServices}>
             <Block>
-              <h2>Our Services</h2>
+              <h2>{locale === 'es' ? 'Nuestros Servicios' : 'Our Services'}</h2>
               <div className={styles.service__subServices__cards}>
                 {subServices.map((subService) => (
                   <div
