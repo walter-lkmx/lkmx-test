@@ -48,7 +48,7 @@
           grid-auto-rows: min-content;
           --f-h2-text-margin: 0 0 42px 0;
           h2 {
-            font-size: 42px;
+            font-size: 32px;
             line-height: 32px;
             @include respond-to("<=l") {
               font-size: 36px;
