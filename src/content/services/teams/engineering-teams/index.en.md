@@ -10,6 +10,8 @@ Full-featured software engineering teams including Project Managers, Business An
 
 ## FAQ
 
+---
+
 ### How do you assemble the engineering teams?
 
 Teams are assembled based on the specific project requirements, ensuring the right mix of skills and expertise for optimal results.

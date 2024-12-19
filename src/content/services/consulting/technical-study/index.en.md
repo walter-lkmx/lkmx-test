@@ -12,6 +12,8 @@ Conduct in-depth technical studies to evaluate the feasibility, performance, and
 
 ## What We Offer
 
+---
+
 ### Innovative Problem Solving
 
 Take an innovative approach to problem-solving with reduced financial risk. Our experienced engineers support you throughout the study, tackling the most challenging explorations.
@@ -37,6 +39,8 @@ Gain a competitive edge by identifying market opportunities and developing solut
 Conduct initial research to explore and validate technological possibilities. Our structured approach covers artificial intelligence, algorithm implementation, integration, plug-in development, and performance improvements.
 
 ## Key Benefits
+
+---
 
 ### Informed Decision-Making
 

@@ -24,6 +24,8 @@ Proporciona actualizaciones continuas, resolución de problemas y mejoras para m
 
 ## Beneficios Clave
 
+---
+
 ### Desarrollo Acelerado
 
 Acelera el proceso de desarrollo con metodologías ágiles y prototipado rápido, reduciendo el tiempo de comercialización de tus soluciones.

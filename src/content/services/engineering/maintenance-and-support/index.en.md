@@ -12,6 +12,8 @@ Ensure seamless operation with subscription-based projects that guarantee contin
 
 ## What We Offer
 
+---
+
 ### Prompt Issue Resolution
 
 Resolve technical issues quickly to minimize disruption and maintain optimal system performance.

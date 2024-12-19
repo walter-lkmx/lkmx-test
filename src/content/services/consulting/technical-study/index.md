@@ -12,6 +12,8 @@ Realiza estudios técnicos profundos para evaluar la viabilidad, el rendimiento 
 
 ## Lo Que Ofrecemos
 
+---
+
 ### Resolución Innovadora de Problemas
 
 Adopta un enfoque innovador para la resolución de problemas con un riesgo financiero reducido. Nuestros ingenieros experimentados te apoyan a lo largo del estudio, abordando las exploraciones más desafiantes.
@@ -37,6 +39,8 @@ Obtén una ventaja competitiva identificando oportunidades de mercado y desarrol
 Realiza una investigación inicial para explorar y validar las posibilidades tecnológicas. Nuestro enfoque estructurado cubre inteligencia artificial, implementación de algoritmos, integración, desarrollo de plugins y mejoras de rendimiento.
 
 ## Beneficios Clave
+
+---
 
 ### Toma de Decisiones Informada
 

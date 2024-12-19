@@ -12,6 +12,8 @@ Revitaliza tu presencia digital con diseños centrados en el usuario que mejoran
 
 ## Lo Que Ofrecemos
 
+---
+
 ### Mejora de la Experiencia del Usuario
 
 Mejora la usabilidad y accesibilidad con un enfoque centrado en el usuario, asegurando una experiencia digital fluida y atractiva.
@@ -41,6 +43,8 @@ Realiza una investigación integral para comprender las necesidades y preferenci
 Desarrolla prototipos y realiza pruebas de usabilidad para validar las mejoras de diseño, iterando en función de la retroalimentación del usuario para soluciones óptimas.
 
 ## Beneficios Clave
+
+---
 
 ### Diseño Centrado en el Usuario
 

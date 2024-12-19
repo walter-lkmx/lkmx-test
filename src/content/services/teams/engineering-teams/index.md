@@ -10,6 +10,8 @@ Equipos completos de ingeniería de software, incluyendo Gerentes de Proyecto, A
 
 ## Preguntas Frecuentes
 
+---
+
 ### ¿Cómo se ensamblan los equipos de ingeniería?
 
 Los equipos se ensamblan según los requisitos específicos del proyecto, asegurando la combinación adecuada de habilidades y experiencia para obtener resultados óptimos.

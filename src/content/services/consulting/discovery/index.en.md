@@ -12,6 +12,8 @@ Unlock your project's potential with our Discovery services. Identify key busine
 
 ## What We Offer
 
+---
+
 ### Comprehensive Analysis
 
 Analyze and redefine objectives, identifying obstacles to plot a viable implementation route.
@@ -33,6 +35,8 @@ Design robust software architecture, laying the foundation for scalable, secure,
 Develop application maps to visualize and plan the structure and flow of your software, ensuring clarity and coherence in the implementation phase.
 
 ## Key Benefits
+
+---
 
 ### Clear Business Objectives
 

@@ -12,6 +12,8 @@ Revitalize your digital presence with user-centric designs that enhance experien
 
 ## What We Offer
 
+---
+
 ### Improve User Experience
 
 Enhance usability and accessibility with a user-centric approach, ensuring a seamless and engaging digital experience.
@@ -41,6 +43,8 @@ Conduct comprehensive research to understand user needs and preferences, informi
 Develop prototypes and conduct usability testing to validate design improvements, iterating based on user feedback for optimal solutions.
 
 ## Key Benefits
+
+---
 
 ### User-Centric Design
 

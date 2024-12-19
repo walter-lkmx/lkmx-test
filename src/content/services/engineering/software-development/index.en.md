@@ -12,6 +12,8 @@ When the scope and limitations of a product can be described in stories, the dev
 
 ## What We Offer
 
+---
+
 ### Get Started Quickly
 
 Begin with a concise product definition phase for a seamless project kick-off, minimizing delays and extensive discussions.
@@ -29,6 +31,8 @@ Commit to delivering visions within specified time and budget limitations, ensur
 Contracts include success criteria and shared responsibilities, focusing on achieving business results with guaranteed quality.
 
 ## How it Works
+
+---
 
 ### Understand Your Vision
 

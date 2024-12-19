@@ -12,6 +12,8 @@ Cuando el alcance y las limitaciones de un producto se pueden describir en histo
 
 ## Lo Que Ofrecemos
 
+---
+
 ### Comienza Rápidamente
 
 Inicia con una fase de definición de producto concisa para un inicio de proyecto sin problemas, minimizando retrasos y discusiones extensas.
@@ -29,6 +31,8 @@ Comprométete a entregar visiones dentro de las limitaciones de tiempo y presupu
 Los contratos incluyen criterios de éxito y responsabilidades compartidas, enfocándose en lograr resultados comerciales con calidad garantizada.
 
 ## Cómo Funciona
+
+---
 
 ### Entiende Tu Visión
 

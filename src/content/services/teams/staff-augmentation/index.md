@@ -22,6 +22,8 @@ Optimiza los costos aumentando tu equipo con la experiencia exacta que necesitas
 
 ## Preguntas Frecuentes
 
+---
+
 ### ¿En qué se diferencia el aumento de personal de la contratación tradicional?
 
 El aumento de personal permite la integración temporal de profesionales capacitados según las necesidades del proyecto, evitando compromisos a largo plazo y los costos generales asociados con las contrataciones a tiempo completo.

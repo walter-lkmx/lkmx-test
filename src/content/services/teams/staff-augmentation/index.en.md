@@ -22,6 +22,8 @@ Optimize costs by augmenting your team with the exact expertise needed, only whe
 
 ## FAQ
 
+---
+
 ### How does staff augmentation differ from traditional hiring?
 
 Staff augmentation allows for temporary integration of skilled professionals based on project needs, avoiding long-term commitments and overhead costs associated with full-time hires.

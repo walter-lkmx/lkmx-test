@@ -12,6 +12,8 @@ Desbloquea el potencial de tu proyecto con nuestros servicios de Discovery. Iden
 
 ## Lo Que Ofrecemos
 
+---
+
 ### Análisis Integral
 
 Analiza y redefine objetivos, identificando obstáculos para trazar una ruta de implementación viable.
