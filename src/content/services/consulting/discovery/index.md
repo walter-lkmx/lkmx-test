@@ -51,3 +51,5 @@ Toma decisiones informadas basadas en un análisis de datos integral y recomenda
 Fomenta la colaboración entre las unidades de negocio y las partes interesadas, asegurando que todos estén alineados y trabajen hacia objetivos comunes.
 
 ## Construye el Futuro
+
+Refina y prueba tus ideas.

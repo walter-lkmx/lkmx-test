@@ -1,5 +1,5 @@
 ---
-title: "Software Development"
+title: "Desarrollo de Software"
 description: "Entrega soluciones de software escalables y de alto rendimiento, adaptadas a los requisitos únicos del negocio, asegurando crecimiento y excelencia operativa."
 cover: "software-development-cover"
 iconName: "software-development-icon"

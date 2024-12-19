@@ -1,5 +1,5 @@
 ---
-title: "Teams"
+title: "Equipos"
 description: "Nuestros servicios de Equipos ofrecen personal técnico flexible y eficiente con profesionales altamente capacitados, asegurando experiencia técnica y adaptabilidad a tus necesidades."
 cover: "teams-cover"
 iconName: "teams-icon"

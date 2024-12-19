@@ -1,5 +1,5 @@
 ---
-title: "Proof Of Concept"
+title: "Prueba de Concepto"
 description: "Valida tus ideas de manera rápida y efectiva. Este servicio prueba la viabilidad y funcionalidad, reduciendo riesgos antes del desarrollo a gran escala."
 cover: "proof-of-concept-cover"
 iconName: "proof-of-concept-icon"
@@ -30,4 +30,6 @@ Colabora con las partes interesadas para gestionar la retroalimentación y reali
 
 Recibe evaluaciones completas del proyecto para desarrollar una hoja de ruta hacia el éxito futuro, maximizando la eficiencia y efectividad del proyecto.
 
-## Refina y Prueba tus Ideas
+## Construye el Futuro
+
+Refina y Prueba tus Ideas

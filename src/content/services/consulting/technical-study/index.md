@@ -1,5 +1,5 @@
 ---
-title: "Technical Study"
+title: "Estudio Técnico"
 description: "Evalúa meticulosamente los requisitos técnicos y las limitaciones para proporcionar información procesable que guíe la toma de decisiones informadas y la planificación estratégica."
 cover: "technical-study-cover"
 iconName: "technical-study-icon"
@@ -55,3 +55,5 @@ Asegura que las soluciones propuestas sean capaces de ofrecer los niveles de ren
 Alinea las soluciones técnicas con tus objetivos y metas comerciales, asegurando que todos los proyectos contribuyan a tu estrategia general.
 
 ## Construye el Futuro
+
+Refina y prueba tus ideas.
