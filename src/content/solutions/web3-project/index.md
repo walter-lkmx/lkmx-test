@@ -10,8 +10,6 @@ iconName: "bitcoin"
 
 Transforma aplicaciones tradicionales en soluciones descentralizadas, mejorando la seguridad, la transparencia y la eficiencia con nuestros avanzados servicios de desarrollo Web3.
 
-
-
 ## Beneficios
 
 ### Seguridad Mejorada
@@ -27,6 +25,8 @@ Nuestras soluciones Web3 facilitan la transparencia en todos los procesos, permi
 Optimizamos la eficiencia operativa a través de la descentralización, eliminando intermediarios y reduciendo costos, mejorando así la productividad empresarial.
 
 ## Experiencia
+
+El equipo posee una amplia gama de habilidades, experiencia y especializaciones que cubren todas las áreas de la tecnología Web3.
 
 ### Finanzas Descentralizadas (DeFi)
 
