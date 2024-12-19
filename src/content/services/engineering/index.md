@@ -1,5 +1,5 @@
 ---
-title: "Engineering"
+title: "Ingeniería"
 description: "Empodera tu negocio con soluciones de ingeniería innovadoras, desde el concepto inicial hasta el soporte continuo, asegurando escalabilidad y fiabilidad."
 cover: "engineering-cover"
 iconName: "engineering-icon"
