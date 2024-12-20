@@ -1,17 +1,127 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import styles from "@/components/footer.module.scss";
 import Link from "next/link";
-import moment from "moment"; 
 import { Column, Block } from "@lkmx/flare-react";
-import getLang from '@/lang';
+import getLang from "@/lang";
 import { useRouter } from "next/router";
 import siteMetadata from "../meta/siteMetadata";
-import Image from "next/image"
+import Image from "next/image";
+
+const SocialIcon = ({ href, icon, alt }) => {
+  const containerClass =
+    styles[`footer__top__content__information__logo__${icon}Container`];
+  const iconClass = styles[`footer__top__content__information__logo__${icon}`];
+  const hoverClass =
+    styles[`footer__top__content__information__logo__${icon}Hover`];
+
+  return (
+    <Link href={href} target="_blank">
+      <div className={containerClass}>
+        <Image
+          fill
+          src={`/icons/social-${icon}.svg`}
+          alt={alt}
+          className={iconClass}
+        />
+        <Image
+          fill
+          src={`/icons/social-${icon}-hover.svg`}
+          alt={alt}
+          className={hoverClass}
+        />
+      </div>
+    </Link>
+  );
+};
+
+const FooterSection = ({ title, items = [], singleItem = null }) => {
+  return (
+    <div>
+      <h2>{title}</h2>
+      {singleItem ? (
+        <ul>
+          <li>
+            <Link href={singleItem.route}>{singleItem.title}</Link>
+          </li>
+        </ul>
+      ) : (
+        <ul>
+          {items?.map((item, index) => (
+            <li
+              key={`${item.route || ""}-${index}`}
+              className={item.isMainService ? styles.mainService : ""}
+            >
+              <Link href={item.route || "#"}>{item.title}</Link>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  );
+};
 
 export default function Footer() {
-  const year = moment().year();
   const { locale } = useRouter();
   const $t = getLang(locale);
+  const [services, setServices] = useState([]);
+  const [industries, setIndustries] = useState([]);
+  const [solutions, setSolutions] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch(`/api/footer-data?locale=${locale}`);
+        if (!response.ok) throw new Error("Failed to fetch data");
+        const data = await response.json();
+        setServices(data.services || []);
+        setIndustries(data.industries || []);
+        setSolutions(data.solutions || []);
+      } catch (error) {
+        console.error("Error loading footer data:", error);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
+    fetchData();
+  }, [locale]);
+
+  const socialIcons = [
+    { href: siteMetadata.instagram, icon: "instagram", alt: "Instagram" },
+    { href: siteMetadata.twitter, icon: "twitter", alt: "Twitter" },
+    { href: siteMetadata.linkedin, icon: "linkedin", alt: "LinkedIn" },
+  ];
+
+  const servicesItems = services;
+  const industriesItems = industries;
+  const solutionsItems = solutions;
+
+  const technologyItem = {
+    route: "/technology",
+    title: locale === "es" ? "Innovación digital" : "Digital innovation",
+  };
+
+  const workItem = {
+    route: "/work",
+    title: locale === "es" ? "Casos de éxito" : "Success stories",
+  };
+
+  const teamItem = {
+    route: "/team",
+    title: locale === "es" ? "Nuestro talento" : "Our talent",
+  };
+
+  const legalItems = [
+    {
+      route: "/privacy-policy",
+      title: locale === "es" ? "Aviso de Privacidad" : "Privacy Policy",
+    },
+    {
+      route: "/terms-conditions",
+      title: locale === "es" ? "Términos y Condiciones" : "Terms & Conditions",
+    },
+  ];
 
   return (
     <footer className={styles.footer}>
@@ -19,74 +129,62 @@ export default function Footer() {
         <Block className={styles.footer__top__block}>
           <div className={styles.footer__top__content}>
             <div className={styles.footer__top__content__pages}>
-              <div>
-                <h2>{$t.footer.pages.services.title}</h2>
-                <ul>
-                  <li><Link href="/services" legacyBehavior>{$t.footer.pages.services.items[0]}</Link></li>
-                  <li><Link href="/services/discovery" legacyBehavior>{$t.footer.pages.services.items[1]}</Link></li>
-                  <li><Link href="/services/agileDevelopment" legacyBehavior>{$t.footer.pages.services.items[2]}</Link></li>
-                  <li><Link href="/services/agileMaintenance" legacyBehavior>{$t.footer.pages.services.items[3]}</Link></li>
-                  <li><Link href="/services/scopeDevelopment" legacyBehavior>{$t.footer.pages.services.items[4]}</Link></li>
-                  <li><Link href="/services/continuousSupport" legacyBehavior>{$t.footer.pages.services.items[5]}</Link></li>
-                </ul>
+              <FooterSection
+                title={locale === "es" ? "SERVICIOS" : "SERVICES"}
+                items={servicesItems}
+              />
+              <FooterSection
+                title={locale === "es" ? "INDUSTRIAS" : "INDUSTRIES"}
+                items={industriesItems}
+              />
+              <FooterSection
+                title={locale === "es" ? "SOLUCIONES" : "SOLUTIONS"}
+                items={solutionsItems}
+              />
+              <div className={styles.footer__sectionGrouper}>
+                <FooterSection
+                  title={locale === "es" ? "TECNOLOGÍA" : "TECHNOLOGY"}
+                  singleItem={technologyItem}
+                />
+                <FooterSection
+                  title={locale === "es" ? "TRABAJO" : "WORK"}
+                  singleItem={workItem}
+                />
+                <FooterSection
+                  title={locale === "es" ? "LEGAL" : "LEGAL"}
+                  items={legalItems}
+                />
               </div>
-              <div> 
-                <h2>{$t.footer.pages.methodology.title}</h2>
-                <ul>
-                  <li><Link href="/industries" legacyBehavior>{$t.footer.pages.methodology.items[0]}</Link></li>
-                  {/* <li>{$t.footer.pages.methodology.items[1]}</li>
-                  <li>{$t.footer.pages.methodology.items[2]}</li>
-                  <li>{$t.footer.pages.methodology.items[3]}</li> */}
-                </ul>
-              </div>
-              <div> 
-                <h2>{$t.footer.pages.technology.title}</h2>
-                <ul>
-                  
-                  <li><Link href="/technology" legacyBehavior>{$t.footer.pages.technology.items[0]}</Link></li>
-                  {/* <li>{$t.footer.pages.technology.items[1]}</li>
-                  <li>{$t.footer.pages.technology.items[2]}</li>
-                  <li>{$t.footer.pages.technology.items[3]}</li> */}
-                </ul>
-              </div>
-            </div>
-            <div className={styles.footer__top__content__information}>
-              <Link href="/">
-                <Image fill src="/lkmx-logotype--white.svg" alt="Logo" className={styles.footer__top__content__information__logo}/>
-              </Link>
-              <ul>
-                <li>
-                  <Link href={siteMetadata.instagram} passHref target="_blank">
-                    <div className={styles.footer__top__content__information__logo__instaContainer}>
-                      <Image fill src="/icons/social-instagram.svg" alt="Instagram" className={styles.footer__top__content__information__logo__insta}/>
-                      <Image fill src="/icons/social-instagram-hover.svg" alt="Instagram" className={styles.footer__top__content__information__logo__instaHover}/>
-                    </div>
-                  </Link>
-                </li>
-                <li>
-                  <Link href={siteMetadata.twitter} target="_blank">
-                    <div className={styles.footer__top__content__information__logo__twitterContainer}>
-                      <Image fill src="/icons/social-twitter.svg" alt="Twitter" className={styles.footer__top__content__information__logo__twitter}/>
-                      <Image fill src="/icons/social-twitter-hover.svg" alt="Twitter" className={styles.footer__top__content__information__logo__twitterHover}/>
-                    </div>
-                  </Link>
-                </li>
-                <li>
-                  <Link href={siteMetadata.linkedin} target="_blank">
-                    <div className={styles.footer__top__content__information__logo__linkedinContainer}>
-                      <Image fill src="/icons/social-linkedin.svg" alt="Linkedin" className={styles.footer__top__content__information__logo__linkedin}/>
-                      <Image fill src="/icons/social-linkedin-hover.svg" alt="Linkedin" className={styles.footer__top__content__information__logo__linkedinHover}/>
-                    </div>
-                  </Link>
-                </li>
-              </ul>
-              <p>{$t.footer.paragraph[0]} <br/>{$t.footer.paragraph[1]} <br/>{$t.footer.paragraph[2]}</p>
             </div>
           </div>
         </Block>
+
         <Block className={styles.footer__top__privacy}>
-          <Link href={"/privacy-policy"} className={styles.footer__top__privacy__anchor}>{$t.footer.privacy}</Link>  
-          <Link href={"/terms-conditions"} className={styles.footer__top__privacy__anchor}>{$t.footer.terms_conditions}</Link>
+          <div className={styles.footer__top__content__information}>
+            <Link href="/">
+              <Image
+                fill
+                src="/lkmx-logotype--white.svg"
+                alt="Logo"
+                className={styles.footer__top__content__information__logo}
+              />
+            </Link>
+
+            <ul>
+              {socialIcons.map((icon, index) => (
+                <li key={index}>
+                  <SocialIcon {...icon} />
+                </li>
+              ))}
+            </ul>
+
+            <p>
+              {$t.footer.paragraph[0]} <br />
+              {$t.footer.paragraph[1]} <br />
+              {$t.footer.paragraph[2]}
+            </p>
+          </div>
+
         </Block>
       </Column>
     </footer>
