@@ -10,9 +10,9 @@ iconName: "file"
 
 Los sistemas de gestión de documentos personalizados mejoran la organización de la información, proporcionan almacenamiento seguro y aseguran un acceso rápido, optimizando la eficiencia y el cumplimiento.
 
-
-
 ## Características Clave
+
+---
 
 ### Experiencia en Desarrollo de DMS Complejos
 
@@ -40,6 +40,8 @@ Permite la recuperación rápida de documentos, mejorando el flujo de trabajo y 
 
 ## Preguntas Frecuentes (FAQ)
 
+---
+
 ### ¿Qué tan seguro es el almacenamiento de documentos?
 
 Nuestros sistemas de gestión de documentos utilizan medidas de seguridad avanzadas para asegurar la confidencialidad y el cumplimiento normativo.
@@ -61,6 +63,8 @@ Sí, nuestras soluciones de gestión de documentos se integran sin problemas con
 Se implementan funciones de gestión robustas para asegurar el cumplimiento total con las regulaciones de la industria.
 
 ## Construye el Futuro de la Gestión de Documentos
+
+---
 
 Optimiza la gestión de tus documentos con nuestras soluciones seguras y eficientes.
 

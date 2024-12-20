@@ -12,6 +12,8 @@ Enhance performance, reduce costs, and achieve a comprehensive, seamless view of
 
 ## Core Benefits
 
+---
+
 ### Enhance Security and Data Protection
 
 Bolster data accuracy, consistency, and security while controlling access and facilitating secure information exchange between teams.
@@ -33,6 +35,8 @@ Streamline data processes, reduce duplication, and boost transparency with a cen
 Implement an ERP solution to automate document management, reducing manual processing burdens, human error, and labor costs.
 
 ## Key Features
+
+---
 
 ### Custom System Development
 
@@ -68,6 +72,8 @@ Build scalable and secure cloud-based ERP software, enabling remote access and c
 
 ## Ready-made Solutions vs. Custom Software
 
+---
+
 ### Advantages of Custom Solutions
 
 We develop fully tailored ERP systems to meet specific business needs, ensuring optimal functionality and seamless integration.
@@ -88,9 +94,13 @@ We customize and optimize open-source ERP solutions to offer a cost-effective, e
 
 ## Build the Future ERP
 
+---
+
 Enhance performance, reduce costs, and achieve a comprehensive, seamless view of your organization with our ERP solutions.
 
 ## ERP Platforms and Technologies We Work With
+
+---
 
 Our ERP consultants leverage a variety of platforms and cutting-edge technologies to meet your enterprise's needs. Technologies and platforms we use include:
 

@@ -12,6 +12,8 @@ Un sistema ineficiente puede llevar a confusión, errores y pérdida de clientes
 
 ## Características Clave
 
+---
+
 ### Gestión de Reservas
 
 Visualiza y gestiona todas las reservas, incluidas las confirmadas, fallidas y canceladas. Busca reservas específicas por número de referencia, fecha de reserva, fecha del evento, detalles del cliente o estado de la reserva.
@@ -50,11 +52,13 @@ Visualiza y edita tickets individuales, verifica datos de uso, modifica fechas d
 
 ## Construye el Sistema de Reservas del Futuro
 
+---
+
 Actualiza a una gestión de reservas sin esfuerzo y eficiente con nuestra plataforma innovadora.
 
-
-
 ## Preguntas Frecuentes (FAQ)
+
+---
 
 ### ¿Puede su sistema de reservas integrarse con mi software existente?
 

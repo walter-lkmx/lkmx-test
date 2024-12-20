@@ -12,6 +12,8 @@ We develop all type of auction applications that manage real-time bids efficient
 
 ## Benefits
 
+---
+
 ### Listing Fees
 
 Charge vendors for listing products, offering premium spots and descriptions for more personalization.
@@ -38,6 +40,8 @@ Include relevant ads to monetize the app without disrupting user experience.
 
 ## Key Features
 
+---
+
 ### User-Centric Interface
 
 A user-friendly design and navigation make it simple for users to browse auctions, submit bids, and manage their activities.
@@ -63,5 +67,7 @@ Support various auction categories, from art and antiques to electronics and col
 Enable cross-border transactions by connecting customers and sellers worldwide, expanding the marketplace reach.
 
 ## Build the Future Auction App
+
+---
 
 Transform your auction platform today with our innovative solutions.

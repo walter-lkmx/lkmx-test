@@ -12,6 +12,8 @@ Scalable and robust cloud infrastructure solutions optimize performance, enhance
 
 ## Key Features
 
+---
+
 ### Comprehensive Cloud Migration
 
 Seamlessly transition systems to the cloud with minimal downtime.
@@ -46,11 +48,13 @@ Receive continuous support and maintenance from cloud experts.
 
 ## Build the Future Cloud Infrastructure
 
+---
+
 Transform your operations with our advanced, scalable, and secure cloud solutions tailored to meet your business needs.
 
-
-
 ## Frequently Asked Questions (FAQ)
+
+---
 
 ### How does the cloud migration process work?
 

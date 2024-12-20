@@ -12,6 +12,8 @@ Plataformas de arte innovadoras que utilizan IA y blockchain conectan a artistas
 
 ## Características Clave
 
+---
+
 ### Búsqueda y Filtros Avanzados
 
 Funcionalidad de búsqueda robusta y filtros que permiten a los usuarios encontrar arte por categoría, nombre, autor o rango de precios rápidamente.
@@ -37,6 +39,8 @@ Integra comentarios, "me gusta" y opciones para compartir, construyendo una comu
 El diseño intuitivo simplifica la navegación e interacción tanto para artistas como para compradores, mejorando la experiencia del usuario en general.
 
 ## Beneficios Principales
+
+---
 
 ### Experiencia de Usuario Mejorada
 
@@ -64,11 +68,13 @@ Las recomendaciones impulsadas por IA mejoran el proceso de descubrimiento, faci
 
 ## Construye el Mercado del Futuro
 
+---
+
 Eleva tu mercado de arte con nuestras soluciones innovadoras que hacen la tecnología accesible y útil para todos.
 
-
-
 ## Preguntas Frecuentes
+
+---
 
 ### ¿Cómo apoya la plataforma las ventas de arte tradicional?
 

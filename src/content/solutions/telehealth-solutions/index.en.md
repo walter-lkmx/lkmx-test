@@ -12,6 +12,8 @@ We securely and efficiently connect patients and healthcare professionals, enhan
 
 ## Key Features
 
+---
+
 ### User Registration
 
 Enable secure registration and login processes, maintaining comprehensive patient profiles with medical history for informed treatment.
@@ -38,6 +40,8 @@ Simplify scheduling with intuitive interfaces showing available time slots, allo
 
 ## Additional Features
 
+---
+
 ### Group Calls
 
 Connect multiple people on one call, allowing specialists to discuss a patient's condition in real-time.
@@ -56,6 +60,8 @@ Schedule appointments and provide 24/7 support to patients, enhancing efficiency
 
 ## Benefits
 
+---
+
 ### Custom Features
 
 Develop custom telehealth solutions after thorough deliberation with clients, addressing challenges and empowering better patient service.
@@ -69,6 +75,8 @@ Build cloud-based telehealth solutions to eliminate hardware and dedicated IT in
 Ensure HIPAA compliance and secure patient data with thorough testing and best practices, maintaining data integrity and confidentiality.
 
 ## Buid the Future Telehealth solution
+
+---
 
 Innovate patient care with our secure, efficient telehealth solutions. Connect seamlessly with patients and enhance healthcare delivery.
 

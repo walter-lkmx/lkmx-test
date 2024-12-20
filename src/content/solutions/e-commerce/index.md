@@ -12,9 +12,13 @@ Desarrollamos plataformas de comercio electrónico personalizadas para aumentar 
 
 ## Construye el Futuro E-Commerce
 
+---
+
 Una plataforma elegante, rápida y fácil de usar para impulsar tus ventas.
 
 ## Beneficios Principales
+
+---
 
 ### Experiencia de Usuario Optimizada
 
@@ -29,6 +33,8 @@ Nuestras plataformas están construidas para crecer con tu negocio, acomodando e
 Obtén valiosos conocimientos sobre el comportamiento y las preferencias de los clientes, permitiéndote tomar decisiones comerciales informadas.
 
 ## Nuestro Enfoque
+
+---
 
 ### Gestión de Catálogo de Productos
 
@@ -47,6 +53,8 @@ Nuestras plataformas se sincronizan perfectamente con tu sistema ERP, proporcion
 Implementa medidas de seguridad robustas para proteger los datos de los clientes, asegurando el cumplimiento con los estándares de la industria y generando confianza.
 
 ## Preguntas Frecuentes
+
+---
 
 ### ¿Qué tipos de negocios pueden beneficiarse de sus soluciones de eCommerce?
 

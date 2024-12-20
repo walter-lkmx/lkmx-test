@@ -12,6 +12,8 @@ Crea una identidad digital cohesiva para mejorar el compromiso y la confianza de
 
 ## Características Clave
 
+---
+
 ### Desarrollo Integral de Sitios Web
 
 Crea sitios web profesionales y fáciles de usar, adaptados a las necesidades y objetivos de tu marca.
@@ -45,6 +47,8 @@ Rastrea y analiza el rendimiento del sitio web y de la marca con herramientas de
 Utiliza interacciones personalizadas y esfuerzos de marketing dirigidos para profundizar las conexiones con tu audiencia.
 
 ## Construye el Futuro de tu Marca Digital
+
+---
 
 Transforma tu marca con nuestras soluciones digitales integrales.
 

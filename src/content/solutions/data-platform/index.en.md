@@ -12,6 +12,8 @@ Innovative data analytics platforms transform raw data into actionable insights,
 
 ## Main Benefits
 
+---
+
 ### Efficient Data Management
 
 Analytics platforms ensure easy data access and retrieval, structuring it for quick analysis from all repositories.
@@ -33,6 +35,8 @@ Utilize data visualization tools like dashboards, interactive charts, and templa
 Understand customer needs and challenges, enabling businesses to tailor services and convert customers into loyal clients.
 
 ## Key Features
+
+---
 
 ### Advanced Reporting
 
@@ -63,6 +67,8 @@ Collaborate on data management with tools for sharing, commenting, pinning, anno
 Ensure web and mobile access to data, enabling employees to make data-driven decisions conveniently from any location.
 
 ## Build The Future Data Platform
+
+---
 
 Empower your business with advanced, scalable data analytics solutions tailored to your needs.
 

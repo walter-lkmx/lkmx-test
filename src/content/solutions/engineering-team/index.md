@@ -10,9 +10,9 @@ iconName: "users"
 
 Experimenta una ejecución de proyectos sin problemas con equipos de ingeniería dedicados, asegurando entregas puntuales y una cobertura integral a través de la colaboración experta.
 
-
-
 ## Principales Beneficios
+
+---
 
 ### Zona Horaria
 
@@ -48,6 +48,8 @@ Experimenta una comunicación transparente y abierta, manteniéndote informado e
 
 ## Miembros del Equipo Experto
 
+---
+
 Ofrecemos una diversa gama de especialistas.
 
 ### Gerentes de Proyecto
@@ -72,9 +74,13 @@ Aseguran entregables de alta calidad a través de rigurosos procesos de prueba y
 
 ## Construye el Equipo de Ingeniería del Futuro
 
+---
+
 Reúne a los expertos adecuados para tu proyecto.
 
 ## Preguntas Frecuentes (FAQ)
+
+---
 
 ### ¿Qué puedo esperar si elijo formar un equipo dedicado?
 

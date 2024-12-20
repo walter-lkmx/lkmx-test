@@ -12,6 +12,8 @@ Leverage advanced social features to engage users, increase activity, and gain i
 
 ## Key Features
 
+---
+
 ### Secure Messaging Systems
 
 Develop and implement secure messaging systems that protect user communications and data.
@@ -37,5 +39,7 @@ Design scalable platforms capable of supporting large numbers of users and high 
 Ensure data protection and compliance with privacy regulations through advanced security measures.
 
 ## Build the Future Social Network
+
+---
 
 Create an engaging and secure social platform that connects users and fosters vibrant online communities.
