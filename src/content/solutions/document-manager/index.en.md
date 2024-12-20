@@ -10,9 +10,9 @@ iconName: "file"
 
 Customized document management systems enhance information organization, provide secure storage, and ensure quick access, optimizing efficiency and compliance.
 
-
-
 ## Key Features
+
+---
 
 ### Complex DMS Development Experience
 
@@ -40,6 +40,8 @@ Enable fast retrieval of documents, improving workflow and productivity.
 
 ## Frequently Asked Questions (FAQ)
 
+---
+
 ### How secure is the document storage?
 
 Our document management systems use advanced security measures to ensure confidentiality and regulatory compliance.
@@ -61,6 +63,8 @@ Yes, our document management solutions integrate smoothly with your existing IT 
 Robust management features are implemented to ensure full compliance with industry regulations.
 
 ## Build the Future of Document Management
+
+---
 
 Streamline your document management with our secure and efficient solutions.
 

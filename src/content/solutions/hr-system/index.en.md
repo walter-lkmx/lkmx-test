@@ -12,6 +12,8 @@ Customized HR systems streamline personnel administration from hiring to payroll
 
 ## Key Features
 
+---
+
 ### Core HR Functions
 
 Maintain and update critical employee information, such as contact details, work history, leave records, and payroll management.

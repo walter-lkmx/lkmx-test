@@ -12,6 +12,8 @@ Aprovecha funciones sociales avanzadas para involucrar a los usuarios, aumentar 
 
 ## Características Clave
 
+
+---
 ### Sistemas de Mensajería Segura
 
 Desarrolla e implementa sistemas de mensajería segura que protegen las comunicaciones y datos de los usuarios.
@@ -37,5 +39,7 @@ Diseña plataformas escalables capaces de soportar un gran número de usuarios y
 Garantiza la protección de los datos y el cumplimiento de las normativas de privacidad mediante medidas de seguridad avanzadas.
 
 ## Construye la Red Social del Futuro
+
+---
 
 Crea una plataforma social atractiva y segura que conecte a los usuarios y fomente comunidades en línea vibrantes.

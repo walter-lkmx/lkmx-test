@@ -12,6 +12,8 @@ Create a cohesive digital brand identity to enhance customer engagement and trus
 
 ## Key Features
 
+---
+
 ### Comprehensive Website Development
 
 Create professional, user-friendly websites tailored to your brand's needs and goals.
@@ -45,6 +47,8 @@ Track and analyze website and brand performance with advanced analytics tools.
 Use personalized interactions and targeted marketing efforts to deepen connections with your audience.
 
 ## Build The Future of your Digital Brand
+
+---
 
 Transform your brand with our comprehensive digital solutions.
 

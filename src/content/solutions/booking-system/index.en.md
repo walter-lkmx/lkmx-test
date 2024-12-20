@@ -12,6 +12,8 @@ An inefficient system can lead to confusion, errors, and lost customers. Optimiz
 
 ## Key Features
 
+---
+
 ### Booking Management
 
 View and manage all bookings, including confirmed, failed, and cancelled ones. Search for specific bookings by reference number, booking date, event date, customer details, or booking status.
@@ -50,11 +52,13 @@ View and edit individual tickets, check usage data, amend ticket end dates, disa
 
 ## Build the Future Booking System
 
+---
+
 Upgrade to effortless, efficient booking with our innovative platform.
 
-
-
 ## Frequently Asked Questions (FAQ)
+
+---
 
 ### Can your booking system integrate with my existing software?
 

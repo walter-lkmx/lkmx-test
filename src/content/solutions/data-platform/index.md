@@ -12,6 +12,8 @@ Las plataformas innovadoras de análisis de datos transforman los datos crudos e
 
 ## Características Clave
 
+---
+
 ### Gestión eficiente de datos
 
 Las plataformas de análisis garantizan un fácil acceso y recuperación de datos, estructurándolos para un análisis rápido desde todos los repositorios.
@@ -33,6 +35,8 @@ Utiliza herramientas de visualización de datos como paneles, gráficos interact
 Comprende las necesidades y desafíos de los clientes, lo que permite a las empresas personalizar los servicios y convertir a los clientes en clientes leales.
 
 ## Características Clave
+
+---
 
 ### Informes Avanzados
 
@@ -63,6 +67,8 @@ Colabora en la gestión de datos con herramientas para compartir, comentar, fija
 Garantiza el acceso web y móvil a los datos, lo que permite a los empleados tomar decisiones basadas en datos cómodamente desde cualquier ubicación.
 
 ## Construye la Plataforma de Datos del Futuro
+
+---
 
 Potencia tu negocio con soluciones avanzadas y escalables de análisis de datos adaptadas a tus necesidades.
 

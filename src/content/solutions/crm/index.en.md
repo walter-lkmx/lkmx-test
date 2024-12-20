@@ -12,6 +12,8 @@ A powerful, intuitive, and efficient platform to enhance your customer relations
 
 ## Core Benefits
 
+---
+
 ### Streamlined Customer Management
 
 Organize and manage customer interactions effortlessly, improving engagement and satisfaction.
@@ -25,6 +27,8 @@ Adapt and expand the platform as your business grows, handling increasing custom
 Leverage detailed analytics to understand customer behavior, drive decision-making, and personalize experiences.
 
 ## Our Approach
+
+---
 
 ### Centralized Contact Management
 

@@ -12,6 +12,8 @@ Innovative art platforms utilizing AI and blockchain connect artists and buyers,
 
 ## Key Features
 
+---
+
 ### Advanced Search and Filters
 
 Robust search functionality and filters enable users to find art by category, name, author, or price range quickly.
@@ -37,6 +39,8 @@ Integrates comments, likes, and sharing options to build a community around the 
 Intuitive design simplifies navigation and interaction for both artists and buyers, enhancing overall user experience.
 
 ## Core Benefits
+
+---
 
 ### Enhanced User Experience
 
@@ -64,11 +68,13 @@ AI-powered recommendations enhance the discovery process, making it easier for u
 
 ## Build the Future Marketplace
 
+---
+
 Elevate your art marketplace with our innovative solutions that make technology accessible and useful for everyone.
 
-
-
 ## Frequently Asked Questions
+
+---
 
 ### How does the platform support traditional art sales?
 

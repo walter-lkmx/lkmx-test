@@ -10,9 +10,9 @@ iconName: "users"
 
 Experience seamless project execution with dedicated engineering teams, ensuring timely deliveries and comprehensive coverage through expert collaboration.
 
-
-
 ## Top Benefits
+
+---
 
 ### Time Zone
 
@@ -48,6 +48,8 @@ Experience transparent and open communication, keeping you informed and involved
 
 ## Expert Team Members
 
+---
+
 We offer a diverse array of specialists.
 
 ### Project Managers
@@ -72,9 +74,13 @@ Ensure high-quality deliverables through rigorous testing and quality assurance 
 
 ## Build the Future Engineering Team
 
+---
+
 Assemble the right experts for your project
 
 ## Frequently Asked Questions (FAQ)
+
+---
 
 ### What can I expect if I choose to form a dedicated team?
 

@@ -12,6 +12,8 @@ Desarrollamos plataformas SaaS robustas y escalables para emprendedores, asegura
 
 ## Características Clave
 
+---
+
 ### Aplicaciones SaaS Personalizadas
 
 Desarrolla aplicaciones SaaS a medida para satisfacer tus requisitos comerciales específicos y mejorar la eficiencia operativa.
@@ -38,6 +40,8 @@ Proporciona actualizaciones automáticas y mantenimiento continuo para mantener 
 
 ## Beneficios
 
+---
+
 ### Soluciones Personalizadas
 
 Crea aplicaciones SaaS personalizadas diseñadas para satisfacer tus necesidades y objetivos comerciales específicos.
@@ -55,6 +59,8 @@ Integra sin problemas con sistemas existentes y servicios de terceros para una f
 Implementa medidas de seguridad avanzadas para proteger datos sensibles y asegurar el cumplimiento con las regulaciones de la industria.
 
 ## Construye el Futuro SaaS Unicorn
+
+---
 
 Desbloquea el potencial de tu negocio con soluciones SaaS innovadoras, escalables y seguras, diseñadas para impulsar el crecimiento y la eficiencia.
 
