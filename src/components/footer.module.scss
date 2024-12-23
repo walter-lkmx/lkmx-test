@@ -310,3 +310,21 @@
     }
   }
 }
+
+.social_link {
+  .social_container {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+
+  .social_icon {
+    transition: filter 0.3s ease;
+  }
+
+  &:hover {
+    .social_icon {
+      filter: brightness(0) invert(1);
+    }
+  }
+}
