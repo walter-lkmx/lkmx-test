@@ -8,26 +8,14 @@ import siteMetadata from "../meta/siteMetadata";
 import Image from "next/image";
 
 const SocialIcon = ({ href, icon, alt }) => {
-  const containerClass =
-    styles[`footer__top__content__information__logo__${icon}Container`];
-  const iconClass = styles[`footer__top__content__information__logo__${icon}`];
-  const hoverClass =
-    styles[`footer__top__content__information__logo__${icon}Hover`];
-
   return (
-    <Link href={href} target="_blank">
-      <div className={containerClass}>
+    <Link className={styles.social_link} href={href} target="_blank">
+      <div className={styles.social_container}>
         <Image
           fill
           src={`/icons/social-${icon}.svg`}
           alt={alt}
-          className={iconClass}
-        />
-        <Image
-          fill
-          src={`/icons/social-${icon}-hover.svg`}
-          alt={alt}
-          className={hoverClass}
+          className={styles.social_icon}
         />
       </div>
     </Link>
@@ -89,7 +77,6 @@ export default function Footer() {
 
   const socialIcons = [
     { href: siteMetadata.instagram, icon: "instagram", alt: "Instagram" },
-    { href: siteMetadata.twitter, icon: "twitter", alt: "Twitter" },
     { href: siteMetadata.linkedin, icon: "linkedin", alt: "LinkedIn" },
   ];
 
