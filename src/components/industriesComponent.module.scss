@@ -1,101 +1,122 @@
 .industries {
-    &__block {
-        > div {
-            @include respond-to("xxxl") {
-                display: grid;
-                justify-content: center;
-            }
-            > div {
-                display: grid;
-                gap: 10px;
-                justify-items: center;
-                padding-bottom: rem(136px) !important;
-                
-                @include respond-to(">=s") {
-                    padding-top: rem(108px) !important;
-                }
-                @include respond-to("<=xs") {
-                    padding-top: rem(36px) !important;
-                }
-                @include respond-to("xxxl") {
-                    width: 1200px !important;
-                }
-            }
-        } 
+    padding: 128px 0;
+    display: grid;
+    text-align: center;
+    &block {
         p {
             font-size: 20px;
             text-align: center;
+            margin-bottom: 64px;
             @include respond-to("<=s") {
                 br {
                     display: none;
                 }
             }
         }
-        &__grid {
-            display: flex;
-            grid-gap: 16px;
-            gap: 16px;
+        &grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 24px;
             max-width: 1170px;
-            flex-wrap: wrap;
-            justify-content: center;
+            margin: 0 auto;
+            
+            @include respond-to("<=m") {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 20px;
+            }
+            
             @include respond-to("<=s") {
-                display: grid;
-                grid-template-columns: 1fr 1fr;
+                grid-template-columns: 1fr;
+                gap: 16px;
+                padding: 0 16px;
             }
-            @include respond-to("<=xs") {
-                width: 100%
-            }
-            &__item {
-                display: grid;
-                place-content: center;
-                background-color: $color-bright-gray-01;
-                aspect-ratio: 1;                
-                width: 220px;
-                gap: 8px;
-                @include respond-to("<=l") {
-                    width: 170px;
-                    height: 170px;
-                }
-                @include respond-to("<=s") {
-                    width: 220px;
-                    height: 220px;
-                }
-                @include respond-to("<=xs") {
-                    width: auto;
-                    height: 220px;
-                    aspect-ratio: unset;                                     
-                }
-                &__image {
-                    position: relative;
-                    width: 100%;
-                    height: 24px;
-                    width: 24px;
-                    justify-self: center;
-                }
-                span {
-                    font-family: var(--lk-font-roboto);
-                    font-weight: 700;
-                    line-height: 24px;
-                    text-transform: uppercase;
-                    text-align: center;
-                }
-            }            
         }
-        &__btn {
-            gap: 4px;
-            margin-top: 16px;
-            height: 40px;
-            background: $color-btn-default;
-            font-weight: 400;
-            font-size: 14px;
-            line-height: 24px;
+    }
+
+    &card {
+        break-inside: avoid;
+        border: 1px solid #EBEAE8;
+        transition: all 0.3s ease;
+        text-decoration: none;
+        * {
+            text-align: left !important;
+        }
+        // Estilo para cards impares (blue)
+    &:nth-child(odd):hover {
+        border-color: $color-blue;
+        background-color: $color-blue;
+        
+        h3, p {
             color: white;
-            padding: 8px 15px;
-            cursor: pointer;
-            text-align: center;
-            &:hover {
-                background-color: $color-btn-hover;
+        }
+        
+        .industriescardarrow img,
+        .industriescardicon img {
+            filter: brightness(0) invert(1);
+        }
+    }
+    
+    // Estilo para cards pares (pink)
+    &:nth-child(even):hover {
+        border-color: $color-pink;
+        background-color: $color-pink;
+        
+        h3, p {
+            color: white;
+        }
+        
+        .industriescardarrow img,
+        .industriescardicon img {
+            filter: brightness(0) invert(1);
+        }
+    }
+
+        &content {
+            padding: 32px;
+            display: flex;
+            flex-direction: column;
+            min-height: 250px;
+            
+            @include respond-to("<=m") {
+                min-height: 220px;
             }
+            
+            @include respond-to("<=s") {
+                min-height: 200px;
+            }
+            
+            h3 {
+                font-size: 24px;
+                line-height: 32px;
+                margin-bottom: 16px;
+                
+                @include respond-to("<=s") {
+                    font-size: 20px;
+                    line-height: 28px;
+                }
+            }
+            
+            p {
+                font-size: 16px;
+                line-height: 28px;
+                margin-bottom: 24px;
+                flex-grow: 1;
+                
+                @include respond-to("<=s") {
+                    font-size: 14px;
+                    line-height: 24px;
+                }
+            }
+        }
+
+        &icon {
+            margin-bottom: 16px;
+        }
+
+        &arrow {
+            display: flex;
+            justify-content: flex-start;
+            margin-top: auto;
         }
     }
 }

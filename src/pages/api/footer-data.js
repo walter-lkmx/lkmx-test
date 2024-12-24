@@ -95,14 +95,16 @@ export default async function handler(req, res) {
       throw new Error(`Failed to fetch industries or solutions: ${error.message}`);
     }
 
-    // 5. Preparar los arrays finales con validaciones adicionales
-    const processedIndustries = (industries || [])
-      .filter(item => item && item.title)
-      .map(item => ({
-        title: Array.isArray(item.title) ? item.title[0] : item.title,
-        route: item.route
-      }))
-      .sort((a, b) => a.title.localeCompare(b.title, locale));
+    // 5. Preparar los arrays finales
+const processedIndustries = (industries || [])
+.filter(item => item && item.title)
+.map(item => ({
+  title: Array.isArray(item.title) ? item.title[0] : item.title,
+  route: item.route,
+  iconName: item.iconName || "",
+  description: Array.isArray(item.description) ? item.description[0] : (item.description || "")
+}))
+.sort((a, b) => a.title.localeCompare(b.title, locale));
 
     const processedSolutions = (solutions || [])
       .filter(item => item && item.title)
