@@ -10,9 +10,9 @@ iconName: "heart-pulse"
 
 We securely and efficiently connect patients and healthcare professionals, enhancing accessibility and quality of care with advanced technology.
 
-
-
 ## Key Features
+
+---
 
 ### User Registration
 
@@ -40,6 +40,8 @@ Simplify scheduling with intuitive interfaces showing available time slots, allo
 
 ## Additional Features
 
+---
+
 ### Group Calls
 
 Connect multiple people on one call, allowing specialists to discuss a patient's condition in real-time.
@@ -58,6 +60,8 @@ Schedule appointments and provide 24/7 support to patients, enhancing efficiency
 
 ## Benefits
 
+---
+
 ### Custom Features
 
 Develop custom telehealth solutions after thorough deliberation with clients, addressing challenges and empowering better patient service.
@@ -72,6 +76,7 @@ Ensure HIPAA compliance and secure patient data with thorough testing and best p
 
 ## Buid the Future Telehealth solution
 
+---
+
 Innovate patient care with our secure, efficient telehealth solutions. Connect seamlessly with patients and enhance healthcare delivery.
 
-**Transform Now**

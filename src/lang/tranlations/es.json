@@ -373,6 +373,12 @@
           "Continuous Support"
         ]
       },
+      "solutions": {
+        "title": "Soluciones",
+        "items": [
+          "Soluciones"
+        ]
+      },
       "methodology": {
         "title": "INDUSTRIAS",
         "items": ["Industrias", "MAAD", "Flare", "Ontología"]

@@ -77,6 +77,7 @@
     }
   }
   &__phases2 {
+    padding-bottom: 64px;
     @include respond-to("<=s") {
       padding-top: 72px;
     }
@@ -106,7 +107,7 @@
         strong { line-height: rem(32px) }
       }
       h1 {        
-        font-family: var(--lk-font-inter);
+        font-family: var(--lk-font-syne);
         font-weight: 800;
       }
       h1, p {
@@ -232,9 +233,10 @@
       grid-row-gap: 148px;
       > div {
         display: grid;
-        grid-template-rows: minmax(64px, auto) 2fr 1.2fr;        
+        gap: 16px;
+        grid-template-rows: 1fr;        
         h3 {
-          height: 62px;
+          height: auto;
           @include respond-to("<=m") {
             height: unset;
           }
@@ -483,6 +485,90 @@
         top: calc(50% + 16px);
         left: 50%;
         transform: translate(calc(-50% - .5px), -50%);
+      }
+    }
+  }
+}
+
+.page {
+  &__services {
+    &__cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      
+      // Cuando solo hay dos tarjetas
+      &:has(:nth-child(2):last-child) {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        
+        .page__services__card {
+          grid-column: span 1;
+        }
+      }
+      
+      @include respond-to("<=l") {
+        grid-template-columns: repeat(2, 1fr);
+        
+        &:has(:nth-child(2):last-child) {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+      
+      @include respond-to("<=s") {
+        grid-template-columns: 1fr;
+        
+        &:has(:nth-child(2):last-child) {
+          grid-template-columns: 1fr;
+        }
+      }
+    }
+
+    &__card {
+      border: 1px solid #EBEAE8;
+      transition: all 0.3s ease;
+      
+      &:hover {
+        border-color: $color-pink;
+        background-color: $color-pink;
+        
+        h3, p {
+          color: white;
+        }
+        
+        .page__services__card__arrow img,
+        .page__services__card__icon img {
+          filter: brightness(0) invert(1);
+        }
+      }
+
+      &__content {
+        padding: 32px;
+        min-height: 250px;
+        display: flex;
+        flex-direction: column;
+        cursor: pointer;
+      }
+
+      &__icon {
+        margin-bottom: 16px;
+      }
+
+      h3 {
+        font-size: 24px;
+        line-height: 32px;
+        margin: 0 0 16px 0;
+      }
+      
+      p {
+        font-size: 16px;
+        line-height: 28px;
+        margin: 0 0 24px 0;
+        flex-grow: 1;
+      }
+
+      &__arrow {
+        display: flex;
+        justify-content: flex-start;
       }
     }
   }

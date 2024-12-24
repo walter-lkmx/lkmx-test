@@ -12,6 +12,8 @@ Mejora el rendimiento, reduce costos y obtén una vista integral y sin interrupc
 
 ## Beneficios Principales
 
+---
+
 ### Mejora la Seguridad y Protección de Datos
 
 Refuerza la precisión, consistencia y seguridad de los datos mientras controlas el acceso y facilitas el intercambio seguro de información entre equipos.
@@ -33,6 +35,8 @@ Simplifica los procesos de datos, reduce la duplicación y aumenta la transparen
 Implementa una solución ERP para automatizar la gestión de documentos, reduciendo la carga del procesamiento manual, errores humanos y costos laborales.
 
 ## Características Clave
+
+---
 
 ### Desarrollo de Sistemas Personalizados
 
@@ -68,6 +72,8 @@ Construye software ERP escalable y seguro basado en la nube, habilitando el acce
 
 ## Soluciones a Medida vs. Software Listo para Usar
 
+---
+
 ### Ventajas de las Soluciones Personalizadas
 
 Desarrollamos sistemas ERP completamente a medida para satisfacer las necesidades específicas del negocio, asegurando una funcionalidad óptima e integración sin problemas.
@@ -88,9 +94,13 @@ Personalizamos y optimizamos soluciones ERP de código abierto para ofrecer una 
 
 ## Construye el Futuro ERP
 
+---
+
 Mejora el rendimiento, reduce costos y obtén una vista integral y sin interrupciones de tu organización con nuestras soluciones ERP.
 
 ## Plataformas y Tecnologías ERP que Utilizamos
+
+---
 
 Nuestros consultores ERP utilizan una variedad de plataformas y tecnologías de vanguardia para satisfacer las necesidades de tu empresa. Las tecnologías y plataformas que utilizamos incluyen:
 

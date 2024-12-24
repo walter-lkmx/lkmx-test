@@ -1,99 +1,119 @@
 .footer {
+  background-color: $color-neutral-black;
   overflow: hidden;
-  * {
+
+  // Reset básico y estilos generales
+  h2, p, ul, li {
+    margin: 0;
     color: white;
-    li, li > a {
-      color: $color-cyan;
-      &:hover {
-        color: $color-footer-hover;
-      }
-    }
-    ul, li, h2, h2, p {
-      margin: 0;
+  }
+
+  a {
+    color: $color-cyan;
+    text-decoration: none;
+    
+    &:hover {
+      color: $color-footer-hover;
     }
   }
+
   @include respond-to("<=s") {
-    padding-left: 16px !important;
-    padding-right: 16px !important;
+    padding: 0 16px;
   }
-  background-color: $color-blue;
+  &__sectionGrouper {
+    div {
+      display: grid;
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+  }
+  // Grid principal
   &__top {
     --f-gutter: 0px;
     --f-paragraph-margin: 0;
-    &__block {
-      > div {
-        @include respond-to("xxxl") {
-          display: grid;
-          justify-content: center;
-          > div {
-            width: 1200px !important;
-          }
-        }
-      }
-    }
+
     &__content {
       display: grid;
-      grid-template-areas: "pages information";
+      grid-template-areas: "pages";
       padding: rem(42px) 0;
-			align-items: center;
+      align-items: center;
+
+      // Pages section
       &__pages {
         display: grid;
         grid-area: pages;
         grid-template-columns: 1fr 1fr 1fr;
-        grid-column-gap: 1rem;
-        grid-row-gap: 1rem;
+        gap: rem(16px);
+        
         > div {
           display: grid;
-          grid-row-gap: rem(42px);
+          gap: rem(16px);
           grid-auto-rows: min-content;
           --f-h2-text-margin: 0 0 42px 0;
+          
           h2 {
-            font-size: 42px;
+            font-size: 24px;
             line-height: 32px;
             @include respond-to("<=l") {
               font-size: 36px;
             }
           }
-          ul {            
+          
+          ul {
             display: grid;
-            grid-row-gap: rem(10px);
+            gap: rem(10px);
+            
             li {
               line-height: rem(20px);
               text-transform: capitalize;
+              &.mainService {
+                a {
+                  font-family: var(--lk-font-syne);
+                  color: $color-pink;
+                  &:hover {
+                    color: white;
+                  }
+                }  
+              }
               a {
                 text-decoration: none;
-
               }
             }
           }
         }
       }
+
+      // Information section
       &__information {
         display: grid;
         grid-area: information;
         grid-template-areas: "logo logo" "info social";
         grid-template-columns: 1fr auto;
-        grid-row-gap: rem(25px);
-        grid-column-gap: rem(20px);
+        gap: rem(25px) rem(20px);
         justify-items: end;
+        
         @include respond-to(">=xl") {
-          padding-top: 125.17px !important;
+          padding-top: 125.17px;
         }
+        
         > a {
           grid-area: logo;
           width: rem(140px);
           height: 72px;
           position: relative;
+          
           @include respond-to(">=xl") {
             width: rem(180px);
           }
         }
+        
         ul {
           --f-list-item-margin: 0;
           grid-area: social;
           display: grid;
-          grid-row-gap: 1rem;
+          gap: 1rem;
           grid-auto-rows: min-content;
+          
           a {
             position: relative;
             height: rem(24px);
@@ -101,6 +121,7 @@
             display: inline-block;
           }
         }
+        
         p {
           grid-area: info;
           line-height: rem(28px);
@@ -110,255 +131,200 @@
           text-align: right;
           width: max-content;
           max-width: 99vw;
+          
           @include respond-to("<=m") {
             text-align: left;
           }
+          
           @include respond-to("<=xs") {
-           br {
-            display: none;
-           }             
+            br {
+              display: none;
+            }
           }
+          
           span {
             display: block;
             font-size: 16px;
           }
         }
-        &__logo {
-          &__instaHover {
-            display: none;
-          }
-          &__instaContainer:hover &__instaHover {
-            display: block;
-          }
-          &__instaContainer:hover &__insta {
-            display: none;
-          }
-
-          &__twitterHover {
-            display: none;
-          }
-          &__twitterContainer:hover &__twitterHover {
-            display: block;
-          }
-          &__twitterContainer:hover &__twitter {
-            display: none;
-          }
-
-          &__linkedinHover {
-            display: none;
-          }
-          &__linkedinContainer:hover &__linkedinHover {
-            display: block;
-          }
-          &__linkedinContainer:hover &__linkedin {
-            display: none;
-          }
-        }
       }
-    }
-    &__privacy {
-      padding-bottom: 42px;
-      display: grid;
-      gap: 16px;
-      > div {
-        padding-left: 0;
-        padding-right: 0;
-        @include respond-to("xl") {
-          padding-left: 16px;
-        }
-        @include respond-to("xxxl") {
-          max-width: 1200px !important;
-        }
-        > div {       
-          border-top: 1px solid #1B25E4;
-          padding-top: 42px !important;
-          @include respond-to("xxl") {
-            padding-left: 0px !important;
-          }       
-        }
-      }
-      
-      &__anchor {
-        width: 140px;
-        color: #00D0F6;
-        width: 100%;
-        height: auto;
-        text-decoration: none;        
-        text-align: start;
-        &:first-child {
-          margin-right: 16px;
-        }
-        &:hover{
-          color: #CCF7FF !important;
-        }
-        &:visited {
-          color: #00D0F6;
-        }
-      }
-    }
-  }
 
-  // large 1200px
-  @include respond-to(">=xl") {
-    &__top {
-      &__content {
-        padding: 0 16px 42px;
-        &__pages {
-          grid-template-columns: rem(221px) rem(223px) auto;
-          padding-top: 144px;
-        }
-        //&__information {
-          // p {
-          //   text-align: end;
-          //   align-self: end;
-          //   width: rem(413px);
-          // }
-        //}
-      }
-    }
-  }
-
-  // xlarge 1600px
-  @include respond-to(">=xxl") {
-    &__top {
-      &__content {
-        padding: 0 0 42px;
-        &__pages {
-          grid-template-columns: rem(186px) rem(256px) rem(224px);
-          grid-column-gap: rem(32px);
-        }
-        &__information {
-          grid-column-gap: rem(26px);
-          > a { width: rem(180px) }
-          ul { padding: 0 }
-          // p { width: rem(338px) }
-        }
-      }
-    }
-    &__bottom__name {
-      padding: .5rem rem(120px);
-    }
-  }
-
-  // xxlarge 2560px
-  @include respond-to("xxxl") {
-    &__top {
-      &__content {
-        &__pages {
-          grid-template-columns: rem(221px) rem(256px) rem(220px);
-          gap: 14px;
-        }
-      }
-    }
-    &__bottom__name {
-      padding: .5rem rem(96px);
-    }
-  }
-
-  @include respond-to("l") {
-    &__top {
-      &__content {
-        &__pages {
-          > div {
-            &:nth-child(2) { padding: 0 rem(25px) }
-            &:last-child { justify-self: end }
-          } 
-        }
-        &__information {
-          p {
-            max-width: 265px;
-            br {
-              display: none;
-            }
-          }
-        }
-      }  
-    }
-  } 
-
-  // # 992px - 1199px
-  @include respond-to("<=l") {
-    &__top {
-      &__content {
-        &__pages { padding: rem(10px) 0 }
-        &__information {
-          p {            
-            margin-top: rem(4px);
-          }
-        }
-      }
-    }
-    &__bottom__sand {
-      width: rem(414px);
-    }
-  }
-  @include respond-to("<=m") {
-    &__top {
-      &__content {
+      @include respond-to("<=m") {
         grid-template-areas:
-            "information"
-            "pages";
+          "information"
+          "pages";
         grid-template-columns: 1fr;
         grid-row-gap: 1.625rem;
+
         &__information {
-          grid-template-columns: 1fr;
           grid-template-areas:
-              "logo"
-              "social"
-              "info";
-          grid-row-gap: 1rem;
+            "logo"
+            "social"
+            "info";
+          grid-template-columns: 1fr;
           justify-items: start;
+          
           ul {
             margin: 0;
             padding: 0;
-            grid-template-columns: repeat(3,1.5rem);
+            grid-template-columns: repeat(3, 1.5rem);
             grid-column-gap: 1rem;
           }
         }
       }
     }
   }
-  // # 768px
-  @include respond-to("<=s") {
-    &__top {
-      &__content {
-        grid-row-gap: rem(42px);
-        &__pages {
-          grid-template-columns: rem(246px) auto;
-          grid-row-gap: rem(42px);
-          grid-column-gap: rem(32px);
-          padding: 0;
-          > div { grid-row-gap: rem(26px) }
-        }
-        &__information > p {
-          width: 100%;
+
+  // Sección de páginas
+  &__top__content__pages {
+    display: grid;
+    grid-area: pages;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    row-gap: 4rem;
+
+    > div {
+      display: grid;
+      gap: rem(16px);
+      grid-auto-rows: min-content;
+
+      h2 {
+        font-size: 30px;
+        line-height: 32px;
+        margin-bottom: 42px;
+
+        @include respond-to("<=l") {
+          font-size: 36px;
         }
       }
+
+      ul {
+        display: grid;
+        gap: rem(10px);
+      }
+
+      li {
+        line-height: rem(20px);
+        text-transform: capitalize;
+      }
     }
-    &__bottom__sand {
-      width: rem(174px);
+
+    
+
+    @include respond-to(">=xl") {
+      grid-template-columns: repeat(4, 1fr);
+      padding-top: 144px;
+    }
+
+    @include respond-to("<=s") {
+      grid-template-columns: rem(246px) auto;
+      padding: 0;
+    }
+
+    @include respond-to("<=xs") {
+      grid-template-columns: 1fr;
     }
   }
 
-  // # 400px
-  @include respond-to("<=xs") {
-    &__top {
-      &__content {
-        &__pages { grid-template-columns: 1fr }
-        &__information { padding: 0 }
+  // Sección de información
+  &__top__content__information {
+    display: grid;
+    grid-area: information;
+    grid-template-areas: 
+      "logo logo"
+      "info social";
+    grid-template-columns: 1fr auto;
+    gap: rem(25px) rem(20px);
+    justify-items: start;
+    * {
+      text-align: left !important;
+    }
+    @include respond-to(">=xl") {
+      padding-top: 125.17px;
+    }
+
+    @include respond-to("<=m") {
+      grid-template-areas:
+        "logo"
+        "social"
+        "info";
+      grid-template-columns: 1fr;
+      justify-items: start;
+      
+      ul {
+        margin: 0;
+        padding: 0;
+        grid-template-columns: repeat(3, 1.5rem);
+        grid-column-gap: 1rem;
       }
     }
-    &__bottom {
-      width: 100%;
-      &__sand {
-        width: calc(100% - 272px);
-        z-index: 0;
+
+    // Social icons
+    &__logo {
+      @each $network in (insta, twitter, linkedin) {
+        &__#{$network} {
+          &Hover {
+            display: none;
+          }
+          &Container:hover {
+            .#{$network} {
+              display: none;
+            }
+            .#{$network}Hover {
+              display: block;
+            }
+          }
+        }
       }
-      &__name {
-        z-index: 2;
-        background-color: $color-neutral-black;
-        padding: .5rem rem(10px);
+    }
+  }
+
+  // Sección de privacidad
+  &__top__privacy {
+    padding-bottom: 42px;
+    display: grid;
+    gap: 16px;
+
+    &__anchor {
+      color: #00D0F6;
+      text-decoration: none;
+      
+      &:hover {
+        color: #CCF7FF;
       }
+      
+      &:first-child {
+        margin-right: 16px;
+      }
+    }
+  }
+
+  // Servicios principales
+  .mainService {
+    margin-top: 20px;
+    font-family: var(--lk-font-syne);
+    color: $color-pink;
+    
+    &:first-of-type {
+      margin-top: 0;
+    }
+  }
+}
+
+.social_link {
+  .social_container {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+
+  .social_icon {
+    transition: filter 0.3s ease;
+  }
+
+  &:hover {
+    .social_icon {
+      filter: brightness(0) invert(1);
     }
   }
 }

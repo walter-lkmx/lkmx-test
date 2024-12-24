@@ -12,6 +12,8 @@ Los sistemas de recursos humanos personalizados optimizan la administración del
 
 ## Características Clave
 
+---
+
 ### Funciones Básicas de RRHH
 
 Mantén y actualiza información crítica de los empleados, como detalles de contacto, historial laboral, registros de permisos y gestión de nóminas.

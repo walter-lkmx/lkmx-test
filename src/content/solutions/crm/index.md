@@ -12,6 +12,8 @@ Una plataforma poderosa, intuitiva y eficiente para mejorar tus relaciones con l
 
 ## Beneficios Principales
 
+---
+
 ### Gestión de Clientes Eficiente
 
 Organiza y gestiona las interacciones con los clientes sin esfuerzo, mejorando el compromiso y la satisfacción.
@@ -25,6 +27,8 @@ Adapta y expande la plataforma a medida que tu negocio crece, manejando de maner
 Aprovecha analíticas detalladas para comprender el comportamiento del cliente, impulsar la toma de decisiones y personalizar las experiencias.
 
 ## Nuestro Enfoque
+
+---
 
 ### Gestión Centralizada de Contactos
 

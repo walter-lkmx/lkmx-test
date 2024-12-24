@@ -44,6 +44,8 @@ Con los controles adecuados, los agentes de IA utilizan los datos de manera segu
 
 ## Casos de Uso
 
+---
+
 Los agentes de IA ofrecen una flexibilidad notable, permitiendo una amplia gama de aplicaciones en diversas industrias. Aquí hay algunos tipos distintos de agentes de IA y sus usos prácticos en los negocios.
 
 - **Servicio al Cliente**: Los agentes de IA manejan preguntas frecuentes, resuelven problemas y procesan reembolsos, liberando a los agentes humanos para enfocarse en construir relaciones más fuertes con los clientes.
@@ -67,6 +69,8 @@ Los agentes de IA ofrecen una flexibilidad notable, permitiendo una amplia gama 
 - **Servicios de Entretenimiento**: Responden preguntas sobre contenido específico disponible en servicios de suscripción, mejorando la experiencia del usuario.                                                      
 
 ## Preguntas Frecuentes
+
+---
 
 ### ¿Reemplazarán los agentes de IA a los agentes de soporte humanos?
 
@@ -97,5 +101,7 @@ Los agentes de IA se entrenan utilizando grandes conjuntos de datos y algoritmos
 El costo de implementar agentes de IA varía dependiendo de la complejidad de la solución y las necesidades específicas del negocio. Los costos pueden incluir desarrollo, integración, capacitación y mantenimiento continuo. Sin embargo, el retorno de la inversión suele ser alto debido al aumento de la eficiencia y la mejora de la experiencia del cliente.
 
 ## Construye el Agente de IA del Futuro
+
+---
 
 Empodera las operaciones de tu negocio con nuestras soluciones de IA inteligentes y eficientes.

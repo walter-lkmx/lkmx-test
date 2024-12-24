@@ -10,9 +10,9 @@ iconName: "cloud"
 
 Soluciones escalables y robustas de infraestructura en la nube que optimizan el rendimiento, mejoran la eficiencia, aseguran alta disponibilidad y apoyan el crecimiento empresarial con tecnología de vanguardia.
 
-
-
 ## Características Clave
+
+---
 
 ### Migración Integral a la Nube
 
@@ -48,11 +48,13 @@ Recibe soporte y mantenimiento continuo de expertos en la nube.
 
 ## Construye el Futuro
 
+---
+
 Transforma tus operaciones con nuestras soluciones avanzadas, escalables y seguras en la nube, adaptadas a las necesidades de tu negocio.
 
-
-
 ## Preguntas Frecuentes
+
+---
 
 ### ¿Cómo funciona el proceso de migración a la nube?
 

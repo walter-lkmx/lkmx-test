@@ -12,41 +12,49 @@ We develop custom eCommerce platforms to boost sales and expand markets, optimiz
 
 ## Build the Future eCommerce
 
+---
+
 A sleek, fast, and user-friendly platform to skyrocket your sales.
 
 ## Core Benefits
 
-### **Optimized User Journey**
+---
+
+### Optimized User Journey
 
 We design eCommerce platforms with the best UX practices, making it easy for customers to navigate and complete purchases.
 
-### **Scalable Solutions**
+### Scalable Solutions
 
 Our platforms are built to grow with your business, accommodating increasing traffic and expanding product lines.
 
-### **Data-Driven Insights**
+### Data-Driven Insights
 
 Gain valuable insights into customer behavior and preferences, enabling you to make informed business decisions.
 
 ## Our Approach
 
-### **Product Catalog Management**
+---
+
+### Product Catalog Management
 
 Easily upload and manage your product catalog, ensuring your customers have access to the latest offerings.
 
-### **Integrated Logistics**
+### Integrated Logistics
 
 Streamline shipping and delivery processes by integrating with leading logistics providers, ensuring timely and efficient order fulfillment.
 
-### **ERP Synchronization**
+### ERP Synchronization
 
 Our platforms synchronize seamlessly with your ERP system, providing real-time data and improving overall operational efficiency.
 
-### **Advanced Payment Integration**
+### Advanced Payment Integration
 
 Implement robust security measures to protect customer data, ensuring compliance with industry standards and building customer trust.
 
 ## Frequently Asked Questions
+
+---
 
 ### What types of businesses can benefit from your eCommerce solutions?
 

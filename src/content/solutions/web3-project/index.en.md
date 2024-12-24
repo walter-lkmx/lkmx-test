@@ -12,6 +12,8 @@ Transform traditional applications into decentralized solutions, enhancing secur
 
 ## Benefits
 
+---
+
 ### Enhanced Security
 
 We implement blockchain technology to secure your data, reducing risks and improving trust in your business operations.
@@ -25,6 +27,8 @@ Our Web3 solutions facilitate transparency in all processes, allowing clear and 
 We optimize operational efficiency through decentralization, eliminating intermediaries and reducing costs, thus improving business productivity.
 
 ## Expertise
+
+---
 
 The team possesses a broad range of skills, experience, and specializations covering all areas of Web3 technology.
 
@@ -54,9 +58,13 @@ Integrate blockchain-based payment systems for secure and efficient financial tr
 
 ## Build the Future Web3 Project
 
+---
+
 Empower your business with cutting-edge Web3 solutions designed to enhance security, transparency, and efficiency.
 
 ## Frequently Asked Questions (FAQ)
+
+---
 
 ### How can decentralized applications (dApps) benefit my business?
 

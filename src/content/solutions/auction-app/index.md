@@ -12,6 +12,8 @@ Desarrollamos todo tipo de aplicaciones de subastas que gestionan ofertas en tie
 
 ## Beneficios
 
+---
+
 ### Tarifas por Listado
 
 Cobra a los vendedores por listar productos, ofreciendo espacios y descripciones premium para una mayor personalización.
@@ -38,6 +40,8 @@ Incluye anuncios relevantes para monetizar la aplicación sin interrumpir la exp
 
 ## Características Clave
 
+---
+
 ### Interfaz Centrada en el Usuario
 
 Un diseño y navegación fáciles de usar que facilitan a los usuarios explorar subastas, enviar pujas y gestionar sus actividades.
@@ -63,5 +67,7 @@ Soporta diversas categorías de subastas, desde arte y antigüedades hasta elect
 Permite transacciones transfronterizas conectando a clientes y vendedores de todo el mundo, ampliando el alcance del mercado.
 
 ## Construye la Aplicación de Subastas del Futuro
+
+---
 
 Transforma tu plataforma de subastas hoy con nuestras soluciones innovadoras.

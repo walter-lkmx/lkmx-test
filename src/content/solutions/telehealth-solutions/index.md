@@ -10,9 +10,9 @@ iconName: "heart-pulse"
 
 Conectamos a pacientes y profesionales de la salud de manera segura y eficiente, mejorando la accesibilidad y calidad de la atención médica.
 
-
-
 ## Características Clave
+
+---
 
 ### Registro de Usuarios
 
@@ -40,6 +40,8 @@ Simplifica la programación con interfaces intuitivas que muestran horarios disp
 
 ## Características Adicionales
 
+---
+
 ### Llamadas en Grupo
 
 Conecta a múltiples personas en una llamada, permitiendo a los especialistas discutir la condición de un paciente en tiempo real.
@@ -58,6 +60,8 @@ Programa citas y proporciona soporte 24/7 a los pacientes, mejorando la eficienc
 
 ## Beneficios
 
+---
+
 ### Características Personalizadas
 
 Desarrolla soluciones de telemedicina personalizadas después de una deliberación exhaustiva con los clientes, abordando desafíos y mejorando el servicio al paciente.
@@ -71,5 +75,7 @@ Construye soluciones de telemedicina basadas en la nube para eliminar la necesid
 Asegura el cumplimiento de HIPAA y protege los datos de los pacientes con pruebas exhaustivas y mejores prácticas, manteniendo la integridad y confidencialidad de los datos.
 
 ## Construye la Solución de Telemedicina del Futuro
+
+---
 
 Innova el cuidado del paciente con nuestras soluciones de telemedicina seguras y eficientes. Conéctate sin problemas con los pacientes y mejora la prestación de servicios de salud.

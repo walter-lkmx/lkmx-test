@@ -137,7 +137,7 @@ export default function Industry({industryData}) {
                         </div>
                     </Block>
                 </Column>
-                <Column mode="normal" modeL="slim" className={styles.industry__mainContentContainer}>
+                <Column mode="normal" modeL="slim" className={`${styles.industry__mainContentContainer} prose`}>
                     <Block className={styles.industry__mainContentContainer__block}>
                         <div
                             ref={targetRef}
